@@ -1,0 +1,222 @@
+@import "tailwindcss";
+
+@theme {
+  --color-fundo: var(--fundo);
+  --color-superficie: var(--superficie);
+  --color-superficie-elevada: var(--superficie-elevada);
+  --color-linha: var(--linha);
+  --color-linha-destaque: var(--linha-destaque);
+  --color-texto: var(--texto);
+  --color-texto-suave: var(--texto-suave);
+  --color-destaque: var(--destaque);
+  --color-destaque-hover: var(--destaque-hover);
+  --color-destaque-texto: var(--destaque-texto);
+  --color-apoio: var(--apoio);
+
+  --font-serif-title: var(--font-cormorant), Georgia, serif;
+  --font-serif-body: var(--font-eb-garamond), Georgia, serif;
+}
+
+:root,
+[data-theme="dark"] {
+  --fundo: #110F0D;
+  --superficie: #181512;
+  --superficie-elevada: #201C18;
+  --linha: #2A221A;
+  --linha-destaque: rgba(200, 141, 78, 0.28);
+  --texto: #F5EFE6;
+  --texto-suave: #A39380;
+  --destaque: #C88D4E;
+  --destaque-hover: #DE9E58;
+  --destaque-texto: #E5A962;
+  --apoio: #B57A3C;
+}
+
+[data-theme="light"] {
+  --fundo: #F8F4EC;
+  --superficie: #EFE8DC;
+  --superficie-elevada: #E5DC CE;
+  --linha: #D8CBBA;
+  --linha-destaque: rgba(160, 110, 48, 0.35);
+  --texto: #1C1713;
+  --texto-suave: #6B5E4F;
+  --destaque: #A36F30;
+  --destaque-hover: #BD833B;
+  --destaque-texto: #87581E;
+  --apoio: #B07B37;
+}
+
+body {
+  background-color: var(--fundo);
+  color: var(--texto);
+  font-family: var(--font-eb-garamond), Georgia, serif;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  transition: background-color 0.25s ease, color 0.25s ease;
+  overflow-x: hidden;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-cormorant), Georgia, serif;
+  letter-spacing: -0.015em;
+}
+
+/* Botões primários em âmbar dourado clássico (Poetry & Sound Sanctuary) */
+.btn-primary {
+  background-color: var(--destaque);
+  color: #FFFFFF;
+  border: 1px solid var(--destaque);
+  font-weight: 500;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 2px 8px rgba(200, 141, 78, 0.2);
+}
+
+.btn-primary:hover {
+  background-color: var(--destaque-hover);
+  border-color: var(--destaque-hover);
+  color: #FFFFFF;
+  box-shadow: 0 4px 14px rgba(200, 141, 78, 0.35);
+}
+
+/* Botão secundário minimalista em moldura de bronze */
+.btn-secondary {
+  background-color: transparent;
+  color: var(--texto);
+  border: 1px solid var(--linha);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.btn-secondary:hover {
+  border-color: var(--destaque);
+  color: var(--destaque-texto);
+  background-color: rgba(200, 141, 78, 0.06);
+}
+
+/* Superfície plinth editorial com toque de santuário poético */
+.plinth-surface {
+  background-color: var(--superficie);
+  border: 1px solid var(--linha);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.plinth-surface:hover {
+  border-color: var(--linha-destaque);
+}
+
+/* Card com arte de gravura antiga (envelhecida) */
+.engraving-card {
+  background-color: var(--superficie);
+  border: 1px solid var(--linha);
+  border-radius: 0.75rem;
+  overflow: hidden;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.engraving-card:hover {
+  border-color: var(--destaque);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px -6px rgba(0, 0, 0, 0.4), 0 0 16px -2px rgba(200, 141, 78, 0.15);
+}
+
+/* Barra de onda sonora animada */
+@keyframes waveMotion {
+  0%, 100% {
+    transform: scaleY(0.25);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+
+.wave-bar {
+  animation: waveMotion 1.2s ease-in-out infinite alternate;
+  transform-origin: bottom;
+}
+
+/* Custom scrollbar suave em tons de âmbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--fundo);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--linha);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--destaque);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ==========================================================================
+   Estilos Editoriais para Impressão Nativa (A5 Paged Media)
+   ========================================================================== */
+@page {
+  size: A5 portrait;
+  margin: 18mm 16mm;
+}
+
+@media print {
+  body {
+    background: #FFFFFF !important;
+    color: #1A1A1A !important;
+    font-size: 11pt !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Oculta barras de navegação, reprodutor sonoro flutuante, modo zen e botões */
+  header,
+  footer,
+  nav,
+  button,
+  [role="progressbar"],
+  .fixed,
+  .btn-primary,
+  .btn-secondary {
+    display: none !important;
+  }
+
+  main {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  article {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Força quebra de página editorial perfeita: 1 poema por página */
+  .poem-section {
+    break-after: page !important;
+    page-break-after: always !important;
+    padding-top: 15mm !important;
+    padding-bottom: 15mm !important;
+  }
+
+  /* Remove bordas que possam poluir o contraste no papel */
+  .border-linha,
+  .border-linha\/60,
+  .border-linha\/40 {
+    border-color: #CCCCCC !important;
+  }
+}
+

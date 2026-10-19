@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="100%" height="100%">
+  <defs>
+    <radialGradient id="bgGradFractal" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#211A18"/>
+      <stop offset="100%" stop-color="#0D0A08"/>
+    </radialGradient>
+    <linearGradient id="goldGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8DCC4"/>
+      <stop offset="50%" stop-color="#C9A24B"/>
+      <stop offset="100%" stop-color="#B87333"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#bgGradFractal)"/>
+  <rect x="25" y="25" width="550" height="850" fill="none" stroke="url(#goldGrad2)" stroke-width="2" opacity="0.6"/>
+  <rect x="35" y="35" width="530" height="830" fill="none" stroke="url(#goldGrad2)" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Subtle fractal diamond geometries -->
+  <g transform="translate(300, 440)" stroke="url(#goldGrad2)" stroke-width="1.2" fill="none" opacity="0.5">
+    <polygon points="0,-130 130,0 0,130 -130,0"/>
+    <polygon points="0,-95 95,0 0,95 -95,0" stroke-dasharray="3,3"/>
+    <polygon points="0,-65 65,0 0,65 -65,0"/>
+    <polygon points="0,-35 35,0 0,35 -35,0"/>
+    <circle r="150" opacity="0.3"/>
+  </g>
+
+  <!-- Typography -->
+  <text x="300" y="210" text-anchor="middle" font-family="'Cormorant Garamond', Georgia, serif" font-size="38" letter-spacing="5" fill="#C9A24B">POÉTICA FRACTAL</text>
+  <text x="300" y="255" text-anchor="middle" font-family="'EB Garamond', Georgia, serif" font-size="15" letter-spacing="4" fill="#A89F8C">VERSOS NO ESPELHO DO TEMPO</text>
+
+  <line x1="180" y1="285" x2="420" y2="285" stroke="url(#goldGrad2)" stroke-width="1" opacity="0.5"/>
+
+  <text x="300" y="780" text-anchor="middle" font-family="'EB Garamond', Georgia, serif" font-size="18" letter-spacing="3" fill="#E8DCC4">HELDEMARCIO FERREIRA</text>
+</svg>
