@@ -29,12 +29,8 @@
     "tsx": "^4.23.15",
     "typescript": "^5"
   },
+  "packageManager": "pnpm@9.15.4",
   "prisma": {
     "seed": "tsx prisma/seed.ts"
-  },
-  "pnpm": {
-    "patchedDependencies": {
-      "@react-pdf/hyphenate@0.1.0": "patches/@react-pdf__hyphenate@0.1.0.patch"
-    }
   }
 }
