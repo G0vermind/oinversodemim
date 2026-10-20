@@ -10,6 +10,7 @@ import { PlayTrackButton } from "../../../../components/audio/PlayTrackButton";
 import { DownloadPdfButton } from "../../../../components/pdf/DownloadPdfButton";
 import { SocialCardButton } from "../../../../modules/social-cards";
 import { VerseSyncHighlighter } from "../../../../modules/audio-sync";
+import { BookmarkPoemaButton } from "../../../../components/reader/BookmarkPoemaButton";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -161,9 +162,15 @@ async function ObraReaderContent({ params }: PageProps) {
             >
               <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-b border-linha/30 pb-3">
                 <div className="space-y-1">
-                  <span className="font-serif text-xs text-destaque tracking-widest uppercase">
-                    Poema {index + 1}
-                  </span>
+                  <div className="flex items-center gap-2">
+                    <span className="font-serif text-xs text-destaque tracking-widest uppercase">
+                      Poema {index + 1}
+                    </span>
+                    <BookmarkPoemaButton
+                      poemaId={poema.id}
+                      poemaTitulo={poema.titulo}
+                    />
+                  </div>
                   <h2 className="font-serif text-2xl sm:text-3xl font-medium text-texto">
                     {poema.titulo}
                   </h2>

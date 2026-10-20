@@ -1,7 +1,7 @@
 'use client';
 
 import { usePathname } from 'next/navigation';
-import { Suspense, ReactNode } from 'react';
+import { Suspense, ReactNode, useEffect } from 'react';
 import { Header } from './Header';
 import { Footer } from './Footer';
 import { GlobalAudioPlayer } from '../audio/GlobalAudioPlayer';
@@ -10,6 +10,14 @@ import { LyricsPanel } from '../audio/LyricsPanel';
 function SiteShellContent({ children }: { children: ReactNode }) {
   const pathname = usePathname();
   const isKeystatic = pathname?.startsWith('/keystatic');
+
+  useEffect(() => {
+    if (typeof window !== 'undefined' && 'serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js').catch((err) => {
+        console.warn('Registro do Service Worker:', err);
+      });
+    }
+  }, []);
 
   if (isKeystatic) {
     return <div className="min-h-screen">{children}</div>;

@@ -35,6 +35,12 @@ interface AppState {
   isZenMode: boolean;
   toggleZenMode: () => void;
   setZenMode: (v: boolean) => void;
+
+  // Favoritos Poéticos
+  favoritos: string[];
+  initFavoritos: () => void;
+  toggleFavorito: (poemaId: string) => void;
+  isFavorito: (poemaId: string) => boolean;
 }
 
 export const useAppStore = create<AppState>((set, get) => ({
@@ -110,4 +116,32 @@ export const useAppStore = create<AppState>((set, get) => ({
   isZenMode: false,
   toggleZenMode: () => set((state) => ({ isZenMode: !state.isZenMode })),
   setZenMode: (v: boolean) => set({ isZenMode: v }),
+
+  // Favoritos Poéticos
+  favoritos: [],
+  initFavoritos: () => {
+    if (typeof window !== "undefined") {
+      try {
+        const saved = localStorage.getItem("inverso_favoritos");
+        if (saved) {
+          set({ favoritos: JSON.parse(saved) });
+        }
+      } catch {}
+    }
+  },
+  toggleFavorito: (poemaId: string) => {
+    set((state) => {
+      const exists = state.favoritos.includes(poemaId);
+      const next = exists
+        ? state.favoritos.filter((id) => id !== poemaId)
+        : [...state.favoritos, poemaId];
+      if (typeof window !== "undefined") {
+        try {
+          localStorage.setItem("inverso_favoritos", JSON.stringify(next));
+        } catch {}
+      }
+      return { favoritos: next };
+    });
+  },
+  isFavorito: (poemaId: string) => get().favoritos.includes(poemaId),
 }));

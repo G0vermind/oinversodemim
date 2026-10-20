@@ -153,9 +153,9 @@ export const MODULE_REGISTRY: Record<ModuleId, ModuleDefinition> = {
     nome: "Acervo Inteligente — Busca Poética, Prisma DB & PWA",
     versao: "v2.0",
     descricao: "Buscador semântico de poemas e versos, persistência Prisma SQLite/Postgres e funcionamento offline.",
-    status: "planned",
+    status: "active",
     envVar: "NEXT_PUBLIC_MODULE_SEARCH_AND_DB",
-    defaultEnabled: false,
+    defaultEnabled: true,
     pacoteComercial: {
       nomePacote: "Atualização 2.0 — Acervo Inteligente & Instalação Offline",
       versao: "v2.0",
