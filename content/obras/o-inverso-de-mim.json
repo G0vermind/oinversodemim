@@ -12,43 +12,157 @@
       "titulo": "O Inverso de Mim",
       "ordem": 1,
       "publicadoEm": "2005-08-15",
-      "conteudo": "Era uma vez um estudante\nQue acreditava em ideais\nEra uma vez um professor\nQue ensinava suas crenças\nEra uma vez um engenheiro\nQue construía poesias\nEra uma vez um sonhador\nQue passeava nas estrelas\nEra uma vez um solitário\nQue pensava ser eterno\nEra uma vez alguém ingênuo\nQue era o inverso de si mesmo\nEra uma vez um homem simples\nDaqueles que a gente logo esquece."
+      "conteudo": "Era uma vez um estudante\nQue acreditava em ideais\nEra uma vez um professor\nQue ensinava suas crenças\nEra uma vez um engenheiro\nQue construía poesias\nEra uma vez um sonhador\nQue passeava nas estrelas\nEra uma vez um solitário\nQue pensava ser eterno\nEra uma vez alguém ingênuo\nQue era o inverso de si mesmo\nEra uma vez um homem simples\nDaqueles que a gente logo esquece.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 28
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 62
+        }
+      ]
     },
     {
       "titulo": "Poema Adolescente",
       "ordem": 2,
       "publicadoEm": "2005-08-15",
-      "conteudo": "Um poeta cria versos\nDelirantes e precisos\nNavega seus universos\nMais distantes e perdidos\n\nConstruindo sua obra\nDa arte que brota bruta\nCom o talento que lhe sobra\nAflora a flor e gera a fruta\n\nEnxerga o oculto brilho das letras\nCódigos de um repente que lampeja\nSabe sentir o gosto das palavras\nDoces às vezes, noutras amargas\n\nCheira o perfume da rima\nLúdica em sua rara essência\nTorna perene a obra prima\nNascida em plena adolescência\n\nToca o extremo de todos os versos\nCom seus poderes singulares\nE ouve a harmonia das estrofes\nNos mais remotos lugares\n\nCom todos os seus sentidos\nAborda inteira a poesia\nDeusa dos saberes escondidos\nNa plenitude da utopia\n\nFaz de um poema adolescente\nA emoção viril e terna\nQue há contida em toda a gente\nPor essa vida e pela eterna."
+      "conteudo": "Um poeta cria versos\nDelirantes e precisos\nNavega seus universos\nMais distantes e perdidos\n\nConstruindo sua obra\nDa arte que brota bruta\nCom o talento que lhe sobra\nAflora a flor e gera a fruta\n\nEnxerga o oculto brilho das letras\nCódigos de um repente que lampeja\nSabe sentir o gosto das palavras\nDoces às vezes, noutras amargas\n\nCheira o perfume da rima\nLúdica em sua rara essência\nTorna perene a obra prima\nNascida em plena adolescência\n\nToca o extremo de todos os versos\nCom seus poderes singulares\nE ouve a harmonia das estrofes\nNos mais remotos lugares\n\nCom todos os seus sentidos\nAborda inteira a poesia\nDeusa dos saberes escondidos\nNa plenitude da utopia\n\nFaz de um poema adolescente\nA emoção viril e terna\nQue há contida em toda a gente\nPor essa vida e pela eterna.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 35
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 72
+        }
+      ]
     },
     {
       "titulo": "A Palavra por Encanto",
       "ordem": 3,
       "publicadoEm": "2005-08-15",
-      "conteudo": "Por enquanto eu tenho a fala\nE com ela tenho toda a magia da voz\nQue se expande em ondas de som\nDesde um canto a outro canto\ndo poema\n\nPor encanto eu recebo a palavra\nE com ela me vem todo o poder da criação\nQue se estampa nos tipos dos meus versos\nDesde um canto a outro canto\ndo poema\n\nPor espanto eu escrevo a poesia\nE com ela vibra toda fúria da emoção\nQue me toma a alma e me contagia\nDesde um canto a outro canto\ndo poema\n\nPortanto eu cometo a loucura\nE com ela eu vivo a utopia da vida\nQue se expressa nas v(e)ias da lida\nDesde um canto a outro canto\ndo poema\n\nPor isso eu vivo\nE para isso eu vim viver."
+      "conteudo": "Por enquanto eu tenho a fala\nE com ela tenho toda a magia da voz\nQue se expande em ondas de som\nDesde um canto a outro canto\ndo poema\n\nPor encanto eu recebo a palavra\nE com ela me vem todo o poder da criação\nQue se estampa nos tipos dos meus versos\nDesde um canto a outro canto\ndo poema\n\nPor espanto eu escrevo a poesia\nE com ela vibra toda fúria da emoção\nQue me toma a alma e me contagia\nDesde um canto a outro canto\ndo poema\n\nPortanto eu cometo a loucura\nE com ela eu vivo a utopia da vida\nQue se expressa nas v(e)ias da lida\nDesde um canto a outro canto\ndo poema\n\nPor isso eu vivo\nE para isso eu vim viver.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        }
+      ]
     },
     {
       "titulo": "Canção Espacial",
       "ordem": 4,
       "publicadoEm": "2005-08-15",
-      "conteudo": "Lá no espaço sideral\nEncontro a alegria\nDe um mundo de sensações\nEntre estrelas, entre astros\nMaravilhosos...\nNavegando o meu coração\n\nLá no espaço sideral\nA alma se eleva além da dor\nA canção é de paz e amor\nPura e simples como so(o)u\nE na calma a alma voa\nNuma nota à toa...\n\nLá no espaço eu me encontro mais\nVejo o infinito bem de perto\nTodas as cousas são sinais\nSinto a beleza do único verso\nEssas palavras são normais\nA poesia emana do universo\n\nLá no espaço sideral\nViaja meu sonho mais distante\nA luz da estrela é terna guia\nNa utopia desse instante\nSinto um momento de alegria\nQue pa(i)ra no tempo\nFulgurante."
+      "conteudo": "Lá no espaço sideral\nEncontro a alegria\nDe um mundo de sensações\nEntre estrelas, entre astros\nMaravilhosos...\nNavegando o meu coração\n\nLá no espaço sideral\nA alma se eleva além da dor\nA canção é de paz e amor\nPura e simples como so(o)u\nE na calma a alma voa\nNuma nota à toa...\n\nLá no espaço eu me encontro mais\nVejo o infinito bem de perto\nTodas as cousas são sinais\nSinto a beleza do único verso\nEssas palavras são normais\nA poesia emana do universo\n\nLá no espaço sideral\nViaja meu sonho mais distante\nA luz da estrela é terna guia\nNa utopia desse instante\nSinto um momento de alegria\nQue pa(i)ra no tempo\nFulgurante.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 26
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 54
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 84
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 115
+        }
+      ]
     },
     {
       "titulo": "O Silêncio",
       "ordem": 5,
       "publicadoEm": "2005-08-15",
-      "conteudo": "Nada está consumado\nAté que a morte venha!\nAté que a dor nos contenha!\nOs olhos permanecem abertos\nAtentos ao que está por vir...\nAtentos para refletir:\nO amor, o trabalho e a vida\n\nNão existem certezas absolutas\nPor isso, sigamos por essa estrada\nPor isso, deixemos nossas pegadas\nComo sinais da nossa existência\nPara que sejamos sempre lembrados\nPara que alcancemos a eternidade\nEm nosso silêncio eloqüente."
+      "conteudo": "Nada está consumado\nAté que a morte venha!\nAté que a dor nos contenha!\nOs olhos permanecem abertos\nAtentos ao que está por vir...\nAtentos para refletir:\nO amor, o trabalho e a vida\n\nNão existem certezas absolutas\nPor isso, sigamos por essa estrada\nPor isso, deixemos nossas pegadas\nComo sinais da nossa existência\nPara que sejamos sempre lembrados\nPara que alcancemos a eternidade\nEm nosso silêncio eloqüente.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        }
+      ]
     },
     {
       "titulo": "Simone",
       "ordem": 6,
       "publicadoEm": "2005-08-15",
-      "conteudo": "Quando o coração aperta de saudade\nVem a vontade incontrolável de falar\nseu nome\nMas, é preciso aceitar outra realidade\nE ser mais forte que esta dor que me\nconsome\n\nSe eu procuro pensar mais em mim\nVocê aparece, me comove, e depois\nsome\nAinda que o mundo te afaste assim\nNão levará o sonho vivido em você,\nSimone.\n\n“Ó! meu pobre,\nmeu grande amor distante,\nNem sabes tu o bem\nque faz à gente\nHaver sonhado...\ne ter vivido o sonho!”\n(Mário Quintana)"
+      "conteudo": "Quando o coração aperta de saudade\nVem a vontade incontrolável de falar\nseu nome\nMas, é preciso aceitar outra realidade\nE ser mais forte que esta dor que me\nconsome\n\nSe eu procuro pensar mais em mim\nVocê aparece, me comove, e depois\nsome\nAinda que o mundo te afaste assim\nNão levará o sonho vivido em você,\nSimone.\n\n“Ó! meu pobre,\nmeu grande amor distante,\nNem sabes tu o bem\nque faz à gente\nHaver sonhado...\ne ter vivido o sonho!”\n(Mário Quintana)",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        }
+      ]
     },
     {
       "titulo": "Plenitude",
       "ordem": 7,
       "publicadoEm": "2005-08-15",
-      "conteudo": "Desse medo que esconde a raiva, vem a tristeza\nDessa dor que brota em minha alma, sou prisioneiro\nMas, minha face sem disfarce é repleta de beleza\nQuando o oculto se revela, o \"eu\" se livra do cativeiro\n\nQuero me libertar das coisas do mundo dos outros\nPrefiro viver na solidão que na passiva dependência\nTento me encontrar, como a alma perdida no corpo\nPois, só assim posso gozar a plenitude da existência\n\nBusco sentir a paixão em tudo que fizer nessa vida\nTenho essa sede de ser e de viver pleno e original\nPara trilhar o caminho dessa estrada mais comprida\nResgatar no fundo de mim a fonte da energia vital\n\nContemplar a natureza e suas forças colossais\nMergulhado na harmonia dos acordes do silêncio\nTransformar a dor da alma em poemas viscerais\nAtingir outro estágio, dimensão: espaço e tempo."
+      "conteudo": "Desse medo que esconde a raiva, vem a tristeza\nDessa dor que brota em minha alma, sou prisioneiro\nMas, minha face sem disfarce é repleta de beleza\nQuando o oculto se revela, o \"eu\" se livra do cativeiro\n\nQuero me libertar das coisas do mundo dos outros\nPrefiro viver na solidão que na passiva dependência\nTento me encontrar, como a alma perdida no corpo\nPois, só assim posso gozar a plenitude da existência\n\nBusco sentir a paixão em tudo que fizer nessa vida\nTenho essa sede de ser e de viver pleno e original\nPara trilhar o caminho dessa estrada mais comprida\nResgatar no fundo de mim a fonte da energia vital\n\nContemplar a natureza e suas forças colossais\nMergulhado na harmonia dos acordes do silêncio\nTransformar a dor da alma em poemas viscerais\nAtingir outro estágio, dimensão: espaço e tempo.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
     }
   ],
   "faixas": [

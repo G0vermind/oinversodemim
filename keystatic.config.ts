@@ -108,6 +108,23 @@ export default config({
               multiline: true,
               validation: { isRequired: true },
             }),
+            timestamps: fields.array(
+              fields.object({
+                estrofeIndex: fields.integer({
+                  label: 'Índice da Estrofe (0 = primeira estrofe)',
+                  defaultValue: 0,
+                }),
+                segundos: fields.integer({
+                  label: 'Segundo de Início no Áudio',
+                  defaultValue: 0,
+                }),
+              }),
+              {
+                label: 'Sincronização de Áudio (Timestamps por Estrofe)',
+                itemLabel: (props) =>
+                  `Estrofe ${props.fields.estrofeIndex.value}: aos ${props.fields.segundos.value}s`,
+              }
+            ),
           }),
           {
             label: 'Poemas & Versos (Alimenta automaticamente o eBook PDF e o Leitor Digital)',

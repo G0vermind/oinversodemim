@@ -40,6 +40,7 @@ export function getObras(): Obra[] {
           ordem: Number(p.ordem) || idx + 1,
           publicadoEm: new Date(p.publicadoEm || data.createdAt || '2026-01-01'),
           obraId: `obra-${slug}`,
+          timestamps: Array.isArray(p.timestamps) ? p.timestamps : [],
         })),
         faixas: (data.faixas || []).map((f: any, idx: number) => ({
           id: `${slug}-faixa-${idx + 1}`,

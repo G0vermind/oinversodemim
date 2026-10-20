@@ -132,9 +132,9 @@ export const MODULE_REGISTRY: Record<ModuleId, ModuleDefinition> = {
     nome: "Santuário Sonoro — Áudio Sincronizado por Verso",
     versao: "v1.4",
     descricao: "Sincronização em tempo real entre a declamação em áudio e o verso iluminado no leitor.",
-    status: "in_development",
+    status: "active",
     envVar: "NEXT_PUBLIC_MODULE_AUDIO_VERSE_SYNC",
-    defaultEnabled: false,
+    defaultEnabled: true,
     pacoteComercial: {
       nomePacote: "Atualização 1.4 — Ressonância Sonora & Leitura Acompanhada",
       versao: "v1.4",

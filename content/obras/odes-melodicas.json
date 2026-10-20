@@ -12,121 +12,297 @@
       "titulo": "Ode sem Fim",
       "ordem": 1,
       "publicadoEm": "2026-01-02",
-      "conteudo": "Já na primeira vez, foi assim\nAssimilei os sinais...\nTanta leveza que conta a mina\nFeliz do coração que pulsa leve\nTrevo da sorte e mapa da mina\nFaísca do bem, tão rara e breve.\n\nJá na segunda vez, fiquei a fim\nAfinidades demais...\nTudo a seu tempo e sem pressa\nCada tema que flui na conversa\nTroca de ideias e vida pregressa\nCom a profusão vasta e diversa.\n\nJá na terceira vez, veio a mim\nAmizade que apraz...\nTento expressar sem receio\nPura emoção a fluir na sina\nTruque imagético do anseio\nPara a ode que não termina."
+      "conteudo": "Já na primeira vez, foi assim\nAssimilei os sinais...\nTanta leveza que conta a mina\nFeliz do coração que pulsa leve\nTrevo da sorte e mapa da mina\nFaísca do bem, tão rara e breve.\n\nJá na segunda vez, fiquei a fim\nAfinidades demais...\nTudo a seu tempo e sem pressa\nCada tema que flui na conversa\nTroca de ideias e vida pregressa\nCom a profusão vasta e diversa.\n\nJá na terceira vez, veio a mim\nAmizade que apraz...\nTento expressar sem receio\nPura emoção a fluir na sina\nTruque imagético do anseio\nPara a ode que não termina.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 65
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 130
+        }
+      ]
     },
     {
       "titulo": "Ode ao Solitário",
       "ordem": 2,
       "publicadoEm": "2026-01-03",
-      "conteudo": "Oh! coração dolente e infiel\nAmbíguo e solitário à beira da via\nQuando a ordem do mundo é cruel\nE torna à míngua a esperança que havia\nPrecários alentos embaixo do céu.\nO sol, sólida, solitude...\n\nOh! Sombra pálida de olhar triste\nSeguindo adiante sem rumo e sem meta\nQuando a dor a que essa alma resiste\nE toma o semblante em torpor do poeta\nAcusa-lhe a obra que a gente assiste.\nO sol, sólida, solidão...\n\nQuem tudo vê sempre indiferente\nDiante da cena, sequer se manifesta\nQuando a contenda se resume ao presente\nE toda angústia extravasa o que resta\nO sol da frieza arde à sua frente.\nO sol, sólida, solução."
+      "conteudo": "Oh! coração dolente e infiel\nAmbíguo e solitário à beira da via\nQuando a ordem do mundo é cruel\nE torna à míngua a esperança que havia\nPrecários alentos embaixo do céu.\nO sol, sólida, solitude...\n\nOh! Sombra pálida de olhar triste\nSeguindo adiante sem rumo e sem meta\nQuando a dor a que essa alma resiste\nE toma o semblante em torpor do poeta\nAcusa-lhe a obra que a gente assiste.\nO sol, sólida, solidão...\n\nQuem tudo vê sempre indiferente\nDiante da cena, sequer se manifesta\nQuando a contenda se resume ao presente\nE toda angústia extravasa o que resta\nO sol da frieza arde à sua frente.\nO sol, sólida, solução.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 70
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 140
+        }
+      ]
     },
     {
       "titulo": "Ecos de Mim",
       "ordem": 3,
       "publicadoEm": "2026-01-04",
-      "conteudo": "Ecos de meu coração tão cético\nNas brutas batidas desritmadas\nEmbalam o meu peito poético\nAlvo das balas de amor atiradas.\n\nA música que sempre me anima\nBeleza que tangencia a perfeição\nComo o corpo da alma feminina\nQue se perpetua na imaginação.\n\nLembranças, memórias, saudade\nDaquilo que fui e me trouxe aqui\nSinais que me delatam a idade\nVivas imagens de tudo que já vi.\n\nSons que ainda permeiam a mente\nFrases proferidas, letras de canções\nGritos de alegria, silêncio eloquente\nPalavras simulam sentidos e ações.\n\nA melodia de um dia em plenitude\nEcoa em mim, poeta sem suporte\nSó a paixão traduzida na atitude\nDe se viver comovido até a morte."
+      "conteudo": "Ecos de meu coração tão cético\nNas brutas batidas desritmadas\nEmbalam o meu peito poético\nAlvo das balas de amor atiradas.\n\nA música que sempre me anima\nBeleza que tangencia a perfeição\nComo o corpo da alma feminina\nQue se perpetua na imaginação.\n\nLembranças, memórias, saudade\nDaquilo que fui e me trouxe aqui\nSinais que me delatam a idade\nVivas imagens de tudo que já vi.\n\nSons que ainda permeiam a mente\nFrases proferidas, letras de canções\nGritos de alegria, silêncio eloquente\nPalavras simulam sentidos e ações.\n\nA melodia de um dia em plenitude\nEcoa em mim, poeta sem suporte\nSó a paixão traduzida na atitude\nDe se viver comovido até a morte.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 45
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 135
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 180
+        }
+      ]
     },
     {
       "titulo": "Ondas Melódicas",
       "ordem": 4,
       "publicadoEm": "2026-01-05",
-      "conteudo": "Navegai nos acordes da melodia\nMovido pelo leme das quimeras\nSobre mares singulares da utopia\nAo singrares a nau rumo a terras\nCom a face úmida de melancolia.\n\nEvolua contra a onda que impacta\nNuma turbulência cruel e adversa\nQue expande a sua sanha abstracta\nAo combater a tal hidra perversa\nCom a quilha que atravessa intacta.\n\nPenetrai as procelas e tempestades\nDas sereias e dos monstros terríveis\nAnte a fúria de mitos e potestades\nQual presságio de périplos temíveis.\nA purgar os pecados e iniquidades.\n\nAtracai em fim, sem ilhas oníricas\nOnde os desejos reais são humanos\nSentimentos são as joias mais ricas\nAlém de toda vastidão dos oceanos\nEm cujos sonhos, a ode é mais lírica."
+      "conteudo": "Navegai nos acordes da melodia\nMovido pelo leme das quimeras\nSobre mares singulares da utopia\nAo singrares a nau rumo a terras\nCom a face úmida de melancolia.\n\nEvolua contra a onda que impacta\nNuma turbulência cruel e adversa\nQue expande a sua sanha abstracta\nAo combater a tal hidra perversa\nCom a quilha que atravessa intacta.\n\nPenetrai as procelas e tempestades\nDas sereias e dos monstros terríveis\nAnte a fúria de mitos e potestades\nQual presságio de périplos temíveis.\nA purgar os pecados e iniquidades.\n\nAtracai em fim, sem ilhas oníricas\nOnde os desejos reais são humanos\nSentimentos são as joias mais ricas\nAlém de toda vastidão dos oceanos\nEm cujos sonhos, a ode é mais lírica.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 120
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 180
+        }
+      ]
     },
     {
       "titulo": "Ode dos Poetas",
       "ordem": 5,
       "publicadoEm": "2026-01-06",
-      "conteudo": "O homem é a semente\nDe o(n)de brota o invento\nEngenho e arte da mente\nCriando a cada momento\nO poema futuro.\n\nEsses poetas marginais\nComo artistas visionários\nCriam seus mundos magistrais\nDa força de seus imaginários.\n\nEsses autores viscerais\nSeres autênticos em sua arte\nEm meio aos versos geniais\nMostram a nossa oculta face.\n\nVida longa aos que fazem tanto\nPela condição humana em nós\nPara sempre a palavra por encanto\nE dela a eterna magia da voz.\n\nEsses notáveis menestréis\nRaros e sensíveis cantadores\nMesmo ante algozes cruéis\nCantam a vida e sus amores,\n\nEsses profetas do cotidiano\nCronistas de emoções baratas\nPela veia do artista soberano\nBrotam metáforas abstratas."
+      "conteudo": "O homem é a semente\nDe o(n)de brota o invento\nEngenho e arte da mente\nCriando a cada momento\nO poema futuro.\n\nEsses poetas marginais\nComo artistas visionários\nCriam seus mundos magistrais\nDa força de seus imaginários.\n\nEsses autores viscerais\nSeres autênticos em sua arte\nEm meio aos versos geniais\nMostram a nossa oculta face.\n\nVida longa aos que fazem tanto\nPela condição humana em nós\nPara sempre a palavra por encanto\nE dela a eterna magia da voz.\n\nEsses notáveis menestréis\nRaros e sensíveis cantadores\nMesmo ante algozes cruéis\nCantam a vida e sus amores,\n\nEsses profetas do cotidiano\nCronistas de emoções baratas\nPela veia do artista soberano\nBrotam metáforas abstratas.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 35
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 70
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 105
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 140
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 175
+        }
+      ]
     },
     {
       "titulo": "Antares",
       "ordem": 6,
       "publicadoEm": "2026-01-07",
-      "conteudo": "“Amar um amor casto à distância,\n...e alcançar a estrela inatingível”\n(Miguel de Cervantes)\n\nAntigas escrituras no papiro\nOrientam os versos seculares\nDesde o primeiro suspiro...\nAté os infindos locos estelares\n\nPor todas as sendas e lugares\nEspraia-se em luz e som a poesia\nDançam estrelas, densos quasares\nEnergia vibra em franca estesia\n\nAssim, por mais que seja distante\nHá de pulsar no íntimo “este lar”\nQue cada um carrega, habitante\nAnima nostra ainda por se revelar\n\nNum breve diálogo com Deus\nSem sacerdotes e suntuosos altares\nÍnfimo grão do universo in theus\nAlma gigante - estrela de Antares."
+      "conteudo": "“Amar um amor casto à distância,\n...e alcançar a estrela inatingível”\n(Miguel de Cervantes)\n\nAntigas escrituras no papiro\nOrientam os versos seculares\nDesde o primeiro suspiro...\nAté os infindos locos estelares\n\nPor todas as sendas e lugares\nEspraia-se em luz e som a poesia\nDançam estrelas, densos quasares\nEnergia vibra em franca estesia\n\nAssim, por mais que seja distante\nHá de pulsar no íntimo “este lar”\nQue cada um carrega, habitante\nAnima nostra ainda por se revelar\n\nNum breve diálogo com Deus\nSem sacerdotes e suntuosos altares\nÍnfimo grão do universo in theus\nAlma gigante - estrela de Antares.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 46
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 92
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 138
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 184
+        }
+      ]
     },
     {
       "titulo": "Alma Nua",
       "ordem": 7,
       "publicadoEm": "2026-01-08",
-      "conteudo": "Que nada nos distraia\nNem o aplauso, nem a vaia\nQue nada nos iluda\nA fé insana que não ajuda\nQue tudo seja pleno\nUm ser audaz de tom ameno\nQue tudo seja claro\nDe alma nua, eu me declaro!\n\nQue nada vale tanto\nNem o poema e o seu encanto\nQue nada é divino\nLágrima e suor regam o destino\nQue tudo é passageiro\nAté a vida, no sopro derradeiro\nQue tudo também continua\nEmana a vibração da alma nua."
+      "conteudo": "Que nada nos distraia\nNem o aplauso, nem a vaia\nQue nada nos iluda\nA fé insana que não ajuda\nQue tudo seja pleno\nUm ser audaz de tom ameno\nQue tudo seja claro\nDe alma nua, eu me declaro!\n\nQue nada vale tanto\nNem o poema e o seu encanto\nQue nada é divino\nLágrima e suor regam o destino\nQue tudo é passageiro\nAté a vida, no sopro derradeiro\nQue tudo também continua\nEmana a vibração da alma nua.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 99
+        }
+      ]
     },
     {
       "titulo": "Diante Do Mar",
       "ordem": 8,
       "publicadoEm": "2026-01-09",
-      "conteudo": "Diante do mar\nColhi as estrelas na areia\nO sol radionizante no ar\nDe eflúvios nos incendeia\n\nDiante do mar\nCaymmi se fez um rei\nNas cantigas a me embalar\nCaí e me inspirei\n\nDiante do mar\nMeu corpo se doura na praia\nMeus olhos a comparar\nEspuma e renda de cambraia\n\nDiante do mar\nDancei a ciranda de Lia\nOs pés descalços a preamar\nTocando a vida à revelia\n\nDiante do mar\nAntes que o mal aconteça\nSerei feliz para amar\nCom todo bem que eu mereça\n\nDiante do mar\nNo horizonte diviso o infinito\nNão há quem possa alcançar\nA amplidão do que eu acredito."
+      "conteudo": "Diante do mar\nColhi as estrelas na areia\nO sol radionizante no ar\nDe eflúvios nos incendeia\n\nDiante do mar\nCaymmi se fez um rei\nNas cantigas a me embalar\nCaí e me inspirei\n\nDiante do mar\nMeu corpo se doura na praia\nMeus olhos a comparar\nEspuma e renda de cambraia\n\nDiante do mar\nDancei a ciranda de Lia\nOs pés descalços a preamar\nTocando a vida à revelia\n\nDiante do mar\nAntes que o mal aconteça\nSerei feliz para amar\nCom todo bem que eu mereça\n\nDiante do mar\nNo horizonte diviso o infinito\nNão há quem possa alcançar\nA amplidão do que eu acredito.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 34
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 68
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 102
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 136
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 170
+        }
+      ]
     },
     {
       "titulo": "É Do Mundo (Drummondiando)",
       "ordem": 9,
       "publicadoEm": "2026-01-10",
-      "conteudo": "Se o teu verso gauche vencer o tempo\nPara durar além da vida\nO poema sentimental arderá em glória\nComo a cura a (se) provar\nA tua assinatura nas paredes da memória...\n(É do mundo, é du munde, é Drummond.)\n\nSe o eco do teu canto alcançar a dor\nPela freima da ferida acesa\nA palavra engajada há de bradar direta\nSem remissão nem redenção\nA aura da poesia a inundar a vida do poeta.\n(É do mundo, é du munde, é Drummond.)"
+      "conteudo": "Se o teu verso gauche vencer o tempo\nPara durar além da vida\nO poema sentimental arderá em glória\nComo a cura a (se) provar\nA tua assinatura nas paredes da memória...\n(É do mundo, é du munde, é Drummond.)\n\nSe o eco do teu canto alcançar a dor\nPela freima da ferida acesa\nA palavra engajada há de bradar direta\nSem remissão nem redenção\nA aura da poesia a inundar a vida do poeta.\n(É do mundo, é du munde, é Drummond.)",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 94
+        }
+      ]
     },
     {
       "titulo": "O Beijo",
       "ordem": 10,
       "publicadoEm": "2026-01-11",
-      "conteudo": "De onde nasce o beijo\nque faz o corpo a(s)cender\nDaquilo que não vejo\nquando cego pelo prazer\nDa minha boca à tua boca\nhá quilômetros de sonhos\ne desejos...\n\nBocas que se unem pelo beijo\ncomo se fossem provar o amor\npor inteiro...\nDa minha boca à tua boca\nhá palavras ainda não ditas\nde carinho...\n\nBocas desse mundo que almejo\nSalivando à míngua no clamor\nderradeiro...\nPor fim, agora me despeço\ncom um longo beijo de poeta\nDaqueles que tanto peço\nde olhos cerrados e boca aberta."
+      "conteudo": "De onde nasce o beijo\nque faz o corpo a(s)cender\nDaquilo que não vejo\nquando cego pelo prazer\nDa minha boca à tua boca\nhá quilômetros de sonhos\ne desejos...\n\nBocas que se unem pelo beijo\ncomo se fossem provar o amor\npor inteiro...\nDa minha boca à tua boca\nhá palavras ainda não ditas\nde carinho...\n\nBocas desse mundo que almejo\nSalivando à míngua no clamor\nderradeiro...\nPor fim, agora me despeço\ncom um longo beijo de poeta\nDaqueles que tanto peço\nde olhos cerrados e boca aberta.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 73
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 146
+        }
+      ]
     }
   ],
   "faixas": [
     {
       "titulo": "Ode sem Fim",
-      "arquivoUrl": "https://gerasom.com/d-8a9614e5-8167-4250-8f3e-0d80ca70451a",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/2b59fa452d0b66a841f0d2e6445f87ba.mp3",
       "duracao": 195,
       "letra": "Já na primeira vez, foi assim\nAssimilei os sinais...\nTanta leveza que conta a mina\nFeliz do coração que pulsa leve..."
     },
     {
       "titulo": "Ode ao Solitário",
-      "arquivoUrl": "https://gerasom.com/d-3435a712-8246-4814-a1cb-a3864ace350f",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/44b3ef7c2a595c86c95e53ee2b1b1738.mp3",
       "duracao": 210,
       "letra": "Oh! coração dolente e infiel\nAmbíguo e solitário à beira da via\nO sol, sólida, solitude..."
     },
     {
       "titulo": "Ecos de Mim",
-      "arquivoUrl": "https://gerasom.com/d-8dcbbe5a-c5de-4074-9d34-52264d3cb47d",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/26cc2c2067d98ef2b0a9cc4271318ff3.mp3",
       "duracao": 228,
       "letra": "Ecos de meu coração tão cético\nNas brutas batidas desritmadas\nA melodia de um dia em plenitude\nEcoa em mim..."
     },
     {
       "titulo": "Ondas Melódicas",
-      "arquivoUrl": "https://gerasom.com/d-f9fe0abe-b82b-4c2b-a46e-a29108c85298",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/a36becb6cab0fd6c3fb15d86e95bdef5.mp3",
       "duracao": 240,
       "letra": "Navegai nos acordes da melodia\nMovido pelo leme das quimeras..."
     },
     {
       "titulo": "Ode dos Poetas",
-      "arquivoUrl": "https://gerasom.com/d-278544c0-ce2e-432e-bca6-fa6012d037fa",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/2488d5e0584ee0342a43085382d2a4b0.mp3",
       "duracao": 215,
       "letra": "O homem é a semente\nDe o(n)de brota o invento\nCriando a cada momento o poema futuro..."
     },
     {
       "titulo": "Antares",
-      "arquivoUrl": "https://gerasom.com/d-b404c244-4a6d-4324-9579-ae0450bc7a26",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/1a25d84e3adfcf243e3abdc5ea0045f5.mp3",
       "duracao": 232,
       "letra": "Antigas escrituras no papiro\nOrientam os versos seculares\nAlma gigante - estrela de Antares..."
     },
     {
       "titulo": "Alma Nua",
-      "arquivoUrl": "https://gerasom.com/d-df21e336-4dee-4511-b919-3f0044fc6b89",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/9cfe52113b13424af5ff9456a65458eb.mp3",
       "duracao": 198,
       "letra": "Que nada nos distraia\nNem o aplauso, nem a vaia\nDe alma nua, eu me declaro!..."
     },
     {
       "titulo": "Diante Do Mar",
-      "arquivoUrl": "https://gerasom.com/d-52d3b25b-e58c-40f1-86a6-9bfaba3044fe",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/b645c96718348e0c2f0f988df5624188.mp3",
       "duracao": 205,
       "letra": "Diante do mar\nColhi as estrelas na areia\nNo horizonte diviso o infinito..."
     },
     {
       "titulo": "É Do Mundo (Drummondiando)",
-      "arquivoUrl": "https://gerasom.com/d-013f95b1-d714-4b34-8a20-bd2964b32ff0",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/81d90976c731bf625ebe6561a50569b9.mp3",
       "duracao": 188,
       "letra": "Se o teu verso gauche vencer o tempo\nA tua assinatura nas paredes da memória...\n(É do mundo, é du munde, é Drummond.)"
     },
     {
       "titulo": "O Beijo",
-      "arquivoUrl": "https://gerasom.com/d-25d5120e-e3a2-4391-9e5d-fec51c5df6cb",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/df955c81d521d079091ae27362aac2b8.mp3",
       "duracao": 220,
       "letra": "De onde nasce o beijo\nque faz o corpo ascender\ncom um longo beijo de poeta..."
     }

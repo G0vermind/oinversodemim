@@ -146,9 +146,12 @@ async function ObraReaderContent({ params }: PageProps) {
             obra.faixas?.find(
               (f) =>
                 f.id === `faixa-${poema.id}` ||
-                f.titulo.toLowerCase() === poema.titulo.toLowerCase() ||
+                f.titulo.toLowerCase().trim() === poema.titulo.toLowerCase().trim() ||
                 poema.id.includes(f.id.replace("faixa-", ""))
-            ) || primeiraFaixa;
+            ) ||
+            (obra.faixas && obra.faixas.length === poemasOrdenados.length
+              ? obra.faixas[index]
+              : primeiraFaixa);
 
           return (
             <section

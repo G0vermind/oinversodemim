@@ -94,11 +94,11 @@ export function VerseSyncHighlighter({
           <div
             key={index}
             onClick={() => hasTimestamp && handleEstrofeClick(index)}
-            className={`group relative rounded-lg p-2.5 transition-all duration-300 whitespace-pre-line ${
+            className={`group relative rounded-lg p-2.5 transition-all duration-300 ease-out whitespace-pre-line ${
               hasTimestamp ? "cursor-pointer" : ""
             } ${
               isActive
-                ? "text-destaque bg-destaque/10 border-l-4 border-destaque pl-4 shadow-sm scale-[1.01]"
+                ? "text-destaque bg-destaque/12 border-l-4 border-destaque pl-4 shadow-md shadow-destaque/10 scale-[1.01] ring-1 ring-destaque/30"
                 : "text-texto hover:text-texto/90 hover:bg-superficie/40"
             }`}
             title={hasTimestamp ? "Clique para sincronizar o áudio nesta estrofe" : undefined}
