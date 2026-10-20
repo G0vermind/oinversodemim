@@ -111,9 +111,9 @@ export const MODULE_REGISTRY: Record<ModuleId, ModuleDefinition> = {
     nome: "Social Canvas — Gerador de Cards Poéticos",
     versao: "v1.3",
     descricao: "Exportador de estrofes em imagens de alta resolução nos formatos Story (9:16) e Feed (1:1).",
-    status: "in_development",
+    status: "active",
     envVar: "NEXT_PUBLIC_MODULE_SOCIAL_CARDS",
-    defaultEnabled: false,
+    defaultEnabled: true,
     pacoteComercial: {
       nomePacote: "Atualização 1.3 — Social Canvas & Viralização Poética",
       versao: "v1.3",

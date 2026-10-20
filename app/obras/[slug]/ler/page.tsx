@@ -174,9 +174,11 @@ async function ObraReaderContent({ params }: PageProps) {
                 />
               </div>
 
-              {/* Leitura Acompanhada & Sincronização Sonora (Módulo v1.4) */}
+              {/* Leitura Acompanhada & Sincronização Sonora (Módulo v1.4) com Social Canvas por estrofe */}
               <VerseSyncHighlighter
                 poemaId={poema.id}
+                poemaTitulo={poema.titulo}
+                obraTitulo={obra.titulo}
                 conteudo={poema.conteudo}
                 timestamps={poema.timestamps}
                 currentTrackData={
