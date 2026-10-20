@@ -1,3 +1,6 @@
+import fs from 'fs';
+import path from 'path';
+
 export interface ObrasMarco {
   ano: string;
   titulo: string;
@@ -13,7 +16,7 @@ export interface CriticaDepoimento {
   citacao: string;
 }
 
-export const BIOGRAFIA_DATA = {
+const BIOGRAFIA_STATIC = {
   autor: {
     nome: "Heldemarcio Ferreira",
     titulo: "Poeta, Compositor & Pesquisador Lírico",
@@ -115,3 +118,37 @@ export const BIOGRAFIA_DATA = {
     ],
   },
 };
+
+export function getBiografiaData(): typeof BIOGRAFIA_STATIC {
+  try {
+    const filePath = path.join(process.cwd(), 'content', 'biografia.json');
+    if (fs.existsSync(filePath)) {
+      const raw = fs.readFileSync(filePath, 'utf-8');
+      const data = JSON.parse(raw);
+      return {
+        ...BIOGRAFIA_STATIC,
+        autor: {
+          ...BIOGRAFIA_STATIC.autor,
+          nome: (data.autorNome as string) || BIOGRAFIA_STATIC.autor.nome,
+          titulo: (data.autorTitulo as string) || BIOGRAFIA_STATIC.autor.titulo,
+          local: (data.autorLocal as string) || BIOGRAFIA_STATIC.autor.local,
+          epigrafe: (data.autorEpigrafe as string) || BIOGRAFIA_STATIC.autor.epigrafe,
+          palavrasAutorOriginal: (data.palavrasAutorOriginal as string) || BIOGRAFIA_STATIC.autor.palavrasAutorOriginal,
+        },
+        manifesto: {
+          ...BIOGRAFIA_STATIC.manifesto,
+          titulo: (data.manifestoTitulo as string) || BIOGRAFIA_STATIC.manifesto.titulo,
+          subtitulo: (data.manifestoSubtitulo as string) || BIOGRAFIA_STATIC.manifesto.subtitulo,
+          paragrafos: Array.isArray(data.manifestoParagrafos) && data.manifestoParagrafos.length > 0
+            ? (data.manifestoParagrafos as string[])
+            : BIOGRAFIA_STATIC.manifesto.paragrafos,
+        },
+      };
+    }
+  } catch (err) {
+    console.error('Falha ao ler content/biografia.json:', err);
+  }
+  return BIOGRAFIA_STATIC;
+}
+
+export const BIOGRAFIA_DATA = getBiografiaData();

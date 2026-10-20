@@ -1,0 +1,56 @@
+{
+  "titulo": "Promíscuos",
+  "sentimento": "Veredas",
+  "descricao": "Livro de Poemas da Alcova (2019). O erotismo visceral e a luxúria dos amantes em quatro atos entre quatro paredes, guiados pela pena despojada e obscena do poeta.",
+  "capaUrl": "/art/promiscuos.jpg",
+  "preco": 0,
+  "estoqueFisico": 15,
+  "linkVendaFisica": "",
+  "createdAt": "2019-03-20",
+  "poemas": [
+    {
+      "titulo": "Ato",
+      "ordem": 1,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Acordar\npelas minhas mãos\nem puros acordes\nde tesão...\n\nComo tocar\num instrumento\ne afinar os sentidos\nem movimento...\n\nÊxtase\nao prazer da peleja\nsob a dor do desejo\no sexo lateja...\n\nGozar\nsem esconderijo\nexposto à tensão\ndo membro rijo."
+    },
+    {
+      "titulo": "Alcova",
+      "ordem": 2,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Falar de você me excita...\nNão só meu coração carente,\nMas, o cume do corpo palpita\nEm uma onda de energia obscena...\n\nAssim, sofregamente\nque a razão sai de cena!\n\nDispo-me das palavras fúteis...\nNo relevo do seu corpo tortuoso,\nE me arrisco em carícias úteis,\nSigo a esmo, sem perder o rumo...\n\nPrazer voluptuoso\npara o meu consumo!\n\nEssa sede de desejo me orienta...\nA beber do humor da pele embriagante\nComo um náufrago à deriva na tormenta,\nAté as plagas de águas mais profundas...\n\nNa batalha ofegante\nde armas fecundas!\n\nPensar em você me incita...\nA escrever poemas promíscuos\nSonetos de alcova por la dolce vita\nRecuerdos de una pásion que arrebata.\n\nVersos profícuos\nque a mão arremata!"
+    },
+    {
+      "titulo": "Banquete da Libido",
+      "ordem": 3,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Do meu corpo exposto\nO que mais se expressa\nÉ o cume que atrai e atravessa\nToda brecha em que é posto!\n\nDo teu corpo sedutor\nO sexo exibes sem pressa\nÉ assim servida em travessa\nToda a iguaria sem pudor\n\nE neste império dos sentidos\nOnde o prazer é saboroso\nComo o banquete das libidos\nToda paixão resume em gozo."
+    },
+    {
+      "titulo": "Retórica Sensual",
+      "ordem": 4,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Cláusula Primeira\nVou me vestir de você\nFazendo de ti a minha roupa\nCedo a sedução não me poupa\nE assim ficar abrigado!\n(Dar-me ao calor que me aquece)\n\nClausula Segunda\nVou me trajar de você\nComo se quisesse caber\nJusto antes de me embeber\nEm seu espaço apertado!\n(Seja, então, aquilo que me veste)\n\nClausula Terceira\nVou me envolver de você\nSendo assim seu conteúdo\nNada mais e além de tudo\nEm suor e pelo arrepiado!\n(Sorver o humor no tecido da pele)\n\nClausula Quarta\nVou me atar a você\nComo, em seu corpo, cativo\nAté gozar do sabor sedativo\nE assim dizer: Obrigado!\n(Que o bom do prazer esteja breve)"
+    },
+    {
+      "titulo": "O Côncavo e Convexo",
+      "ordem": 5,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Esse desejo que me conta (a) mina\nComo a paixão primal, a bem do sexo\nRevela a nudez da alma, a fé menina\nNu(m)a união do côncavo e o convexo\n\nToda sensual-idade fluida dos sentidos\nEivados de malícia profícua e obs-cena\nCorpo e mente se (con)fundem diluídos\nNo êxtase do prazer que nos condena\n\nEis o que de fato des-afia a sanidade\nNas entre-linhas das viagens proibidas\nEntre-tantos passos pela etern(a)idade\nNo compasso dessas órbitas perdidas."
+    },
+    {
+      "titulo": "Soneto do Amor Infame",
+      "ordem": 6,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Então o amor perde o seu glamour\nQuando o tesão se une a lasciva\nNuma peleja tão obsessiva\nQue o corpo vibra cheio de calor\n\nEntão o sexo eclode da disputa\nAssume formas e poses sensuais\nÉ a comunhão humana de animais\nNuma promíscua alcova de luta\n\nNessa batalha de pele e saliva\nA arma dura do macho é letal\nNa sua investida invasiva\n\nAssim como se fora de metal\nSem escudo, a fêmea não se esquiva\nAcolhe o golpe no gozo final."
+    }
+  ],
+  "faixas": [
+    {
+      "titulo": "Noturno da Alcova",
+      "arquivoUrl": "/audio/demo.wav",
+      "duracao": 180,
+      "letra": "Falar de você me excita... Não só meu coração carente, mas o cume do corpo palpita em uma onda de energia obscena."
+    }
+  ]
+}

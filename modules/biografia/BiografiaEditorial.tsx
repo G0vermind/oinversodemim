@@ -12,7 +12,7 @@ import {
   Mail,
   Quote,
 } from "lucide-react";
-import { BIOGRAFIA_DATA } from "./biografia.data";
+import { getBiografiaData } from "./biografia.data";
 
 export function BiografiaEditorial() {
   const {
@@ -22,7 +22,7 @@ export function BiografiaEditorial() {
     marcosCronologicos,
     depoimentosCriticos,
     missaoPublica,
-  } = BIOGRAFIA_DATA;
+  } = getBiografiaData();
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 py-12 md:py-20 space-y-20">
@@ -66,7 +66,7 @@ export function BiografiaEditorial() {
         </div>
 
         <div className="space-y-6 font-serif text-base sm:text-lg text-texto leading-relaxed max-w-none">
-          {manifesto.paragrafos.map((p, idx) => (
+          {manifesto.paragrafos.map((p: string, idx: number) => (
             <p
               key={idx}
               className={idx === 0 ? "first-letter:text-5xl first-letter:font-serif first-letter:text-destaque first-letter:mr-3 first-letter:float-left first-letter:leading-none" : ""}

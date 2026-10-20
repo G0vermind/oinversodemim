@@ -60,6 +60,13 @@ export function Footer() {
           >
             Privacidade
           </Link>
+          <Link
+            href="/keystatic"
+            className="text-texto-suave/50 hover:text-destaque transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-destaque rounded"
+            title="Acesso ao Painel de Gestão Editorial, Uploads de Obras e Capas"
+          >
+            Gestão Editorial
+          </Link>
         </nav>
       </div>
     </footer>

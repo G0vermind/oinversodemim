@@ -1,12 +1,8 @@
-import { Suspense } from "react";
 import type { Metadata } from "next";
 import { Cormorant_Garamond, EB_Garamond } from "next/font/google";
 import "./globals.css";
 import { AUTHOR_NAME, SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "../lib/site";
-import { Header } from "../components/layout/Header";
-import { Footer } from "../components/layout/Footer";
-import { GlobalAudioPlayer } from "../components/audio/GlobalAudioPlayer";
-import { LyricsPanel } from "../components/audio/LyricsPanel";
+import { SiteShell } from "../components/layout/SiteShell";
 
 const cormorantGaramond = Cormorant_Garamond({
   subsets: ["latin"],
@@ -90,15 +86,9 @@ export default function RootLayout({
       <body
         className={`${cormorantGaramond.variable} ${ebGaramond.variable} antialiased selection:bg-destaque/30 selection:text-texto min-h-screen flex flex-col`}
       >
-        <Suspense fallback={<div className="h-16 border-b border-linha/60 bg-superficie" />}>
-          <Header />
-        </Suspense>
-        <main className="flex-1 pt-16 pb-28 sm:pb-24">
+        <SiteShell>
           {children}
-        </main>
-        <Footer />
-        <GlobalAudioPlayer />
-        <LyricsPanel />
+        </SiteShell>
       </body>
     </html>
   );

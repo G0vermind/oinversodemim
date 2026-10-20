@@ -1,0 +1,32 @@
+{
+  "titulo": "Vistas do Labirinto",
+  "sentimento": "Tempo",
+  "descricao": "Uma meditação geométrica e poética sobre os corredores da memória e a busca lúcida pela clareira existencial.",
+  "capaUrl": "/art/labyrinth.jpg",
+  "preco": 0,
+  "estoqueFisico": 12,
+  "linkVendaFisica": "",
+  "createdAt": "2023-07-20",
+  "poemas": [
+    {
+      "titulo": "O Centro do Labirinto",
+      "ordem": 1,
+      "publicadoEm": "2023-07-20",
+      "conteudo": "Entre paredes de pedra e musgo,\nBusco a saída que não tem porta.\nO fio da meada é tênue e brusco,\nMas guia o passo na senda torta.\n\nCada curva um novo enigma,\nCada espelho um rosto estranho.\nNa cinza fria de antigo estigma,\nEncontro o verso que me acompanho."
+    },
+    {
+      "titulo": "A Clareira",
+      "ordem": 2,
+      "publicadoEm": "2023-08-10",
+      "conteudo": "Cessa o labirinto e o labirinto sou eu.\nA luz da clareira banha a pedra fria.\nO que a memória guardou e perdeu\nRenova o curso do novo dia."
+    }
+  ],
+  "faixas": [
+    {
+      "titulo": "Trilha do Labirinto",
+      "arquivoUrl": "/audio/demo.wav",
+      "duracao": 210,
+      "letra": "Entre paredes de pedra e musgo, busco a saída que não tem porta..."
+    }
+  ]
+}
