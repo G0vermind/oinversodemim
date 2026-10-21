@@ -18,7 +18,7 @@ export function BrandLogo({
 }: BrandLogoProps) {
   return (
     <Image
-      src="/brand/logo.png"
+      src="/brand/logo-oficial.png"
       alt={`${SITE_NAME} — Heldemarcio Ferreira`}
       width={width}
       height={height}

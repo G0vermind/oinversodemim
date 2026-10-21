@@ -1,4 +1,4 @@
-const CACHE_NAME = 'inverso-v2.0';
+const CACHE_NAME = 'inverso-v2.2';
 
 const PRECACHE_URLS = [
   '/',
@@ -6,8 +6,7 @@ const PRECACHE_URLS = [
   '/musicas',
   '/biografia',
   '/contato',
-  '/brand/logo.svg',
-  '/brand/logo.png',
+  '/brand/logo-oficial.png',
   '/fonts/EBGaramond-Regular.ttf',
   '/fonts/EBGaramond-Italic.ttf',
   '/fonts/CormorantGaramond-Regular.ttf',
@@ -50,11 +49,26 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 1. Assets estáticos (gravuras /art/, fontes /fonts/, brand /brand/): Cache-First
+  // 1. Assets de Marca (/brand/): Network-First (Garante que logos atualizados reflitam imediatamente)
+  if (url.pathname.startsWith('/brand/')) {
+    event.respondWith(
+      fetch(request)
+        .then((response) => {
+          if (response.status === 200) {
+            const copy = response.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(request, copy));
+          }
+          return response;
+        })
+        .catch(() => caches.match(request))
+    );
+    return;
+  }
+
+  // 2. Gravuras /art/ e Fontes /fonts/: Cache-First
   if (
     url.pathname.startsWith('/art/') ||
-    url.pathname.startsWith('/fonts/') ||
-    url.pathname.startsWith('/brand/')
+    url.pathname.startsWith('/fonts/')
   ) {
     event.respondWith(
       caches.match(request).then((cached) => {
