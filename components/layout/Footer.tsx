@@ -20,7 +20,7 @@ export function Footer() {
     >
       <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-6 text-sm text-texto-suave">
         <div className="flex flex-col items-center md:items-start gap-2 text-center md:text-left">
-          <BrandLogo className="h-9 w-auto object-contain opacity-85 hover:opacity-100 transition-opacity" />
+          <BrandLogo className="h-12 sm:h-14 w-auto object-contain opacity-90 hover:opacity-100 transition-opacity" />
           <p className="text-xs mt-0.5">
             Poesia e música por {AUTHOR_NAME}.
           </p>

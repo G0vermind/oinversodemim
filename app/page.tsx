@@ -17,7 +17,7 @@ export default function Home() {
         <div className="relative flex flex-col items-center mb-6">
           <div className="relative z-10">
             <BrandLogo
-              className="h-24 sm:h-32 md:h-40 w-auto object-contain drop-shadow-[0_6px_28px_rgba(200,141,78,0.22)]"
+              className="h-28 sm:h-40 md:h-48 lg:h-56 w-auto object-contain drop-shadow-[0_8px_32px_rgba(200,141,78,0.25)]"
               width={1024}
               height={467}
               priority
@@ -26,10 +26,10 @@ export default function Home() {
 
           <div
             aria-hidden="true"
-            className="pointer-events-none select-none -mt-4 sm:-mt-6 transform scale-y-[-1] opacity-20 filter blur-[1px] [mask-image:linear-gradient(to_bottom,rgba(0,0,0,0.85)_0%,transparent_65%)]"
+            className="pointer-events-none select-none -mt-5 sm:-mt-8 transform scale-y-[-1] opacity-20 filter blur-[1px] [mask-image:linear-gradient(to_bottom,rgba(0,0,0,0.85)_0%,transparent_65%)]"
           >
             <BrandLogo
-              className="h-24 sm:h-32 md:h-40 w-auto object-contain"
+              className="h-28 sm:h-40 md:h-48 lg:h-56 w-auto object-contain"
               width={1024}
               height={467}
             />

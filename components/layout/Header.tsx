@@ -31,13 +31,13 @@ export function Header() {
       aria-hidden={isZenMode}
       inert={isZenMode}
     >
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between gap-4">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 h-20 flex items-center justify-between gap-4">
         {/* Logo */}
         <Link
           href="/"
           className="flex items-center gap-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-destaque rounded-sm py-1"
         >
-          <BrandLogo className="h-8 sm:h-9 md:h-10 w-auto object-contain" priority />
+          <BrandLogo className="h-12 sm:h-14 md:h-16 w-auto object-contain drop-shadow-sm" priority />
         </Link>
 
         {/* Desktop Navigation */}

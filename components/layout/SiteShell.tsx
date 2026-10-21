@@ -30,10 +30,10 @@ function SiteShellContent({ children }: { children: ReactNode }) {
 
   return (
     <>
-      <Suspense fallback={<div className="h-16 border-b border-linha/60 bg-superficie" />}>
+      <Suspense fallback={<div className="h-20 border-b border-linha/60 bg-superficie" />}>
         <Header />
       </Suspense>
-      <main className="flex-1 pt-16 pb-28 sm:pb-24">
+      <main className="flex-1 pt-20 sm:pt-24 pb-28 sm:pb-24">
         {children}
       </main>
       <Footer />
@@ -45,7 +45,7 @@ function SiteShellContent({ children }: { children: ReactNode }) {
 
 export function SiteShell({ children }: { children: ReactNode }) {
   return (
-    <Suspense fallback={<main className="flex-1 pt-16 pb-28 sm:pb-24">{children}</main>}>
+    <Suspense fallback={<main className="flex-1 pt-20 sm:pt-24 pb-28 sm:pb-24">{children}</main>}>
       <SiteShellContent>{children}</SiteShellContent>
     </Suspense>
   );
