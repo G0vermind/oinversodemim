@@ -17,21 +17,21 @@ export default function Home() {
         <div className="relative flex flex-col items-center mb-6">
           <div className="relative z-10">
             <BrandLogo
-              className="h-14 sm:h-18 md:h-20 w-auto object-contain"
-              width={350}
-              height={140}
+              className="h-24 sm:h-32 md:h-40 w-auto object-contain drop-shadow-[0_6px_28px_rgba(200,141,78,0.22)]"
+              width={1024}
+              height={467}
               priority
             />
           </div>
 
           <div
             aria-hidden="true"
-            className="pointer-events-none select-none -mt-3 transform scale-y-[-1] opacity-15 filter blur-[0.6px] [mask-image:linear-gradient(to_bottom,rgba(0,0,0,1)_0%,transparent_70%)]"
+            className="pointer-events-none select-none -mt-4 sm:-mt-6 transform scale-y-[-1] opacity-20 filter blur-[1px] [mask-image:linear-gradient(to_bottom,rgba(0,0,0,0.85)_0%,transparent_65%)]"
           >
             <BrandLogo
-              className="h-14 sm:h-18 md:h-20 w-auto object-contain"
-              width={350}
-              height={140}
+              className="h-24 sm:h-32 md:h-40 w-auto object-contain"
+              width={1024}
+              height={467}
             />
           </div>
         </div>

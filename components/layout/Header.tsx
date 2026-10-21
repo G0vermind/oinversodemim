@@ -37,7 +37,7 @@ export function Header() {
           href="/"
           className="flex items-center gap-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-destaque rounded-sm py-1"
         >
-          <BrandLogo className="h-7 md:h-8 w-auto object-contain" priority />
+          <BrandLogo className="h-8 sm:h-9 md:h-10 w-auto object-contain" priority />
         </Link>
 
         {/* Desktop Navigation */}

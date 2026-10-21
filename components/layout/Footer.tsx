@@ -4,6 +4,7 @@ import Link from "next/link";
 import { AUTHOR_NAME, SITE_NAME } from "../../lib/site";
 import { useAppStore } from "../../store/useAppStore";
 import { isModuleEnabled } from "../../lib/modules";
+import { BrandLogo } from "../brand/BrandLogo";
 
 export function Footer() {
   const { isZenMode } = useAppStore();
@@ -18,11 +19,9 @@ export function Footer() {
       inert={isZenMode}
     >
       <div className="max-w-6xl mx-auto px-4 flex flex-col md:flex-row items-center justify-between gap-6 text-sm text-texto-suave">
-        <div className="text-center md:text-left">
-          <p className="font-serif text-base text-texto">
-            {SITE_NAME}
-          </p>
-          <p className="text-xs mt-1">
+        <div className="flex flex-col items-center md:items-start gap-2 text-center md:text-left">
+          <BrandLogo className="h-9 w-auto object-contain opacity-85 hover:opacity-100 transition-opacity" />
+          <p className="text-xs mt-0.5">
             Poesia e música por {AUTHOR_NAME}.
           </p>
         </div>
