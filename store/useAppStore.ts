@@ -3,6 +3,9 @@ import { Track } from '../types';
 
 export type Theme = 'dark' | 'light';
 
+export type ReaderFontSize = 'normal' | 'large' | 'xlarge';
+export type ReaderAtmosphere = 'default' | 'sepia' | 'oled';
+
 interface AppState {
   // Tema
   theme: Theme;
@@ -41,6 +44,13 @@ interface AppState {
   initFavoritos: () => void;
   toggleFavorito: (poemaId: string) => void;
   isFavorito: (poemaId: string) => boolean;
+
+  // Preferências do Leitor (Atmosfera & Tamanho)
+  readerFontSize: ReaderFontSize;
+  readerAtmosphere: ReaderAtmosphere;
+  setReaderFontSize: (size: ReaderFontSize) => void;
+  setReaderAtmosphere: (atm: ReaderAtmosphere) => void;
+  initReaderPreferences: () => void;
 }
 
 export const useAppStore = create<AppState>((set, get) => ({
@@ -144,4 +154,38 @@ export const useAppStore = create<AppState>((set, get) => ({
     });
   },
   isFavorito: (poemaId: string) => get().favoritos.includes(poemaId),
+
+  // Preferências do Leitor (Atmosfera & Tamanho)
+  readerFontSize: 'normal',
+  readerAtmosphere: 'default',
+  setReaderFontSize: (size: ReaderFontSize) => {
+    if (typeof window !== 'undefined') {
+      try {
+        localStorage.setItem('inverso_reader_fontsize', size);
+      } catch {}
+    }
+    set({ readerFontSize: size });
+  },
+  setReaderAtmosphere: (atm: ReaderAtmosphere) => {
+    if (typeof window !== 'undefined') {
+      try {
+        localStorage.setItem('inverso_reader_atmosphere', atm);
+      } catch {}
+    }
+    set({ readerAtmosphere: atm });
+  },
+  initReaderPreferences: () => {
+    if (typeof window !== 'undefined') {
+      try {
+        const savedSize = localStorage.getItem('inverso_reader_fontsize') as ReaderFontSize;
+        const savedAtm = localStorage.getItem('inverso_reader_atmosphere') as ReaderAtmosphere;
+        if (savedSize && ['normal', 'large', 'xlarge'].includes(savedSize)) {
+          set({ readerFontSize: savedSize });
+        }
+        if (savedAtm && ['default', 'sepia', 'oled'].includes(savedAtm)) {
+          set({ readerAtmosphere: savedAtm });
+        }
+      } catch {}
+    }
+  },
 }));

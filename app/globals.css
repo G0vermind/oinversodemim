@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0 8px 24px -6px rgba(0, 0, 0, 0.4), 0 0 16px -2px rgba(200, 141, 78, 0.15);
 }
 
-/* Barra de onda sonora animada */
+/* Barra de onda sonora animada e equalizador dourado */
 @keyframes waveMotion {
   0%, 100% {
     transform: scaleY(0.25);
@@ -134,6 +134,73 @@ h1, h2, h3, h4, h5, h6 {
 .wave-bar {
   animation: waveMotion 1.2s ease-in-out infinite alternate;
   transform-origin: bottom;
+}
+
+.wave-bar-1 {
+  animation: waveMotion 0.75s ease-in-out infinite alternate;
+  transform-origin: bottom;
+}
+
+.wave-bar-2 {
+  animation: waveMotion 1.15s ease-in-out infinite alternate 0.2s;
+  transform-origin: bottom;
+}
+
+.wave-bar-3 {
+  animation: waveMotion 0.85s ease-in-out infinite alternate 0.4s;
+  transform-origin: bottom;
+}
+
+.wave-bar-4 {
+  animation: waveMotion 1.05s ease-in-out infinite alternate 0.15s;
+  transform-origin: bottom;
+}
+
+/* ==========================================================================
+   Preferências de Leitura e Atmosferas Editoriais (ZenReader)
+   ========================================================================== */
+[data-reader-atmosphere="sepia"] {
+  background-color: #F7F2E8 !important;
+  color: #2D2319 !important;
+}
+
+[data-reader-atmosphere="sepia"] header,
+[data-reader-atmosphere="sepia"] footer,
+[data-reader-atmosphere="sepia"] .poem-section {
+  border-color: #DFD3BF !important;
+}
+
+[data-reader-atmosphere="sepia"] p,
+[data-reader-atmosphere="sepia"] h1,
+[data-reader-atmosphere="sepia"] h2,
+[data-reader-atmosphere="sepia"] span {
+  color: #2D2319 !important;
+}
+
+[data-reader-atmosphere="sepia"] .text-texto-suave {
+  color: #7A6956 !important;
+}
+
+[data-reader-atmosphere="oled"] {
+  background-color: #000000 !important;
+  color: #ECE5DA !important;
+}
+
+[data-reader-atmosphere="oled"] header,
+[data-reader-atmosphere="oled"] footer,
+[data-reader-atmosphere="oled"] .poem-section {
+  border-color: #1F1B17 !important;
+}
+
+/* Escalas Dinâmicas de Fonte para Leitura Poética */
+[data-reader-size="large"] .poem-section p {
+  font-size: 1.3rem !important;
+  line-height: 2.2 !important;
+}
+
+[data-reader-size="xlarge"] .poem-section p {
+  font-size: 1.55rem !important;
+  line-height: 2.35 !important;
 }
 
 /* Custom scrollbar suave em tons de âmbar */

@@ -6,6 +6,7 @@ import Link from "next/link";
 import { Play, Pause, Leaf, Headphones } from "lucide-react";
 import { useAppStore } from "../../store/useAppStore";
 import { Track } from "../../types";
+import { SoundEqualizer } from "../audio/SoundEqualizer";
 
 interface HeroSanctuaryProps {
   initialTracks: Track[];
@@ -176,10 +177,13 @@ export function HeroSanctuary({ initialTracks }: HeroSanctuaryProps) {
                 </p>
               </div>
 
-              {/* Lista de 3 faixas com clique rápido */}
+              {/* Lista de 3 faixas com clique rápido e equalizador */}
               <div className="space-y-1.5 text-xs font-serif">
                 {playlist.map((item) => {
                   const isThisActive = selectedTrack.titulo === item.track.titulo;
+                  const isThisTrackPlaying =
+                    isPlaying && currentTrack?.titulo === item.track.titulo;
+
                   return (
                     <button
                       key={item.id}
@@ -194,8 +198,13 @@ export function HeroSanctuary({ initialTracks }: HeroSanctuaryProps) {
                           : "text-texto-suave hover:text-texto hover:bg-superficie-elevada/60"
                       }`}
                     >
-                      <span className="truncate">{item.title}</span>
-                      <span className="font-mono text-[11px] text-texto-suave/80 ml-2">
+                      <div className="flex items-center gap-2 truncate">
+                        <span className="truncate">{item.title}</span>
+                        {isThisTrackPlaying && (
+                          <SoundEqualizer isPlaying={true} size="sm" />
+                        )}
+                      </div>
+                      <span className="font-mono text-[11px] text-texto-suave/80 ml-2 shrink-0">
                         {item.time}
                       </span>
                     </button>

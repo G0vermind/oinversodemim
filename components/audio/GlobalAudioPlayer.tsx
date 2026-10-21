@@ -18,6 +18,8 @@ import {
 import { useAppStore } from "../../store/useAppStore";
 import { formatDuracao } from "../../lib/format";
 import { Track } from "../../types";
+import { SoundEqualizer } from "./SoundEqualizer";
+import { AUTHOR_NAME, SITE_NAME } from "../../lib/site";
 
 interface PlayerBarProps {
   track: Track;
@@ -153,11 +155,11 @@ function PlayerBar({
           : "opacity-100"
       }`}
     >
-      {/* Badge Flutuante "Sons do Gerasom" inspirado no mockup */}
+      {/* Badge Flutuante "Sons do Gerasom" com equalizador dourado dinâmico */}
       <div className="max-w-6xl mx-auto px-4 sm:px-6 relative">
         <div className="absolute -top-7 left-6 sm:left-8">
-          <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-t-md bg-[#1B1713] border-t border-x border-linha text-[10px] font-serif tracking-[0.2em] text-destaque uppercase shadow-sm">
-            <Music className="w-3 h-3 text-destaque" aria-hidden="true" />
+          <span className="inline-flex items-center gap-2 px-3 py-1 rounded-t-md bg-[#1B1713] border-t border-x border-linha text-[10px] font-serif tracking-[0.2em] text-destaque uppercase shadow-sm">
+            <SoundEqualizer isPlaying={isPlaying} size="sm" />
             <span>Sons do Gerasom</span>
           </span>
         </div>
@@ -177,9 +179,14 @@ function PlayerBar({
               />
             </div>
             <div className="min-w-0 flex-1">
-              <p className="font-serif font-medium text-texto truncate text-sm sm:text-base">
-                {track.titulo}
-              </p>
+              <div className="flex items-center gap-2">
+                <p className="font-serif font-medium text-texto truncate text-sm sm:text-base">
+                  {track.titulo}
+                </p>
+                {isPlaying && (
+                  <SoundEqualizer isPlaying={true} size="sm" className="hidden sm:inline-flex" />
+                )}
+              </div>
               <p className="text-[11px] text-texto-suave truncate">
                 {track.obraTitulo ? `${track.titulo} — ${track.obraTitulo}` : "Acervo Acústico • Gerasom"}
               </p>
@@ -371,6 +378,58 @@ export function GlobalAudioPlayer() {
       audio.pause();
     }
   }, [currentTrack, isPlaying]);
+
+  // Integração com MediaSession API (Controles em Tela de Bloqueio, Fones Bluetooth e Smartwatches)
+  useEffect(() => {
+    if (typeof window === "undefined" || !("mediaSession" in navigator)) return;
+
+    if (currentTrack) {
+      navigator.mediaSession.metadata = new window.MediaMetadata({
+        title: currentTrack.titulo,
+        artist: AUTHOR_NAME,
+        album: currentTrack.obraTitulo || SITE_NAME,
+        artwork: [
+          {
+            src: currentTrack.capaUrl || "/art/compass.jpg",
+            sizes: "512x512",
+            type: "image/jpeg",
+          },
+        ],
+      });
+    }
+
+    navigator.mediaSession.playbackState = isPlaying ? "playing" : "paused";
+
+    const handlePlay = () => togglePlay();
+    const handlePause = () => togglePlay();
+    const handlePrev = () => playPrevTrack();
+    const handleNext = () => playNextTrack();
+    const handleSeekTo = (details: MediaSessionActionDetails) => {
+      if (details.seekTime !== undefined && audioRef.current) {
+        audioRef.current.currentTime = details.seekTime;
+      }
+    };
+
+    try {
+      navigator.mediaSession.setActionHandler("play", handlePlay);
+      navigator.mediaSession.setActionHandler("pause", handlePause);
+      navigator.mediaSession.setActionHandler("previoustrack", handlePrev);
+      navigator.mediaSession.setActionHandler("nexttrack", handleNext);
+      navigator.mediaSession.setActionHandler("seekto", handleSeekTo);
+    } catch {
+      // Ignora métodos não suportados por navegadores legados
+    }
+
+    return () => {
+      try {
+        navigator.mediaSession.setActionHandler("play", null);
+        navigator.mediaSession.setActionHandler("pause", null);
+        navigator.mediaSession.setActionHandler("previoustrack", null);
+        navigator.mediaSession.setActionHandler("nexttrack", null);
+        navigator.mediaSession.setActionHandler("seekto", null);
+      } catch {}
+    };
+  }, [currentTrack, isPlaying, togglePlay, playPrevTrack, playNextTrack]);
 
   return (
     <>
