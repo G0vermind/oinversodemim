@@ -14,7 +14,7 @@
 /coverage
 
 # next.js
-/.next/
+.next/
 /out/
 
 # production
@@ -47,4 +47,10 @@ next-env.d.ts
 
 # generated test ebooks
 /public/ebooks-test
+
+# optimization backups and caches
+/_originais/
+/public/pdf/
+/.cache/
+/.upgrade-worktree/
 

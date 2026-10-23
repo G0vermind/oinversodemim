@@ -1,11 +1,16 @@
 import fs from 'fs';
 import path from 'path';
 import { mockObras } from './mock-data';
-import { Obra, Poema, Track } from '../types';
+import { Obra, Poema, Track, PoemaContent, FaixaAudioContent } from '../types';
 
 export function getObras(): Obra[] {
   try {
-    const obrasDir = path.join(process.cwd(), 'content', 'obras');
+    const possibleDirs = [
+      path.join(process.cwd(), 'content', 'obras'),
+      path.join(process.cwd(), '..', 'content', 'obras'),
+      path.resolve(__dirname, '..', 'content', 'obras'),
+    ];
+    const obrasDir = possibleDirs.find((d) => fs.existsSync(d)) || possibleDirs[0];
     if (!fs.existsSync(obrasDir)) {
       return mockObras;
     }
@@ -26,14 +31,21 @@ export function getObras(): Obra[] {
         titulo: data.titulo,
         slug: slug,
         descricao: data.descricao,
-        capaUrl: data.capaUrl,
+        capaUrl: data.capaUrl || data.ebookCapaUrl || '/art/compass.jpg',
+        ebookCapaUrl: data.ebookCapaUrl || data.capaUrl || '/art/compass.jpg',
+        audioCapaUrl: data.audioCapaUrl || null,
+        ebookUrl: data.ebookUrl || null,
+        palavrasDoAutor: data.palavrasDoAutor || null,
+        apresentacao: data.apresentacao || null,
+        prefacio: data.prefacio || null,
+        posfacio: data.posfacio || null,
         preco: Number(data.preco) || 0,
         estoqueFisico: Number(data.estoqueFisico) || 0,
         linkVendaFisica: data.linkVendaFisica || null,
         sentimento: data.sentimento || 'Existência',
         createdAt: new Date(data.createdAt || '2026-01-01'),
         updatedAt: new Date(data.createdAt || '2026-01-01'),
-        poemas: (data.poemas || []).map((p: any, idx: number) => ({
+        poemas: (data.poemas || []).map((p: PoemaContent, idx: number) => ({
           id: `${slug}-poema-${p.ordem || idx + 1}`,
           titulo: p.titulo,
           conteudo: p.conteudo,
@@ -42,13 +54,14 @@ export function getObras(): Obra[] {
           obraId: `obra-${slug}`,
           timestamps: Array.isArray(p.timestamps) ? p.timestamps : [],
         })),
-        faixas: (data.faixas || []).map((f: any, idx: number) => ({
+        faixas: (data.faixas || []).map((f: FaixaAudioContent, idx: number) => ({
           id: `${slug}-faixa-${idx + 1}`,
           titulo: f.titulo,
           arquivoUrl: f.arquivoUrl,
           duracao: Number(f.duracao) || 180,
           letra: f.letra || null,
           obraId: `obra-${slug}`,
+          capaUrl: f.capaUrl || data.audioCapaUrl || null,
         })),
       });
     }
@@ -98,7 +111,7 @@ export function getTodasFaixas(): (Track & { obraSlug: string })[] {
         titulo: f.titulo,
         obraTitulo: obra.titulo,
         obraSlug: obra.slug,
-        capaUrl: obra.capaUrl,
+        capaUrl: f.capaUrl || obra.audioCapaUrl || "/art/compass.jpg",
         duracao: f.duracao,
         letra: f.letra,
       });

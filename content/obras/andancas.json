@@ -1,0 +1,780 @@
+{
+  "titulo": "Andanças",
+  "sentimento": "Veredas",
+  "descricao": "Investida lírica sobre os 'andares' e 'dançares' em suas mais diversas concepções, unindo a literatura poética brasileira a uma envolvente paisagem acústica em parceria com o projeto Gerasom.",
+  "capaUrl": "/capas/andancas.png",
+  "audioCapaUrl": "/art/compass.jpg",
+  "ebookUrl": "/ebooks/andancas.pdf",
+  "preco": 0,
+  "estoqueFisico": 15,
+  "linkVendaFisica": "",
+  "createdAt": "2025-01-01",
+  "palavrasDoAutor": "SUMÁRIO\nPALAVRAS DO AUTOR\nAPRESENTAÇÃO\nPREFÁCIO\nANDANÇA\nVIDA AFORA\nA ASTÚCIA DA RAZÃO\nGUARDIÃO\nLUZ DA VIDA\nCACTUS\nBELLA LUNA\nGAIA\nHOMEM DE FERRO\nPASSEIO DE BICICLETA\nSINAIS\nESCOLHAS\nDARK\nPAREIDOLIA\nSEMPRE\nPRIMEIRA DANÇA\nESTANDARTE\nCIRANDA\nSTOKHASTIKÓS\nAMOR FATI\nDRUMMONDIANDO\nOUTRO TEMPO\nANDALUZ\nA DANÇA DA LUA\nANDANTE\nDANÇANTE\nVAGANTE\nBAILE DE MÁSCARAS\nTÉDIO À CONTROVÉRSIA\nMUNDANCE\nANDARILHO\nCONTAGEM REGRESSIVA\nA HARMONIA DO CONTINUUM\n\u0000 EXTRAS \u0000\nMARACAÍPE",
+  "apresentacao": "Andanças é um convite aos sonhos valorosos, aos desejos genuínos. Uma dança com a\nvida, com a beleza, com a leveza.\nEstes poemas tocam a magia de ser. Quem se permitir fluir pelos seus caminhos\ndesconhecidos, poderá tocar ou ser tocado por algo essencial. Permita-se ser\ntransformada(o) e mude o mundo com seu novo olhar.\nDescubra seu ritmo, sua dança. Inicie sua jornada de ser autêntica(o), de ser natural.\nHarmonize-se! O equilíbrio, a vibração e a frequência que emanamos são\nresponsabilidades nossas.\nA pergunta implícita é:\nO que, realmente, vale a pena?\n“Fluir presente! Fluir consciente! No âmago do nosso ser, urge a dança autêntica e natural\nda existência.”\nAdriana Brindeiro, Economista e Artista Plástica",
+  "prefacio": "O que é um poeta senão um menino em busca de \"invencionices\"? Como diria o poeta\nManoel de Barros. Atravessar o tempo tocando espíritos.\nFazer dos trajetos águas fluidas.\nSabermo-nos brincantes das palavras\nque nos ascendem.\nAndarilho que acaricia cicatrizes, acordes de novos movimentos.\nQual o tempo da vida?\nPortais que clareiam o mar e as danças dos versos.\nO poeta diz, em Guardião: \"que assim o destino se cumpra: A vida seguindo o seu curso\ne o amor guiando os passos.\"\nQuantos passos até o próximo sonho?\nO que nos faz caminhar?\nA palavra do poeta floresce\nnuma ânsia, sede e fome da própria natureza.\nFlores, cactos, luas.\n\"Procuro a paz de ser a plenitude\". A ancestralidade clamando por humanidade. \"Gaya,\npor tantos homens profanada, palco dos conflitos, guerras e rebeliões...\" Quantos passos\naté atingir a fé? Desafiar a fúria. Retomar a criança, o menino, o homem, a maturidade.\nPaisagens dentro de uma bicicleta.\nPasseio longo, profundo, estar aberto aos sinais.\n\"É bastante estar entre azuis.\"\nDesejos e deusas que são lamparinas de constante inspiração. Sombras, solidões,\nsemelhanças, costurando cotidianamente os sempres.\nEstamos todos os dias renascendo\npara os primeiros passos.",
+  "posfacio": "Acompanho Heldemarcio em sua verve poética desde os primeiros versos, e o que se\nrevela agora, nessas Andanças, é um percurso de crescimento contínuo e\namadurecimento evidente. Sua expressão poética se expande, dialogando com novos\nrecursos digitais que ampliam as formas de interação e leitura do mundo.\nNeste trabalho, que vai além da construção dos poemas e do seu habilidoso jogo com as\npalavras, o autor compartilha uma visão sensível e cifrada de suas realidades e\nsentimentos diante da complexa travessia por Gaia. Soma-se a isso uma musicalidade\nprópria, feita de melodias e ritmos sutis, sugeridos pelo próprio poeta. Ao percorrer cada\nespaço desse mapa poético, somos convidados a uma experiência que nos toca em\nmúltiplos níveis, despertando dimensões íntimas do nosso estar no mundo.\nElias Menezes Cavalcanti\nEngenheiro Eletricista e Trilheiro",
+  "poemas": [
+    {
+      "titulo": "ANDANÇA",
+      "ordem": 1,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Ando por aí...\nPelo chão desse lugar\nAlegre ou triste\nTanto faz se sou feliz\nOu se o ego ainda insiste\nEm me deixar a cicatriz.\nAndo passo a passo\nComo numa dança\nEsse meu compasso\nSó quem anda alcança.\nAndo pelo ir...\nPor tudo que me faz andar\nNa pulsão da aventura\nO corpo livre e a alma plena\nÉ do vigor dessa postura\nQue a jornada vale a pena.\nAndo à toa, a esmo\nMas com esperança\nSigo sendo eu mesmo\nImerso na mudança.\nDança, dança, dança, dança\nDança, dança, dança...\nDança, dança...\nDança...",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "VIDA AFORA",
+      "ordem": 2,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "A vida é dádiva\nA vida é dúvida\nA vida é ávida\nA vida é dívida\nDevida em vida.\nA vida é agora/Aflora e vibra!\nPela vida afora...\nEm fios urdida/Pra ser vivida.\nA vida é chama/inflama a pira!\nPela vida afora...\nE noutra vida/Arde atrevida.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "A ASTÚCIA DA RAZÃO",
+      "ordem": 3,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "É da fonte em que prolifera a ontologia\nQue a dialética se mostra mais profícua\nE o identitário se confunde com agonia\nAo conceber a miscigenação promíscua.\nNão há fato que se resuma a versão única\nO contraditório das múltiplas percepções\nPropicia o cerne da epistemologia pública\nNa fértil semente democrática das razões.\nNo descortino de inconsistências bizarras\nQue manipulam as consciências coletivas\nBrotam os augúrios, os mitos e as amarras\nNa insensatez que torna as mentes cativas.\nÉ do auspício dessa fagulha tão brilhante\nQue em cada ser deve permanecer acesa\nE clarear o mar a se guiar por tal sextante\nQue revela a causa em sua real natureza.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "GUARDIÃO",
+      "ordem": 4,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Guarde no seu olhar as imagens imaginadas\npela teia virtual do real desejo…\n[Num lampejo de clarividência emotiva]\nGuarde na memória a nossa curta história\na se completar por mero almejo…\n[A luz que vejo fruir da fagulha criativa]\nQue assim o destino se cumpra:\nA vida seguindo o seu curso\ne o amor guiando os passos.\nGuarde na boca o sabor viciante dos beijos\nque um dia ainda iremos provar…\n[Pra tocar a alma ao trocar nossa saliva]\nGuarde em segredo na sua nua intimidade\nA ânsia infinda e etérea de amar…\n[Buscar na paixão a razão pra que se viva]",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "LUZ DA VIDA",
+      "ordem": 5,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Ela é luz, ela é\nliz e elegância\nFragrância que a mente imagina\nMensageira do Deus da abundância\nÀ distância a sua aura me fascina.\nLuz da vida, flor do ser\nA florescer na alma do ateu\nAnjo por Deus prometida\nLuz da vida, acende o breu.\nEla é linda, ainda que esteja além\nMas, o bem que ela me faz\nÉ a paz do amor que eu procuro\nO futuro que o presente me traz.\nLuz da vida, flor do ser\nA florescer na alma do ateu\nAnjo por Deus prometida\nLuz da vida, acende o breu.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "CACTUS",
+      "ordem": 6,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Quem serei eu afinal?\nQuem fui e como so(o)u...\nO som solene de acorde tão banal\nNão importa o que digo ou estampo escrito\nPelas infames e tortuosas linhas\nNas minhas idiossincrasias de proscrito.\nSer suave, puro, ameno\nComo a maciez de um cacto\nAdocicado pelo néctar do veneno\nImerso em escavado dilema existencial\nDessas moléstias psíquicas mais daninhas\nNas entrelinhas, apenas um ego glacial.\nUm sujeito arcaico\nEsse típico homo “erectus”\nFormado por tão vil mosaico\nNada sutil no limiar de seus conflitos\nA tudo se opõe pela rota que caminha\nEntão definha pelos próprios delitos.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "BELLA LUNA",
+      "ordem": 7,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Noite adentro só, à lua contemplo\nO tempo é de meditação e quietude\nAmiúde vejo o infinito, além do escuro\nProcuro a paz de ser e a plenitude...\nDançam as estrelas num balé celeste\nQue veste o céu de luzes cintilantes\nAntes do extenso vão do véu noturno\nSaturno com seus anéis já anuncia...\nA bela imagem da nova menina\nMina da esperança numa aquarela\nA bela luz que traz na inocência\nEssência de amor e paz ao mundo.\nOuça a voz da avó que embala\nE exala toda a devoção materna\nA terna afeição da alma humana\nEmana a vibração meiga e fraterna.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "GAIA",
+      "ordem": 8,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Mãe terra, morada fértil da ganância\nNascente natura do criador à criatura\nEssa dádiva que alarda além a vida\nDa força que gera tanta exuberância.\nGaia por tontos homens profanada\nPalco dos conflitos, guerras e rebeliões\nDe ambições belicosas que devastam\nAfastam do humano a sua aura sagrada.\nGalés navegam desde o atlântico revolto\nPor um sextante ou estrela que oriente\nFrente ao pacífico mar, indico o horizonte\nA ponte que une o oceano ao barco solto.\nAmérica, África, Europa, Ásia e Oceania\nPela cercania incontinente que nos separa\nDa rara e nova era em que prospera a paz\nCapaz de ser um farol que ilumina e guia.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "HOMEM DE FERRO",
+      "ordem": 9,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Homem de fé\nSujeito de fibra\nTocando a arte\nA sua alma vibra\nÉ preciso o dom / Fluindo na veia\nDesejar a glória / Tudo que anseia.\nHomem de ferro\nSenhor de fato\nVença o desastre\nE siga o seu ato\nÉ preciso raça / Fazendo diferente\nDesafiar a fúria / Tudo que enfrente.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "PASSEIO DE BICICLETA",
+      "ordem": 10,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Dessa criança feliz que aqui havia\nÉ o que demais precioso se pode oferecer\nPois, o que antecede tem veraz poder\nComo o prazer é vida em primazia!\nSequência ritmada de pura energia\nAvança a cada volta que dá o pedal\nNa linha que une o novo ao ancestral\nA infância da velhice em nostalgia\nQue o tempo traga intacta a poesia\nPara germinar (em nós) com tudo a ver\nA fina flor que habita em todo ser\nRealizar o que adorna em fantasia...\nSequência ritmada em alegoria\nPelo lúdico que conduz ao natural\nMovimento que une alma e carnal\nNessa fábula eivada de alegria\nPena Branca só olhava e sorria\nMas Sebastião Conchita custava a crer\nZé Coragem, mais distante, sem saber\nComo uma bicicleta embriagaria.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "SINAIS",
+      "ordem": 11,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Acho que é assim:\nPara se viver bem\nÉ bastante estar entre azuis\nDe vastos céu e mar...\nÉ preciso caminhar\nPelas trilhas e sendas repletas\nDe areias e pedras.\nAcho que é assim:\nPara saber o que dizem\nAs falas das bocas caladas\nSilentes e secretas...\nHá que traduzir-se\nE se desnudar, antes revestido\nDe versos e rimas.\nAcho que é assim:\nPara fazer sentido\nBasta estar atento aos sinais\nDa luz e do som...\nUrge se propagar\nAlém de fronteiras, videar a arte\nDe cantos e danças.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "ESCOLHAS",
+      "ordem": 12,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Saudades do amor que nunca tive\nCarência de um ser melancólico\nEssa nostalgia do que não se vive\nAlgo interior em seu teor simbólico.\nE de cada escolha que faço e repito:\nSóbrio, sombrio e solitário!\nDe tudo sendo, em nada me limito\nNo mapa da vida traço o meu itinerário.\nE assim fica o dito pelo não dito:\nO feito, o feitio e o feitiço!\nDas poucas cousas em que acredito\nNa finitude de um mundo em reboliço.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "DARK",
+      "ordem": 13,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Queimam altas as fogueiras\nDerradeiras sensações do gozo\nQue dilaceram frágeis vaidades\nBeldades no cio dos prazeres\nTeu corpo de pele escura\nRessalta as curvas da musculatura\nNa proporção exata do desejo\nExalta o poder em que me despejo\nSendo escravo, escrevo a luxúria\nCom as farpas e centelhas do prazer\nSob os auspícios do tesão em fúria\nDessa Deusa de Ébano a se satisfazer\nNo auge dessa compulsão sem fim\nArdendo em volúpia lancinante\nToda vez que penetrar em mim\nComo calafrio de calor alucinante\nAcende a pira em que arde a chama\nLabaredas de poder D’arc negrume\nJoana das fagulhas desse melodrama\nDomina no esplendor o nímio lume.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "PAREIDOLIA",
+      "ordem": 14,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "A tudo aquilo que está\nPara além do lugar-comum\nQue se revela ao mirar\nSentidos da mente em zoom.\nAssim há que se perceber\nNa pareidolia das catarses\nCada significado se estender\nNas mensagens e sinapses.\nNa parede úmida do quarto\nAs manchas da capilaridade\nEsboçam o perfeito retrato\nDa mais poética celebridade.\nDe onde vem tal semelhança?\nE qual seu recado subjacente?\nNesses cenários de mudança:\nA inusitada nuvem iridescente.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "SEMPRE",
+      "ordem": 15,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Tão nós dois, esse desejo de ficar a sós,\nTão a sós desse desejo de nós dois,\nDesconcertadamente pequenos,\nQuando nossos sóis adentram mutuamente,\nNossas sombras,\nTão veloz, doce lampejo, o som da sua voz\nTantos nós, atamos pelo beijo um depois\nDesesperadamente serenos,\nQuando nossas sombras soaram musicalmente\nNossos sis bemóis.\n(feat. Thiago Annderson)",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "PRIMEIRA DANÇA",
+      "ordem": 16,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "E você que anda parado\nNesse paradoxo que é tamanho\nSozinho diante do espelho\nAssim não vai se achar estranho.\nApoiado em ombros de gigantes\nEm sintonia quase sublime\nA visão de beleza inusitada\nDa lírica ode de rimas dançantes.\nVigie lá fora essas nuvens negras\nPois, nada perpassa o acaso\nO que se pode fazer a curto prazo\nSenão curtir a primeira dança.\nNo compasso lúdico do acalanto\nSó o vinho é que faz entender\nUma só taça não mata a sede\n“O gosto de ser sátiro e não santo.”\nCeda aos benefícios da música\nQue enseja um momento singular\nSinta a melodia sonora e lúdica\nEm si refletida, imagética extensão.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "ESTANDARTE",
+      "ordem": 17,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Estamos aqui ao nascer\nAutênticos, livres e talentosos\nEstamos aqui firmes e zelosos\nPor cada ser e seu parecer.\nEstamos aqui em carne viva\nPara saborear o gosto da arte\nEstamos aqui com estandarte\nA alma ecoa nossa voz ativa.\nEstamos aqui a cada arrebol\nNada do escuro nos assombra\nEstamos aqui além da sombra\nA luzir com a clareza do farol.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "CIRANDA",
+      "ordem": 18,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Andar, andar\nAo sol a pino\nEm desatino\nSem um destino\nAté chegar.\nE nesse mote da caminhada\nNessa jornada sou peregrino\nO clandestino numa cruzada\nAssim do nada, tão repentino.\nDançar, dançar\nAo som da banda\nGira a ciranda\nComo quem anda\nPra não chegar.\nE nesse ritmo que contagia\nDa “Ilha de Lia” até Luanda\nManda dizer que essa folia\nÉ utopia que a vida abranda.\nAnda Luzia, dança Yolanda…",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "STOKHASTIKÓS",
+      "ordem": 19,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "O que dizer da prosaica audácia\nDe superar todo e qualquer desafio\nCada óbice, armadilha ou falácia\nQue se nos impõe dias e noites a fio.\nA sorte se une ao azar, bizarros elos\nNorteando o percurso adiante\nComo extremos que surgem paralelos\nDo ínfimo pro infinito radiante.\nO que dizer da solene eloquência\nAo abordar todo inusitado e arredio\nNada de fé, certeza ou referência\nQue possa conter o dom do desvario.\nA trajetória segue dispersa do alvo\nAlheia a freima do caminhante\nNenhum afeto do acaso está a salvo\nPelo viés do aleatório e errante.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "AMOR FATI",
+      "ordem": 20,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Atingi o fundo do poço\nDa “solitude” há muito desejada\nCom aquela sóbria atitude\nQue se manteve coerente e inabalada.\nSempre o destino acatar\nCom seu absoluto arbítrio e isenção\nSigo na vida célere e resoluto\nAo amor fati, a busca fulcral da paixão.\nNada me aflige como antes\nMas sobretudo, como diria Nietzsche\nApesar dos pesares e, contudo\nOs dilemas dessa vida não passam de tolices.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "DRUMMONDIANDO",
+      "ordem": 21,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Se o teu verso gauche vencer o tempo\nPara durar além da vida\nO poema sentimental arderá em glória\nComo a cura a (se) propagar\nA tua assinatura nas paredes da memória...\n(\nÉ do mundo; é du monde, é Drummond)\nSe o eco do teu canto alcançar a dor\nPela freima da ferida acesa\nA palavra engajada há de bradar direta\nSem remissão nem redenção\nA aura da poesia a inundar a vida do poeta.\n(\nÉ do mundo; é du monde, é Drummond)",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "OUTRO TEMPO",
+      "ordem": 22,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "O que foi que aconteceu?\nComo isso tudo transcorreu, sem que eu visse?\nA criança cresceu no verde vale de lágrimas\n- E agora, quem serei eu? É outro tempo.\nPor que não estive atento?\nQuando mudaram as estações, onde eu estava?\nAndei contra a luz e contornei a sombra\n- Era orgulho que me guiava o tempo todo.\nA quem caberia o engodo?\nPor acreditar em mim, sem o destino traçado?\nE o passo adiante, para onde me afasto\n- Será apenas no tempo, outro espaço.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "ANDALUZ",
+      "ordem": 23,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Por terras de sol e sangue\nSegue o bardo caminhante\nAvante pela senda que o conduz\nNa luz, permeia a sua sombra...\nPelas trilhas de verso e rima\nObra-prima forjada no instante\nBrilhante como a aura que seduz\nTraduz com vigor a sua verve.\nPara sempre viva em poesia\nA estesia filosófica e fascinante\nDiante de tudo que se expõe à luz\nOs azuis de céu e mar profanos.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "A DANÇA DA LUA",
+      "ordem": 24,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Vista seu mais belo sorriso\nDesça para o salão de dança\nDispa-se do que não é preciso\nE sinta o luar que te balança.\nA dança da lua nua\nMinguante, crescente, cheia\nA dança da lua nova\nMarcante, serpente e sereia\nSolte o corpo sem receios\nA alma livre do preconceito\nO balançar\ncaliente dos seios\nExtravasa tristezas do peito.\nA dança da lua nua\nMinguante, crescente, cheia\nA dança da lua nova\nMarcante, serpente e sereia\nNo céu a lua ainda se insinua\nA mover-se lânguida e faceira\nDespojada de adornos continua\nA dama da noite, diva feiticeira.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "ANDANTE",
+      "ordem": 25,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Errante, transeunte e erradio\nPassante entre o adágio e o alegro\nSer que se revela único: vadio\nEm frontal reação ao mundo egro.\nEm seu favor, uma força inata\nPara se mostrar em raça e gênero\nHomem e mulher – pessoa exata\nNem anjo, nem Deus efêmero.\nAndante, vagamundo, audaz\nCom toda a pujança destemida\nSer cujo comum não satisfaz\nAnseia a aventura desmedida.\nEm seu vigor, só a força exata\nSem anjo e sem Deus efêmeros\nHomem ou mulher – pessoa inata\nPara quaisquer raças e gêneros.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "DANÇANTE",
+      "ordem": 26,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Faça de seu corpo um instrumento\nNo movimento articulado dos ossos\nSiga em frente, de mente liberta\nAberta para as inéditas sensações...\nCurta o lance com prazer e dance\nAo seu alcance está a chance de acender\nCurta mesmo que se canse e dance\nAssim, avance os degraus para ascender\nFaça da sua alma uma espaçonave\nNoutro voo suave a bailar nos ócios\nSem o pecado pesado como agrura\nCreatura sedenta de tais emoções...\nCurta o lance por lazer e dance\nA cada nuance, se balance até absorver\nCurta o casual\nfreelance e dance\nAssim, o relance da graça vai te absolver.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "VAGANTE",
+      "ordem": 27,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "A todo custo a poesia brota\nMesmo que o solo seja seco e inóspito\nAinda que o eco ressoe a vaia da derrota\nNão por acaso existe o verso estrépito\nO que se desvela a cada palavra escrita.\nSegue o dolente alívio do sonho\nQuando a utopia cria os sinais do ufano\nNo cadafalso, a passo solene e medonho\nAté que ao fim se aufere ao vate profano\nO dom sagrado que no humano habita.\nOra me defino em parco refino:\nEu sou escravo daquilo que escrevo\nVagando na lida combalida d’outra jornada\nEu sou o pecado medido e pesado\nVagando no texto sem contexto, sem nada.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "BAILE DE MÁSCARAS",
+      "ordem": 28,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "E do alimento envenenado\nRecebestes o livramento\nO teu corpo são e salvo\nAgora está livre para bailar.\nGrato ao cordeiro sacrificado\nQue expiou a dor da agonia!\nEm que medida depositas\nA tua fé e a confiança\nPosto a celebrar sutil vitória\nAo contornar vil armadilha.\nGrato ao cordeiro sacrificado\nQue expiou a dor da agonia!\nBailas no sarau dos mascarados\nÀ face furtiva de quem vive\nNo anonimato desta elegia\nSobre os males do querer bem.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "TÉDIO À CONTROVÉRSIA",
+      "ordem": 29,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Um debate que não avança\nEnredo vicioso e sem saída\nPeso fútil do fardo que cansa\nA chama que apaga sem vida.\nUm fogo que arde sem calor\nNo ritual de monotonia\nSem significado e sem teor\nFeito da faísca da apatia.\nTédio que espraia suas chagas\nEm discursos inúteis, amiúde\nA controvérsia de ideias vagas\nComo dogmas de quem se ilude.\nO conflito que nos oprime\nQual o esforço que se esgota\nEm resultado que deprime\nCiclo que repete a mesma rota.\nUm argumento falacioso\nDesprovido de razão sensata\nQue se alastra malicioso\nPelo vão da filosofia barata.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "MUNDANCE",
+      "ordem": 30,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "“O mundo inteiro está naquela\nestrada ali em frente...”\nO mundo está além do muro\nDa cerca que limita o quintal\nAtravés de passado ou futuro\nSeja o moderno ou ancestral.\nVamos dançar, vamos dançar\nPara chamar a chuva\nVamos dançar, vamos dançar\nAté o sol nascer.\nO mundo é casual e impreciso\nNada é divino ou maravilhoso\nSendo inútil o ideal do paraíso\nEm meio a esse sítio perigoso.\nVamos dançar, vamos dançar\nPara que o corpo aqueça\nVamos dançar, vamos dançar\nAté que a alma brilhe.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "ANDARILHO",
+      "ordem": 31,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Aposto em estrelas como guia\nEm qualquer tempo ou lugar\nHá de ser o rumo para andar\nQuando a nossa rota se desvia.\nÉ que toda estrela tem seu brilho\nComo a luz interior a conduzir\nO trajeto incerto vem traduzir:\nA estrada que inspira o andarilho.\nDaí, segue obstinado o peregrino\nSempre a apreciar a jornada\nNo descortino da caminhada\nO que menos importa é o destino.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "CONTAGEM REGRESSIVA",
+      "ordem": 32,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Agora falta um pouco\nPois, todo dia a mais é só um dia a menos\nÉ a contagem regressiva:\nQuanto tempo ainda temos?\nAntes era fúria do vigor da juventude\nNo auge da existência à flor da idade\nDepois veio a mudança de atitude\nE o ocaso da essência anula a vaidade.\nAntes era o sonho, desejo e ideal\nA vida inusitada, repleta de prazeres\nDepois vem o cruel limite do real\nE tolhe a utopia com tantos afazeres.\nAntes, o riso fácil e a mente arejada\nNa ânsia de saber tudo que lhe encanta\nDepois virá o ardil da farsa ensejada\nE, por sua vez, já não mais lhe espanta.\nAgora estamos calmos\nPois, não há qualquer motivo para pressa\nÉ a sentença compassiva:\nO tempo é o que menos interessa.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "A HARMONIA DO CONTINUUM",
+      "ordem": 33,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Seja o uno em formas diferentes\nO que nos pareça “estranhamente igual”\nAo longe nessa estrada se avista o inusitado.\nQuanto ao\nhumanum indecifrável\nEm busca de sua anima móbil e libertária\nNa mais apoteótica celebração da alma.\nHabitamos um corpo interestelar\nOnde o todo se revela estrito\nÉ a dimensão de um universo singular\nNa cadência do pulsar infinito.\nSeja no tempo ou na distância\nO que nos separa também é o que nos une\nEm breve jornada por órbitas harmônicas.\nNesse\ncontinuum tecido da existência\nQue cada passo siga o compasso do coração\nNuma linda dança de seres estelares.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "MARACAÍPE",
+      "ordem": 34,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Ar que inspira esse silêncio\nDo vento que move os coqueirais\nVisão que se estende mar adentro\nHerança de tempos ancestrais.\nMaravilhosa: Mar A Caípe\nMaracatu - Tacape - Martelo\nMar que arrebenta no Recife\nUm hino em verde e aMarelo.\nEis que o rio canta entre as areias\nCantigas de pedras, terra e mangue\nOnde a água escorre pelas veias\nComo se fora do mar o próprio sangue.\nNa beleza emoldurada por corais\nBailam os lépidos cavalos-marinhos\nDas restingas e dos manguezais\nEstuários de biomas ribeirinhos.\nMar à vista: barco solto, vela aberta\nComo numa tela em cores vivas\nA exuberante natureza desperta\nEm meio à fauna e a flora nativas.\nMarcas de um território singular\nOnde o mar beija a terra com ternura\nParaíso em seu contorno insular\nQue encerra a derradeira aventura.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "SEM PALAVRAS",
+      "ordem": 35,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Às vezes você surge, às vezes você some\nDe você só sei o nome e o sorriso mais lindo\nE um olhar me atraindo para esse precipício\nÀs vezes é tão difícil encontrar a explicação\nSe as coisas do coração são assim inusitadas\nO sentido das palavras se perde na emoção.\nÀs vezes a atração faz o poema brotar da alma\nFluindo da palma da mão ao verso que acaricia\nSó eu sei a alegria que ao te ver sinto por dentro\nÀs vezes falta argumento pra dizer exatamente\nAquilo que o coração sente e a cabeça não evita\nPorque o corpo se excita pela pessoa atraente.\nÀs vezes pareço ausente das coisas desse mundo\nExploro o mais profundo que à superfície se ignora\nE prossigo vida afora numa labuta sem descanso.\nÀs vezes penso que alcanço o canto mais bonito\nAté quase acredito que eu possa ser o seu poeta\nQuando a palavra secreta é amar, eu tenho dito.\nEnquanto a palavra decreta \"amar\", eu acredito.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "CORAÇÃO EM FESTA",
+      "ordem": 36,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Dela vem o charme\nAntes do falar...\nNa suave idade\nFaz trazer à tona\nO bom do sertanejo.\nDela vem a chama\nAnte o meu olhar\nNa sensualidade\nBrasa que detona\nA bomba do desejo!\nAssim o universo\nConspira em segredo\nE quando não se espera\nAbre-se um largo riso\nNo coração onde festejo.\nDela vem a chave\nO ser que me decifra\nCom toda sinceridade\nPrazer que me aprisiona\nEm todo canto que a vejo!\nDela vem a chance\nO sim que me desarma\nSaber da felicidade\nDe quem se apaixona\nE me entregar num beijo.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "LA ILUSIÓN DEL AMOR",
+      "ordem": 37,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Es del amor que nace la locura\nDe querer otra persona\nTanto, tanto, tanto\nTanto que no tiene cura.\nArde la pasión como llama\nSe niega todo que es cierto\nCuando se quiere estar cerca\nDel afecto de quien se ama.\nTodo amor es eterno\nMientras dura la ilusión\nDespués, la visión del infierno\nEs lo que resta de la relación.\nAmor vive en meras palabras\nEfímeras hojas al viento\nAl fin sólo tristeza y sufrimiento\nNos cortan como navajas.\nEs de ese dolor que muere la ilusión\nDe creer en un final feliz\nY así es que se aprende la lección\nTodo el amor deja su cicatriz.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "METÁFORA ESTRANHA",
+      "ordem": 38,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Nossa mistura faz sentido\nEm cada cor da flor da pele\nNosso prazer a ser vivido\nÉ caos, amor que nos impele.\nAinda que o ciúme e sua sanha\nConsuma em dor que maltrata\nRecorro à metáfora estranha:\nDos longos cabelos da mulata.\nSaga profana de nossa libido\nQuando o tesão assume o comando\nSabor viciante de sexo atrevido\nQuanta sedução ao corpo clamando.\nAinda que seja uma façanha\nConter toda essa ânsia imediata\nRecorro à metáfora estranha:\nDos longos cabelos da mulata.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "ANJOS E DEMÔNIOS",
+      "ordem": 39,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Antevi passível o possível inventário\nDe tudo que fora infortúnio para mim\nApenas as coisas de valor monetário:\nSem asas do desejo...\nNem anjos no céu de Berlim.\nAssisti extático ao estático equilíbrio\nDe forças opostas na peleja: bem e mal\nManiqueísmo exacerbado em ludíbrio:\nSem chamas ardentes...\nNem demônio ígneo infernal.\nAcreditei herético no hermético dogma\nDe guiar as consciências no fatal dilema\nComo a dura geleira exposta ao magma:\nSem pecados mortais...\nNem brio de virtude extrema.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "SIGNO DO AR",
+      "ordem": 40,
+      "publicadoEm": "2025-01-01",
+      "conteudo": "Dizem que amores vem e vão\nMas um amor não vem em vão\nQuando chega faz cama e mesa\nEntra, se aconchega, dá despesa\nE quase sempre sai sem pagar.\nSei que não sou digno de elogiar\nO meu temperamento é peculiar\nCom o talento singular do chato\nAinda assim, o meu amor é fato\nE o signo é da delicadeza rude.\nPeço a Deus que nos ajude\nE toda a paciência de amiúde\nPara amenizar tantos conflitos\nMas nossos desejos infinitos\nNenhum Deus pode aplacar.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    }
+  ],
+  "faixas": [
+    {
+      "titulo": "ANDANÇA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/b7061f3dd8087f10daa3314d70cb1223.mp3",
+      "duracao": 180,
+      "letra": "Ando por aí...\nPelo chão desse lugar\nAlegre ou triste\nTanto faz se sou feliz\nOu se o ego ainda insiste\nEm me deixar a cicatriz.\nAndo passo a passo\nComo numa dança\nEsse meu compasso\nSó quem anda alcança.\nAndo pelo ir...\nPor tudo que me faz andar\nNa pulsão da aventura\nO corpo livre e a alma plena\nÉ do vigor dessa postura\nQue a jornada vale a pena.\nAndo à toa, a esmo\nMas com esperança\nSigo sendo eu mesmo\nImerso na mudança.\nDança, dança, dança, dança\nDança, dança, dança...\nDança, dança...\nDança...",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "VIDA AFORA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/9a5d64edd390639fb6af5c0f18c73f19.mp3",
+      "duracao": 180,
+      "letra": "A vida é dádiva\nA vida é dúvida\nA vida é ávida\nA vida é dívida\nDevida em vida.\nA vida é agora/Aflora e vibra!\nPela vida afora...\nEm fios urdida/Pra ser vivida.\nA vida é chama/inflama a pira!\nPela vida afora...\nE noutra vida/Arde atrevida.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "A ASTÚCIA DA RAZÃO",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/e49606ea85cceb3c4b3692d4b2abf2a2.mp3",
+      "duracao": 180,
+      "letra": "É da fonte em que prolifera a ontologia\nQue a dialética se mostra mais profícua\nE o identitário se confunde com agonia\nAo conceber a miscigenação promíscua.\nNão há fato que se resuma a versão única\nO contraditório das múltiplas percepções\nPropicia o cerne da epistemologia pública\nNa fértil semente democrática das razões.\nNo descortino de inconsistências bizarras\nQue manipulam as consciências coletivas\nBrotam os augúrios, os mitos e as amarras\nNa insensatez que torna as mentes cativas.\nÉ do auspício dessa fagulha tão brilhante\nQue em cada ser deve permanecer acesa\nE clarear o mar a se guiar por tal sextante\nQue revela a causa em sua real natureza.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "GUARDIÃO",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/b278e7789a9070e6debc04fb68e3daa3.mp3",
+      "duracao": 180,
+      "letra": "Guarde no seu olhar as imagens imaginadas\npela teia virtual do real desejo…\n[Num lampejo de clarividência emotiva]\nGuarde na memória a nossa curta história\na se completar por mero almejo…\n[A luz que vejo fruir da fagulha criativa]\nQue assim o destino se cumpra:\nA vida seguindo o seu curso\ne o amor guiando os passos.\nGuarde na boca o sabor viciante dos beijos\nque um dia ainda iremos provar…\n[Pra tocar a alma ao trocar nossa saliva]\nGuarde em segredo na sua nua intimidade\nA ânsia infinda e etérea de amar…\n[Buscar na paixão a razão pra que se viva]",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "LUZ DA VIDA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/48a8c0ddd7c2388076b78e2d4cb0033c.mp3",
+      "duracao": 180,
+      "letra": "Ela é luz, ela é\nliz e elegância\nFragrância que a mente imagina\nMensageira do Deus da abundância\nÀ distância a sua aura me fascina.\nLuz da vida, flor do ser\nA florescer na alma do ateu\nAnjo por Deus prometida\nLuz da vida, acende o breu.\nEla é linda, ainda que esteja além\nMas, o bem que ela me faz\nÉ a paz do amor que eu procuro\nO futuro que o presente me traz.\nLuz da vida, flor do ser\nA florescer na alma do ateu\nAnjo por Deus prometida\nLuz da vida, acende o breu.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "CACTUS",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/29560db6175226cddbc23201ae214e55.mp3",
+      "duracao": 180,
+      "letra": "Quem serei eu afinal?\nQuem fui e como so(o)u...\nO som solene de acorde tão banal\nNão importa o que digo ou estampo escrito\nPelas infames e tortuosas linhas\nNas minhas idiossincrasias de proscrito.\nSer suave, puro, ameno\nComo a maciez de um cacto\nAdocicado pelo néctar do veneno\nImerso em escavado dilema existencial\nDessas moléstias psíquicas mais daninhas\nNas entrelinhas, apenas um ego glacial.\nUm sujeito arcaico\nEsse típico homo “erectus”\nFormado por tão vil mosaico\nNada sutil no limiar de seus conflitos\nA tudo se opõe pela rota que caminha\nEntão definha pelos próprios delitos.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "BELLA LUNA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/aceb4a33554ee4f626c57fea78fb6ea3.mp3",
+      "duracao": 180,
+      "letra": "Noite adentro só, à lua contemplo\nO tempo é de meditação e quietude\nAmiúde vejo o infinito, além do escuro\nProcuro a paz de ser e a plenitude...\nDançam as estrelas num balé celeste\nQue veste o céu de luzes cintilantes\nAntes do extenso vão do véu noturno\nSaturno com seus anéis já anuncia...\nA bela imagem da nova menina\nMina da esperança numa aquarela\nA bela luz que traz na inocência\nEssência de amor e paz ao mundo.\nOuça a voz da avó que embala\nE exala toda a devoção materna\nA terna afeição da alma humana\nEmana a vibração meiga e fraterna.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "GAIA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/8bb61488170bd664497e412cb880c93b.mp3",
+      "duracao": 180,
+      "letra": "Mãe terra, morada fértil da ganância\nNascente natura do criador à criatura\nEssa dádiva que alarda além a vida\nDa força que gera tanta exuberância.\nGaia por tontos homens profanada\nPalco dos conflitos, guerras e rebeliões\nDe ambições belicosas que devastam\nAfastam do humano a sua aura sagrada.\nGalés navegam desde o atlântico revolto\nPor um sextante ou estrela que oriente\nFrente ao pacífico mar, indico o horizonte\nA ponte que une o oceano ao barco solto.\nAmérica, África, Europa, Ásia e Oceania\nPela cercania incontinente que nos separa\nDa rara e nova era em que prospera a paz\nCapaz de ser um farol que ilumina e guia.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "HOMEM DE FERRO",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/a126c43e6ce64bdd9a747163032291da.mp3",
+      "duracao": 180,
+      "letra": "Homem de fé\nSujeito de fibra\nTocando a arte\nA sua alma vibra\nÉ preciso o dom / Fluindo na veia\nDesejar a glória / Tudo que anseia.\nHomem de ferro\nSenhor de fato\nVença o desastre\nE siga o seu ato\nÉ preciso raça / Fazendo diferente\nDesafiar a fúria / Tudo que enfrente.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "PASSEIO DE BICICLETA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/5d96e591c83df2aabb718d9e913c3b02.mp3",
+      "duracao": 180,
+      "letra": "Dessa criança feliz que aqui havia\nÉ o que demais precioso se pode oferecer\nPois, o que antecede tem veraz poder\nComo o prazer é vida em primazia!\nSequência ritmada de pura energia\nAvança a cada volta que dá o pedal\nNa linha que une o novo ao ancestral\nA infância da velhice em nostalgia\nQue o tempo traga intacta a poesia\nPara germinar (em nós) com tudo a ver\nA fina flor que habita em todo ser\nRealizar o que adorna em fantasia...\nSequência ritmada em alegoria\nPelo lúdico que conduz ao natural\nMovimento que une alma e carnal\nNessa fábula eivada de alegria\nPena Branca só olhava e sorria\nMas Sebastião Conchita custava a crer\nZé Coragem, mais distante, sem saber\nComo uma bicicleta embriagaria.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "SINAIS",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/73fa626bebd2ca1e9e7f791aef334b4a.mp3",
+      "duracao": 180,
+      "letra": "Acho que é assim:\nPara se viver bem\nÉ bastante estar entre azuis\nDe vastos céu e mar...\nÉ preciso caminhar\nPelas trilhas e sendas repletas\nDe areias e pedras.\nAcho que é assim:\nPara saber o que dizem\nAs falas das bocas caladas\nSilentes e secretas...\nHá que traduzir-se\nE se desnudar, antes revestido\nDe versos e rimas.\nAcho que é assim:\nPara fazer sentido\nBasta estar atento aos sinais\nDa luz e do som...\nUrge se propagar\nAlém de fronteiras, videar a arte\nDe cantos e danças.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "ESCOLHAS",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/11d520db717289ccbc0dd49d296282cd.mp3",
+      "duracao": 180,
+      "letra": "Saudades do amor que nunca tive\nCarência de um ser melancólico\nEssa nostalgia do que não se vive\nAlgo interior em seu teor simbólico.\nE de cada escolha que faço e repito:\nSóbrio, sombrio e solitário!\nDe tudo sendo, em nada me limito\nNo mapa da vida traço o meu itinerário.\nE assim fica o dito pelo não dito:\nO feito, o feitio e o feitiço!\nDas poucas cousas em que acredito\nNa finitude de um mundo em reboliço.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "DARK",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/e22da1dd4ccd7896abd5defc088b9d9d.mp3",
+      "duracao": 180,
+      "letra": "Queimam altas as fogueiras\nDerradeiras sensações do gozo\nQue dilaceram frágeis vaidades\nBeldades no cio dos prazeres\nTeu corpo de pele escura\nRessalta as curvas da musculatura\nNa proporção exata do desejo\nExalta o poder em que me despejo\nSendo escravo, escrevo a luxúria\nCom as farpas e centelhas do prazer\nSob os auspícios do tesão em fúria\nDessa Deusa de Ébano a se satisfazer\nNo auge dessa compulsão sem fim\nArdendo em volúpia lancinante\nToda vez que penetrar em mim\nComo calafrio de calor alucinante\nAcende a pira em que arde a chama\nLabaredas de poder D’arc negrume\nJoana das fagulhas desse melodrama\nDomina no esplendor o nímio lume.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "PAREIDOLIA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/d762fd6444523eb8c377761dd0b05474.mp3",
+      "duracao": 180,
+      "letra": "A tudo aquilo que está\nPara além do lugar-comum\nQue se revela ao mirar\nSentidos da mente em zoom.\nAssim há que se perceber\nNa pareidolia das catarses\nCada significado se estender\nNas mensagens e sinapses.\nNa parede úmida do quarto\nAs manchas da capilaridade\nEsboçam o perfeito retrato\nDa mais poética celebridade.\nDe onde vem tal semelhança?\nE qual seu recado subjacente?\nNesses cenários de mudança:\nA inusitada nuvem iridescente.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "SEMPRE",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/4a88019e516d619cdc15cc9702a12ee7.mp3",
+      "duracao": 180,
+      "letra": "Tão nós dois, esse desejo de ficar a sós,\nTão a sós desse desejo de nós dois,\nDesconcertadamente pequenos,\nQuando nossos sóis adentram mutuamente,\nNossas sombras,\nTão veloz, doce lampejo, o som da sua voz\nTantos nós, atamos pelo beijo um depois\nDesesperadamente serenos,\nQuando nossas sombras soaram musicalmente\nNossos sis bemóis.\n(feat. Thiago Annderson)",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "PRIMEIRA DANÇA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/0c6b64997e0220a5e56912d640dd59c5.mp3",
+      "duracao": 180,
+      "letra": "E você que anda parado\nNesse paradoxo que é tamanho\nSozinho diante do espelho\nAssim não vai se achar estranho.\nApoiado em ombros de gigantes\nEm sintonia quase sublime\nA visão de beleza inusitada\nDa lírica ode de rimas dançantes.\nVigie lá fora essas nuvens negras\nPois, nada perpassa o acaso\nO que se pode fazer a curto prazo\nSenão curtir a primeira dança.\nNo compasso lúdico do acalanto\nSó o vinho é que faz entender\nUma só taça não mata a sede\n“O gosto de ser sátiro e não santo.”\nCeda aos benefícios da música\nQue enseja um momento singular\nSinta a melodia sonora e lúdica\nEm si refletida, imagética extensão.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "ESTANDARTE",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/8ffae0968236596499c21089877df599.mp3",
+      "duracao": 180,
+      "letra": "Estamos aqui ao nascer\nAutênticos, livres e talentosos\nEstamos aqui firmes e zelosos\nPor cada ser e seu parecer.\nEstamos aqui em carne viva\nPara saborear o gosto da arte\nEstamos aqui com estandarte\nA alma ecoa nossa voz ativa.\nEstamos aqui a cada arrebol\nNada do escuro nos assombra\nEstamos aqui além da sombra\nA luzir com a clareza do farol.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "CIRANDA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/e4c15051dec53bced70fc86f85dc0520.mp3",
+      "duracao": 180,
+      "letra": "Andar, andar\nAo sol a pino\nEm desatino\nSem um destino\nAté chegar.\nE nesse mote da caminhada\nNessa jornada sou peregrino\nO clandestino numa cruzada\nAssim do nada, tão repentino.\nDançar, dançar\nAo som da banda\nGira a ciranda\nComo quem anda\nPra não chegar.\nE nesse ritmo que contagia\nDa “Ilha de Lia” até Luanda\nManda dizer que essa folia\nÉ utopia que a vida abranda.\nAnda Luzia, dança Yolanda…",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "STOKHASTIKÓS",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/4c60f68a322b2753febb2c96de01ae93.mp3",
+      "duracao": 180,
+      "letra": "O que dizer da prosaica audácia\nDe superar todo e qualquer desafio\nCada óbice, armadilha ou falácia\nQue se nos impõe dias e noites a fio.\nA sorte se une ao azar, bizarros elos\nNorteando o percurso adiante\nComo extremos que surgem paralelos\nDo ínfimo pro infinito radiante.\nO que dizer da solene eloquência\nAo abordar todo inusitado e arredio\nNada de fé, certeza ou referência\nQue possa conter o dom do desvario.\nA trajetória segue dispersa do alvo\nAlheia a freima do caminhante\nNenhum afeto do acaso está a salvo\nPelo viés do aleatório e errante.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "AMOR FATI",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/3d26659883571870adb669a77ca2eb9c.mp3",
+      "duracao": 180,
+      "letra": "Atingi o fundo do poço\nDa “solitude” há muito desejada\nCom aquela sóbria atitude\nQue se manteve coerente e inabalada.\nSempre o destino acatar\nCom seu absoluto arbítrio e isenção\nSigo na vida célere e resoluto\nAo amor fati, a busca fulcral da paixão.\nNada me aflige como antes\nMas sobretudo, como diria Nietzsche\nApesar dos pesares e, contudo\nOs dilemas dessa vida não passam de tolices.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "DRUMMONDIANDO",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/bc63c45f35ccd12bb20cbcd27260c269.mp3",
+      "duracao": 180,
+      "letra": "Se o teu verso gauche vencer o tempo\nPara durar além da vida\nO poema sentimental arderá em glória\nComo a cura a (se) propagar\nA tua assinatura nas paredes da memória...\n(\nÉ do mundo; é du monde, é Drummond)\nSe o eco do teu canto alcançar a dor\nPela freima da ferida acesa\nA palavra engajada há de bradar direta\nSem remissão nem redenção\nA aura da poesia a inundar a vida do poeta.\n(\nÉ do mundo; é du monde, é Drummond)",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "OUTRO TEMPO",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/d5f6ab0dff55a6cacfc8106e78dc5350.mp3",
+      "duracao": 180,
+      "letra": "O que foi que aconteceu?\nComo isso tudo transcorreu, sem que eu visse?\nA criança cresceu no verde vale de lágrimas\n- E agora, quem serei eu? É outro tempo.\nPor que não estive atento?\nQuando mudaram as estações, onde eu estava?\nAndei contra a luz e contornei a sombra\n- Era orgulho que me guiava o tempo todo.\nA quem caberia o engodo?\nPor acreditar em mim, sem o destino traçado?\nE o passo adiante, para onde me afasto\n- Será apenas no tempo, outro espaço.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "ANDALUZ",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/a423937843bd3414ae83e132669e69be.mp3",
+      "duracao": 180,
+      "letra": "Por terras de sol e sangue\nSegue o bardo caminhante\nAvante pela senda que o conduz\nNa luz, permeia a sua sombra...\nPelas trilhas de verso e rima\nObra-prima forjada no instante\nBrilhante como a aura que seduz\nTraduz com vigor a sua verve.\nPara sempre viva em poesia\nA estesia filosófica e fascinante\nDiante de tudo que se expõe à luz\nOs azuis de céu e mar profanos.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "A DANÇA DA LUA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/7885735552d10e14efd16b99f30b6307.mp3",
+      "duracao": 180,
+      "letra": "Vista seu mais belo sorriso\nDesça para o salão de dança\nDispa-se do que não é preciso\nE sinta o luar que te balança.\nA dança da lua nua\nMinguante, crescente, cheia\nA dança da lua nova\nMarcante, serpente e sereia\nSolte o corpo sem receios\nA alma livre do preconceito\nO balançar\ncaliente dos seios\nExtravasa tristezas do peito.\nA dança da lua nua\nMinguante, crescente, cheia\nA dança da lua nova\nMarcante, serpente e sereia\nNo céu a lua ainda se insinua\nA mover-se lânguida e faceira\nDespojada de adornos continua\nA dama da noite, diva feiticeira.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "ANDANTE",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/3fbaf5d9b635521795612c6fffd1bba4.mp3",
+      "duracao": 180,
+      "letra": "Errante, transeunte e erradio\nPassante entre o adágio e o alegro\nSer que se revela único: vadio\nEm frontal reação ao mundo egro.\nEm seu favor, uma força inata\nPara se mostrar em raça e gênero\nHomem e mulher – pessoa exata\nNem anjo, nem Deus efêmero.\nAndante, vagamundo, audaz\nCom toda a pujança destemida\nSer cujo comum não satisfaz\nAnseia a aventura desmedida.\nEm seu vigor, só a força exata\nSem anjo e sem Deus efêmeros\nHomem ou mulher – pessoa inata\nPara quaisquer raças e gêneros.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "DANÇANTE",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/d7b01e62cb04f29ff59540eea0bae6ba.mp3",
+      "duracao": 180,
+      "letra": "Faça de seu corpo um instrumento\nNo movimento articulado dos ossos\nSiga em frente, de mente liberta\nAberta para as inéditas sensações...\nCurta o lance com prazer e dance\nAo seu alcance está a chance de acender\nCurta mesmo que se canse e dance\nAssim, avance os degraus para ascender\nFaça da sua alma uma espaçonave\nNoutro voo suave a bailar nos ócios\nSem o pecado pesado como agrura\nCreatura sedenta de tais emoções...\nCurta o lance por lazer e dance\nA cada nuance, se balance até absorver\nCurta o casual\nfreelance e dance\nAssim, o relance da graça vai te absolver.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "VAGANTE",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/d973c5306e4e4ee03789e2ebfb494ff1.mp3",
+      "duracao": 180,
+      "letra": "A todo custo a poesia brota\nMesmo que o solo seja seco e inóspito\nAinda que o eco ressoe a vaia da derrota\nNão por acaso existe o verso estrépito\nO que se desvela a cada palavra escrita.\nSegue o dolente alívio do sonho\nQuando a utopia cria os sinais do ufano\nNo cadafalso, a passo solene e medonho\nAté que ao fim se aufere ao vate profano\nO dom sagrado que no humano habita.\nOra me defino em parco refino:\nEu sou escravo daquilo que escrevo\nVagando na lida combalida d’outra jornada\nEu sou o pecado medido e pesado\nVagando no texto sem contexto, sem nada.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "BAILE DE MÁSCARAS",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/ad36a3e13ac3a8df1e768b03ea2cd96a.mp3",
+      "duracao": 180,
+      "letra": "E do alimento envenenado\nRecebestes o livramento\nO teu corpo são e salvo\nAgora está livre para bailar.\nGrato ao cordeiro sacrificado\nQue expiou a dor da agonia!\nEm que medida depositas\nA tua fé e a confiança\nPosto a celebrar sutil vitória\nAo contornar vil armadilha.\nGrato ao cordeiro sacrificado\nQue expiou a dor da agonia!\nBailas no sarau dos mascarados\nÀ face furtiva de quem vive\nNo anonimato desta elegia\nSobre os males do querer bem.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "TÉDIO À CONTROVÉRSIA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/26c73bd5b47ad8543742eb6c503bcd3d.mp3",
+      "duracao": 180,
+      "letra": "Um debate que não avança\nEnredo vicioso e sem saída\nPeso fútil do fardo que cansa\nA chama que apaga sem vida.\nUm fogo que arde sem calor\nNo ritual de monotonia\nSem significado e sem teor\nFeito da faísca da apatia.\nTédio que espraia suas chagas\nEm discursos inúteis, amiúde\nA controvérsia de ideias vagas\nComo dogmas de quem se ilude.\nO conflito que nos oprime\nQual o esforço que se esgota\nEm resultado que deprime\nCiclo que repete a mesma rota.\nUm argumento falacioso\nDesprovido de razão sensata\nQue se alastra malicioso\nPelo vão da filosofia barata.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "MUNDANCE",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/b8a98f62667db3ff5b76332bb35ee67b.mp3",
+      "duracao": 180,
+      "letra": "“O mundo inteiro está naquela\nestrada ali em frente...”\nO mundo está além do muro\nDa cerca que limita o quintal\nAtravés de passado ou futuro\nSeja o moderno ou ancestral.\nVamos dançar, vamos dançar\nPara chamar a chuva\nVamos dançar, vamos dançar\nAté o sol nascer.\nO mundo é casual e impreciso\nNada é divino ou maravilhoso\nSendo inútil o ideal do paraíso\nEm meio a esse sítio perigoso.\nVamos dançar, vamos dançar\nPara que o corpo aqueça\nVamos dançar, vamos dançar\nAté que a alma brilhe.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "ANDARILHO",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/548f338390876a9ddd181f4a67550fd5.mp3",
+      "duracao": 180,
+      "letra": "Aposto em estrelas como guia\nEm qualquer tempo ou lugar\nHá de ser o rumo para andar\nQuando a nossa rota se desvia.\nÉ que toda estrela tem seu brilho\nComo a luz interior a conduzir\nO trajeto incerto vem traduzir:\nA estrada que inspira o andarilho.\nDaí, segue obstinado o peregrino\nSempre a apreciar a jornada\nNo descortino da caminhada\nO que menos importa é o destino.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "CONTAGEM REGRESSIVA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/c2c5e7f00b2ec67b90437c39caa47054.mp3",
+      "duracao": 180,
+      "letra": "Agora falta um pouco\nPois, todo dia a mais é só um dia a menos\nÉ a contagem regressiva:\nQuanto tempo ainda temos?\nAntes era fúria do vigor da juventude\nNo auge da existência à flor da idade\nDepois veio a mudança de atitude\nE o ocaso da essência anula a vaidade.\nAntes era o sonho, desejo e ideal\nA vida inusitada, repleta de prazeres\nDepois vem o cruel limite do real\nE tolhe a utopia com tantos afazeres.\nAntes, o riso fácil e a mente arejada\nNa ânsia de saber tudo que lhe encanta\nDepois virá o ardil da farsa ensejada\nE, por sua vez, já não mais lhe espanta.\nAgora estamos calmos\nPois, não há qualquer motivo para pressa\nÉ a sentença compassiva:\nO tempo é o que menos interessa.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "A HARMONIA DO CONTINUUM",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/9985a4012a710a95b7624a7d6e1347aa.mp3",
+      "duracao": 180,
+      "letra": "Seja o uno em formas diferentes\nO que nos pareça “estranhamente igual”\nAo longe nessa estrada se avista o inusitado.\nQuanto ao\nhumanum indecifrável\nEm busca de sua anima móbil e libertária\nNa mais apoteótica celebração da alma.\nHabitamos um corpo interestelar\nOnde o todo se revela estrito\nÉ a dimensão de um universo singular\nNa cadência do pulsar infinito.\nSeja no tempo ou na distância\nO que nos separa também é o que nos une\nEm breve jornada por órbitas harmônicas.\nNesse\ncontinuum tecido da existência\nQue cada passo siga o compasso do coração\nNuma linda dança de seres estelares.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "MARACAÍPE",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/1bcd5337c7dd3995cce55e7b1e592922.mp3",
+      "duracao": 180,
+      "letra": "Ar que inspira esse silêncio\nDo vento que move os coqueirais\nVisão que se estende mar adentro\nHerança de tempos ancestrais.\nMaravilhosa: Mar A Caípe\nMaracatu - Tacape - Martelo\nMar que arrebenta no Recife\nUm hino em verde e aMarelo.\nEis que o rio canta entre as areias\nCantigas de pedras, terra e mangue\nOnde a água escorre pelas veias\nComo se fora do mar o próprio sangue.\nNa beleza emoldurada por corais\nBailam os lépidos cavalos-marinhos\nDas restingas e dos manguezais\nEstuários de biomas ribeirinhos.\nMar à vista: barco solto, vela aberta\nComo numa tela em cores vivas\nA exuberante natureza desperta\nEm meio à fauna e a flora nativas.\nMarcas de um território singular\nOnde o mar beija a terra com ternura\nParaíso em seu contorno insular\nQue encerra a derradeira aventura.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "SEM PALAVRAS",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/c31d0a36408ecc6bc9081623f9c8acdc.mp3",
+      "duracao": 180,
+      "letra": "Às vezes você surge, às vezes você some\nDe você só sei o nome e o sorriso mais lindo\nE um olhar me atraindo para esse precipício\nÀs vezes é tão difícil encontrar a explicação\nSe as coisas do coração são assim inusitadas\nO sentido das palavras se perde na emoção.\nÀs vezes a atração faz o poema brotar da alma\nFluindo da palma da mão ao verso que acaricia\nSó eu sei a alegria que ao te ver sinto por dentro\nÀs vezes falta argumento pra dizer exatamente\nAquilo que o coração sente e a cabeça não evita\nPorque o corpo se excita pela pessoa atraente.\nÀs vezes pareço ausente das coisas desse mundo\nExploro o mais profundo que à superfície se ignora\nE prossigo vida afora numa labuta sem descanso.\nÀs vezes penso que alcanço o canto mais bonito\nAté quase acredito que eu possa ser o seu poeta\nQuando a palavra secreta é amar, eu tenho dito.\nEnquanto a palavra decreta \"amar\", eu acredito.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "CORAÇÃO EM FESTA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/12cefbd84d0f99719716b8760d2ae162.mp3",
+      "duracao": 180,
+      "letra": "Dela vem o charme\nAntes do falar...\nNa suave idade\nFaz trazer à tona\nO bom do sertanejo.\nDela vem a chama\nAnte o meu olhar\nNa sensualidade\nBrasa que detona\nA bomba do desejo!\nAssim o universo\nConspira em segredo\nE quando não se espera\nAbre-se um largo riso\nNo coração onde festejo.\nDela vem a chave\nO ser que me decifra\nCom toda sinceridade\nPrazer que me aprisiona\nEm todo canto que a vejo!\nDela vem a chance\nO sim que me desarma\nSaber da felicidade\nDe quem se apaixona\nE me entregar num beijo.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "LA ILUSIÓN DEL AMOR",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/217e193796faff10771ce5884f7af86d.mp3",
+      "duracao": 180,
+      "letra": "Es del amor que nace la locura\nDe querer otra persona\nTanto, tanto, tanto\nTanto que no tiene cura.\nArde la pasión como llama\nSe niega todo que es cierto\nCuando se quiere estar cerca\nDel afecto de quien se ama.\nTodo amor es eterno\nMientras dura la ilusión\nDespués, la visión del infierno\nEs lo que resta de la relación.\nAmor vive en meras palabras\nEfímeras hojas al viento\nAl fin sólo tristeza y sufrimiento\nNos cortan como navajas.\nEs de ese dolor que muere la ilusión\nDe creer en un final feliz\nY así es que se aprende la lección\nTodo el amor deja su cicatriz.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "METÁFORA ESTRANHA",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/94ac016b52f9a93f813f921a379fa7f3.mp3",
+      "duracao": 180,
+      "letra": "Nossa mistura faz sentido\nEm cada cor da flor da pele\nNosso prazer a ser vivido\nÉ caos, amor que nos impele.\nAinda que o ciúme e sua sanha\nConsuma em dor que maltrata\nRecorro à metáfora estranha:\nDos longos cabelos da mulata.\nSaga profana de nossa libido\nQuando o tesão assume o comando\nSabor viciante de sexo atrevido\nQuanta sedução ao corpo clamando.\nAinda que seja uma façanha\nConter toda essa ânsia imediata\nRecorro à metáfora estranha:\nDos longos cabelos da mulata.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "ANJOS E DEMÔNIOS",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/74f004e9200b7200a94af7475bc1bf6e.mp3",
+      "duracao": 180,
+      "letra": "Antevi passível o possível inventário\nDe tudo que fora infortúnio para mim\nApenas as coisas de valor monetário:\nSem asas do desejo...\nNem anjos no céu de Berlim.\nAssisti extático ao estático equilíbrio\nDe forças opostas na peleja: bem e mal\nManiqueísmo exacerbado em ludíbrio:\nSem chamas ardentes...\nNem demônio ígneo infernal.\nAcreditei herético no hermético dogma\nDe guiar as consciências no fatal dilema\nComo a dura geleira exposta ao magma:\nSem pecados mortais...\nNem brio de virtude extrema.",
+      "capaUrl": "/art/compass.jpg"
+    },
+    {
+      "titulo": "SIGNO DO AR",
+      "arquivoUrl": "https://cdn.gerasom.com/grs/music/audio/73d28749e56bd7fa0ccbe842b27f00e4.mp3",
+      "duracao": 180,
+      "letra": "Dizem que amores vem e vão\nMas um amor não vem em vão\nQuando chega faz cama e mesa\nEntra, se aconchega, dá despesa\nE quase sempre sai sem pagar.\nSei que não sou digno de elogiar\nO meu temperamento é peculiar\nCom o talento singular do chato\nAinda assim, o meu amor é fato\nE o signo é da delicadeza rude.\nPeço a Deus que nos ajude\nE toda a paciência de amiúde\nPara amenizar tantos conflitos\nMas nossos desejos infinitos\nNenhum Deus pode aplacar.",
+      "capaUrl": "/art/compass.jpg"
+    }
+  ]
+}

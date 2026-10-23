@@ -41,7 +41,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       description: obra.descricao,
       images: [
         {
-          url: obra.capaUrl,
+          url: obra.ebookCapaUrl || obra.capaUrl,
           alt: `Capa de ${obra.titulo}`,
         },
       ],
@@ -96,6 +96,7 @@ async function ObraReaderContent({ params }: PageProps) {
           <DownloadPdfButton
             obraTitulo={obra.titulo}
             obraSlug={obra.slug}
+            ebookUrl={obra.ebookUrl}
             variant="reader"
           />
           <span className="font-serif italic hidden md:inline">Por {AUTHOR_NAME}</span>
@@ -124,6 +125,7 @@ async function ObraReaderContent({ params }: PageProps) {
                 url: primeiraFaixa.arquivoUrl,
                 titulo: primeiraFaixa.titulo,
                 obraTitulo: obra.titulo,
+                capaUrl: primeiraFaixa.capaUrl || obra.audioCapaUrl || "/art/compass.jpg",
                 duracao: primeiraFaixa.duracao,
                 letra: primeiraFaixa.letra,
               }}
@@ -134,10 +136,49 @@ async function ObraReaderContent({ params }: PageProps) {
           <DownloadPdfButton
             obraTitulo={obra.titulo}
             obraSlug={obra.slug}
+            ebookUrl={obra.ebookUrl}
             variant="secondary"
           />
         </div>
       </header>
+
+      {/* Prólogo Editorial (quando presente) */}
+      {(obra.palavrasDoAutor || obra.apresentacao || obra.prefacio) && (
+        <section className="space-y-12 pb-12 border-b border-linha/40">
+          {obra.palavrasDoAutor && (
+            <div className="space-y-4 p-6 sm:p-8 rounded-xl bg-superficie/30 border border-linha/50">
+              <h2 className="font-serif text-xl sm:text-2xl text-destaque uppercase tracking-wider">
+                Palavras do Autor
+              </h2>
+              <div className="font-serif text-base sm:text-lg text-texto-suave leading-relaxed whitespace-pre-line space-y-3">
+                {obra.palavrasDoAutor}
+              </div>
+            </div>
+          )}
+
+          {obra.apresentacao && (
+            <div className="space-y-4 p-6 sm:p-8 rounded-xl bg-superficie/30 border border-linha/50">
+              <h2 className="font-serif text-xl sm:text-2xl text-destaque uppercase tracking-wider">
+                Apresentação
+              </h2>
+              <div className="font-serif text-base sm:text-lg text-texto-suave leading-relaxed whitespace-pre-line space-y-3">
+                {obra.apresentacao}
+              </div>
+            </div>
+          )}
+
+          {obra.prefacio && (
+            <div className="space-y-4 p-6 sm:p-8 rounded-xl bg-superficie/30 border border-linha/50">
+              <h2 className="font-serif text-xl sm:text-2xl text-destaque uppercase tracking-wider">
+                Prefácio
+              </h2>
+              <div className="font-serif text-base sm:text-lg text-texto-suave leading-relaxed whitespace-pre-line space-y-3">
+                {obra.prefacio}
+              </div>
+            </div>
+          )}
+        </section>
+      )}
 
       {/* Poemas em sequência editorial */}
       <div className="space-y-20 md:space-y-28">
@@ -198,7 +239,7 @@ async function ObraReaderContent({ params }: PageProps) {
                         titulo: faixaDoPoema.titulo,
                         obraTitulo: obra.titulo,
                         obraSlug: obra.slug,
-                        capaUrl: obra.capaUrl,
+                        capaUrl: faixaDoPoema.capaUrl || obra.audioCapaUrl || "/art/compass.jpg",
                         duracao: faixaDoPoema.duracao,
                         letra: faixaDoPoema.letra,
                       }
@@ -210,6 +251,20 @@ async function ObraReaderContent({ params }: PageProps) {
         })}
       </div>
 
+      {/* Posfácio Editorial (quando presente) */}
+      {obra.posfacio && (
+        <section className="pt-16 border-t border-linha/40">
+          <div className="space-y-4 p-6 sm:p-8 rounded-xl bg-superficie/30 border border-linha/50">
+            <h2 className="font-serif text-xl sm:text-2xl text-destaque uppercase tracking-wider">
+              Posfácio
+            </h2>
+            <div className="font-serif text-base sm:text-lg text-texto-suave leading-relaxed whitespace-pre-line space-y-3">
+              {obra.posfacio}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* Fim da leitura */}
       <footer className="pt-16 border-t border-linha/60 text-center space-y-4 text-texto-suave">
         <p className="font-serif italic text-base">
@@ -219,6 +274,7 @@ async function ObraReaderContent({ params }: PageProps) {
           <DownloadPdfButton
             obraTitulo={obra.titulo}
             obraSlug={obra.slug}
+            ebookUrl={obra.ebookUrl}
             variant="secondary"
           />
           <Link

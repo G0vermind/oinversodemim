@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { AUTHOR_NAME, SITE_NAME } from "../../lib/site";
+import { AUTHOR_NAME } from "../../lib/site";
 import { useAppStore } from "../../store/useAppStore";
 import { isModuleEnabled } from "../../lib/modules";
 import { BrandLogo } from "../brand/BrandLogo";

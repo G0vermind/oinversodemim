@@ -13,7 +13,6 @@ import {
   Shuffle,
   FileText,
   AlertCircle,
-  Music,
 } from "lucide-react";
 import { useAppStore } from "../../store/useAppStore";
 import { formatDuracao } from "../../lib/format";

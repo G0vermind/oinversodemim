@@ -7,6 +7,7 @@ import { track } from "../../lib/analytics";
 interface DownloadPdfModalProps {
   obraTitulo: string;
   obraSlug: string;
+  ebookUrl?: string | null;
   isOpen: boolean;
   onClose: () => void;
 }
@@ -14,6 +15,7 @@ interface DownloadPdfModalProps {
 export function DownloadPdfModal({
   obraTitulo,
   obraSlug,
+  ebookUrl,
   isOpen,
   onClose,
 }: DownloadPdfModalProps) {
@@ -100,14 +102,44 @@ export function DownloadPdfModal({
           </h3>
 
           <p className="text-xs sm:text-sm text-texto-suave leading-relaxed">
-            A coletânea <strong className="text-destaque font-medium">{obraTitulo}</strong> é diagramada
-            em tempo real no nobre formato <strong className="text-texto">A5 Editorial</strong>, com tipografias
-            Cormorant Garamond e EB Garamond.
+            A coletânea <strong className="text-destaque font-medium">{obraTitulo}</strong> está disponível para leitura e download.
           </p>
         </div>
 
-        {/* Escolha da Edição */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        {/* eBook Oficial Diagramado (quando disponível) */}
+        {ebookUrl && (
+          <div className="p-4 rounded-xl border border-destaque/60 bg-linear-to-r from-[#211B14] to-[#1A1612] flex flex-col sm:flex-row sm:items-center justify-between gap-4 shadow-lg">
+            <div className="space-y-1">
+              <div className="inline-flex items-center gap-1.5 text-xs font-serif text-destaque uppercase tracking-wider">
+                <BookOpen className="w-4 h-4 text-destaque" aria-hidden="true" />
+                <span className="font-medium">Edição Oficial Diagramada (PDF Original)</span>
+              </div>
+              <p className="text-xs text-texto-suave">
+                Arquivo integral diagramado pelo autor com capa oficial, textos editoriais e gravuras em alta fidelidade.
+              </p>
+            </div>
+            <a
+              href={ebookUrl}
+              download={`${obraSlug}-ebook-oficial.pdf`}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => track("ebook_pdf_oficial_baixado", { slug: obraSlug })}
+              className="btn-primary py-2 px-4 rounded-lg text-xs font-serif uppercase tracking-wider shrink-0 inline-flex items-center justify-center gap-1.5"
+            >
+              <Download className="w-3.5 h-3.5" aria-hidden="true" />
+              <span>Baixar Original</span>
+            </a>
+          </div>
+        )}
+
+        {/* Escolha da Edição On-Demand */}
+        <div className="space-y-2">
+          {ebookUrl && (
+            <p className="text-[11px] font-serif uppercase tracking-wider text-texto-suave">
+              Ou gere uma versão personalizada on-demand (A5 editorial):
+            </p>
+          )}
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           {/* Opção 1: Noturna */}
           <div className="flex flex-col justify-between p-4 rounded-xl border border-linha hover:border-destaque/60 bg-[#1A1612] transition-all space-y-4">
             <div className="space-y-2">
@@ -194,6 +226,7 @@ export function DownloadPdfModal({
             </div>
           </div>
         </div>
+      </div>
 
         {/* Nota de rodapé da catalogação */}
         <div className="pt-2 border-t border-linha/60 flex items-center justify-between text-[11px] text-texto-suave">

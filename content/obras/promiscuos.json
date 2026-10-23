@@ -2,7 +2,7 @@
   "titulo": "Promíscuos",
   "sentimento": "Veredas",
   "descricao": "Livro de Poemas da Alcova (2019). O erotismo visceral e a luxúria dos amantes em quatro atos entre quatro paredes, guiados pela pena despojada e obscena do poeta.",
-  "capaUrl": "/art/promiscuos.jpg",
+  "capaUrl": "/capas/promiscuos.jpg",
   "preco": 0,
   "estoqueFisico": 15,
   "linkVendaFisica": "",
@@ -52,5 +52,8 @@
       "duracao": 180,
       "letra": "Falar de você me excita... Não só meu coração carente, mas o cume do corpo palpita em uma onda de energia obscena."
     }
-  ]
+  ],
+  "audioCapaUrl": "/art/promiscuos.jpg",
+  "ebookCapaUrl": "/capas/promiscuos.jpg",
+  "ebookUrl": "/ebooks/promiscuos.pdf"
 }

@@ -2,8 +2,8 @@
 
 import { useEffect, useState, useRef } from "react";
 import Image from "next/image";
-import { Leaf, Type, Moon, ScrollText, Check } from "lucide-react";
-import { useAppStore, ReaderFontSize, ReaderAtmosphere } from "../../store/useAppStore";
+import { Leaf, Type, Moon, ScrollText } from "lucide-react";
+import { useAppStore } from "../../store/useAppStore";
 import { track } from "../../lib/analytics";
 
 interface ZenReaderProps {

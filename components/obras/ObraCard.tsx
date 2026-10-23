@@ -1,11 +1,14 @@
 "use client";
 
+import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { BookOpen, Headphones } from "lucide-react";
 import { Obra } from "../../types";
 import { useAppStore } from "../../store/useAppStore";
 import { DownloadPdfButton } from "../pdf/DownloadPdfButton";
+import { VinylDisc } from "./VinylDisc";
+import { SoundEqualizer } from "../audio/SoundEqualizer";
 
 interface ObraCardProps {
   obra: Obra;
@@ -13,46 +16,114 @@ interface ObraCardProps {
 }
 
 export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
-  const { playTrack } = useAppStore();
+  const { playTrack, togglePlay, currentTrack, isPlaying } = useAppStore();
   const primeiraFaixa = obra.faixas?.[0];
 
-  const handleOuvir = (e: React.MouseEvent) => {
+  const isCurrentTrack = Boolean(
+    currentTrack &&
+      ((currentTrack.obraSlug && currentTrack.obraSlug === obra.slug) ||
+        (currentTrack.obraTitulo && currentTrack.obraTitulo === obra.titulo) ||
+        (primeiraFaixa && currentTrack.url === primeiraFaixa.arquivoUrl))
+  );
+
+  const isCurrentPlaying = isCurrentTrack && isPlaying;
+
+  const handleTogglePlay = (e: React.MouseEvent) => {
     e.preventDefault();
-    if (primeiraFaixa) {
+    e.stopPropagation();
+    if (!primeiraFaixa) return;
+
+    if (isCurrentTrack) {
+      togglePlay();
+    } else {
       playTrack({
         url: primeiraFaixa.arquivoUrl,
         titulo: primeiraFaixa.titulo,
         obraTitulo: obra.titulo,
         obraSlug: obra.slug,
-        capaUrl: obra.capaUrl,
+        capaUrl: primeiraFaixa.capaUrl || obra.audioCapaUrl || obra.capaUrl || "/art/compass.jpg",
         duracao: primeiraFaixa.duracao,
         letra: primeiraFaixa.letra,
       });
     }
   };
 
-  // 1. Grid Variant — idêntico aos cards do mockup "ACERVO DINÂMICO DE OBRAS"
+  const capaEbook =
+    obra.ebookCapaUrl && obra.ebookCapaUrl.trim() !== ""
+      ? obra.ebookCapaUrl
+      : obra.capaUrl && obra.capaUrl.trim() !== ""
+      ? obra.capaUrl
+      : obra.audioCapaUrl && obra.audioCapaUrl.trim() !== ""
+      ? obra.audioCapaUrl
+      : "/art/compass.jpg";
+
+  // 1. Grid Variant — Livro Físico 3D A5 com Vinil Acústico Deslizante
   if (variant === "grid") {
     return (
-      <article className="engraving-card group flex flex-col justify-between bg-[#191613] p-4 text-center">
-        {/* Imagem com moldura de gravura em papel envelhecido */}
-        <div className="relative aspect-square w-full rounded-lg overflow-hidden border border-linha shadow-inner bg-[#E8DFCE] mb-4">
-          <Image
-            src={obra.capaUrl}
-            alt={obra.titulo}
-            fill
-            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
-            className="object-cover group-hover:scale-105 transition-transform duration-500"
-          />
+      <article className="engraving-card group relative flex flex-col justify-between bg-[#191613] p-4 text-center transition-all duration-300 hover:border-destaque/60 hover:shadow-[0_16px_36px_-10px_rgba(0,0,0,0.65),0_0_20px_rgba(200,141,78,0.18)] !overflow-visible hover:z-30">
+        {/* Palco Editorial 3D: Livro Físico A5 + Disco de Vinil Acústico */}
+        <div className="relative w-full pt-1 pb-3 mb-2 flex items-center justify-center">
+          {/* Container proporcional do livro A5 com clipe estrito na lombada (esquerda) e livre à direita */}
+          <div className="relative w-[78%] max-w-[200px] aspect-[1/1.48] transition-transform duration-500 ease-out group-hover:-translate-y-2 group-hover:rotate-[-0.75deg]">
+            {/* Disco de Vinil Acústico Deslizante (Fase 2) - Envelopado com clipe na lombada */}
+            {primeiraFaixa && (
+              <div
+                className="absolute inset-y-0 left-0 right-0 pointer-events-none"
+                style={{ clipPath: "inset(-60px -120px -60px 0px)" }}
+              >
+                <VinylDisc
+                  faixa={primeiraFaixa}
+                  obraTitulo={obra.titulo}
+                  obraSlug={obra.slug}
+                  capaUrl={capaEbook}
+                  isPlayingThis={isCurrentPlaying}
+                  onPlayToggle={handleTogglePlay}
+                />
+              </div>
+            )}
+
+            {/* Capa do Livro Físico 3D Realista (Fase 1) */}
+            <div className="relative w-full h-full rounded-r-[5px] rounded-l-[2px] overflow-hidden shadow-[-6px_10px_24px_rgba(0,0,0,0.65),0_2px_6px_rgba(0,0,0,0.4)] group-hover:shadow-[-8px_18px_32px_rgba(0,0,0,0.78),0_0_22px_rgba(200,141,78,0.22)] border-y border-r border-[#382e23] bg-[#14110e] z-10 transition-all duration-500">
+              {/* Arte da Capa em Alta Fidelidade (Proporção Editorial Real A5, sem cortes) */}
+              <Image
+                src={capaEbook}
+                alt={`Capa editorial de ${obra.titulo}`}
+                fill
+                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+                className="object-cover object-center group-hover:scale-[1.02] transition-transform duration-700 ease-out"
+              />
+
+              {/* Lombada Física / Vinco de Capa Dura à Esquerda */}
+              <div
+                className="absolute left-0 top-0 bottom-0 w-4 pointer-events-none z-20 bg-gradient-to-r from-black/65 via-black/25 to-transparent"
+                aria-hidden="true"
+              >
+                {/* Linha de reflexo do vinco da dobra */}
+                <div className="absolute left-[12px] top-0 bottom-0 w-[1px] bg-white/12 shadow-[0_0_2px_rgba(0,0,0,0.9)]" />
+              </div>
+
+              {/* Borda de Miolo / Páginas de Papel Vergê à Direita */}
+              <div
+                className="absolute right-0 top-[1px] bottom-[1px] w-[3px] pointer-events-none z-20 bg-gradient-to-b from-[#ECE4D5] via-[#DFD5C2] to-[#D0C2A8] rounded-r-xs opacity-85 border-l border-black/40 shadow-inner"
+                aria-hidden="true"
+              />
+
+              {/* Reflexo de Verniz Localizado (Gloss Sheen Sweep) ao passar o cursor */}
+              <div
+                className="absolute inset-0 -translate-x-full group-hover:translate-x-full transition-transform duration-1000 ease-out bg-gradient-to-r from-transparent via-white/15 to-transparent pointer-events-none z-20 -skew-x-12"
+                aria-hidden="true"
+              />
+            </div>
+          </div>
+        </div>
+
+        {/* Título, Sentimento e Breve Descrição */}
+        <div className="space-y-1.5 mb-5 flex-1 flex flex-col justify-center">
           {obra.sentimento && (
-            <span className="absolute top-2 right-2 px-2 py-0.5 rounded-full text-[10px] font-serif uppercase tracking-wider bg-[#181512]/80 backdrop-blur-xs text-destaque border border-linha/80">
+            <span className="text-[10px] font-serif uppercase tracking-[0.25em] text-destaque font-medium">
               {obra.sentimento}
             </span>
           )}
-        </div>
-
-        {/* Título e Breve Descrição */}
-        <div className="space-y-1.5 mb-5 flex-1 flex flex-col justify-center">
           <h3 className="font-serif text-lg sm:text-xl font-medium tracking-[0.08em] text-texto uppercase group-hover:text-destaque transition-colors">
             {obra.titulo}
           </h3>
@@ -61,7 +132,7 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
           </p>
         </div>
 
-        {/* Dois Botões Dourados do Mockup: [ LER ] e [ OUVIR ] */}
+        {/* Dois Botões: [ LER ] e [ OUVIR / PAUSAR ] */}
         <div className="grid grid-cols-2 gap-2 pt-2 border-t border-linha/60">
           <Link
             href={`/obras/${obra.slug}/ler`}
@@ -73,12 +144,30 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
 
           <button
             type="button"
-            onClick={handleOuvir}
+            onClick={handleTogglePlay}
             disabled={!primeiraFaixa}
-            className="btn-secondary py-2 px-3 rounded-md text-xs font-serif uppercase tracking-wider text-center flex items-center justify-center gap-1.5 hover:border-destaque cursor-pointer disabled:opacity-40 disabled:cursor-not-allowed focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-destaque"
+            aria-label={
+              isCurrentPlaying
+                ? `Pausar reprodução de ${obra.titulo}`
+                : `Ouvir trilha sonora de ${obra.titulo}`
+            }
+            className={`py-2 px-3 rounded-md text-xs font-serif uppercase tracking-wider text-center flex items-center justify-center gap-1.5 cursor-pointer disabled:opacity-40 disabled:cursor-not-allowed focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-destaque transition-all ${
+              isCurrentPlaying
+                ? "bg-destaque text-white border border-destaque shadow-[0_0_12px_rgba(200,141,78,0.4)]"
+                : "btn-secondary hover:border-destaque"
+            }`}
           >
-            <Headphones className="w-3.5 h-3.5" aria-hidden="true" />
-            <span>Ouvir</span>
+            {isCurrentPlaying ? (
+              <>
+                <SoundEqualizer isPlaying={true} size="sm" />
+                <span>Pausar</span>
+              </>
+            ) : (
+              <>
+                <Headphones className="w-3.5 h-3.5" aria-hidden="true" />
+                <span>Ouvir</span>
+              </>
+            )}
           </button>
         </div>
 
@@ -87,6 +176,7 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
           <DownloadPdfButton
             obraTitulo={obra.titulo}
             obraSlug={obra.slug}
+            ebookUrl={obra.ebookUrl}
             variant="card"
           />
         </div>
@@ -96,15 +186,55 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
 
   // 2. Detailed Variant (para visualização horizontal detalhada)
   return (
-    <article className="plinth-surface rounded-xl overflow-hidden flex flex-col md:flex-row transition-all duration-300 hover:border-destaque/50 group bg-[#191613]">
-      <div className="relative w-full md:w-56 aspect-square md:aspect-3/4 shrink-0 bg-[#E8DFCE] overflow-hidden">
-        <Image
-          src={obra.capaUrl}
-          alt={`Capa de ${obra.titulo}`}
-          fill
-          sizes="(max-width: 768px) 100vw, 224px"
-          className="object-cover group-hover:scale-102 transition-transform duration-500"
-        />
+    <article className="plinth-surface rounded-xl flex flex-col md:flex-row transition-all duration-300 hover:border-destaque/50 group bg-[#191613] !overflow-visible hover:z-30">
+      {/* Stage do Livro Físico 3D + Vinil na visualização detalhada */}
+      <div className="relative w-full md:w-60 p-5 shrink-0 flex items-center justify-center bg-[#15120f]/60 rounded-t-xl md:rounded-l-xl md:rounded-tr-none">
+        <div className="relative w-[82%] aspect-[1/1.48] transition-transform duration-500 ease-out group-hover:-translate-y-1.5 group-hover:rotate-[-0.75deg]">
+          {/* Vinil Acústico */}
+          {primeiraFaixa && (
+            <div
+              className="absolute inset-y-0 left-0 right-0 pointer-events-none"
+              style={{ clipPath: "inset(-60px -120px -60px 0px)" }}
+            >
+              <VinylDisc
+                faixa={primeiraFaixa}
+                obraTitulo={obra.titulo}
+                obraSlug={obra.slug}
+                capaUrl={capaEbook}
+                isPlayingThis={isCurrentPlaying}
+                onPlayToggle={handleTogglePlay}
+              />
+            </div>
+          )}
+
+          {/* Capa do Livro com Lombada e Folhas */}
+          <div className="relative w-full h-full rounded-r-[5px] rounded-l-[2px] overflow-hidden shadow-[-6px_10px_24px_rgba(0,0,0,0.65),0_2px_6px_rgba(0,0,0,0.4)] group-hover:shadow-[-8px_18px_32px_rgba(0,0,0,0.78),0_0_22px_rgba(200,141,78,0.22)] border-y border-r border-[#382e23] bg-[#14110e] z-10 transition-all duration-500">
+            <Image
+              src={capaEbook}
+              alt={`Capa de ${obra.titulo}`}
+              fill
+              sizes="(max-width: 768px) 100vw, 240px"
+              className="object-cover group-hover:scale-[1.02] transition-transform duration-700 ease-out"
+            />
+            {/* Lombada */}
+            <div
+              className="absolute left-0 top-0 bottom-0 w-4 pointer-events-none z-20 bg-gradient-to-r from-black/65 via-black/25 to-transparent"
+              aria-hidden="true"
+            >
+              <div className="absolute left-[12px] top-0 bottom-0 w-[1px] bg-white/12 shadow-[0_0_2px_rgba(0,0,0,0.9)]" />
+            </div>
+            {/* Miolo */}
+            <div
+              className="absolute right-0 top-[1px] bottom-[1px] w-[3px] pointer-events-none z-20 bg-gradient-to-b from-[#ECE4D5] via-[#DFD5C2] to-[#D0C2A8] rounded-r-xs opacity-85 border-l border-black/40 shadow-inner"
+              aria-hidden="true"
+            />
+            {/* Verniz */}
+            <div
+              className="absolute inset-0 -translate-x-full group-hover:translate-x-full transition-transform duration-1000 ease-out bg-gradient-to-r from-transparent via-white/15 to-transparent pointer-events-none z-20 -skew-x-12"
+              aria-hidden="true"
+            />
+          </div>
+        </div>
       </div>
 
       <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between gap-6">
@@ -136,17 +266,31 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
           {primeiraFaixa && (
             <button
               type="button"
-              onClick={handleOuvir}
-              className="btn-secondary inline-flex items-center gap-2 px-5 py-2 rounded-md text-xs sm:text-sm font-serif uppercase tracking-wider cursor-pointer"
+              onClick={handleTogglePlay}
+              className={`inline-flex items-center gap-2 px-5 py-2 rounded-md text-xs sm:text-sm font-serif uppercase tracking-wider cursor-pointer transition-all ${
+                isCurrentPlaying
+                  ? "bg-destaque text-white border border-destaque shadow-[0_0_12px_rgba(200,141,78,0.4)]"
+                  : "btn-secondary"
+              }`}
             >
-              <Headphones className="w-3.5 h-3.5" aria-hidden="true" />
-              <span>Ouvir Trilha</span>
+              {isCurrentPlaying ? (
+                <>
+                  <SoundEqualizer isPlaying={true} size="sm" />
+                  <span>Pausar Trilha</span>
+                </>
+              ) : (
+                <>
+                  <Headphones className="w-3.5 h-3.5" aria-hidden="true" />
+                  <span>Ouvir Trilha</span>
+                </>
+              )}
             </button>
           )}
 
           <DownloadPdfButton
             obraTitulo={obra.titulo}
             obraSlug={obra.slug}
+            ebookUrl={obra.ebookUrl}
             variant="secondary"
           />
 
