@@ -8,6 +8,7 @@ import { isModuleEnabled } from "../../lib/modules";
 interface DownloadPdfButtonProps {
   obraTitulo: string;
   obraSlug: string;
+  ebookUrl?: string | null;
   variant?: "reader" | "card" | "secondary";
   className?: string;
 }
@@ -15,6 +16,7 @@ interface DownloadPdfButtonProps {
 export function DownloadPdfButton({
   obraTitulo,
   obraSlug,
+  ebookUrl,
   variant = "reader",
   className = "",
 }: DownloadPdfButtonProps) {
@@ -41,6 +43,7 @@ export function DownloadPdfButton({
         <DownloadPdfModal
           obraTitulo={obraTitulo}
           obraSlug={obraSlug}
+          ebookUrl={ebookUrl}
           isOpen={isOpen}
           onClose={() => setIsOpen(false)}
         />
@@ -63,6 +66,7 @@ export function DownloadPdfButton({
         <DownloadPdfModal
           obraTitulo={obraTitulo}
           obraSlug={obraSlug}
+          ebookUrl={ebookUrl}
           isOpen={isOpen}
           onClose={() => setIsOpen(false)}
         />
@@ -86,6 +90,7 @@ export function DownloadPdfButton({
       <DownloadPdfModal
         obraTitulo={obraTitulo}
         obraSlug={obraSlug}
+        ebookUrl={ebookUrl}
         isOpen={isOpen}
         onClose={() => setIsOpen(false)}
       />

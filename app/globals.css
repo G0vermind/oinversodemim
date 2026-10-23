@@ -156,6 +156,20 @@ h1, h2, h3, h4, h5, h6 {
   transform-origin: bottom;
 }
 
+/* Rotação analógica suave para o disco de vinil acústico (33 RPM) */
+@keyframes spinVinyl {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-vinyl {
+  animation: spinVinyl 6s linear infinite;
+}
+
 /* ==========================================================================
    Preferências de Leitura e Atmosferas Editoriais (ZenReader)
    ========================================================================== */

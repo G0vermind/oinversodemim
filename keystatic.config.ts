@@ -65,11 +65,17 @@ export default config({
           validation: { isRequired: true },
         }),
         capaUrl: fields.image({
-          label: 'Gravura / Capa Editorial (A5 Proporção)',
-          description: 'Carregue a imagem da capa (salva em public/art/)',
+          label: 'Capa do Livro / eBook (Exibida no Acervo Literário e no PDF)',
+          description: 'Carregue a imagem da capa do livro/eBook (salva em public/capas/)',
+          directory: 'public/capas',
+          publicPath: '/capas/',
+          validation: { isRequired: true },
+        }),
+        audioCapaUrl: fields.image({
+          label: 'Gravura Musical / Áudio (Exibida no Player e em Músicas)',
+          description: 'Gravura artística associada às músicas desta obra (salva em public/art/)',
           directory: 'public/art',
           publicPath: '/art/',
-          validation: { isRequired: true },
         }),
         preco: fields.number({
           label: 'Preço Exemplar Físico (R$)',
@@ -83,6 +89,30 @@ export default config({
         linkVendaFisica: fields.text({
           label: 'Link para Compra Física (Opcional)',
           description: 'URL externa para livraria ou contato',
+        }),
+        ebookUrl: fields.text({
+          label: 'Arquivo do eBook Oficial (Opcional - ex: /ebooks/andancas.pdf)',
+          description: 'Caminho para o PDF diagramado completo do livro salvo em public/ebooks/',
+        }),
+        palavrasDoAutor: fields.text({
+          label: 'Palavras do Autor (Opcional)',
+          description: 'Texto introdutório do autor exibido antes dos poemas',
+          multiline: true,
+        }),
+        apresentacao: fields.text({
+          label: 'Apresentação (Opcional)',
+          description: 'Texto de apresentação da obra por terceiro',
+          multiline: true,
+        }),
+        prefacio: fields.text({
+          label: 'Prefácio (Opcional)',
+          description: 'Prefácio crítico ou editorial da obra',
+          multiline: true,
+        }),
+        posfacio: fields.text({
+          label: 'Posfácio (Opcional)',
+          description: 'Posfácio reflexivo exibido ao final da leitura',
+          multiline: true,
         }),
         createdAt: fields.date({
           label: 'Data de Lançamento / Publicação',

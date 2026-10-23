@@ -40,7 +40,7 @@ export async function GET(
     registerFonts();
 
     // 2. Carrega a gravura de capa localmente em base64
-    const coverImageBase64 = getImageBase64(obra.capaUrl);
+    const coverImageBase64 = getImageBase64(obra.ebookCapaUrl || obra.capaUrl);
 
     // 3. Renderiza o PDF vetorial em memória (Buffer)
     const pdfElement = React.createElement(EbookPdfDocument, {

@@ -1,49 +1,18 @@
+export type {
+  EstrofeTimestamp,
+  Poema,
+  FaixaAudio,
+  Obra,
+  ObraContent,
+  PoemaContent,
+  FaixaAudioContent,
+} from "../lib/schemas/obra";
+
 export interface PerfilAutor {
   id: string;
   nome: string;
   chavePix: string;
   carteiraStellar: string;
-}
-
-export interface FaixaAudio {
-  id: string;
-  titulo: string;
-  arquivoUrl: string;
-  duracao: number;
-  letra?: string | null;
-  obraId: string;
-}
-
-export interface EstrofeTimestamp {
-  estrofeIndex: number;
-  segundos: number;
-}
-
-export interface Poema {
-  id: string;
-  titulo: string;
-  conteudo: string;
-  ordem: number;
-  publicadoEm: Date | string;
-  obraId: string;
-  timestamps?: EstrofeTimestamp[];
-}
-
-export interface Obra {
-  id: string;
-  titulo: string;
-  slug: string;
-  descricao: string;
-  capaUrl: string;
-  ebookUrl?: string | null;
-  preco: number;
-  linkVendaFisica?: string | null;
-  estoqueFisico: number;
-  sentimento?: string;
-  createdAt: Date | string;
-  updatedAt: Date | string;
-  poemas?: Poema[];
-  faixas?: FaixaAudio[];
 }
 
 export interface Track {
@@ -55,4 +24,3 @@ export interface Track {
   letra?: string | null;
   duracao?: number;
 }
-

@@ -4,6 +4,7 @@ export type AnalyticsEvent =
   | 'modo_zen_alterado'
   | 'tema_alterado'
   | 'ebook_pdf_baixado'
+  | 'ebook_pdf_oficial_baixado'
   | 'social_card_gerado'
   | 'social_card_compartilhado_nativo'
   | 'verso_sincronizado_clicado';

@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useSyncExternalStore } from "react";
 import { Bookmark, BookmarkCheck } from "lucide-react";
 import { useAppStore } from "../../store/useAppStore";
 import { isModuleEnabled } from "../../lib/modules";
@@ -10,17 +10,28 @@ interface BookmarkPoemaButtonProps {
   poemaTitulo: string;
 }
 
+const emptySubscribe = () => () => {};
+
+function useIsClient(): boolean {
+  return useSyncExternalStore(
+    emptySubscribe,
+    () => true,
+    () => false
+  );
+}
+
 export function BookmarkPoemaButton({ poemaId, poemaTitulo }: BookmarkPoemaButtonProps) {
   const isEnabled = isModuleEnabled("searchAndDb");
-  const { toggleFavorito, isFavorito, initFavoritos } = useAppStore();
-  const [mounted, setMounted] = useState(false);
+  const isClient = useIsClient();
+  const toggleFavorito = useAppStore((state) => state.toggleFavorito);
+  const isFavorito = useAppStore((state) => state.isFavorito);
+  const initFavoritos = useAppStore((state) => state.initFavoritos);
 
   useEffect(() => {
     initFavoritos();
-    setMounted(true);
   }, [initFavoritos]);
 
-  if (!isEnabled || !mounted) {
+  if (!isEnabled || !isClient) {
     return null;
   }
 

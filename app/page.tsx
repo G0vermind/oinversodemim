@@ -32,6 +32,7 @@ export default function Home() {
               className="h-28 sm:h-40 md:h-48 lg:h-56 w-auto object-contain"
               width={1024}
               height={467}
+              priority
             />
           </div>
         </div>

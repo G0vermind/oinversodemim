@@ -2,35 +2,22 @@
   "titulo": "O Inverso de Mim",
   "sentimento": "Existência",
   "descricao": "A obra seminal de Heldemarcio Ferreira (2005). Uma travessia autobiográfica dividida nos quatro ciclos da existência: O Adolescente, O Profissional, O Poeta e O Amador.",
-  "capaUrl": "/art/o-inverso-de-mim.jpg",
+  "capaUrl": "/capas/o-inverso-de-mim.jpg",
+  "ebookCapaUrl": "/capas/o-inverso-de-mim.jpg",
+  "audioCapaUrl": "/art/o-inverso-de-mim.jpg",
+  "ebookUrl": "/ebooks/o-inverso-de-mim.pdf",
   "preco": 0,
   "estoqueFisico": 18,
   "linkVendaFisica": "",
   "createdAt": "2005-08-15",
+  "palavrasDoAutor": "Este livro retrata algumas das fases mais significativas de minha vida: A adolescência com todos os ideais, o profissional e a dedicação à carreira, a opção pela poesia e pelo sentimento, e o amor que é arte ou desastre para quem é \"amador\". Repleto de influências de pessoas e situações que, de uma forma ou de outra, marcaram a minha existência e das quais não poderei esquecer.\n\nÉ uma obra pessoal e intimista, na qual as minhas referências sentimentais são expostas de forma poética, sem qualquer restrição ou receio em relação às mais diversas e possíveis interpretações. E, por tratar de sentimentos e reflexões existenciais, a obra assume uma dimensão de caráter universal, a despeito de ser focada em uma pessoa em particular.\n\nAcredito que possa haver uma \"certa\" identificação do leitor com a forma de abordagem de temas bastante comuns alusivos à solidão, paixão, amor, tristeza e outros que compõem o universo de sensações e percepções do mundo. Não tenho a menor pretensão de que este livro alcance qualquer nível de projeção ou que venha a ser reconhecido como obra de valor literário.\n\nTrata-se apenas, e principalmente, de um registro da minha existência até o momento atual, através da sensibilidade e da paixão que dedico à poesia.\n\nDesse modo, o livro representa a realização de um sonho antigo que agora compartilho com os amigos e com o público em geral que aprecia a poesia. É um resgate daquilo que me dá grande prazer nessa vida: o ato de escrever sobre o que sinto.",
+  "apresentacao": "A produção poética é um gesto de sensibilidade corajosa que exige do autor a decisão de se expor. Uma decisão que nem todos ousam.\n\nSão poucos aqueles que se abrem, mostrando, mesmo que eventualmente sob linguagem metafórica, o seu 'eu', o seu modo de ver e sentir o mundo, de viver pessoas e gozar sentimentos.\n\nMuitos, por timidez ou egoísmo, se fecham em copas, mantendo para si a arte que a alma guarda. Alguns mantêm os sonhos sob grilhões, impedindo mesmo que brotem as palavras e, com elas, a luz que embala o espírito e estimula a vida.\n\nEste, graças a Deus, não é o caso de Heldemarcio Ferreira, que faz seu debut na literatura artística com o magnífico 'O inverso de mim' – um livro que reúne poemas de rara beleza, descortinando sua 'opção pela poesia' num caminho que se iniciou n'O adolescente, passando pel'O profissional e se deliciou n'O poeta até chegar a'O apaixonado.\n\nO livro de estréia de Heldemarcio Ferreira revela a sensibilidade e o talento daqueles cujo mergulho no universo da poesia foi incontrolável. O poeta que sempre viveu na alma de Heldemarcio rasgou a roupa do engenheiro, ganhando vida para entregar ao mundo um grande artista da palavra. Com o 'O inverso de mim', Heldemarcio Ferreira carimbou o passaporte que, para deleite dos apaixonados pela poesia, vai levá-lo a viagens cada vez mais profundas no maravilhoso universo da literatura artística.\n\npor Alexandre Santos\nMembro da Academia de Letras e Artes do Nordeste Brasileiro e da Academia Brasileira de Autores Solidaristas.",
+  "prefacio": "Dedico esta obra a Simone Souza por tudo que ela representou em minha vida. Não somente pelo seu amor de antes ou pelo seu ódio de agora; mas, sobretudo, pelo fato de ter sido por todo esse tempo o inverso de mim.\n\nAgradeço a todos aqueles que contribuíram e me inspiraram para a realização desta obra: amigos, patrocinadores, familiares, entre outros, e ao Criador pelas grandes surpresas que nos proporciona ao longo dessa viagem fascinante que é a vida.",
+  "posfacio": "“Porque quem ama nunca sabe o que ama\nNem sabe porque ama, nem o que é amar...\nAmar é a primeira inocência,\nE toda a inocência é não pensar...”\n(Fernando Pessoa)\n\nFortuna Crítica:\n• \"A poesia como uma forma de descobrir o mundo e a si mesmo\" — Sébastien Joachin (Crítico literário)\n• \"O Inverso de Mim. Ofício da necessidade imperiosa de expressão pelo verso. Poesia de afetuosa imagem que aporta na alma.\" — Marcos D’Morais (Poeta)\n• \"Palavras vivas e falantes, que nos revelam vontades, segredos, desejos e verdades: é como são-nos elas desenhadas por Heldemarcio, com muito virtuosismo, verso a verso e, se se constroem assim, delas gostemos!\" — Artur Freire (Cronista e assessor editorial)\n• \"O filósofo Hegel nos ensina que se engana quem espera que no final do trabalho de análise/construção do espírito você encontrará a Filosofia, porque esta não existe fora da elaboração. Assim também a Poesia. Se a procurarmos no trabalho final ela pode não ser encontrada. Mas ela - Filosofia / Poesia - está na busca, na árdua e real caminhada.\" — Celso Marconi (Jornalista)",
   "poemas": [
     {
-      "titulo": "O Inverso de Mim",
-      "ordem": 1,
-      "publicadoEm": "2005-08-15",
-      "conteudo": "Era uma vez um estudante\nQue acreditava em ideais\nEra uma vez um professor\nQue ensinava suas crenças\nEra uma vez um engenheiro\nQue construía poesias\nEra uma vez um sonhador\nQue passeava nas estrelas\nEra uma vez um solitário\nQue pensava ser eterno\nEra uma vez alguém ingênuo\nQue era o inverso de si mesmo\nEra uma vez um homem simples\nDaqueles que a gente logo esquece.",
-      "timestamps": [
-        {
-          "estrofeIndex": 0,
-          "segundos": 0
-        },
-        {
-          "estrofeIndex": 1,
-          "segundos": 28
-        },
-        {
-          "estrofeIndex": 2,
-          "segundos": 62
-        }
-      ]
-    },
-    {
       "titulo": "Poema Adolescente",
-      "ordem": 2,
+      "ordem": 1,
       "publicadoEm": "2005-08-15",
       "conteudo": "Um poeta cria versos\nDelirantes e precisos\nNavega seus universos\nMais distantes e perdidos\n\nConstruindo sua obra\nDa arte que brota bruta\nCom o talento que lhe sobra\nAflora a flor e gera a fruta\n\nEnxerga o oculto brilho das letras\nCódigos de um repente que lampeja\nSabe sentir o gosto das palavras\nDoces às vezes, noutras amargas\n\nCheira o perfume da rima\nLúdica em sua rara essência\nTorna perene a obra prima\nNascida em plena adolescência\n\nToca o extremo de todos os versos\nCom seus poderes singulares\nE ouve a harmonia das estrofes\nNos mais remotos lugares\n\nCom todos os seus sentidos\nAborda inteira a poesia\nDeusa dos saberes escondidos\nNa plenitude da utopia\n\nFaz de um poema adolescente\nA emoção viril e terna\nQue há contida em toda a gente\nPor essa vida e pela eterna.",
       "timestamps": [
@@ -40,17 +27,613 @@
         },
         {
           "estrofeIndex": 1,
-          "segundos": 35
+          "segundos": 30
         },
         {
           "estrofeIndex": 2,
-          "segundos": 72
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 150
+        },
+        {
+          "estrofeIndex": 6,
+          "segundos": 180
+        }
+      ]
+    },
+    {
+      "titulo": "A Manhã",
+      "ordem": 2,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Quando a manta clara da manhã cair\nEm cima das cabeças dos cristãos (que'stão) aqui\nE o sol queimar essa pele, esse romã\nHá de ficar extasiado de alegria\nHá de ficar embriagado pela utopia\nDessa manhã\n\nA gente fica, a gente arrisca\nUm tanto quanto entorpecido e sem aviso\nIluminado, ofuscado e como um animal\nIndefeso e mais que surpreso, sem ação\nEntre raios, flechas e balas de luz\nDessa manhã\n\nA manhã de agora\nA manhã de outr(a)ora\nA manhã de ainda\nAmanhã.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        }
+      ]
+    },
+    {
+      "titulo": "Estrelas",
+      "ordem": 3,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "São as estrelas que brilham\nIluminando os cenários\nSão multidões reunidas\nE corações solitários\n\nNecessitamos \"ouvir\"\nE aprender com as estrelas\nA oração de luzir\nA nossa luz verdadeira\n\nPois, é preciso entender\nQue somos todos estrelas\nIluminando o momento\nDe nossas vidas inteiras",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        }
+      ]
+    },
+    {
+      "titulo": "Canção Espacial",
+      "ordem": 4,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Lá no espaço sideral\nEncontro a alegria\nDe um mundo de sensações\nEntre estrelas, entre astros\nMaravilhosos...\nNavegando o meu coração\n\nLá no espaço sideral\nA alma se eleva além da dor\nA canção é de paz e amor\nPura e simples como so(o)u\nE na calma a alma voa\nNuma nota à toa...\n\nLá no espaço eu me encontro mais\nVejo o infinito bem de perto\nTodas as cousas são sinais\nSinto a beleza do único verso\nEssas palavras são normais\nA poesia emana do universo\n\nLá no espaço sideral\nViaja meu sonho mais distante\nA luz da estrela é terna guia\nNa utopia desse instante\nSinto um momento de alegria\nQue pa(i)ra no tempo\nFulgurante.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
+    },
+    {
+      "titulo": "Felicidade",
+      "ordem": 5,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Fé\nFel\nL(ú)cida\nFeliz\nidade.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Solidão",
+      "ordem": 6,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Só\nSol\nlida\nSólida\nSolidão",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Razão",
+      "ordem": 7,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Meu \"grito\"! (minha vingança)\n\nParado no ar\nnos bares\nnas praças\nnas ruas\nda vida!\n\nMeu \"sonho\" (minha lembrança)\n\nPreso na mente\nno desejo oprimido\npela falta\nde liberdade!\n\nMeu \"Deus\" (minha esperança)\n\nProcurado\nAnsiado\nIdealizado\nComo uma fantasia\nPrópria dos que carecem\nde fé!",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 150
+        }
+      ]
+    },
+    {
+      "titulo": "Sentidos",
+      "ordem": 8,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Tudo que digo / Tudo que penso\nToda a essência de meu sentimento\nToda a sentença da minha palavra\n\nFlui pela boca, olhos e dedos\nPor tudo que escrevo\nFlui pelo corpo que é só o que tenho\n\nTodos os sentidos / Toda emoção\nToda a minha verdadeira ambição\nTodo o desejo de me ser\n\nFlui pelo sangue, pela minha carne\nPor tudo que existe\nFlui pela alma que nunca me (a)cabe",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
+    },
+    {
+      "titulo": "De Qualquer Maneira",
+      "ordem": 9,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "De qualquer maneira a gente VIVE\nE a vida é pura aventura\nÀs vezes se ganha; às vezes se perde\nQuem por essa vida se procura\n\nDe qualquer maneira a gente AMA\nE o amor é arte ou desastre\nPara quem se guia pelo coração\nQue ainda sangra de saudade\n\nDe qualquer maneira a gente LUTA\nE a luta vai nos ensinando\nQue nunca nada é fácil\nE do suor do rosto brota a lágrima\n\nDe qualquer maneira a gente MORRE\nE a morte é a última sentença\nDessa aventura de ânsia incessante\nEm que estamos sós na imensidão.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
+    },
+    {
+      "titulo": "Um Dia",
+      "ordem": 10,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Um dia a gente diz\nQue um dia será feliz\nUm dia a gente pensa:\nQue um dia a gente vença\nUm dia a gente luta\nPelo que no outro dia se desfruta\nUm dia a gente descobre\nQue um dia a gente morre\nUm dia a gente sente\nQue todo dia morre a gente\nUm dia, de repente\nA gente entende tudo diferente\nUm dia nasce da mesma mina\nQue o outro dia termina.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Carnaval",
+      "ordem": 11,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "CLÁUSULA PRIMEIRA\nTodo calor que invade o corpo\nNo pleno êxtase da alegria\nÉ pura festa e manifesta\nFogo e folia\nTodo suor que evade do corpo\nEm pleno humor da euforia\nEncanta um povo que canta\nToda utopia\n\nCLÁUSULA SEGUNDA\nEm meio ao povo, o fogo arde!\nA carne vale / a alma evade\nFantasias encobrem semblantes\nAlquimias de tons semelhantes\nA multidão é uma só mistura\nComo se fosse a união mais pura\n\nCLÁUSULA TERCEIRA\nA carne vale tanta energia\nMagia de corpos em dança\nQue desafia a sanidade\nE ressuscita a esperança\nA carne vale toda anarquia\nFolia e sensualidade\nQue contagia a raça\nE proclama a nova idade\n\nCLÁUSULA ÚLTIMA\nCorações alegres\nEm corpos entorpecidos\nMentes dispersas\nEm almas lancinantes\nDesses felizes amantes\nDo reino perdido do sonho\nQue a alegria seja natural\nComo a utopia do carnaval",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
+    },
+    {
+      "titulo": "Estação",
+      "ordem": 12,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Que tal um gole de café\nÀ noite na estação?\nQue tal sentar e conversar\nSem preocupação?\n\nO ontem vai passando\nE o trem já vem chegando\nPra me levar pra longe\nDistante dos meus sonhos.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        }
+      ]
+    },
+    {
+      "titulo": "A Última Sentença",
+      "ordem": 13,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Olhares ferozes me acompanham\nNa dura caminhada pela vida\nSorrisos algozes me agonizam\nDestroem a esperança retraída\n\nRealizo no espaço que me resta\nA loucura de me ser e sobreviver\nO destino já avisa o fim da festa\nQue consigo com os amigos refazer\n\nÉ a última sentença que me aflige\nAquela que me diz que vou morrer\nTendo sido só aquilo que se finge\nEsta morte não me deixa adormecer",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        }
+      ]
+    },
+    {
+      "titulo": "Personagem Oculto",
+      "ordem": 14,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Pálido é esse meu semblante,\nÀs vezes me sinto tão distante\nDe tudo e até de mim mesmo\nOu do que sobrou de mim\nApós imergir na dor.\n\nPersonagem oculto\nDesprovido de alegria\nOu de qualquer fantasia\nQue me faça prosseguir sadio\nEm meio a esse manicômio\nAnônimo e desconcertante.\n\nNão me apressam sonhos de vida\nNem \"sociedades alternativas\"\nSempre me propus a ser o mesmo\nGraças ao mesmo orgulho\nQue me mantém solitário.\n\nUm cara discreto e confuso\nProfuso no raso paladar de sua mente\nA divagar inocente\nPelas orlas dos acontecimentos\nTentando encontrar um fim.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
+    },
+    {
+      "titulo": "Remanescente",
+      "ordem": 15,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Captei a palavra oculta\nEncerrada na boca que grita\nOs clamores que ninguém escuta\nE cravei em minha obra escrita\n\nAs imagens dos traumas de vida\nTodas as coisas somadas em mim\nRemanescente de abjeta ferida\nQue me corta a alma sem fim\n\nDo amor, já gozei o pecado\nSentir e sofrer tudo em transe\nSempre mais amador que amado\nA paixão me fez fora de alcance\n\nNão sou mais a pessoa de antes\nNem serei o que sempre quis ser\nHoje trago o olhar mais distante\nE só espero da vida - o saber.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
+    },
+    {
+      "titulo": "Trem da Insensatez",
+      "ordem": 16,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "O que me move, me comove\nE me remove do real\nÉ esse trem sem senso ou censo\nNem lenço acenando em pensamento\n\nNo mesmo ritmo rútilo e rústico\nSeguindo o sentido lógico e lúdico\nNo meio dos trilhos brilhos de metal\nFazendo a fumaça d' outro gás letal\n\nO trem já partiu; será que tem volta?\nQuem sabe a resposta?\nSe tinha saudade ficou para trás\nFicou na estação no meio da gente...\n\nMas gente não conta\npassa da conta\nPassa-se à frente.\nA máquina é fria\na fornalha está quente\nComendo carvão.\n\nNo meio da noite\nsó se ouve o apito\nEm pleno meio-dia\ncom sol a pino\nO trem viaja pela insensatez\nDas coisas do mundo\nDe todos vocês.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        }
+      ]
+    },
+    {
+      "titulo": "Sobre Nós",
+      "ordem": 17,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Há tanto que nos consome\nNão só a dor\nNem só a fome\nA ambição nefasta nos afasta\nda essência do próprio ser.\n\nA vaidade atroz tem grande poder\nSobre nós.\n\nQue a nossa condição humana\nde alma divina\ne intenção profana\nsegue indecisa entre o limite\nsempre imprecisa do que existe.\n\nA verdade é o fascínio que a vida exerce\nSobre nós.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
+    },
+    {
+      "titulo": "Ser Vil",
+      "ordem": 18,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Eu não sirvo pra você\nEu não sirvo pra ser forte\nEu não sirvo para a festa\nEu não sirvo pra ter grana\nEu não sirvo para a foto\nMeu sorriso é amarelo\n\nEu não sirvo para a sorte\nEu não sirvo pra vitória\nEu não sirvo para a vaga\nEu não sirvo pra ter fama\nEu não sirvo para a glória\nMeu silêncio incomoda\n\nEu não sirvo para a arte\nEu não sirvo pra ciência\nEu não sirvo para o time\nEu não sirvo pra ser lindo\nEu não sirvo para a crença\nMeu segredo me condena\n\nEu não sirvo pra piada\nEu não sirvo para a roupa\nEu não sirvo para o baile\nEu não sirvo pra viagem\nEu não sirvo pra ser lido\nMeu soneto é ruim.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
+    },
+    {
+      "titulo": "Removendo Tubarões",
+      "ordem": 19,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Onde anda a competência?\nQue valor ainda lhe resta?\nO que foi feito da decência?\nSerá que há alguém que presta?\n\nEu vejo esses tubarões\nAlimentando-se vorazes\nDo que foi feito com esmero\nPor aqueles que são capazes\n\nE os magníficos pavões\nA se mostrar na sala ampla\nPara exibir suas plumagens\nSem nada além dessa estampa\n\nSão gestos finos dos canalhas\nE toda a espécie que os valha\nA comungar nessa orgia\n\nQuem sabe possa haver um dia\nEm meio a essa sacanagem\nAlguma cena inusitada\n\nA turma da carga pesada\nDevidamente equipada\nA remover os tubarões.\n(Ao amigo Jaime Ferreira)",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 150
+        }
+      ]
+    },
+    {
+      "titulo": "Aroma e Sabor",
+      "ordem": 20,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Quero sentir o gosto da vida\nEnvolvida pela boca e saborosa\nSaber o sabor da comida\nPosta à mesa tão generosa\nCombinando sabor e aroma\nDe amizade que nunca se compra\n\nQuero a delícia do meu paladar\nPorque ainda temos muito para ser e para dar\nQuando na vida a gente se encontra\nMesmo que tudo concorra contra\nPosso entender que ninguém é doente\nPorque se vive diferente.\n(Ao amigo Marcio Evaristo)",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        }
+      ]
+    },
+    {
+      "titulo": "Doutorado",
+      "ordem": 21,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "\"Nessa terra de doutores\nmagníficos reitores,\nleva-se a sério a comédia...\"\n(Antonio Carlos Belchior)\n\nEu já estudei um bocado\nMeti a minha cara nos livros\nVivendo para ser e saber\nBuscando o que não queria\nHoje penso diferente\nO saber está dentro da gente\nCabe a gente se encontrar\n\nNão me iludo com títulos e cargos\nQue não passam de fardos pesados\nE não podem nos realizar\nRefletindo dessa maneira\nPercebi que a vida inteira\nCaminhei em sentido errado\nIludido em meu \"doutorado\"\n\nTudo que me era valioso\nEscorreu-me entre os dedos\nCego que fui pela vaidade\nAgora já não mais lamento\nÉ o tempo do conhecimento\nAquele que me interessa\nPor isso não há mais pressa\n\nÉ tempo de recomeçar...",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        }
+      ]
+    },
+    {
+      "titulo": "Morte",
+      "ordem": 22,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Amanhã...\nQuantos amanhãs nos separam\nda tua morada abstrata\nA tua crueldade é notável\nDesconcertantemente me toma\nde curiosidade\n\nE se eu morresse amanhã?\nAntes de poder\nOlhar-me novamente no espelho\nAntes de poder\nEscrever outro poema\nQue morte absurda!",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        }
+      ]
+    },
+    {
+      "titulo": "Mediocridade",
+      "ordem": 23,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Se Deus existir\nQue me proteja\nDaquilo que mais me aflige...\nSe Deus permitir\nQue nunca seja\nAquilo que não se corrige...\n\nDeus, tende piedade\nDos seres sem esperança\nDeus, afastai de mim a vaidade\nDas horas de ignorância\n\nLivrai-nos de nossas fraquezas\nVivendo para o amanhã\nSó não nos deixeis cair na desgraça\nDa vida medíocre e vã.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        }
+      ]
+    },
+    {
+      "titulo": "Apocalipse",
+      "ordem": 24,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Apesar dos pesares\nDe pensares e de passares\nPor tudo na vida\nPassa a tempo o teu momento\nNo labirinto em que se encontram\nAs metas e as cousas\nQue não duram para sempre\n\nOs anjos guardam segredos\nCerrados nas nossas cabeças\nAquilo do qual te escondes\nE segues sem saber para onde\nNo sacro-ofício dos dias\nQue passam velozes e aflitos\nPor tua pequena existência\n\nSomos apenas centelhas\nCentenas, milhares, milhões\nCreados pela mão divina\nMas perdidos pela ambição\nNa busca por coisas vãs\nEm meio ao ocaso flagrante\nDe um iminente amanhã.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        }
+      ]
+    },
+    {
+      "titulo": "Bar",
+      "ordem": 25,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Anoiteceu\nO sol se pôs\nEm nosso coração\n\nEm volta da mesa\nAmigos, cervejas\nComunhão\n\nAmanheceu\nO sol nasceu\nDa escuridão\n\nEm volta da mesa\nGarrafas, tristezas\nSolidão",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
+    },
+    {
+      "titulo": "O Inverso de Mim",
+      "ordem": 26,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Era uma vez um estudante\nQue acreditava em ideais\nEra uma vez um professor\nQue ensinava suas crenças\nEra uma vez um engenheiro\nQue construía poesias\nEra uma vez um sonhador\nQue passeava nas estrelas\nEra uma vez um solitário\nQue pensava ser eterno\nEra uma vez alguém ingênuo\nQue era o inverso de si mesmo\nEra uma vez um homem simples\nDaqueles que a gente logo esquece.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Plenitude",
+      "ordem": 27,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Desse medo que esconde a raiva, vem a tristeza\nDessa dor que brota em minha alma, sou prisioneiro\nMas, minha face sem disfarce é repleta de beleza\nQuando o oculto se revela, o \"eu\" se livra do cativeiro\n\nQuero me libertar das coisas do mundo dos outros\nPrefiro viver na solidão que na passiva dependência\nTento me encontrar, como a alma perdida no corpo\nPois, só assim posso gozar a plenitude da existência\n\nBusco sentir a paixão em tudo que fizer nessa vida\nTenho essa sede de ser e de viver pleno e original\nPara trilhar o caminho dessa estrada mais comprida\nResgatar no fundo de mim a fonte da energia vital\n\nContemplar a natureza e suas forças colossais\nMergulhado na harmonia dos acordes do silêncio\nTransformar a dor da alma em poemas viscerais\nAtingir outro estágio, dimensão: espaço e tempo.\n(À minha amiga Vera)",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
+    },
+    {
+      "titulo": "Arte e Vida",
+      "ordem": 28,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "\"Em baixo desse céu azul anil\nExistem a terra e o mar também azuis\nE o colorido vivo das pessoas\nQue habitam a solitude do planeta\nNa arte, na alegria e na tristeza\nNa poesia viva e na beleza.\"\n\nTodas as formas de arte têm pressa\nUrgência em tocar profundo na gente\nNo meio do mundo e das coisas banais\nMostrando que a vida de fato é expressa\nNa intensa emoção e no brilho da mente\nNas coisas que nos são essenciais\n\nVivemos o tempo que é permitido\nNos raros momentos em que somos livres\nÉ quando a obra supera a expectativa\nA arte que brota no chão proibido\nNos traz a esperança de sermos felizes\nE a gente resgata a alma ainda viva\n\nNão creio que a arte imite \"essa vida\"\nPor estar mais além do que se pode limitar\nNão há compromissos com o mundo real\nA arte é a vida ao extremo expandida\nA vida é a arte sem um mundo a mitigar\nNão há arte sem vida, nem esse mundo é real.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
         }
       ]
     },
     {
       "titulo": "A Palavra por Encanto",
-      "ordem": 3,
+      "ordem": 29,
       "publicadoEm": "2005-08-15",
       "conteudo": "Por enquanto eu tenho a fala\nE com ela tenho toda a magia da voz\nQue se expande em ondas de som\nDesde um canto a outro canto\ndo poema\n\nPor encanto eu recebo a palavra\nE com ela me vem todo o poder da criação\nQue se estampa nos tipos dos meus versos\nDesde um canto a outro canto\ndo poema\n\nPor espanto eu escrevo a poesia\nE com ela vibra toda fúria da emoção\nQue me toma a alma e me contagia\nDesde um canto a outro canto\ndo poema\n\nPortanto eu cometo a loucura\nE com ela eu vivo a utopia da vida\nQue se expressa nas v(e)ias da lida\nDesde um canto a outro canto\ndo poema\n\nPor isso eu vivo\nE para isso eu vim viver.",
       "timestamps": [
@@ -77,10 +660,10 @@
       ]
     },
     {
-      "titulo": "Canção Espacial",
-      "ordem": 4,
+      "titulo": "Ode aos Poetas",
+      "ordem": 30,
       "publicadoEm": "2005-08-15",
-      "conteudo": "Lá no espaço sideral\nEncontro a alegria\nDe um mundo de sensações\nEntre estrelas, entre astros\nMaravilhosos...\nNavegando o meu coração\n\nLá no espaço sideral\nA alma se eleva além da dor\nA canção é de paz e amor\nPura e simples como so(o)u\nE na calma a alma voa\nNuma nota à toa...\n\nLá no espaço eu me encontro mais\nVejo o infinito bem de perto\nTodas as cousas são sinais\nSinto a beleza do único verso\nEssas palavras são normais\nA poesia emana do universo\n\nLá no espaço sideral\nViaja meu sonho mais distante\nA luz da estrela é terna guia\nNa utopia desse instante\nSinto um momento de alegria\nQue pa(i)ra no tempo\nFulgurante.",
+      "conteudo": "\"O homem é a semente\nde o(n)de brota o invento\nEngenho e arte da mente\nCriando a cada momento\nO poema futuro...\"\n\nEsses poetas marginais\nComo artistas visionários\nCriam seus mundos magistrais\nDa força de seus imaginários\n\nEsses autores viscerais\nSempre autênticos em sua arte\nCom suas frases geniais\nMostram a nossa oculta face\n\nVida longa aos que fazem tanto\nPela condição humana em nós\nPara sempre a palavra por encanto\nE com ela a eterna magia da voz\n\nEsses notáveis menestréis\nRaros e sensíveis cantadores\nMesmo entre algozes cruéis\nCantam a vida e seus amores\n\nEsses profetas do cotidiano\nCronistas das emoções baratas\nPela veia de artista soberano\nRevelam a vida em palavras\n\n\"Por enquanto eu tenho a fala\nE com ela tenho toda a magia da voz\nPor encanto, tenho o dom da palavra\nE o infinito diante de nós.\"",
       "timestamps": [
         {
           "estrofeIndex": 0,
@@ -88,25 +671,253 @@
         },
         {
           "estrofeIndex": 1,
-          "segundos": 26
+          "segundos": 30
         },
         {
           "estrofeIndex": 2,
-          "segundos": 54
+          "segundos": 60
         },
         {
           "estrofeIndex": 3,
-          "segundos": 84
+          "segundos": 90
         },
         {
           "estrofeIndex": 4,
-          "segundos": 115
+          "segundos": 120
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 150
+        },
+        {
+          "estrofeIndex": 6,
+          "segundos": 180
+        }
+      ]
+    },
+    {
+      "titulo": "Plectro",
+      "ordem": 31,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Captei a palavra oculta\nEncerrada na boca que grita\nOutros clamores ou dores\nAmor, já gozei seu pecado\nEncantado - tudo era transe\nDepois, quase morri de saudade\n\nDediquei meu poema (a)verso\nO meu dom da palavra escrita\nSem saber se seria entendido\nSó o sonho, sinal e espectro\nDesse plectro grafado em sangue\nMostra em mim a plena beleza\n\nRevelei minha alma aflita\nNa presença de seres algozes\nQue calaram silêncio hediondo\nHoje trago o amargo da culpa\nPor aquilo que ainda não fiz\nNo ocaso dos dias sem fim.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        }
+      ]
+    },
+    {
+      "titulo": "Divagações",
+      "ordem": 32,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "O poeta cria os versos\ndelirantes não objetivos\nrebuscados ou concisos\nNa busca da perfeição\nAbre seu coração\npara sentir as palavras\ncálidas como feridas da alma\ndaquele que é creador\nComo se fosse por amor\nou outra loucura qualquer\nque se faça por uma mulher\nna divina comédia da vida\nEssa estrada tão comprida\nque habita em todos nós\nDesse rio se faz a foz\nde todas as intenções\nDas guerras e revoluções\nSangue de gente e estrelas\nComo agitadas bandeiras\nde velhos ideais\nDesgastados por muitos carnavais\nDiluídos em falsas alegorias\nInspirados em vã utopia\nde um futuro melhor.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "As Modernas Águas de Netuno",
+      "ordem": 33,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Brisa do Atlântico pacífica\nVento do mar assanha meus cabelos\nQuando eu percorro o teu litoral\nE piso na areia branca tropicana\nE banho-me na espuma fina parafina\n\nOnda, como ira oceânica\nRevolta e agitada vem assim:\nNum balé, num balanço, merengue de sal\nDespejar sua fúria fria sobre mim\nQue me deixo levar do princípio ao sim\n\nE a bela morena que passa com graça\nNão me nota e segue dançando ao andar\nSacode e balança seu corpo na dança\nna reviravolta da onda que avança\nNessa pele dourada e onde a água alcança\n\nE o sol astro rei da coroa de fogo\nQueima e doura a pele colorida do povo\nProfusão de desejos sobre a areia da praia\nSu(r)focada de gente, barulho e toalha\nDa paisagem que vibra e a vida se espalha\n\nQuando a lua rainha dos seres noturnos\nAparece serena ascendendo do mar\nIlumina a procela concedida por Deus Uno\nE adormecem milhões de espécies no mundo\nDas modernas águas de Netuno",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        }
+      ]
+    },
+    {
+      "titulo": "Essência",
+      "ordem": 34,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Meu pensar nunca me engana\nPois minha mente não se profana\nAnte as \"facilidades\" de consumo\nFaço um poema, de certo maldito\nQue comovente, embora mal escrito\nRevela a essência do que assumo\nPois não adianta me fingir \"feliz\"\nFazer aquilo que nada me diz\nÉ no silêncio que apareço e sumo\n\nMeu cantar não se completa\nPois a minha alma de poeta\nBusca o \"algo\" mais profundo\nPor isso, essa solidão constante\nQue me preserva bem distante\nDas cousas vãs que há no mundo\nSigo vida a dentro, mundo a fora\nCom a única certeza do agora\nViver é \"saber\" cada segundo.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        }
+      ]
+    },
+    {
+      "titulo": "Outra Poesia",
+      "ordem": 35,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Hoje eu quero fazer\nOutra poesia\nQue fale de alegria\nDas coisas boas da vida\n\nHoje eu quero a vida\nCompleta sem barreira\nAquela verdadeira\nSem o tom formal\n\nHoje quero um beijo\nUm bem que eu mereça\nQuero que aconteça\nAlgo de bom e justo\n\nHoje quero o suor na pele\nO gozo dos humanos\nEsquecer dos anos\nQue me marcaram tanto\n\nHoje eu quero o canto\nQuero uma vida feliz\nE como alguém me diz\nEu quero a liberdade\n\nHoje eu quero ser\nAlegre por inteiro\nSendo o verdadeiro\nPoeta que me quero.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 150
+        }
+      ]
+    },
+    {
+      "titulo": "Alimento da Alma",
+      "ordem": 36,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Há no tempo\nUm tempo que não envelhece\nE no pensamento uma prece\n\nHá no tempo\nUm momento que decide\nPor onde se anda e se vive\n\nHá no coração\nUma incontida paixão\nQue os anos não vão levar\n\nHá no coração\nSangrante de saudade\nUma emoção ao fim da tarde\n\nHá na poesia\nUma meta inatingível\nQuase tristeza e quase alegria\n\nHá na poesia\nCoração, cabeça e tempo\nA Criação de um novo alento.\n\nOs breves sentimentos\nQue servem de alimento da alma",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 150
+        },
+        {
+          "estrofeIndex": 6,
+          "segundos": 180
+        }
+      ]
+    },
+    {
+      "titulo": "Metamorfose",
+      "ordem": 37,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Hoje eu estou só...\nComo sempre estive na verdade\nTudo que fiz me trouxe até aqui\nDe agora em diante, quem sabe?\n\nHoje eu não tenho certezas\nNada mais é definitivo pra mim\nTentarei aprender com a vida\nAs coisas das quais sempre fugi.\n\nHoje eu só sinto saudades\nDaqueles que não soube fazer feliz\nMas, é preciso ter muita coragem\nPara recomeçar sozinho.\n\nHoje eu compreendi\nQue toda mudança exige sofrer\nAté o ponto de não mais aceitar\nA repetição dos erros.\n\nHoje eu serei verdadeiro\nNão para os outros, mas para mim\nDevo perder o medo de ousar\nE fazer o que for preciso.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        }
+      ]
+    },
+    {
+      "titulo": "Legado (Poema do Galinheiro)",
+      "ordem": 38,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Não me faças chorar pelos cantos\nAo ouvir o lamento dolente de um blues\nNem me sejas a lâmina a cortar os meus pulsos\nA sangrar no afã dos prazeres que aos seres seduz\n\nQuando a arte me abstrai do peso desse mundo\nEm profundo silêncio, sozinho me entrego\nE mergulho a esmo em mim mesmo, bem fundo\nNas entranhas da alma, quase triste, me apego\n\nComo essas palavras forjadas a ferro\nNão passam de penas em um galinheiro\nNossas grandes certezas, quando vistas de perto\nSão frágeis ilusões de sabor passageiro\n\nÉ assim que a sentença, por fim, se completa\nNa dor definitiva e de intensa presença\nQue pra sempre habita na alma do poeta\nCondenado a viver em sua (e)terna doença.\n(inspirado no \"galinheiro\" do amigo Helder Coelho)",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
+    },
+    {
+      "titulo": "A Alma do Poema",
+      "ordem": 39,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Quando a tristeza é mais forte e presente\ne me sinto fragilizado, quase sem esperança\nRecorro à poesia que me ajuda a sobreviver\ne renascer na exuberância da beleza dos versos\n\nComo um poeta que descobre universos\nlivre de toda dor que se lhe impõe esse mundo\nSeguindo o rumo que traçou entre as estrelas\npara viver eternamente na euforia do poema\n\nEm sendo a vida, na sua essência extrema\num imenso mar onde a tormenta é constante\nMesmo entre as dores e clamores, sofrida\na alma vibra a vida que em mim se descobre\n\nNenhum espelho revela a face oculta e nobre\nque está além do que a luz pode em mim captar\nNo triste olhar que guarda o inverso de mim\nse encerra o segredo que nunca irei revelar.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
         }
       ]
     },
     {
       "titulo": "O Silêncio",
-      "ordem": 5,
+      "ordem": 40,
       "publicadoEm": "2005-08-15",
       "conteudo": "Nada está consumado\nAté que a morte venha!\nAté que a dor nos contenha!\nOs olhos permanecem abertos\nAtentos ao que está por vir...\nAtentos para refletir:\nO amor, o trabalho e a vida\n\nNão existem certezas absolutas\nPor isso, sigamos por essa estrada\nPor isso, deixemos nossas pegadas\nComo sinais da nossa existência\nPara que sejamos sempre lembrados\nPara que alcancemos a eternidade\nEm nosso silêncio eloqüente.",
       "timestamps": [
@@ -121,8 +932,380 @@
       ]
     },
     {
+      "titulo": "Dilema",
+      "ordem": 41,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Nenhum poema vale a pena\nSe não valer a pena sonhar\nMas, a alma não é pequena\nComo diria Pessoa ao poetar\n\nPoesia real-mente imaginada\nQue é criada na cabeça\nMas, nascida do coração\n\nO poema não pode mudar nada\nNem é feito para esse fim\nVem da emoção indomada\nE transborda intenso assim\n\nPoesia ex-pressa em palavras\nA fugaz alegria incontida\nOu a fúria da dor que não cessa\n\nNão se pode abolir o poema\nA poesia permeia essa vida\nPor maior que seja o dilema\nSó a obra não é esquecida",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        }
+      ]
+    },
+    {
+      "titulo": "Poema Derradeiro",
+      "ordem": 42,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "A B C, além desse jardim\nLetra \"Z\" - não creias ser o fim\nTemos uma VIDA azul ou colorida\nUma avenida por onde transitar\n\n1 2 3, até que chegue a \"N\"\nSomos NATURAIS e temos um limite\nPorém, não acredites ser fácil atingir\nTodo objetivo se encontra por aí\n\nX Y Z, as variáveis confundem\nPrecisas entender que nada é PRECISO\nDecidas sob as incertezas tão certas\nQuão repletas existem pela frente\n\nPorque na vida sempre é assim,\nTudo o que não tem começo nem FIM\nQue morra em você ou viva em mim\nEstará sempre por RECOMEÇAR.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
+    },
+    {
+      "titulo": "Ilusão do Amor",
+      "ordem": 43,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "É do amor que nasce a loucura\nDe querer outra pessoa\nTanto, tanto, tanto\nTanto que não tem cura\n\nArde a paixão como chama\nNega-se tudo que é certo\nQuando se quer estar perto\nDo afeto de quem se ama\n\nTodo amor é eterno\nEnquanto dura a ilusão\nDepois, a visão do inferno\nÉ o que resta da relação\n\nAmor vive em meras palavras\nEfêmeras folhas ao vento\nAo fim, só tristeza e sofrimento\nNos cortam como navalhas\n\nÉ dessa dor que morre a ilusão\nDe acreditar em um final feliz\nE assim é que se aprende a lição\nTodo o amor deixa a sua cicatriz.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        }
+      ]
+    },
+    {
+      "titulo": "Objeto Não Identificado",
+      "ordem": 44,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Você é o objeto\nNão identificado\nQue pairou na minha frente\nE deu rumo diferente\nÀs minhas aspirações\nComo cometa fulgurante\nQue iluminou minha vida\nVocê é a mulher e a luz\nA flor do jardim e a estrela\nA poesia verdadeira\nQue emana de dentro de mim\nVocê é a bandeira\nDe todos meus ideais\nVocê é a alegria\nDe todos meus carnavais\nVocê é tudo o que eu quero\nO resto ficou para trás\nVocê é a plena ciência\nDo que eu espero da vida\nMeu axioma de certeza resoluta\nMeu postulado de verdade absoluta\nMinha luta e minha conquista\nMinha criatura bonita\nVocê é o meu enigma\nMeu sigma, meu alfa, meu beta\nÉ a sentença completa\n\"Eu amo você\".",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Divina Comédia",
+      "ordem": 45,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Do desejo se fez o prazer\nDesses corpos noturnos de amor\nDe suor se banharam inteiros\nEntre beijos de bocas ardentes\nDessa noite se fez o céu e o inferno\nprofanando o sagrado e os segredos\n\nEntre pêlos e poros brotou o humor\nDa pele sensível e da língua sedenta\nPara o beijo tornar-se um milagre\nDa fusão de almas apaixonadas\nE do êxtase veio a contemplação\nDesses corpos sem roupa e sem medo\n\nEsse instante em fim restou eterno\nAnte o poder e a ira infinda dos deuses\nFez-se a glória fugaz de seres humanos\nQue além daquilo a que se destinam\nComo dois animais meros mortais\nGozar da divina comédia da vida",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        }
+      ]
+    },
+    {
+      "titulo": "Elegia Sensual",
+      "ordem": 46,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Quem dera sentir a alegria\nQue outrora a gente sentia\nE não se sabia por que\nTudo nos trazia prazer.\n\nA tua mão que passeava\nE afagava meus cabelos\nOs teus pêlos arrepiados\nPela voz de meus apelos.\n\nE assim sem medos ou receios\nAs minhas mãos enternecidas\nCorriam soltas nessas carícias\nA deslizar pelos teus seios.\n\nA tua boca em minha boca\nNão proferia qualquer palavra\nA tua língua me entendia\nPela saliva que provava.\n\nE no momento mais extremo\nDessa paixão incontrolada\nO meu prazer me escorria\nPelo teu corpo que adorava.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        }
+      ]
+    },
+    {
+      "titulo": "Sem Você (o dia seguinte)",
+      "ordem": 47,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Hoje quando acordei\nEu me senti tão sozinho\nMais só do que sei que sou\nSó, como só fora antes\nNo tempo da saudade.\n\nSem você,\nTudo me parece ausente\nNão há como ser indiferente\nAo amor que ainda me comove.\n\nSem você,\nNada me dá prazer na vida\nNão há vitórias ou conquistas\nQue me façam esquecer você.\n\nSem você,\nSempre estarei perdido\nNesse escuro onde me procuro\nNa ausência de sua luz.\n\nSem você,\nNunca sentirei a alegria\nNem o raro sabor do silêncio\nQue um dia pude saber.\n\nHoje quando adormecer\nNão haverá mais sonhos\nApenas a amarga tristeza\nSerá a fiel companheira\nAté o fim dos meus dias.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 150
+        }
+      ]
+    },
+    {
+      "titulo": "Meu Grande Amor Eterno",
+      "ordem": 48,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Oh! meu amor, meu grande amor\nonde será que anda você agora?\n\nNão sei se você ainda me escuta\nquando grito seu nome no escuro\nSerá que ainda te devo desculpas\nou viverei condenado pelo futuro.\n\nOh! meu grande amor eterno\nSerá que é esse o tempo para durar?\n\nDrogado e louco a transar com as putas\ntento aplacar a dor nesse desejo obscuro\nMas, só tristeza encontro nessas fugas\nporque me perco no prazer que procuro.\n\nOh meu amor, meu eterno amor\nO que não tem fim pode ainda me acabar.\n\n\"Eterno, é tudo aquilo\nque dura uma fração de segundo,\nmas com tamanha intensidade,\nque se petrifica,\ne nenhuma força jamais o resgata\"\n(Carlos Drummond de Andrade)",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 150
+        }
+      ]
+    },
+    {
+      "titulo": "Vazio",
+      "ordem": 49,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Nenhuma manhã que me acalma a alma.\nVivo perdido nesse vazio onde nada se enxerga\nAlém de poucos metros para o nada\n\nNo apartamento, oitavo andar, abro a vidraça...\nEnquanto a minha vida passa\nSem esperar por mim.\n\nTento escrever algo que me valha a (dura) pena\nO poema se confunde na inefável paisagem\nsolitária e distante.\nSó, eu busco você nos desencontros calados de\nminha mente\nComo um cego a tatear as migalhas da luz do\nseu sorriso.\n\nE mais uma vez me acho perdido, no vão das\npalavras...\nMas, tudo parece ser em vão.\nA sua ausência está sempre presente\nNos meus sonhos, em meus pensamentos e no\nmeu coração.\n\nSem você, não há sabor em saber a vida\nA minha alma de sonhar-te anda perdida\nA vagar na escuridão de mim.\n\nE a dor da saudade sufoca o grito\nA saudade é como um infinito\nVazio.\n(Colagens de citações de Emerson Damasceno, Antonio Carlos Gomes Belchior e Florbela Espanca)",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 150
+        }
+      ]
+    },
+    {
+      "titulo": "Poema de Sangue",
+      "ordem": 50,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Fiz um poema grafado com meu sangue\nNa noite mais longa do dia mais triste\nEssa elegia me escorreu pelos dedos\nComo o fluido que corre na veia aberta\n\nUm poema febril de dor e de abandono\nDe sonhos desfeitos e amores perdidos\nQue me corta a carne e derrama o sangue\nAo sair das estranhas entranhas da alma\n\nUm poema nascido em extrema tristeza\nSem rima e sem beleza, apenas ausência\nDa pessoa que amo à paixão que encerra\nComo o grito na noite que ninguém escuta.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        }
+      ]
+    },
+    {
+      "titulo": "Obsessão",
+      "ordem": 51,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Tu chamas de obsessão\nO puro amor que te ofereço\nNão entendes que essa paixão\nÉ como o sol em que me aqueço\n\nO meu amor te enoja\nPorque é um sonho antigo\nE te sentes vitoriosa\nPor me ver assim sofrido\n\nTeu ódio é como veneno\nEscorrendo em tua boca\nUm sentimento pequeno\nQue carregas a vida toda\n\nTe julgas acima dos outros\nCom ironia e arrogância\nEsqueces o destino dos tolos\nDe sucumbir na ganância\n\nMas esta que assim se mostra\nNão é a mesma mulher que amo\nAlguma coisa te foi imposta\nPara que sejas outro ser humano\n\nUm dia talvez, quem sabe?\nPossas voltar a ser quem eras\nLivrar-se dessa fútil vaidade\nSepultar as ilusões efêmeras\n\nGuardarei dentro de mim\nEste amor \"obcecado\" e vão\nPara que um dia vejas, em fim\nQue não se vive sem paixão",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 150
+        },
+        {
+          "estrofeIndex": 6,
+          "segundos": 180
+        }
+      ]
+    },
+    {
+      "titulo": "Vontade de Deus",
+      "ordem": 52,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Talvez tenha que ser assim\nComo um amor platônico\nVocê sempre longe de mim\nComum sofrimento irônico\n\nTalvez não tenha mesmo jeito\nSeja essa a minha sina\nEssa dor que dilacera o peito\nPois meu amor nunca termina\n\nTalvez seja isso que Deus queira\nEm sua divina vontade\nQuando as paixões viram fogueira\nE queimam nossa vaidade.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        }
+      ]
+    },
+    {
+      "titulo": "Virtual",
+      "ordem": 53,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Onde anda o amor?\nPara onde ele vai quando tudo acaba?\nQuando resta uma imensa dor\nO amor será uma simples palavra?\n\nO amor está aqui, presente\nflutuando no espaço e no tempo\nO amor está dentro da gente\nansiando pelo exato momento\n\nO amor está nas palavras soltas\ne nas frases ainda por serem ditas\nEscondido no meio das cousas\nrevelando-se sutil em suas pistas\n\nHá amor na amizade sincera\naquela que surge sem se perceber\nQue brota de onde não se espera\ne tem o encanto de acontecer\n\nO amor está na distância\ne na ânsia de encontrar\nAmor sobrevive na ausência\na sua existência é elementar\n\nO amor não pertence a ninguém\n\"passa\" de pessoa em pessoa\nO amor nunca se vai e não vem\nEstá nos corações e além, sobrevoa!\n\nO amor nunca morre ou se perde\nnão é um sentimento desse porte\nNão se tem o amor que se pede\nO amor é que nos tem até a morte.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 150
+        },
+        {
+          "estrofeIndex": 6,
+          "segundos": 180
+        }
+      ]
+    },
+    {
+      "titulo": "A Chama do Amor",
+      "ordem": 54,
+      "publicadoEm": "2005-08-15",
+      "conteudo": "Um homem não é uma ilha\nPor isso, não deve viver isolado\nMas é preciso saber da armadilha\nNa qual se morre apaixonado\n\nO amor não é para amadores\nSuas dores são fortes demais\nPadecem os comuns sofredores\nO amor é coisa de profissionais\n\nNesse jogo sutil não há piedade\nAs armas são cruéis e violentas\nCorações partidos pela metade\nAgonizam em suas mortes lentas\n\nMesmo assim, o amor vale a pena\nPois, só se vive quando se ama\nApenas o amor que nos condena\nÉ que faz acender a nossa chama.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 90
+        }
+      ]
+    },
+    {
       "titulo": "Simone",
-      "ordem": 6,
+      "ordem": 55,
       "publicadoEm": "2005-08-15",
       "conteudo": "Quando o coração aperta de saudade\nVem a vontade incontrolável de falar\nseu nome\nMas, é preciso aceitar outra realidade\nE ser mais forte que esta dor que me\nconsome\n\nSe eu procuro pensar mais em mim\nVocê aparece, me comove, e depois\nsome\nAinda que o mundo te afaste assim\nNão levará o sonho vivido em você,\nSimone.\n\n“Ó! meu pobre,\nmeu grande amor distante,\nNem sabes tu o bem\nque faz à gente\nHaver sonhado...\ne ter vivido o sonho!”\n(Mário Quintana)",
       "timestamps": [
@@ -141,10 +1324,10 @@
       ]
     },
     {
-      "titulo": "Plenitude",
-      "ordem": 7,
+      "titulo": "Despedida",
+      "ordem": 56,
       "publicadoEm": "2005-08-15",
-      "conteudo": "Desse medo que esconde a raiva, vem a tristeza\nDessa dor que brota em minha alma, sou prisioneiro\nMas, minha face sem disfarce é repleta de beleza\nQuando o oculto se revela, o \"eu\" se livra do cativeiro\n\nQuero me libertar das coisas do mundo dos outros\nPrefiro viver na solidão que na passiva dependência\nTento me encontrar, como a alma perdida no corpo\nPois, só assim posso gozar a plenitude da existência\n\nBusco sentir a paixão em tudo que fizer nessa vida\nTenho essa sede de ser e de viver pleno e original\nPara trilhar o caminho dessa estrada mais comprida\nResgatar no fundo de mim a fonte da energia vital\n\nContemplar a natureza e suas forças colossais\nMergulhado na harmonia dos acordes do silêncio\nTransformar a dor da alma em poemas viscerais\nAtingir outro estágio, dimensão: espaço e tempo.",
+      "conteudo": "Tenho um coração que sangra\nMorrendo aos poucos de saudade\nE uma imensa solidão me apanha\nSempre ao escurecer da tarde\n\nNenhuma dor é mais intensa\nQue a de perder a quem se ama\nNada mais na vida compensa\nA agonia de ser sem esperança\n\nA minha sina é ser assim\nA vida me ensina a cada dia\nNunca nada foi fácil para mim\nQuisera eu saber a alegria\n\nOs anos passam pela janela\nPor onde vejo tudo o que perdi\nToda a beleza do sorriso dela\nDo qual jamais me esqueci\n\nEu sei que tudo isso é triste\nComo são dias e noites vazios\nE essa lembrança que resiste\nEm meu corpo em calafrios\n\nNo desespero do meu desejo\nDentro de mim agora e sempre\nAinda que distante eu a vejo\nQuem sabe noutra vida diferente\n\nAdeus meu grande amor eterno\nQue sejas tudo o que mereces\nEnquanto eu sofro nesse inferno\nTodos os dias em que me esqueces.",
       "timestamps": [
         {
           "estrofeIndex": 0,
@@ -161,6 +1344,18 @@
         {
           "estrofeIndex": 3,
           "segundos": 90
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 120
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 150
+        },
+        {
+          "estrofeIndex": 6,
+          "segundos": 180
         }
       ]
     }
