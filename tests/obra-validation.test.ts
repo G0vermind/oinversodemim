@@ -170,4 +170,36 @@ describe("Fase 1: Rede de Segurança e Validação de Obras", () => {
       }
     });
   });
+
+  describe("Fase 5: Automação Editorial (CLI obra:nova)", () => {
+    it("deve validar payload completo de nova obra via Zod", () => {
+      const payloadValido = {
+        titulo: "Cânticos do Crepúsculo",
+        descricao: "Versos sobre o crepúsculo.",
+        sentimento: "Melancolia",
+        capaUrl: "/art/compass.jpg",
+        ebookCapaUrl: "/art/compass.jpg",
+        audioCapaUrl: null,
+        ebookUrl: null,
+        palavrasDoAutor: null,
+        apresentacao: null,
+        prefacio: null,
+        posfacio: null,
+        preco: 0,
+        estoqueFisico: 0,
+        linkVendaFisica: null,
+        createdAt: "2026-10-23",
+        poemas: [],
+        faixas: [],
+      };
+
+      const result = validateObraContent(payloadValido);
+      expect(result.success).toBe(true);
+      if (result.success) {
+        expect(result.data.titulo).toBe("Cânticos do Crepúsculo");
+        expect(result.data.sentimento).toBe("Melancolia");
+      }
+    });
+  });
 });
+

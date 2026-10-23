@@ -10,7 +10,8 @@
     "test": "vitest run",
     "audio:sync": "tsx scripts/sync-audio.ts",
     "ebook:import": "tsx scripts/import-ebook-auto.ts",
-    "pdf:pregen": "tsx scripts/pregenerate-pdfs.ts"
+    "pdf:pregen": "tsx scripts/pregenerate-pdfs.ts",
+    "obra:nova": "tsx scripts/nova-obra.ts"
   },
   "dependencies": {
     "@keystatic/core": "^0.6.9",
