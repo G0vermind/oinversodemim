@@ -18,9 +18,11 @@ export function PlayTrackButton({
   variant = "secondary",
   className = "",
 }: PlayTrackButtonProps) {
-  const { currentTrack, isPlaying, playTrack, togglePlay } = useAppStore();
+  const isPlaying = useAppStore((state) => state.isPlaying);
+  const playTrack = useAppStore((state) => state.playTrack);
+  const togglePlay = useAppStore((state) => state.togglePlay);
+  const isCurrent = useAppStore((state) => state.currentTrack?.url === track.url);
 
-  const isCurrent = currentTrack?.url === track.url;
   const isPlayingThis = isCurrent && isPlaying;
 
   const handleClick = (e: React.MouseEvent) => {

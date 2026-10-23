@@ -11,16 +11,14 @@ interface ZenReaderProps {
 }
 
 export function ZenReader({ children }: ZenReaderProps) {
-  const {
-    isZenMode,
-    toggleZenMode,
-    setZenMode,
-    readerFontSize,
-    readerAtmosphere,
-    setReaderFontSize,
-    setReaderAtmosphere,
-    initReaderPreferences,
-  } = useAppStore();
+  const isZenMode = useAppStore((state) => state.isZenMode);
+  const toggleZenMode = useAppStore((state) => state.toggleZenMode);
+  const setZenMode = useAppStore((state) => state.setZenMode);
+  const readerFontSize = useAppStore((state) => state.readerFontSize);
+  const readerAtmosphere = useAppStore((state) => state.readerAtmosphere);
+  const setReaderFontSize = useAppStore((state) => state.setReaderFontSize);
+  const setReaderAtmosphere = useAppStore((state) => state.setReaderAtmosphere);
+  const initReaderPreferences = useAppStore((state) => state.initReaderPreferences);
 
   const [scrollProgress, setScrollProgress] = useState(0);
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);

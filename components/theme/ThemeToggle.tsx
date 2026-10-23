@@ -27,7 +27,7 @@ const getThemeSnapshot = (): "dark" | "light" => {
 const getServerSnapshot = (): "dark" | "light" => "dark";
 
 export function ThemeToggle() {
-  const { toggleTheme } = useAppStore();
+  const toggleTheme = useAppStore((state) => state.toggleTheme);
   const theme = useSyncExternalStore(subscribeTheme, getThemeSnapshot, getServerSnapshot);
 
   const isLight = theme === "light";

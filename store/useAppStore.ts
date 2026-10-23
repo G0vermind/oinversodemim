@@ -189,3 +189,14 @@ export const useAppStore = create<AppState>((set, get) => ({
     }
   },
 }));
+
+/**
+ * Seletor granular para o tempo de reprodução de áudio (~250ms).
+ * Isola re-renderizações de alta frequência aos componentes que precisam
+ * sincronizar versos em tempo real.
+ */
+export const useAudioCurrentTime = () => useAppStore((state) => state.currentTime);
+export const useIsZenMode = () => useAppStore((state) => state.isZenMode);
+export const useTheme = () => useAppStore((state) => state.theme);
+export const useCurrentTrack = () => useAppStore((state) => state.currentTrack);
+export const useIsPlaying = () => useAppStore((state) => state.isPlaying);

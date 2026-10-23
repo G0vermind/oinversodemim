@@ -10,7 +10,7 @@ import { BrandLogo } from "../brand/BrandLogo";
 import { isModuleEnabled } from "../../lib/modules";
 
 export function Header() {
-  const { isZenMode } = useAppStore();
+  const isZenMode = useAppStore((state) => state.isZenMode);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const pathname = usePathname();
 

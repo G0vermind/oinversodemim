@@ -6,7 +6,11 @@ import { X, ScrollText, Play, Pause, Music } from "lucide-react";
 import { useAppStore } from "../../store/useAppStore";
 
 export function LyricsPanel() {
-  const { isLyricsOpen, closeLyrics, currentTrack, isPlaying, togglePlay } = useAppStore();
+  const isLyricsOpen = useAppStore((state) => state.isLyricsOpen);
+  const closeLyrics = useAppStore((state) => state.closeLyrics);
+  const currentTrack = useAppStore((state) => state.currentTrack);
+  const isPlaying = useAppStore((state) => state.isPlaying);
+  const togglePlay = useAppStore((state) => state.togglePlay);
   const previousFocusRef = useRef<HTMLElement | null>(null);
   const closeButtonRef = useRef<HTMLButtonElement | null>(null);
   const [activeVerseIndex, setActiveVerseIndex] = useState(0);

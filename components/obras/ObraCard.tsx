@@ -16,14 +16,18 @@ interface ObraCardProps {
 }
 
 export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
-  const { playTrack, togglePlay, currentTrack, isPlaying } = useAppStore();
+  const playTrack = useAppStore((state) => state.playTrack);
+  const togglePlay = useAppStore((state) => state.togglePlay);
+  const isPlaying = useAppStore((state) => state.isPlaying);
+  const currentTrackUrl = useAppStore((state) => state.currentTrack?.url);
+  const currentTrackObraSlug = useAppStore((state) => state.currentTrack?.obraSlug);
+  const currentTrackObraTitulo = useAppStore((state) => state.currentTrack?.obraTitulo);
   const primeiraFaixa = obra.faixas?.[0];
 
   const isCurrentTrack = Boolean(
-    currentTrack &&
-      ((currentTrack.obraSlug && currentTrack.obraSlug === obra.slug) ||
-        (currentTrack.obraTitulo && currentTrack.obraTitulo === obra.titulo) ||
-        (primeiraFaixa && currentTrack.url === primeiraFaixa.arquivoUrl))
+    (currentTrackObraSlug && currentTrackObraSlug === obra.slug) ||
+      (currentTrackObraTitulo && currentTrackObraTitulo === obra.titulo) ||
+      (primeiraFaixa && currentTrackUrl === primeiraFaixa.arquivoUrl)
   );
 
   const isCurrentPlaying = isCurrentTrack && isPlaying;

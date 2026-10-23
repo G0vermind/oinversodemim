@@ -7,7 +7,7 @@ import { isModuleEnabled } from "../../lib/modules";
 import { BrandLogo } from "../brand/BrandLogo";
 
 export function Footer() {
-  const { isZenMode } = useAppStore();
+  const isZenMode = useAppStore((state) => state.isZenMode);
   const isBiografiaEnabled = isModuleEnabled("biografiaEditorial");
 
   return (

@@ -13,7 +13,10 @@ interface HeroSanctuaryProps {
 }
 
 export function HeroSanctuary({ initialTracks }: HeroSanctuaryProps) {
-  const { playTrack, currentTrack, isPlaying, togglePlay } = useAppStore();
+  const playTrack = useAppStore((state) => state.playTrack);
+  const togglePlay = useAppStore((state) => state.togglePlay);
+  const isPlaying = useAppStore((state) => state.isPlaying);
+  const currentTrackTitulo = useAppStore((state) => state.currentTrack?.titulo);
 
   const featuredTrack: Track = initialTracks[0] || {
     url: "/audio/demo.wav",
@@ -39,10 +42,10 @@ export function HeroSanctuary({ initialTracks }: HeroSanctuaryProps) {
   ];
 
   const isCurrentPlaying =
-    isPlaying && currentTrack?.titulo === selectedTrack.titulo;
+    isPlaying && currentTrackTitulo === selectedTrack.titulo;
 
   const handlePlayMain = () => {
-    if (currentTrack?.titulo === selectedTrack.titulo) {
+    if (currentTrackTitulo === selectedTrack.titulo) {
       togglePlay();
     } else {
       playTrack(selectedTrack);
@@ -182,7 +185,7 @@ export function HeroSanctuary({ initialTracks }: HeroSanctuaryProps) {
                 {playlist.map((item) => {
                   const isThisActive = selectedTrack.titulo === item.track.titulo;
                   const isThisTrackPlaying =
-                    isPlaying && currentTrack?.titulo === item.track.titulo;
+                    isPlaying && currentTrackTitulo === item.track.titulo;
 
                   return (
                     <button

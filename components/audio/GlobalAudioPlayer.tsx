@@ -45,7 +45,9 @@ function PlayerBar({
   playNextTrack,
   playPrevTrack,
 }: PlayerBarProps) {
-  const { seekRequest, clearSeekRequest, setCurrentTime: setGlobalCurrentTime } = useAppStore();
+  const seekRequest = useAppStore((state) => state.seekRequest);
+  const clearSeekRequest = useAppStore((state) => state.clearSeekRequest);
+  const setGlobalCurrentTime = useAppStore((state) => state.setCurrentTime);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(track.duracao || 0);
   const [isSeeking, setIsSeeking] = useState(false);
@@ -339,17 +341,15 @@ function PlayerBar({
 
 export function GlobalAudioPlayer() {
   const audioRef = useRef<HTMLAudioElement | null>(null);
-  const {
-    currentTrack,
-    isPlaying,
-    volume,
-    isZenMode,
-    togglePlay,
-    openLyrics,
-    setVolume,
-    playNextTrack,
-    playPrevTrack,
-  } = useAppStore();
+  const currentTrack = useAppStore((state) => state.currentTrack);
+  const isPlaying = useAppStore((state) => state.isPlaying);
+  const volume = useAppStore((state) => state.volume);
+  const isZenMode = useAppStore((state) => state.isZenMode);
+  const togglePlay = useAppStore((state) => state.togglePlay);
+  const openLyrics = useAppStore((state) => state.openLyrics);
+  const setVolume = useAppStore((state) => state.setVolume);
+  const playNextTrack = useAppStore((state) => state.playNextTrack);
+  const playPrevTrack = useAppStore((state) => state.playPrevTrack);
 
   // Sincroniza reprodução do elemento de áudio
   useEffect(() => {

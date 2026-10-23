@@ -3,7 +3,7 @@
 import React from "react";
 import { Headphones } from "lucide-react";
 import { isModuleEnabled } from "../../lib/modules";
-import { useAppStore } from "../../store/useAppStore";
+import { useAppStore, useAudioCurrentTime } from "../../store/useAppStore";
 import { EstrofeTimestamp, Track } from "../../types";
 import { SocialCardButton } from "../social-cards";
 
@@ -24,7 +24,13 @@ export function VerseSyncHighlighter({
   currentTrackData,
 }: VerseSyncHighlighterProps) {
   const isEnabled = isModuleEnabled("audioVerseSync");
-  const { currentTime, isPlaying, playTrack, seekTo, currentTrack } = useAppStore();
+  const isPlaying = useAppStore((state) => state.isPlaying);
+  const playTrack = useAppStore((state) => state.playTrack);
+  const seekTo = useAppStore((state) => state.seekTo);
+  const isThisTrackPlaying = useAppStore((state) =>
+    Boolean(state.currentTrack && currentTrackData && state.currentTrack.url === currentTrackData.url)
+  );
+  const currentTime = useAudioCurrentTime();
 
   const estrofes = conteudo.split("\n\n");
 
@@ -53,10 +59,6 @@ export function VerseSyncHighlighter({
       </div>
     );
   }
-
-  // Verifica se a faixa tocando atualmente é da obra/poema em questão
-  const isThisTrackPlaying =
-    currentTrack && currentTrackData && currentTrack.url === currentTrackData.url;
 
   // Encontra qual estrofe está ativa no timestamp atual
   const getActiveEstrofeIndex = (): number => {

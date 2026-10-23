@@ -21,7 +21,8 @@ export function PoeticSearch({ obras }: PoeticSearchProps) {
   const isEnabled = isModuleEnabled("searchAndDb");
   const [termo, setTermo] = useState("");
   const [somenteFavoritos, setSomenteFavoritos] = useState(false);
-  const { favoritos, initFavoritos } = useAppStore();
+  const favoritos = useAppStore((state) => state.favoritos);
+  const initFavoritos = useAppStore((state) => state.initFavoritos);
 
   useEffect(() => {
     initFavoritos();
