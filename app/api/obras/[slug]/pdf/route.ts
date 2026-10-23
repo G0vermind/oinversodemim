@@ -29,6 +29,15 @@ export async function GET(
   }
 
   const { slug } = await params;
+
+  // Validação estrita do slug (prevenção contra Path Traversal / Injection)
+  if (!slug || !/^[a-z0-9_-]+$/i.test(slug)) {
+    return new NextResponse("Slug de obra poética inválido.", {
+      status: 400,
+      headers: { "Content-Type": "text/plain; charset=utf-8" },
+    });
+  }
+
   const obra = getObraBySlug(slug);
 
   if (!obra) {

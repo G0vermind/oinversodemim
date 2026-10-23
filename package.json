@@ -42,7 +42,14 @@
     "vitest": "^5.0.5"
   },
   "packageManager": "pnpm@9.15.4",
+  "engines": {
+    "node": ">=22.23.4",
+    "pnpm": ">=9.0.0"
+  },
   "pnpm": {
+    "overrides": {
+      "deepmerge-ts": ">=8.0.0"
+    },
     "patchedDependencies": {
       "@react-pdf/hyphenate@0.1.0": "patches/@react-pdf__hyphenate@0.1.0.patch"
     }
