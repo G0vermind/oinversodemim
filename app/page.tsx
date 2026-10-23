@@ -8,7 +8,7 @@ import { AcervoDinamico } from "../components/obras/AcervoDinamico";
 
 export default function Home() {
   const obras = getObras();
-  const faixas = getTodasFaixas();
+  const faixas = getTodasFaixas(obras);
 
   return (
     <div className="space-y-24 md:space-y-32 px-4 sm:px-6 max-w-6xl mx-auto py-10 md:py-16 relative">

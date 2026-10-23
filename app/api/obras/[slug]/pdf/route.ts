@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import { DocumentProps, renderToBuffer } from "@react-pdf/renderer";
 import React from "react";
+import fs from "fs";
+import path from "path";
 import { getObraBySlug } from "@/lib/data";
 import { EbookPdfDocument, PdfTheme } from "@/lib/pdf/EbookPdfDocument";
 import { registerFonts } from "@/lib/pdf/fonts";
@@ -8,6 +10,12 @@ import { getImageBase64 } from "@/lib/pdf/getImageBase64";
 import { isModuleEnabled } from "@/lib/modules";
 
 export const maxDuration = 60;
+
+// Cache em memória no processo Node (Nível 1)
+const pdfMemoryCache = new Map<string, Buffer<ArrayBuffer>>();
+
+// Diretório de cache em disco (Nível 2)
+const cacheDir = path.join(process.cwd(), ".cache", "pdf-cache");
 
 export async function GET(
   request: NextRequest,
@@ -35,14 +43,52 @@ export async function GET(
   const theme: PdfTheme = themeParam === "light" ? "light" : "dark";
   const isInline = searchParams.get("inline") === "true";
 
-  try {
-    // 1. Registra as fontes tipográficas embutidas (Cormorant & EB Garamond)
-    registerFonts();
+  const dispositionType = isInline ? "inline" : "attachment";
+  const filename = `${obra.slug}-${theme}-o-inverso-de-mim.pdf`;
+  const cacheKey = `${obra.slug}-${theme}.pdf`;
 
-    // 2. Carrega a gravura de capa localmente em base64
+  // 1. Checa Cache em Memória (latência < 5ms)
+  const memoryCached = pdfMemoryCache.get(cacheKey);
+  if (memoryCached) {
+    return new NextResponse(memoryCached, {
+      status: 200,
+      headers: {
+        "Content-Type": "application/pdf",
+        "Content-Disposition": `${dispositionType}; filename="${filename}"`,
+        "Content-Length": memoryCached.length.toString(),
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "X-PDF-Cache": "HIT-MEMORY",
+      },
+    });
+  }
+
+  // 2. Checa Cache em Disco (latência < 20ms)
+  const diskCacheFile = path.join(cacheDir, cacheKey);
+  if (fs.existsSync(diskCacheFile)) {
+    try {
+      const diskBuffer = fs.readFileSync(diskCacheFile);
+      pdfMemoryCache.set(cacheKey, diskBuffer);
+
+      return new NextResponse(diskBuffer, {
+        status: 200,
+        headers: {
+          "Content-Type": "application/pdf",
+          "Content-Disposition": `${dispositionType}; filename="${filename}"`,
+          "Content-Length": diskBuffer.length.toString(),
+          "Cache-Control": "public, max-age=31536000, immutable",
+          "X-PDF-Cache": "HIT-DISK",
+        },
+      });
+    } catch {
+      // Falha ao ler cache de disco, prossegue para geração
+    }
+  }
+
+  // 3. Geração sob demanda via React-PDF se não estiver em cache
+  try {
+    registerFonts();
     const coverImageBase64 = getImageBase64(obra.ebookCapaUrl || obra.capaUrl);
 
-    // 3. Renderiza o PDF vetorial em memória (Buffer)
     const pdfElement = React.createElement(EbookPdfDocument, {
       obra,
       theme,
@@ -50,17 +96,29 @@ export async function GET(
     }) as unknown as React.ReactElement<DocumentProps>;
 
     const buffer = await renderToBuffer(pdfElement);
+    const nodeBuffer = Buffer.from(buffer);
 
-    const dispositionType = isInline ? "inline" : "attachment";
-    const filename = `${obra.slug}-${theme}-o-inverso-de-mim.pdf`;
+    // Salva em memória
+    pdfMemoryCache.set(cacheKey, nodeBuffer);
 
-    return new NextResponse(new Uint8Array(buffer), {
+    // Salva em disco de forma não-bloqueante
+    try {
+      if (!fs.existsSync(cacheDir)) {
+        fs.mkdirSync(cacheDir, { recursive: true });
+      }
+      fs.writeFileSync(diskCacheFile, nodeBuffer);
+    } catch {
+      // Ignora erro de gravação em disco em ambientes estritamente read-only (Serverless)
+    }
+
+    return new NextResponse(nodeBuffer, {
       status: 200,
       headers: {
         "Content-Type": "application/pdf",
         "Content-Disposition": `${dispositionType}; filename="${filename}"`,
-        "Content-Length": buffer.length.toString(),
-        "Cache-Control": "public, max-age=3600, s-maxage=86400, stale-while-revalidate=604800",
+        "Content-Length": nodeBuffer.length.toString(),
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "X-PDF-Cache": "MISS-GENERATED",
       },
     });
   } catch (error) {
