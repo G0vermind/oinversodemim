@@ -1,22 +1,51 @@
 import type { Metadata } from "next";
-import { Cormorant_Garamond, EB_Garamond } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 import { AUTHOR_NAME, SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "../lib/site";
 import { SiteShell } from "../components/layout/SiteShell";
 
-const cormorantGaramond = Cormorant_Garamond({
-  subsets: ["latin"],
+const cormorantGaramond = localFont({
+  src: [
+    {
+      path: "../public/fonts/CormorantGaramond-Regular.ttf",
+      weight: "400",
+      style: "normal",
+    },
+    {
+      path: "../public/fonts/CormorantGaramond-SemiBold.ttf",
+      weight: "600",
+      style: "normal",
+    },
+    {
+      path: "../public/fonts/CormorantGaramond-Italic.ttf",
+      weight: "400",
+      style: "italic",
+    },
+  ],
   variable: "--font-cormorant",
-  weight: ["400", "600"],
   display: "swap",
 });
 
-const ebGaramond = EB_Garamond({
-  subsets: ["latin"],
+const ebGaramond = localFont({
+  src: [
+    {
+      path: "../public/fonts/EBGaramond-Regular.ttf",
+      weight: "400",
+      style: "normal",
+    },
+    {
+      path: "../public/fonts/EBGaramond-SemiBold.ttf",
+      weight: "600",
+      style: "normal",
+    },
+    {
+      path: "../public/fonts/EBGaramond-Italic.ttf",
+      weight: "400",
+      style: "italic",
+    },
+  ],
   variable: "--font-eb-garamond",
-  weight: ["400", "600"],
   display: "swap",
-  preload: false,
 });
 
 export const metadata: Metadata = {
