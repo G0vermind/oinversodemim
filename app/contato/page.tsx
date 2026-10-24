@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import Image from "next/image";
 import { Mail, Sparkles } from "lucide-react";
 import { SITE_NAME } from "../../lib/site";
+import { getObras } from "../../lib/data";
 import { ContactForm } from "../../components/contact/ContactForm";
 
 export const metadata: Metadata = {
@@ -11,6 +12,11 @@ export const metadata: Metadata = {
 };
 
 export default function ContatoPage() {
+  const obras = getObras();
+  const obrasOpcoes = obras.map((obra) => ({
+    slug: obra.slug,
+    titulo: obra.titulo,
+  }));
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-12">
       {/* Cabeçalho */}
@@ -81,7 +87,7 @@ export default function ContatoPage() {
               </div>
             }
           >
-            <ContactForm />
+            <ContactForm obras={obrasOpcoes} />
           </Suspense>
         </div>
       </div>
