@@ -150,9 +150,9 @@ export const MODULE_REGISTRY: Record<ModuleId, ModuleDefinition> = {
 
   searchAndDb: {
     id: "searchAndDb",
-    nome: "Acervo Inteligente — Busca Poética, Prisma DB & PWA",
+    nome: "Acervo Inteligente — Busca Poética & PWA Offline",
     versao: "v2.0",
-    descricao: "Buscador semântico de poemas e versos, persistência Prisma SQLite/Postgres e funcionamento offline.",
+    descricao: "Buscador semântico de poemas e versos, persistência de poemas guardados e funcionamento offline.",
     status: "active",
     envVar: "NEXT_PUBLIC_MODULE_SEARCH_AND_DB",
     defaultEnabled: true,
@@ -163,7 +163,7 @@ export const MODULE_REGISTRY: Record<ModuleId, ModuleDefinition> = {
       entregaveis: [
         "Barra de busca em tempo real com realce de termos",
         "Filtro cruzado por sentimentos e temas líricos",
-        "Conexão resiliente com Prisma Client (SQLite / PostgreSQL)",
+        "Armazenamento de poemas guardados favoritos",
         "PWA com Service Worker para leitura poética 100% offline",
       ],
     },
