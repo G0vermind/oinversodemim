@@ -12,13 +12,29 @@
       "titulo": "O Centro do Labirinto",
       "ordem": 1,
       "publicadoEm": "2023-07-20",
-      "conteudo": "Entre paredes de pedra e musgo,\nBusco a saída que não tem porta.\nO fio da meada é tênue e brusco,\nMas guia o passo na senda torta.\n\nCada curva um novo enigma,\nCada espelho um rosto estranho.\nNa cinza fria de antigo estigma,\nEncontro o verso que me acompanho."
+      "conteudo": "Entre paredes de pedra e musgo,\nBusco a saída que não tem porta.\nO fio da meada é tênue e brusco,\nMas guia o passo na senda torta.\n\nCada curva um novo enigma,\nCada espelho um rosto estranho.\nNa cinza fria de antigo estigma,\nEncontro o verso que me acompanho.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        }
+      ]
     },
     {
       "titulo": "A Clareira",
       "ordem": 2,
       "publicadoEm": "2023-08-10",
-      "conteudo": "Cessa o labirinto e o labirinto sou eu.\nA luz da clareira banha a pedra fria.\nO que a memória guardou e perdeu\nRenova o curso do novo dia."
+      "conteudo": "Cessa o labirinto e o labirinto sou eu.\nA luz da clareira banha a pedra fria.\nO que a memória guardou e perdeu\nRenova o curso do novo dia.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 60
+        }
+      ]
     }
   ],
   "faixas": [

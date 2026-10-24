@@ -12,13 +12,33 @@
       "titulo": "Romance Imaginário",
       "ordem": 1,
       "publicadoEm": "2022-05-15",
-      "conteudo": "Um poema: romance imaginário\nQuase nenhum com que canto,\nEra soluçar ao um deus morencento,\nUm que meus desejos o que é sem.\n\nSolo tem manto sou a na alcova,\nNoite de agosto sussurra ao monte,\nDeixa pela minha porta de pranto intensa,\nDores há mais com mágoa em toda.\n\nNo vento sopra: ventos de agosto,\nChave da compreensão, o olhar além do véu."
+      "conteudo": "Um poema: romance imaginário\nQuase nenhum com que canto,\nEra soluçar ao um deus morencento,\nUm que meus desejos o que é sem.\n\nSolo tem manto sou a na alcova,\nNoite de agosto sussurra ao monte,\nDeixa pela minha porta de pranto intensa,\nDores há mais com mágoa em toda.\n\nNo vento sopra: ventos de agosto,\nChave da compreensão, o olhar além do véu.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 35
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 70
+        }
+      ]
     },
     {
       "titulo": "Ventos de Agosto",
       "ordem": 2,
       "publicadoEm": "2022-05-20",
-      "conteudo": "Ventos sopram na encosta serena,\nLevando as cinzas da tarde cálida.\nO que a memória guarda e ordena\nÉ a voz que em silêncio consola a alma."
+      "conteudo": "Ventos sopram na encosta serena,\nLevando as cinzas da tarde cálida.\nO que a memória guarda e ordena\nÉ a voz que em silêncio consola a alma.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 105
+        }
+      ]
     }
   ],
   "faixas": [

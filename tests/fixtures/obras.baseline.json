@@ -1970,7 +1970,16 @@
         "ordem": 1,
         "publicadoEm": "2023-11-10",
         "obraId": "obra-7-asas-para-a-liberdade",
-        "timestamps": []
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          }
+        ]
       },
       {
         "id": "7-asas-para-a-liberdade-poema-2",
@@ -1979,7 +1988,16 @@
         "ordem": 2,
         "publicadoEm": "2023-11-15",
         "obraId": "obra-7-asas-para-a-liberdade",
-        "timestamps": []
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 90
+          }
+        ]
       }
     ],
     "faixas": [
@@ -2021,7 +2039,16 @@
         "ordem": 1,
         "publicadoEm": "2023-07-20",
         "obraId": "obra-vistas-do-labirinto",
-        "timestamps": []
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          }
+        ]
       },
       {
         "id": "vistas-do-labirinto-poema-2",
@@ -2030,7 +2057,12 @@
         "ordem": 2,
         "publicadoEm": "2023-08-10",
         "obraId": "obra-vistas-do-labirinto",
-        "timestamps": []
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 60
+          }
+        ]
       }
     ],
     "faixas": [
@@ -2072,7 +2104,20 @@
         "ordem": 1,
         "publicadoEm": "2022-05-15",
         "obraId": "obra-ecos-do-silencio",
-        "timestamps": []
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 35
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 70
+          }
+        ]
       },
       {
         "id": "ecos-do-silencio-poema-2",
@@ -2081,7 +2126,12 @@
         "ordem": 2,
         "publicadoEm": "2022-05-20",
         "obraId": "obra-ecos-do-silencio",
-        "timestamps": []
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 105
+          }
+        ]
       }
     ],
     "faixas": [
@@ -2123,7 +2173,24 @@
         "ordem": 1,
         "publicadoEm": "2019-03-20",
         "obraId": "obra-promiscuos",
-        "timestamps": []
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
       },
       {
         "id": "promiscuos-poema-2",
@@ -2132,7 +2199,40 @@
         "ordem": 2,
         "publicadoEm": "2019-03-20",
         "obraId": "obra-promiscuos",
-        "timestamps": []
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 15
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 45
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 6,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 7,
+            "segundos": 105
+          }
+        ]
       },
       {
         "id": "promiscuos-poema-3",
@@ -2141,7 +2241,20 @@
         "ordem": 3,
         "publicadoEm": "2019-03-20",
         "obraId": "obra-promiscuos",
-        "timestamps": []
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 20
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 40
+          }
+        ]
       },
       {
         "id": "promiscuos-poema-4",
@@ -2150,7 +2263,24 @@
         "ordem": 4,
         "publicadoEm": "2019-03-20",
         "obraId": "obra-promiscuos",
-        "timestamps": []
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
       },
       {
         "id": "promiscuos-poema-5",
@@ -2159,7 +2289,20 @@
         "ordem": 5,
         "publicadoEm": "2019-03-20",
         "obraId": "obra-promiscuos",
-        "timestamps": []
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 20
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 40
+          }
+        ]
       },
       {
         "id": "promiscuos-poema-6",
@@ -2168,7 +2311,24 @@
         "ordem": 6,
         "publicadoEm": "2019-03-20",
         "obraId": "obra-promiscuos",
-        "timestamps": []
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 20
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 40
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 60
+          }
+        ]
       }
     ],
     "faixas": [

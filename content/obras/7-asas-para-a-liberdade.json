@@ -13,13 +13,33 @@
       "titulo": "Asas da Consciência",
       "ordem": 1,
       "publicadoEm": "2023-11-10",
-      "conteudo": "Sete asas abertas ao vento,\nSete passos na senda da luz.\nO que liberta o pensamento\nÉ a coragem que a alma conduz.\n\nSem grilhões, sem amarras ou medos,\nO horizonte se alarga no olhar.\nDesvendando os antigos segredos\nDo silêncio que aprende a cantar."
+      "conteudo": "Sete asas abertas ao vento,\nSete passos na senda da luz.\nO que liberta o pensamento\nÉ a coragem que a alma conduz.\n\nSem grilhões, sem amarras ou medos,\nO horizonte se alarga no olhar.\nDesvendando os antigos segredos\nDo silêncio que aprende a cantar.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 30
+        }
+      ]
     },
     {
       "titulo": "Voo Interior",
       "ordem": 2,
       "publicadoEm": "2023-11-15",
-      "conteudo": "Voar sobre o vale e a campina,\nOnde a névoa se desfaz em flor.\nA poesia é a chama divina\nQue liberta a verdade e o amor.\n\nSete asas tecidas no peito,\nEm círculos concêntricos de paz,\nNada mais desafia o preceito\nDo que a luz que a liberdade traz."
+      "conteudo": "Voar sobre o vale e a campina,\nOnde a névoa se desfaz em flor.\nA poesia é a chama divina\nQue liberta a verdade e o amor.\n\nSete asas tecidas no peito,\nEm círculos concêntricos de paz,\nNada mais desafia o preceito\nDo que a luz que a liberdade traz.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 60
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 90
+        }
+      ]
     }
   ],
   "faixas": [
