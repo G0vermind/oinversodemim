@@ -24,6 +24,7 @@ const cormorantGaramond = localFont({
   ],
   variable: "--font-cormorant",
   display: "swap",
+  preload: false,
 });
 
 const ebGaramond = localFont({
@@ -46,6 +47,7 @@ const ebGaramond = localFont({
   ],
   variable: "--font-eb-garamond",
   display: "swap",
+  preload: false,
 });
 
 export const metadata: Metadata = {

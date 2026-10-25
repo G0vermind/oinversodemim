@@ -20,7 +20,6 @@ export default function Home() {
               className="h-28 sm:h-40 md:h-48 lg:h-56 w-auto object-contain drop-shadow-[0_8px_32px_rgba(200,141,78,0.25)]"
               width={1024}
               height={467}
-              priority
             />
           </div>
 
@@ -32,7 +31,6 @@ export default function Home() {
               className="h-28 sm:h-40 md:h-48 lg:h-56 w-auto object-contain"
               width={1024}
               height={467}
-              priority
             />
           </div>
         </div>
