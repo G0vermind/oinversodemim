@@ -53,7 +53,7 @@ export default function MusicasPage() {
           <Headphones className="w-4 h-4 text-destaque" aria-hidden="true" />
           <span>Projeto Gerasom • Discografia & Acervo Sonoro</span>
         </div>
-        <h1 className="font-serif text-3xl sm:text-5xl font-normal text-texto uppercase tracking-[0.05em] leading-tight">
+        <h1 className="font-serif text-3xl sm:text-5xl font-normal text-texto uppercase tracking-wider leading-tight">
           Discografia & Álbuns de Música
         </h1>
         <p className="text-base text-texto-suave max-w-2xl leading-relaxed">

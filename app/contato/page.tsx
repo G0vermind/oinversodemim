@@ -26,7 +26,7 @@ export default function ContatoPage() {
           <span>Difusão Literária & Cultural</span>
         </div>
 
-        <h1 className="font-serif text-3xl sm:text-5xl font-normal text-texto uppercase tracking-[0.05em]">
+        <h1 className="font-serif text-3xl sm:text-5xl font-normal text-texto uppercase tracking-wider">
           Pedidos & Doações de Exemplares
         </h1>
 

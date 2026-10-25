@@ -202,7 +202,7 @@ export function ContactForm({ obras = OBRAS_PADRAO }: ContactFormProps) {
           value={nome}
           onChange={(e) => setNome(e.target.value)}
           placeholder="Ex: Maria Silveira (Biblioteca Comunitária)"
-          className="w-full px-3.5 py-2.5 rounded-md bg-fundo border border-linha text-sm text-texto focus-visible:outline-none focus-visible:border-destaque transition-colors disabled:opacity-50"
+          className="input-editorial px-3.5 py-2.5 text-sm disabled:opacity-50"
         />
       </div>
 
@@ -219,7 +219,7 @@ export function ContactForm({ obras = OBRAS_PADRAO }: ContactFormProps) {
           value={email}
           onChange={(e) => setEmail(e.target.value)}
           placeholder="seuemail@exemplo.com"
-          className="w-full px-3.5 py-2.5 rounded-md bg-fundo border border-linha text-sm text-texto focus-visible:outline-none focus-visible:border-destaque transition-colors disabled:opacity-50"
+          className="input-editorial px-3.5 py-2.5 text-sm disabled:opacity-50"
         />
       </div>
 
@@ -234,7 +234,7 @@ export function ContactForm({ obras = OBRAS_PADRAO }: ContactFormProps) {
             disabled={isSubmitting}
             value={perfil}
             onChange={(e) => setPerfil(e.target.value)}
-            className="w-full px-3 py-2.5 rounded-md bg-fundo border border-linha text-xs sm:text-sm text-texto focus-visible:outline-none focus-visible:border-destaque cursor-pointer disabled:opacity-50"
+            className="input-editorial px-3 py-2.5 text-xs sm:text-sm enabled:cursor-pointer disabled:opacity-50"
           >
             <option value="biblioteca">Biblioteca Comunitária / Pública</option>
             <option value="escola">Escola / Projeto Educativo</option>
@@ -253,7 +253,7 @@ export function ContactForm({ obras = OBRAS_PADRAO }: ContactFormProps) {
             disabled={isSubmitting}
             value={obra}
             onChange={(e) => setObra(e.target.value)}
-            className="w-full px-3 py-2.5 rounded-md bg-fundo border border-linha text-xs sm:text-sm text-texto focus-visible:outline-none focus-visible:border-destaque cursor-pointer disabled:opacity-50"
+            className="input-editorial px-3 py-2.5 text-xs sm:text-sm enabled:cursor-pointer disabled:opacity-50"
           >
             <option value="todas">Todas as Coletâneas / Interesse Geral</option>
             {catalogoObras.map((o) => (
@@ -277,7 +277,7 @@ export function ContactForm({ obras = OBRAS_PADRAO }: ContactFormProps) {
           value={mensagem}
           onChange={(e) => setMensagem(e.target.value)}
           placeholder="Compartilhe a cidade para entrega postal ou o propósito da leitura..."
-          className="w-full px-3.5 py-2.5 rounded-md bg-fundo border border-linha text-sm text-texto focus-visible:outline-none focus-visible:border-destaque resize-none disabled:opacity-50 transition-colors"
+          className="input-editorial px-3.5 py-2.5 text-sm resize-none disabled:opacity-50"
         />
       </div>
 
@@ -287,7 +287,7 @@ export function ContactForm({ obras = OBRAS_PADRAO }: ContactFormProps) {
           type="submit"
           disabled={isSubmitting}
           aria-busy={isSubmitting}
-          className="btn-primary w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-2.5 rounded-full text-xs sm:text-sm font-medium cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed transition-all"
+          className="btn-primary w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-2.5 rounded-full text-xs sm:text-sm font-medium enabled:cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed transition-all"
         >
           {isSubmitting ? (
             <>

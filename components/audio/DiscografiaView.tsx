@@ -182,7 +182,7 @@ export function DiscografiaView({ albuns }: DiscografiaViewProps) {
             {isPlaying && currentTrack ? (
               <span className="inline-flex items-center gap-2 text-destaque font-serif">
                 <SoundEqualizer isPlaying={true} size="sm" />
-                <span className="truncate max-w-[140px] sm:max-w-[180px]">
+                <span className="truncate max-w-35 sm:max-w-45">
                   {currentTrack.titulo}
                 </span>
               </span>
@@ -212,7 +212,7 @@ export function DiscografiaView({ albuns }: DiscografiaViewProps) {
               value={termoBusca}
               onChange={(e) => setTermoBusca(e.target.value)}
               placeholder="Buscar música, álbum ou verso..."
-              className="w-full pl-10 pr-9 py-2.5 bg-[#120F0D] border border-linha/80 rounded-xl text-sm text-texto placeholder:text-texto-suave/60 focus:outline-none focus:border-destaque focus:ring-1 focus:ring-destaque transition-all"
+              className="input-editorial rounded-xl pl-10 pr-9 py-2.5 text-sm focus:ring-1 focus:ring-destaque transition-all"
             />
             {termoBusca && (
               <button
@@ -394,7 +394,7 @@ export function DiscografiaView({ albuns }: DiscografiaViewProps) {
                 }`}
               >
                 {/* Cabeçalho do Álbum (Capa estilo Vinil + Metadados) */}
-                <div className="p-6 sm:p-8 bg-gradient-to-b from-[#211C18] to-[#181512] border-b border-linha/60">
+                <div className="p-6 sm:p-8 bg-linear-to-b from-[#211C18] to-[#181512] border-b border-linha/60">
                   <div className="flex flex-col md:flex-row items-center md:items-start gap-6 sm:gap-8">
                     {/* Capa com Efeito Vinil 33 RPM */}
                     <div className="relative group/sleeve shrink-0">
@@ -440,7 +440,7 @@ export function DiscografiaView({ albuns }: DiscografiaViewProps) {
                           priority={album.slug === "andancas" || album.slug === "odes-melodicas"}
                         />
                         {/* Sombra de Vinil na dobra esquerda */}
-                        <div className="absolute inset-y-0 left-0 w-3 bg-gradient-to-r from-black/50 to-transparent pointer-events-none" />
+                        <div className="absolute inset-y-0 left-0 w-3 bg-linear-to-r from-black/50 to-transparent pointer-events-none" />
 
                         {/* Badge de Álbum Ativo */}
                         {isAlbumPlaying && (
