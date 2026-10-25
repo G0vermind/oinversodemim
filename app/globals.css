@@ -72,13 +72,20 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 500;
   transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
   box-shadow: 0 2px 8px rgba(200, 141, 78, 0.2);
+  cursor: pointer;
 }
 
-.btn-primary:hover {
+.btn-primary:hover:not(:disabled) {
   background-color: var(--destaque-hover);
   border-color: var(--destaque-hover);
   color: #FFFFFF;
   box-shadow: 0 4px 14px rgba(200, 141, 78, 0.35);
+}
+
+.btn-primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  box-shadow: none;
 }
 
 /* Botão secundário minimalista em moldura de bronze */
@@ -87,12 +94,18 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--texto);
   border: 1px solid var(--linha);
   transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
 }
 
-.btn-secondary:hover {
+.btn-secondary:hover:not(:disabled) {
   border-color: var(--destaque);
   color: var(--destaque-texto);
   background-color: rgba(200, 141, 78, 0.06);
+}
+
+.btn-secondary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 
 /* Superfície plinth editorial com toque de santuário poético */
@@ -135,6 +148,11 @@ h1, h2, h3, h4, h5, h6 {
 .input-editorial:focus,
 .input-editorial:focus-visible {
   border-color: var(--destaque);
+}
+
+.input-editorial:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 
 .input-editorial::placeholder {

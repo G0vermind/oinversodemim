@@ -155,7 +155,7 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
                 ? `Pausar reprodução de ${obra.titulo}`
                 : `Ouvir trilha sonora de ${obra.titulo}`
             }
-            className={`py-2 px-3 rounded-md text-xs font-serif uppercase tracking-wider text-center flex items-center justify-center gap-1.5 cursor-pointer disabled:opacity-40 disabled:cursor-not-allowed focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-destaque transition-all ${
+            className={`py-2 px-3 rounded-md text-xs font-serif uppercase tracking-wider text-center flex items-center justify-center gap-1.5 cursor-pointer disabled:opacity-40 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-destaque transition-all ${
               isCurrentPlaying
                 ? "bg-destaque text-white border border-destaque shadow-[0_0_12px_rgba(200,141,78,0.4)]"
                 : "btn-secondary hover:border-destaque"
