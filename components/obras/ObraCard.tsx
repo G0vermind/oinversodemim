@@ -64,11 +64,11 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
   // 1. Grid Variant — Livro Físico 3D A5 com Vinil Acústico Deslizante
   if (variant === "grid") {
     return (
-      <article className="engraving-card group relative flex flex-col justify-between bg-[#191613] p-4 text-center transition-all duration-300 hover:border-destaque/60 hover:shadow-[0_16px_36px_-10px_rgba(0,0,0,0.65),0_0_20px_rgba(200,141,78,0.18)] !overflow-visible hover:z-30">
+      <article className="engraving-card group relative flex flex-col justify-between bg-[#191613] p-4 text-center transition-all duration-300 hover:border-destaque/60 hover:shadow-[0_16px_36px_-10px_rgba(0,0,0,0.65),0_0_20px_rgba(200,141,78,0.18)] overflow-visible! hover:z-30">
         {/* Palco Editorial 3D: Livro Físico A5 + Disco de Vinil Acústico */}
         <div className="relative w-full pt-1 pb-3 mb-2 flex items-center justify-center">
           {/* Container proporcional do livro A5 com clipe estrito na lombada (esquerda) e livre à direita */}
-          <div className="relative w-[78%] max-w-[200px] aspect-[1/1.48] transition-transform duration-500 ease-out group-hover:-translate-y-2 group-hover:rotate-[-0.75deg]">
+          <div className="relative w-[78%] max-w-50 aspect-[1/1.48] transition-transform duration-500 ease-out group-hover:-translate-y-2 group-hover:rotate-[-0.75deg]">
             {/* Disco de Vinil Acústico Deslizante (Fase 2) - Envelopado com clipe na lombada */}
             {primeiraFaixa && (
               <div
@@ -87,7 +87,7 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
             )}
 
             {/* Capa do Livro Físico 3D Realista (Fase 1) */}
-            <div className="relative w-full h-full rounded-r-[5px] rounded-l-[2px] overflow-hidden shadow-[-6px_10px_24px_rgba(0,0,0,0.65),0_2px_6px_rgba(0,0,0,0.4)] group-hover:shadow-[-8px_18px_32px_rgba(0,0,0,0.78),0_0_22px_rgba(200,141,78,0.22)] border-y border-r border-[#382e23] bg-[#14110e] z-10 transition-all duration-500">
+            <div className="relative w-full h-full rounded-r-[5px] rounded-l-xs overflow-hidden shadow-[-6px_10px_24px_rgba(0,0,0,0.65),0_2px_6px_rgba(0,0,0,0.4)] group-hover:shadow-[-8px_18px_32px_rgba(0,0,0,0.78),0_0_22px_rgba(200,141,78,0.22)] border-y border-r border-[#382e23] bg-[#14110e] z-10 transition-all duration-500">
               {/* Arte da Capa em Alta Fidelidade (Proporção Editorial Real A5, sem cortes) */}
               <Image
                 src={capaEbook}
@@ -99,22 +99,22 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
 
               {/* Lombada Física / Vinco de Capa Dura à Esquerda */}
               <div
-                className="absolute left-0 top-0 bottom-0 w-4 pointer-events-none z-20 bg-gradient-to-r from-black/65 via-black/25 to-transparent"
+                className="absolute left-0 top-0 bottom-0 w-4 pointer-events-none z-20 bg-linear-to-r from-black/65 via-black/25 to-transparent"
                 aria-hidden="true"
               >
                 {/* Linha de reflexo do vinco da dobra */}
-                <div className="absolute left-[12px] top-0 bottom-0 w-[1px] bg-white/12 shadow-[0_0_2px_rgba(0,0,0,0.9)]" />
+                <div className="absolute left-3 top-0 bottom-0 w-px bg-white/12 shadow-[0_0_2px_rgba(0,0,0,0.9)]" />
               </div>
 
               {/* Borda de Miolo / Páginas de Papel Vergê à Direita */}
               <div
-                className="absolute right-0 top-[1px] bottom-[1px] w-[3px] pointer-events-none z-20 bg-gradient-to-b from-[#ECE4D5] via-[#DFD5C2] to-[#D0C2A8] rounded-r-xs opacity-85 border-l border-black/40 shadow-inner"
+                className="absolute right-0 top-px bottom-px w-0.75 pointer-events-none z-20 bg-linear-to-b from-[#ECE4D5] via-[#DFD5C2] to-[#D0C2A8] rounded-r-xs opacity-85 border-l border-black/40 shadow-inner"
                 aria-hidden="true"
               />
 
               {/* Reflexo de Verniz Localizado (Gloss Sheen Sweep) ao passar o cursor */}
               <div
-                className="absolute inset-0 -translate-x-full group-hover:translate-x-full transition-transform duration-1000 ease-out bg-gradient-to-r from-transparent via-white/15 to-transparent pointer-events-none z-20 -skew-x-12"
+                className="absolute inset-0 -translate-x-full group-hover:translate-x-full transition-transform duration-1000 ease-out bg-linear-to-r from-transparent via-white/15 to-transparent pointer-events-none z-20 -skew-x-12"
                 aria-hidden="true"
               />
             </div>
@@ -190,7 +190,7 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
 
   // 2. Detailed Variant (para visualização horizontal detalhada)
   return (
-    <article className="plinth-surface rounded-xl flex flex-col md:flex-row transition-all duration-300 hover:border-destaque/50 group bg-[#191613] !overflow-visible hover:z-30">
+    <article className="plinth-surface rounded-xl flex flex-col md:flex-row transition-all duration-300 hover:border-destaque/50 group bg-[#191613] overflow-visible! hover:z-30">
       {/* Stage do Livro Físico 3D + Vinil na visualização detalhada */}
       <div className="relative w-full md:w-60 p-5 shrink-0 flex items-center justify-center bg-[#15120f]/60 rounded-t-xl md:rounded-l-xl md:rounded-tr-none">
         <div className="relative w-[82%] aspect-[1/1.48] transition-transform duration-500 ease-out group-hover:-translate-y-1.5 group-hover:rotate-[-0.75deg]">
@@ -212,7 +212,7 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
           )}
 
           {/* Capa do Livro com Lombada e Folhas */}
-          <div className="relative w-full h-full rounded-r-[5px] rounded-l-[2px] overflow-hidden shadow-[-6px_10px_24px_rgba(0,0,0,0.65),0_2px_6px_rgba(0,0,0,0.4)] group-hover:shadow-[-8px_18px_32px_rgba(0,0,0,0.78),0_0_22px_rgba(200,141,78,0.22)] border-y border-r border-[#382e23] bg-[#14110e] z-10 transition-all duration-500">
+          <div className="relative w-full h-full rounded-r-[5px] rounded-l-xs overflow-hidden shadow-[-6px_10px_24px_rgba(0,0,0,0.65),0_2px_6px_rgba(0,0,0,0.4)] group-hover:shadow-[-8px_18px_32px_rgba(0,0,0,0.78),0_0_22px_rgba(200,141,78,0.22)] border-y border-r border-[#382e23] bg-[#14110e] z-10 transition-all duration-500">
             <Image
               src={capaEbook}
               alt={`Capa de ${obra.titulo}`}
@@ -222,19 +222,19 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
             />
             {/* Lombada */}
             <div
-              className="absolute left-0 top-0 bottom-0 w-4 pointer-events-none z-20 bg-gradient-to-r from-black/65 via-black/25 to-transparent"
+              className="absolute left-0 top-0 bottom-0 w-4 pointer-events-none z-20 bg-linear-to-r from-black/65 via-black/25 to-transparent"
               aria-hidden="true"
             >
-              <div className="absolute left-[12px] top-0 bottom-0 w-[1px] bg-white/12 shadow-[0_0_2px_rgba(0,0,0,0.9)]" />
+              <div className="absolute left-3 top-0 bottom-0 w-px bg-white/12 shadow-[0_0_2px_rgba(0,0,0,0.9)]" />
             </div>
             {/* Miolo */}
             <div
-              className="absolute right-0 top-[1px] bottom-[1px] w-[3px] pointer-events-none z-20 bg-gradient-to-b from-[#ECE4D5] via-[#DFD5C2] to-[#D0C2A8] rounded-r-xs opacity-85 border-l border-black/40 shadow-inner"
+              className="absolute right-0 top-px bottom-px w-0.75 pointer-events-none z-20 bg-linear-to-b from-[#ECE4D5] via-[#DFD5C2] to-[#D0C2A8] rounded-r-xs opacity-85 border-l border-black/40 shadow-inner"
               aria-hidden="true"
             />
             {/* Verniz */}
             <div
-              className="absolute inset-0 -translate-x-full group-hover:translate-x-full transition-transform duration-1000 ease-out bg-gradient-to-r from-transparent via-white/15 to-transparent pointer-events-none z-20 -skew-x-12"
+              className="absolute inset-0 -translate-x-full group-hover:translate-x-full transition-transform duration-1000 ease-out bg-linear-to-r from-transparent via-white/15 to-transparent pointer-events-none z-20 -skew-x-12"
               aria-hidden="true"
             />
           </div>
