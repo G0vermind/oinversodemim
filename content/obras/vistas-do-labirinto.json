@@ -2,7 +2,7 @@
   "titulo": "Vistas do Labirinto",
   "sentimento": "Tempo",
   "descricao": "Uma meditação geométrica e poética sobre os corredores da memória e a busca lúcida pela clareira existencial.",
-  "capaUrl": "/capas/vistas-do-labirinto.jpg",
+  "capaUrl": "/capas/vistas-do-labirinto/capaUrl.jpg",
   "preco": 0,
   "estoqueFisico": 12,
   "linkVendaFisica": "",
@@ -45,5 +45,5 @@
       "letra": "Entre paredes de pedra e musgo, busco a saída que não tem porta..."
     }
   ],
-  "audioCapaUrl": "/art/labyrinth.jpg"
+  "audioCapaUrl": "/art/vistas-do-labirinto/audioCapaUrl.jpg"
 }

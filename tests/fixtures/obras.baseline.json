@@ -4,9 +4,9 @@
     "titulo": "Odes Melódicas",
     "slug": "odes-melodicas",
     "descricao": "Coletânea lírica em formato de ópera bufa em parceria com o projeto Gerasom. Poemas compostos sob medida para serem cantados e adornados por melodias acústicas.",
-    "capaUrl": "/capas/odes-melodicas.png",
-    "ebookCapaUrl": "/capas/odes-melodicas.png",
-    "audioCapaUrl": "/art/odes-melodicas.jpg",
+    "capaUrl": "/capas/odes-melodicas/capaUrl.png",
+    "ebookCapaUrl": "/capas/odes-melodicas/capaUrl.png",
+    "audioCapaUrl": "/art/odes-melodicas/audioCapaUrl.jpg",
     "ebookUrl": "/ebooks/odes-melodicas.pdf",
     "palavrasDoAutor": "A obra Odes Melódicas é um compilado de textos novos e antigos em formato de ópera bufa que retrata, de forma literal e sonora, a exaltação e celebração de pessoas, ideais, natureza e eventos. No que concerne à etimologia do termo, de origem grega odés que significa canto, os poemas foram concebidos para serem cantados.",
     "apresentacao": "Não há muito há se dizer sobre esta obra, além do que se possa apreciar e concluir por si mesmo. Trata-se de uma coletânea de textos, alguns desses são inéditos e outros já foram publicados anteriormente, mas que agora, após uma “releitura” do autor, recebem novas palavras em benefício de sua sonoridade e ritmo.\n\nAs questões de sonoridade e do ritmo são importantes para atender ao objetivo final do projeto que foi o de emoldurar os poemas com melodias, compostas sob medida, para realçar as mensagens contidas, e proporcionar um maior alcance de público a essa forma de expressão artística. Assim, a valorização estética do conteúdo literário se dá pela possibilidade de agregar o componente musical que permite a inclusão de outros estímulos à sensibilidade do leitor e ouvinte.\n\nNesse contexto, espera-se que a leitura/audição dos poemas “adornados” pelas melodias amplie o alcance imagético e propicie uma experiência estimulante e agradável aos apreciadores da arte literária, para os quais a obra “Odes Melódicas” se destina.",
@@ -1004,9 +1004,9 @@
     "titulo": "Andanças",
     "slug": "andancas",
     "descricao": "Investida lírica sobre os 'andares' e 'dançares' em suas mais diversas concepções, unindo a literatura poética brasileira a uma envolvente paisagem acústica em parceria com o projeto Gerasom.",
-    "capaUrl": "/capas/andancas.png",
-    "ebookCapaUrl": "/capas/andancas.png",
-    "audioCapaUrl": "/art/compass.jpg",
+    "capaUrl": "/capas/andancas/capaUrl.png",
+    "ebookCapaUrl": "/capas/andancas/capaUrl.png",
+    "audioCapaUrl": "/art/andancas/audioCapaUrl.jpg",
     "ebookUrl": "/ebooks/andancas.pdf",
     "palavrasDoAutor": "SUMÁRIO\nPALAVRAS DO AUTOR\nAPRESENTAÇÃO\nPREFÁCIO\nANDANÇA\nVIDA AFORA\nA ASTÚCIA DA RAZÃO\nGUARDIÃO\nLUZ DA VIDA\nCACTUS\nBELLA LUNA\nGAIA\nHOMEM DE FERRO\nPASSEIO DE BICICLETA\nSINAIS\nESCOLHAS\nDARK\nPAREIDOLIA\nSEMPRE\nPRIMEIRA DANÇA\nESTANDARTE\nCIRANDA\nSTOKHASTIKÓS\nAMOR FATI\nDRUMMONDIANDO\nOUTRO TEMPO\nANDALUZ\nA DANÇA DA LUA\nANDANTE\nDANÇANTE\nVAGANTE\nBAILE DE MÁSCARAS\nTÉDIO À CONTROVÉRSIA\nMUNDANCE\nANDARILHO\nCONTAGEM REGRESSIVA\nA HARMONIA DO CONTINUUM\n\u0000 EXTRAS \u0000\nMARACAÍPE",
     "apresentacao": "Andanças é um convite aos sonhos valorosos, aos desejos genuínos. Uma dança com a\nvida, com a beleza, com a leveza.\nEstes poemas tocam a magia de ser. Quem se permitir fluir pelos seus caminhos\ndesconhecidos, poderá tocar ou ser tocado por algo essencial. Permita-se ser\ntransformada(o) e mude o mundo com seu novo olhar.\nDescubra seu ritmo, sua dança. Inicie sua jornada de ser autêntica(o), de ser natural.\nHarmonize-se! O equilíbrio, a vibração e a frequência que emanamos são\nresponsabilidades nossas.\nA pergunta implícita é:\nO que, realmente, vale a pena?\n“Fluir presente! Fluir consciente! No âmago do nosso ser, urge a dança autêntica e natural\nda existência.”\nAdriana Brindeiro, Economista e Artista Plástica",
@@ -1948,9 +1948,9 @@
     "titulo": "7 Asas para a Liberdade",
     "slug": "7-asas-para-a-liberdade",
     "descricao": "Coletânea poética ilustrada por Marcelo. Versos sobre a transcendência, a busca da verdade interior e o voo da alma em direção à liberdade.",
-    "capaUrl": "/capas/7-asas-para-a-liberdade.jpg",
-    "ebookCapaUrl": "/capas/7-asas-para-a-liberdade.jpg",
-    "audioCapaUrl": "/art/quill.jpg",
+    "capaUrl": "/capas/7-asas-para-a-liberdade/capaUrl.jpg",
+    "ebookCapaUrl": "/capas/7-asas-para-a-liberdade/capaUrl.jpg",
+    "audioCapaUrl": "/art/7-asas-para-a-liberdade/audioCapaUrl.jpg",
     "ebookUrl": null,
     "palavrasDoAutor": null,
     "apresentacao": null,
@@ -2008,7 +2008,7 @@
         "duracao": 210,
         "letra": "Sete asas abertas ao vento,\nSete passos na senda da luz...",
         "obraId": "obra-7-asas-para-a-liberdade",
-        "capaUrl": "/art/quill.jpg"
+        "capaUrl": "/art/7-asas-para-a-liberdade/audioCapaUrl.jpg"
       }
     ]
   },
@@ -2017,9 +2017,9 @@
     "titulo": "Vistas do Labirinto",
     "slug": "vistas-do-labirinto",
     "descricao": "Uma meditação geométrica e poética sobre os corredores da memória e a busca lúcida pela clareira existencial.",
-    "capaUrl": "/capas/vistas-do-labirinto.jpg",
-    "ebookCapaUrl": "/capas/vistas-do-labirinto.jpg",
-    "audioCapaUrl": "/art/labyrinth.jpg",
+    "capaUrl": "/capas/vistas-do-labirinto/capaUrl.jpg",
+    "ebookCapaUrl": "/capas/vistas-do-labirinto/capaUrl.jpg",
+    "audioCapaUrl": "/art/vistas-do-labirinto/audioCapaUrl.jpg",
     "ebookUrl": null,
     "palavrasDoAutor": null,
     "apresentacao": null,
@@ -2073,7 +2073,7 @@
         "duracao": 210,
         "letra": "Entre paredes de pedra e musgo, busco a saída que não tem porta...",
         "obraId": "obra-vistas-do-labirinto",
-        "capaUrl": "/art/labyrinth.jpg"
+        "capaUrl": "/art/vistas-do-labirinto/audioCapaUrl.jpg"
       }
     ]
   },
@@ -2082,9 +2082,9 @@
     "titulo": "Ecos do Silêncio",
     "slug": "ecos-do-silencio",
     "descricao": "Sonetos e cantos de solitude fértil e recolhimento interior, explorando as fronteiras entre a música e o verso meditativo.",
-    "capaUrl": "/capas/ecos-do-silencio.jpg",
-    "ebookCapaUrl": "/capas/ecos-do-silencio.jpg",
-    "audioCapaUrl": "/art/compass.jpg",
+    "capaUrl": "/capas/ecos-do-silencio/capaUrl.jpg",
+    "ebookCapaUrl": "/capas/ecos-do-silencio/capaUrl.jpg",
+    "audioCapaUrl": "/art/ecos-do-silencio/audioCapaUrl.jpg",
     "ebookUrl": null,
     "palavrasDoAutor": null,
     "apresentacao": null,
@@ -2142,7 +2142,7 @@
         "duracao": 228,
         "letra": "Noite de agosto sussurra ao monte,\nDeixa pela minha porta de pranto intensa...",
         "obraId": "obra-ecos-do-silencio",
-        "capaUrl": "/art/compass.jpg"
+        "capaUrl": "/art/ecos-do-silencio/audioCapaUrl.jpg"
       }
     ]
   },
@@ -2151,9 +2151,9 @@
     "titulo": "Promíscuos",
     "slug": "promiscuos",
     "descricao": "Livro de Poemas da Alcova (2019). O erotismo visceral e a luxúria dos amantes em quatro atos entre quatro paredes, guiados pela pena despojada e obscena do poeta.",
-    "capaUrl": "/capas/promiscuos.jpg",
-    "ebookCapaUrl": "/capas/promiscuos.jpg",
-    "audioCapaUrl": "/art/promiscuos.jpg",
+    "capaUrl": "/capas/promiscuos/capaUrl.jpg",
+    "ebookCapaUrl": "/capas/promiscuos/capaUrl.jpg",
+    "audioCapaUrl": "/art/promiscuos/audioCapaUrl.jpg",
     "ebookUrl": "/ebooks/promiscuos.pdf",
     "palavrasDoAutor": null,
     "apresentacao": null,
@@ -2339,7 +2339,7 @@
         "duracao": 180,
         "letra": "Falar de você me excita... Não só meu coração carente, mas o cume do corpo palpita em uma onda de energia obscena.",
         "obraId": "obra-promiscuos",
-        "capaUrl": "/art/promiscuos.jpg"
+        "capaUrl": "/art/promiscuos/audioCapaUrl.jpg"
       }
     ]
   },
@@ -2348,9 +2348,9 @@
     "titulo": "O Inverso de Mim",
     "slug": "o-inverso-de-mim",
     "descricao": "A obra seminal de Heldemarcio Ferreira (2005). Uma travessia autobiográfica dividida nos quatro ciclos da existência: O Adolescente, O Profissional, O Poeta e O Amador.",
-    "capaUrl": "/capas/o-inverso-de-mim.jpg",
-    "ebookCapaUrl": "/capas/o-inverso-de-mim.jpg",
-    "audioCapaUrl": "/art/o-inverso-de-mim.jpg",
+    "capaUrl": "/capas/o-inverso-de-mim/capaUrl.jpg",
+    "ebookCapaUrl": "/capas/o-inverso-de-mim/capaUrl.jpg",
+    "audioCapaUrl": "/art/o-inverso-de-mim/audioCapaUrl.jpg",
     "ebookUrl": "/ebooks/o-inverso-de-mim.pdf",
     "palavrasDoAutor": "Este livro retrata algumas das fases mais significativas de minha vida: A adolescência com todos os ideais, o profissional e a dedicação à carreira, a opção pela poesia e pelo sentimento, e o amor que é arte ou desastre para quem é \"amador\". Repleto de influências de pessoas e situações que, de uma forma ou de outra, marcaram a minha existência e das quais não poderei esquecer.\n\nÉ uma obra pessoal e intimista, na qual as minhas referências sentimentais são expostas de forma poética, sem qualquer restrição ou receio em relação às mais diversas e possíveis interpretações. E, por tratar de sentimentos e reflexões existenciais, a obra assume uma dimensão de caráter universal, a despeito de ser focada em uma pessoa em particular.\n\nAcredito que possa haver uma \"certa\" identificação do leitor com a forma de abordagem de temas bastante comuns alusivos à solidão, paixão, amor, tristeza e outros que compõem o universo de sensações e percepções do mundo. Não tenho a menor pretensão de que este livro alcance qualquer nível de projeção ou que venha a ser reconhecido como obra de valor literário.\n\nTrata-se apenas, e principalmente, de um registro da minha existência até o momento atual, através da sensibilidade e da paixão que dedico à poesia.\n\nDesse modo, o livro representa a realização de um sonho antigo que agora compartilho com os amigos e com o público em geral que aprecia a poesia. É um resgate daquilo que me dá grande prazer nessa vida: o ato de escrever sobre o que sinto.",
     "apresentacao": "A produção poética é um gesto de sensibilidade corajosa que exige do autor a decisão de se expor. Uma decisão que nem todos ousam.\n\nSão poucos aqueles que se abrem, mostrando, mesmo que eventualmente sob linguagem metafórica, o seu 'eu', o seu modo de ver e sentir o mundo, de viver pessoas e gozar sentimentos.\n\nMuitos, por timidez ou egoísmo, se fecham em copas, mantendo para si a arte que a alma guarda. Alguns mantêm os sonhos sob grilhões, impedindo mesmo que brotem as palavras e, com elas, a luz que embala o espírito e estimula a vida.\n\nEste, graças a Deus, não é o caso de Heldemarcio Ferreira, que faz seu debut na literatura artística com o magnífico 'O inverso de mim' – um livro que reúne poemas de rara beleza, descortinando sua 'opção pela poesia' num caminho que se iniciou n'O adolescente, passando pel'O profissional e se deliciou n'O poeta até chegar a'O apaixonado.\n\nO livro de estréia de Heldemarcio Ferreira revela a sensibilidade e o talento daqueles cujo mergulho no universo da poesia foi incontrolável. O poeta que sempre viveu na alma de Heldemarcio rasgou a roupa do engenheiro, ganhando vida para entregar ao mundo um grande artista da palavra. Com o 'O inverso de mim', Heldemarcio Ferreira carimbou o passaporte que, para deleite dos apaixonados pela poesia, vai levá-lo a viagens cada vez mais profundas no maravilhoso universo da literatura artística.\n\npor Alexandre Santos\nMembro da Academia de Letras e Artes do Nordeste Brasileiro e da Academia Brasileira de Autores Solidaristas.",
@@ -3828,7 +3828,7 @@
         "duracao": 210,
         "letra": "Era uma vez um estudante que acreditava em ideais...\nEra uma vez um engenheiro que construía poesias...",
         "obraId": "obra-o-inverso-de-mim",
-        "capaUrl": "/art/o-inverso-de-mim.jpg"
+        "capaUrl": "/art/o-inverso-de-mim/audioCapaUrl.jpg"
       },
       {
         "id": "o-inverso-de-mim-faixa-2",
@@ -3837,7 +3837,7 @@
         "duracao": 195,
         "letra": "Lá no espaço sideral encontro a alegria...\nA luz da estrela é terna guia na utopia desse instante.",
         "obraId": "obra-o-inverso-de-mim",
-        "capaUrl": "/art/o-inverso-de-mim.jpg"
+        "capaUrl": "/art/o-inverso-de-mim/audioCapaUrl.jpg"
       }
     ]
   }

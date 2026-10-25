@@ -2,7 +2,7 @@
   "titulo": "Ecos do Silêncio",
   "sentimento": "Melancolia",
   "descricao": "Sonetos e cantos de solitude fértil e recolhimento interior, explorando as fronteiras entre a música e o verso meditativo.",
-  "capaUrl": "/capas/ecos-do-silencio.jpg",
+  "capaUrl": "/capas/ecos-do-silencio/capaUrl.jpg",
   "preco": 0,
   "estoqueFisico": 10,
   "linkVendaFisica": "",
@@ -49,5 +49,5 @@
       "letra": "Noite de agosto sussurra ao monte,\nDeixa pela minha porta de pranto intensa..."
     }
   ],
-  "audioCapaUrl": "/art/compass.jpg"
+  "audioCapaUrl": "/art/ecos-do-silencio/audioCapaUrl.jpg"
 }
