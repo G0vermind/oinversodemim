@@ -169,8 +169,8 @@ export function getAlbunsMusicais(obrasParam?: Obra[]): AlbumMusical[] {
 
   // Ordenação editorial: grandes coletâneas líricas e obra central primeiro
   const prioridadeSlug: Record<string, number> = {
-    "andancas": 1,
-    "odes-melodicas": 2,
+    "odes-melodicas": 1,
+    "andancas": 2,
     "o-inverso-de-mim": 3,
     "7-asas-para-a-liberdade": 4,
     "ecos-do-silencio": 5,
