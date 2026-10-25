@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import { cache } from "react";
 import { mockObras } from "./mock-data";
-import { Obra, Poema, Track, PoemaContent, FaixaAudioContent } from "../types";
+import { Obra, Poema, Track, AlbumTrack, AlbumMusical, PoemaContent, FaixaAudioContent } from "../types";
 
 let cachedObrasProduction: Obra[] | null = null;
 
@@ -130,4 +130,59 @@ export function getTodasFaixas(obrasParam?: Obra[]): (Track & { obraSlug: string
     }
   }
   return faixas;
+}
+
+export function getAlbunsMusicais(obrasParam?: Obra[]): AlbumMusical[] {
+  const obras = obrasParam || getObras();
+  const albuns: AlbumMusical[] = [];
+
+  for (const obra of obras) {
+    if (!obra.faixas || obra.faixas.length === 0) continue;
+
+    const faixasAlbum: AlbumTrack[] = obra.faixas.map((f, idx) => ({
+      url: f.arquivoUrl,
+      titulo: f.titulo,
+      obraTitulo: obra.titulo,
+      obraSlug: obra.slug,
+      capaUrl: f.capaUrl || obra.audioCapaUrl || obra.capaUrl || "/art/compass.jpg",
+      duracao: f.duracao || 180,
+      letra: f.letra || null,
+      numero: idx + 1,
+    }));
+
+    const duracaoTotal = faixasAlbum.reduce((acc, curr) => acc + (curr.duracao || 180), 0);
+
+    albuns.push({
+      id: `album-${obra.slug}`,
+      slug: obra.slug,
+      titulo: obra.titulo,
+      descricao: obra.descricao || "",
+      capaUrl: obra.capaUrl || "/art/compass.jpg",
+      audioCapaUrl: obra.audioCapaUrl || obra.capaUrl || "/art/compass.jpg",
+      sentimento: obra.sentimento || "Existência",
+      ano: new Date(obra.createdAt).getFullYear() || 2026,
+      totalFaixas: faixasAlbum.length,
+      duracaoTotal,
+      faixas: faixasAlbum,
+    });
+  }
+
+  // Ordenação editorial: grandes coletâneas líricas e obra central primeiro
+  const prioridadeSlug: Record<string, number> = {
+    "andancas": 1,
+    "odes-melodicas": 2,
+    "o-inverso-de-mim": 3,
+    "7-asas-para-a-liberdade": 4,
+    "ecos-do-silencio": 5,
+    "promiscuos": 6,
+    "vistas-do-labirinto": 7,
+  };
+
+  albuns.sort((a, b) => {
+    const prioridadeA = prioridadeSlug[a.slug] || 99;
+    const prioridadeB = prioridadeSlug[b.slug] || 99;
+    return prioridadeA - prioridadeB;
+  });
+
+  return albuns;
 }

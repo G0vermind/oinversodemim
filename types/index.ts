@@ -24,3 +24,22 @@ export interface Track {
   letra?: string | null;
   duracao?: number;
 }
+
+export interface AlbumTrack extends Track {
+  numero: number;
+  obraSlug: string;
+}
+
+export interface AlbumMusical {
+  id: string;
+  slug: string;
+  titulo: string;
+  descricao: string;
+  capaUrl: string;
+  audioCapaUrl: string;
+  sentimento: string;
+  ano: number;
+  totalFaixas: number;
+  duracaoTotal: number;
+  faixas: AlbumTrack[];
+}

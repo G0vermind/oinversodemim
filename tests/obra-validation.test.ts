@@ -1,7 +1,8 @@
 import { describe, it, expect } from "vitest";
 import fs from "fs";
 import path from "path";
-import { getObras } from "../lib/data";
+import { getObras, getAlbunsMusicais } from "../lib/data";
+import { formatDuracaoExtensa } from "../lib/format";
 import { validateObraContent, Obra } from "../lib/schemas/obra";
 import { validateObraFile } from "../lib/schemas/validate-file";
 
@@ -199,6 +200,31 @@ describe("Fase 1: Rede de Segurança e Validação de Obras", () => {
         expect(result.data.titulo).toBe("Cânticos do Crepúsculo");
         expect(result.data.sentimento).toBe("Melancolia");
       }
+    });
+  });
+
+  describe("Organização da Discografia & Álbuns Musicais (Projeto Gerasom)", () => {
+    it("deve carregar todos os 7 álbuns com faixas e metadados estruturados", () => {
+      const albuns = getAlbunsMusicais();
+      expect(albuns.length).toBe(7);
+
+      const totalFaixas = albuns.reduce((acc: number, a: { totalFaixas: number }) => acc + a.totalFaixas, 0);
+      expect(totalFaixas).toBe(74);
+
+      const andancas = albuns.find((a: { slug: string }) => a.slug === "andancas");
+      const odes = albuns.find((a: { slug: string }) => a.slug === "odes-melodicas");
+      expect(andancas).toBeDefined();
+      expect(odes).toBeDefined();
+      if (!andancas || !odes) return;
+
+      expect(andancas.totalFaixas).toBe(40);
+      expect(andancas.faixas.length).toBe(40);
+      expect(andancas.faixas[0].numero).toBe(1);
+      expect(odes.totalFaixas).toBe(28);
+
+      expect(formatDuracaoExtensa(7200)).toBe("2h 00min");
+      expect(formatDuracaoExtensa(180)).toBe("3 min");
+      expect(formatDuracaoExtensa(0)).toBe("0 min");
     });
   });
 });
