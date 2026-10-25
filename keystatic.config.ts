@@ -1,25 +1,19 @@
 import { config, fields, collection, singleton } from '@keystatic/core';
 
+const isProduction = process.env.NODE_ENV === 'production';
 const isExplicitLocal = process.env.NEXT_PUBLIC_KEYSTATIC_STORAGE_KIND === 'local';
-const hasGitHubCredentials = Boolean(
-  process.env.KEYSTATIC_GITHUB_CLIENT_ID &&
-  process.env.KEYSTATIC_GITHUB_CLIENT_SECRET &&
-  process.env.KEYSTATIC_SECRET
-);
-
-// Fallback gracefully to 'local' mode during build and when GitHub OAuth is not yet populated
-const useGitHub = !isExplicitLocal && hasGitHubCredentials;
 
 export default config({
-  storage: useGitHub
-    ? {
-        kind: 'github',
-        repo: {
-          owner: 'G0vermind',
-          name: 'oinversodemim',
-        },
-      }
-    : { kind: 'local' },
+  storage:
+    isProduction && !isExplicitLocal
+      ? {
+          kind: 'github',
+          repo: {
+            owner: 'G0vermind',
+            name: 'oinversodemim',
+          },
+        }
+      : { kind: 'local' },
   ui: {
     brand: {
       name: 'O Inverso de Mim — Gestão Editorial',
