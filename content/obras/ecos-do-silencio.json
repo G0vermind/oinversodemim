@@ -41,13 +41,6 @@
       ]
     }
   ],
-  "faixas": [
-    {
-      "titulo": "Ventos de Agosto",
-      "arquivoUrl": "/audio/demo.wav",
-      "duracao": 228,
-      "letra": "Noite de agosto sussurra ao monte,\nDeixa pela minha porta de pranto intensa..."
-    }
-  ],
-  "audioCapaUrl": "/art/ecos-do-silencio/audioCapaUrl.jpg"
+  "faixas": [],
+  "audioCapaUrl": null
 }

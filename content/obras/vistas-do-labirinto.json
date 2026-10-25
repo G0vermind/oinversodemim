@@ -37,13 +37,6 @@
       ]
     }
   ],
-  "faixas": [
-    {
-      "titulo": "Trilha do Labirinto",
-      "arquivoUrl": "/audio/demo.wav",
-      "duracao": 210,
-      "letra": "Entre paredes de pedra e musgo, busco a saída que não tem porta..."
-    }
-  ],
-  "audioCapaUrl": "/art/vistas-do-labirinto/audioCapaUrl.jpg"
+  "faixas": [],
+  "audioCapaUrl": null
 }

@@ -182,13 +182,19 @@ export async function importEbookPdf(pdfPath: string, customSlug?: string) {
     };
   });
 
-  const faixas = poems.map((p, idx) => ({
-    titulo: p.titulo,
-    arquivoUrl: resolvedAudios[idx] || p.gerasomUrl,
-    duracao: 180,
-    letra: p.conteudo,
-    capaUrl: existingData.audioCapaUrl || "/art/compass.jpg",
-  }));
+  // Regra estrita: se não tiver link do Gerasom ou de música, não se insere áudio
+  const temAudioReal = resolvedAudios.length > 0 && resolvedAudios.some((url) => Boolean(url) && !url.includes("demo.wav"));
+  const faixas = temAudioReal
+    ? poems.map((p, idx) => ({
+        titulo: p.titulo,
+        arquivoUrl: resolvedAudios[idx] || p.gerasomUrl,
+        duracao: 180,
+        letra: p.conteudo,
+        capaUrl: existingData.audioCapaUrl || "/art/compass.jpg",
+      }))
+    : [];
+
+  const audioCapaUrl = temAudioReal ? (existingData.audioCapaUrl || "/art/compass.jpg") : null;
 
   const obraTitleClean = filename
     .replace(/[-_]+/g, " ")
@@ -199,9 +205,9 @@ export async function importEbookPdf(pdfPath: string, customSlug?: string) {
   const obraFinal = {
     titulo: existingData.titulo || obraTitleClean,
     sentimento: existingData.sentimento || "Existência",
-    descricao: existingData.descricao || `Coletânea lírica e acústica integrada ao santuário poético.`,
+    descricao: existingData.descricao || `Coletânea lírica e poética integrada ao santuário literário.`,
     capaUrl: existingData.capaUrl || `/capas/${slug}.png`,
-    audioCapaUrl: existingData.audioCapaUrl || "/art/compass.jpg",
+    audioCapaUrl,
     ebookUrl: `/ebooks/${slug}.pdf`,
     preco: existingData.preco || 0,
     estoqueFisico: existingData.estoqueFisico || 10,

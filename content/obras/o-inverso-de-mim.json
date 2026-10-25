@@ -4,7 +4,7 @@
   "descricao": "A obra seminal de Heldemarcio Ferreira (2005). Uma travessia autobiográfica dividida nos quatro ciclos da existência: O Adolescente, O Profissional, O Poeta e O Amador.",
   "capaUrl": "/capas/o-inverso-de-mim/capaUrl.jpg",
   "ebookCapaUrl": "/capas/o-inverso-de-mim/capaUrl.jpg",
-  "audioCapaUrl": "/art/o-inverso-de-mim/audioCapaUrl.jpg",
+  "audioCapaUrl": null,
   "ebookUrl": "/ebooks/o-inverso-de-mim.pdf",
   "preco": 0,
   "estoqueFisico": 18,
@@ -1360,18 +1360,5 @@
       ]
     }
   ],
-  "faixas": [
-    {
-      "titulo": "Tema de O Inverso de Mim",
-      "arquivoUrl": "/audio/demo.wav",
-      "duracao": 210,
-      "letra": "Era uma vez um estudante que acreditava em ideais...\nEra uma vez um engenheiro que construía poesias..."
-    },
-    {
-      "titulo": "Canção Espacial Acústica",
-      "arquivoUrl": "/audio/demo.wav",
-      "duracao": 195,
-      "letra": "Lá no espaço sideral encontro a alegria...\nA luz da estrela é terna guia na utopia desse instante."
-    }
-  ]
+  "faixas": []
 }

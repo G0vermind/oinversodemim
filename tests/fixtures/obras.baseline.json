@@ -1944,82 +1944,13 @@
     ]
   },
   {
-    "id": "obra-7-asas-para-a-liberdade",
-    "titulo": "7 Asas para a Liberdade",
-    "slug": "7-asas-para-a-liberdade",
-    "descricao": "Coletânea poética ilustrada por Marcelo. Versos sobre a transcendência, a busca da verdade interior e o voo da alma em direção à liberdade.",
-    "capaUrl": "/capas/7-asas-para-a-liberdade/capaUrl.jpg",
-    "ebookCapaUrl": "/capas/7-asas-para-a-liberdade/capaUrl.jpg",
-    "audioCapaUrl": "/art/7-asas-para-a-liberdade/audioCapaUrl.jpg",
-    "ebookUrl": null,
-    "palavrasDoAutor": null,
-    "apresentacao": null,
-    "prefacio": null,
-    "posfacio": null,
-    "preco": 0,
-    "estoqueFisico": 12,
-    "linkVendaFisica": null,
-    "sentimento": "Existência",
-    "createdAt": "2023-11-10",
-    "updatedAt": "2023-11-10",
-    "poemas": [
-      {
-        "id": "7-asas-para-a-liberdade-poema-1",
-        "titulo": "Asas da Consciência",
-        "conteudo": "Sete asas abertas ao vento,\nSete passos na senda da luz.\nO que liberta o pensamento\nÉ a coragem que a alma conduz.\n\nSem grilhões, sem amarras ou medos,\nO horizonte se alarga no olhar.\nDesvendando os antigos segredos\nDo silêncio que aprende a cantar.",
-        "ordem": 1,
-        "publicadoEm": "2023-11-10",
-        "obraId": "obra-7-asas-para-a-liberdade",
-        "timestamps": [
-          {
-            "estrofeIndex": 0,
-            "segundos": 0
-          },
-          {
-            "estrofeIndex": 1,
-            "segundos": 30
-          }
-        ]
-      },
-      {
-        "id": "7-asas-para-a-liberdade-poema-2",
-        "titulo": "Voo Interior",
-        "conteudo": "Voar sobre o vale e a campina,\nOnde a névoa se desfaz em flor.\nA poesia é a chama divina\nQue liberta a verdade e o amor.\n\nSete asas tecidas no peito,\nEm círculos concêntricos de paz,\nNada mais desafia o preceito\nDo que a luz que a liberdade traz.",
-        "ordem": 2,
-        "publicadoEm": "2023-11-15",
-        "obraId": "obra-7-asas-para-a-liberdade",
-        "timestamps": [
-          {
-            "estrofeIndex": 0,
-            "segundos": 60
-          },
-          {
-            "estrofeIndex": 1,
-            "segundos": 90
-          }
-        ]
-      }
-    ],
-    "faixas": [
-      {
-        "id": "7-asas-para-a-liberdade-faixa-1",
-        "titulo": "Sete Asas",
-        "arquivoUrl": "/audio/demo.wav",
-        "duracao": 210,
-        "letra": "Sete asas abertas ao vento,\nSete passos na senda da luz...",
-        "obraId": "obra-7-asas-para-a-liberdade",
-        "capaUrl": "/art/7-asas-para-a-liberdade/audioCapaUrl.jpg"
-      }
-    ]
-  },
-  {
     "id": "obra-vistas-do-labirinto",
     "titulo": "Vistas do Labirinto",
     "slug": "vistas-do-labirinto",
     "descricao": "Uma meditação geométrica e poética sobre os corredores da memória e a busca lúcida pela clareira existencial.",
     "capaUrl": "/capas/vistas-do-labirinto/capaUrl.jpg",
     "ebookCapaUrl": "/capas/vistas-do-labirinto/capaUrl.jpg",
-    "audioCapaUrl": "/art/vistas-do-labirinto/audioCapaUrl.jpg",
+    "audioCapaUrl": null,
     "ebookUrl": null,
     "palavrasDoAutor": null,
     "apresentacao": null,
@@ -2065,17 +1996,7 @@
         ]
       }
     ],
-    "faixas": [
-      {
-        "id": "vistas-do-labirinto-faixa-1",
-        "titulo": "Trilha do Labirinto",
-        "arquivoUrl": "/audio/demo.wav",
-        "duracao": 210,
-        "letra": "Entre paredes de pedra e musgo, busco a saída que não tem porta...",
-        "obraId": "obra-vistas-do-labirinto",
-        "capaUrl": "/art/vistas-do-labirinto/audioCapaUrl.jpg"
-      }
-    ]
+    "faixas": []
   },
   {
     "id": "obra-ecos-do-silencio",
@@ -2084,7 +2005,7 @@
     "descricao": "Sonetos e cantos de solitude fértil e recolhimento interior, explorando as fronteiras entre a música e o verso meditativo.",
     "capaUrl": "/capas/ecos-do-silencio/capaUrl.jpg",
     "ebookCapaUrl": "/capas/ecos-do-silencio/capaUrl.jpg",
-    "audioCapaUrl": "/art/ecos-do-silencio/audioCapaUrl.jpg",
+    "audioCapaUrl": null,
     "ebookUrl": null,
     "palavrasDoAutor": null,
     "apresentacao": null,
@@ -2134,17 +2055,7 @@
         ]
       }
     ],
-    "faixas": [
-      {
-        "id": "ecos-do-silencio-faixa-1",
-        "titulo": "Ventos de Agosto",
-        "arquivoUrl": "/audio/demo.wav",
-        "duracao": 228,
-        "letra": "Noite de agosto sussurra ao monte,\nDeixa pela minha porta de pranto intensa...",
-        "obraId": "obra-ecos-do-silencio",
-        "capaUrl": "/art/ecos-do-silencio/audioCapaUrl.jpg"
-      }
-    ]
+    "faixas": []
   },
   {
     "id": "obra-promiscuos",
@@ -2153,7 +2064,7 @@
     "descricao": "Livro de Poemas da Alcova (2019). O erotismo visceral e a luxúria dos amantes em quatro atos entre quatro paredes, guiados pela pena despojada e obscena do poeta.",
     "capaUrl": "/capas/promiscuos/capaUrl.jpg",
     "ebookCapaUrl": "/capas/promiscuos/capaUrl.jpg",
-    "audioCapaUrl": "/art/promiscuos/audioCapaUrl.jpg",
+    "audioCapaUrl": null,
     "ebookUrl": "/ebooks/promiscuos.pdf",
     "palavrasDoAutor": null,
     "apresentacao": null,
@@ -2331,17 +2242,1440 @@
         ]
       }
     ],
-    "faixas": [
+    "faixas": []
+  },
+  {
+    "id": "obra-7-asas-para-a-liberdade",
+    "titulo": "7 Asas para a Liberdade",
+    "slug": "7-asas-para-a-liberdade",
+    "descricao": "Coletânea poética ilustrada por Marcelo (Editora Cadena, 2017). Uma ode à liberdade e ao humanismo, reverenciando as experiências adquiridas e vivenciadas que ficaram registradas nos livros anteriores em 7 asas conceituais.",
+    "capaUrl": "/capas/7-asas-para-a-liberdade/capaUrl.jpeg",
+    "ebookCapaUrl": "/capas/7-asas-para-a-liberdade/capaUrl.jpeg",
+    "audioCapaUrl": null,
+    "ebookUrl": "/ebooks/7-asas-para-a-liberdade.pdf",
+    "palavrasDoAutor": "Cada livro que concebo propicia a oportunidade de libertar ideias e sentimentos, por vezes enclausurados, de modo que esse artefato se assemelha a uma asa imagética. A asa quando aberta, libera as palavras num voo sem fronteiras sobre o consciente, permeado pelos mais oníricos desejos do inconsciente.\n\nA sétima asa que abro nesta obra reverencia experiências adquiridas e vivenciadas que ficaram registradas nos livros anteriores, conforme resumido a seguir:\n\n1ª asa - O inverso de mim revela uma odisseia autoral e autobiográfica com elementos marcantes de melancolia, solidão e desilusão afetiva;\n\n2ª asa - Visões Sobre Todos os Cantos do Poeta apresenta uma obra densa e intimista com profundidade e lucidez ao enxergar as nuances da alma do poeta;\n\n3ª asa - C@rtilh@ de Enc@nt@r é uma saborosa e divertida mistura de artes e irreverência para cultuar o encanto lúdico da poesia;\n\n4ª asa - Poemas mínimos & Máximas é um despretensioso pocket book contendo tiradas rápidas e minimalistas sobre o cotidiano com ironia e humor;\n\n5ª asa - A mulher deitada no sofá e outras cenas é um livro com temática mais abrangente e engajado com o atual cenário político e social, em formato de crônicas poéticas contemporâneas;\n\n6ª asa - Promíscuos Livro de Poemas da Alcova é uma obra sobre o erotismo e a volúpia que enaltece a sensualidade peculiar à natureza humana;\n\n7ª asa - 7 asas para a liberdade é uma ode à liberdade e ao humanismo, o resgate do prazer sensorial da palavra: alar-se pelo poder da pena em seu sentido mais literário.",
+    "apresentacao": null,
+    "prefacio": "O poema é a roupa com que se veste a poesia para dizer o que sem ela não é possível.\n\nA poesia ganha vida nas palavras e elas têm memória. Heldemarcio Ferreira acrescenta asas às memórias refletidas e refratadas nas palavras e as representa em poemas, libertando as ideias e os sentimentos porventura aprisionados.\n\nAbertas as asas, as palavras alçam voos que só a arte de dizer a poesia possibilita. Heldemarcio reúne as palavras para falar de melancolia e solidão; para desvelar a alma do poeta. Com palavras aladas, a poesia ganha ludicidade, ou mesmo materializa a acidez da ironia, que pode estar no olhar direcionado ao atual cenário político e social; pelas palavras, encontramos os benefícios do humor, a sensualidade imanente à natureza humana.\n\nNas asas das palavras proferidas por Heldemarcio Ferreira, encontramos instrumentos para 'pronunciar o mundo', os sentimentos descobertos e os ainda em devir.",
+    "posfacio": null,
+    "preco": 0,
+    "estoqueFisico": 12,
+    "linkVendaFisica": null,
+    "sentimento": "Existência",
+    "createdAt": "2017-10-15",
+    "updatedAt": "2017-10-15",
+    "poemas": [
       {
-        "id": "promiscuos-faixa-1",
-        "titulo": "Noturno da Alcova",
-        "arquivoUrl": "/audio/demo.wav",
-        "duracao": 180,
-        "letra": "Falar de você me excita... Não só meu coração carente, mas o cume do corpo palpita em uma onda de energia obscena.",
-        "obraId": "obra-promiscuos",
-        "capaUrl": "/art/promiscuos/audioCapaUrl.jpg"
+        "id": "7-asas-para-a-liberdade-poema-1",
+        "titulo": "A dialética epistêmica do ser",
+        "conteudo": "Enquanto a mente anseia\nPela satisfação de suas vontades,\nNuma profusão de ambiguidades\nEm que o desejo se baseia...\n\nA alma perambula livre\nPela eternidade de cada segundo,\nAlém de todas cousas do mundo\nPor onde o corpo sobrevive...\n\nNeste cenário reside o dilema\nQue atormenta a creatura\nE o aprisiona como uma algema\n\nO desejo é o infinito em ruptura\nApesar de ser a alma plena\nConsciente sigo imerso na mistura.",
+        "ordem": 1,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-2",
+        "titulo": "Agnóstico",
+        "conteudo": "Dunas nuas do deserto\nEm plena vaga vastidão\nAté o céu parece perto\nEm sua larga imensidão\n\nD'uma coisa estou certo\nApesar de tanta estrada\nPelo acaso me desperto\nVida profana consagrada\n\nDoutra célula, me liberto\nSob olhares tão algozes\nPra voar de peito aberto\nE pensamentos velozes!",
+        "ordem": 2,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-3",
+        "titulo": "A horda do pesadelo",
+        "conteudo": "Bíblia à mão, 0h! irmão\nVamos proclamar a família e a tradição\nBíblia à mão, 0h! irmão\nE o nosso senhor salvador no coração\n\nE assim, entre a incoerência e a barbárie\nA hipocrisia é o que me assusta\nQuando qualquer mentira que se espalhe\nPelo equilíbrio da balança injusta\n\nPra quem prega tanto ódio e terror\nPra quem nega argumento racional\nUm leve sopro ao vento leve do amor\nO verso que reverte essa fúria animal\n\nBíblia à mão, 0h! irmão\nVamos proclamar a família e a tradição\nBíblia à mão, 0h! irmão\nE o nosso senhor salvador no coração\n\nNesse cenário torpe, decrépito e vulgar\nEm que se propagam ideias medievais\nHá de haver na treva, luz nalgum lugar\nA era do horror da ditadura nunca mais\n\nQue esta violência insana e indecente\nNão germine e contamine toda a horda\nNem faça impune tanta vítima inocente\nSó se finda o pesadelo quando acorda\n\nBíblia à mão, 0h! irmão\nVamos proclamar a família e a tradição\nBíblia à mão, 0h! irmão\nE o nosso senhor salvador no coração.",
+        "ordem": 3,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 120
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 150
+          },
+          {
+            "estrofeIndex": 6,
+            "segundos": 180
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-4",
+        "titulo": "Amor e ódio",
+        "conteudo": "Amar é amargo\nComo voltar pra casa\na pé\nSem nenhum puto\nno bolso\nE nenhuma esperança\nno coração...\nAgua que deságua\nComo fonte que vaza\npelo rosto\nMesmo após enxuto\nda chuva\nPor mera semelhança\nà lágrima...\nUm mar de marasmo\nComo a filosofia rasa\ndo ego\nDe um ser irresoluto\nno desejo\nEm obstinada vingança\nde ódio.\n\nParticipação de Viviane Ribeiro dos Santos",
+        "ordem": 4,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-5",
+        "titulo": "A pena, a pele e a pedra",
+        "conteudo": "A pena, a pedra e a pele\nQue só o poema revele\nA cena além da emoção\nNo caminho do coração\n\nApenas o poeta concebe\nQuando seu peito recebe\nCada palavra que traga\nE da paixão se embriaga\n\nA pena, a pele e a pedra\nNa alma nasce e medra\nFlora em versos e rimas\nJoias raras, obras primas.",
+        "ordem": 5,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-6",
+        "titulo": "Arte poética",
+        "conteudo": "Sirva e se saboreie da poesia\nDo verso, da palavra e da rima\nA imagética e sonora anestesia\nQue te entorpece e te reanima\nSob os auspícios da arte poética\nNa qual, Aristóteles, em filosofia\nRemete à extensão da estética\nQue expressa o poder da grafia\nA tragédia, a comédia, o drama\nO romance, a novela e o conto\nEm quaisquer gêneros ou trama\nA poesia os permeia a tal ponto\nComo fosse a areia, sob a grama\nE assim meu soneto está pronto!",
+        "ordem": 6,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-7",
+        "titulo": "Asas da liberdade",
+        "conteudo": "Como se fora um avatar\nMiragem de amor pragmática\nNa mensagem subliminar\nDo milagre de aura dramática\n\nO teu coração livre solta a asa\nTatuada no braço, indelével\nA tua paixão incendeia e arrasa\nFlama em bravura admirável!\n\nCom tanto afeto a resgatar\nDessa cena adversa e errática\nQuisera valer a pena acatar\nCarente, tanta solidão apática\n\nE assim despedaças a certeza\nBuscando o que a alma acredita\nEm mim, teu amor é correnteza\nPara a minha poesia tão aflita!",
+        "ordem": 7,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-8",
+        "titulo": "As modernas águas de março",
+        "conteudo": "Céu estranho, estando eu aqui sozinho\nO vinho do Alentejo e a música dolente\nUm clima envolvente de pura nostalgia\nMagia que me faz um ser alegre e triste\n\nExiste solidão se mergulhamos em nós?\nA sós, também, outros estão, aos pares\nTodos os lugares cabem dentro de mim\nAssim, estar aqui é estar em todo canto\n\nEnquanto dark clouds are the landscape\nthe shape of march waters brings Jobim\nNo jardim as gotas da chuva tamborilam\nAssimilam uma nova canção de inverno\n\nNo eterno instante que pode durar tanto\nQuanto o que falta para o que pretendo\nSempre me rendo ao \"insight\" do infinito\nE que tudo isto não passa de um poema.",
+        "ordem": 8,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-9",
+        "titulo": "Astrolábio (A Mulher Deitada no Sofá e Outras Cenas)",
+        "conteudo": "Estrelas em constelação\nRiscam o céu da incerteza\n\"Deus te guie (0h!) zelação\"\nEm branda luz, viva la dolcezza!\nDo ápice da humana alçada\nA mesa dos jogos de azares;\n\"A (pura) sorte está lançada! \"\nQuase a asar só pelos ares...\nExarado naquele alfarrábio\nDo indelével acaso, a rota\nA navegar sem astrolábio\nQue por tal senda ignota\nPossa lograr êxito, o sábio\nCuja herdade ninguém nota.",
+        "ordem": 9,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-10",
+        "titulo": "Astrolábio \\ No Lábio Astral",
+        "conteudo": "Estrelas em constelação \\Pontos de luz na\naspereza -\nRiscam o céu da incerteza \\Perdidos na\nimensidão\n\"Deus te guie (0h!) zelação\" \\De sua própria\nproeza -\nEm branda luz, viva la dolcezza! \\Do sel-\nvagem coração\nDo ápice da humana alçada \\Encerram os\nseus pesares\nA mesa dos jogos de azares \\Num jogo de\ntudo ou nada;\n\"A (pura) sorte está lançada! \" \\Na penumbra\ndos altares,\nQuase a asar só pelos ares... \\Têm sua sina\nofuscada.\nExarado naquele alfarrábio \\Tentando elevar\na cota,\nDo indelével acaso, a rota \\Procura, no cos-\nmolábio,\nA navegar sem astrolábio Altura da gaivo-\nta,\nQue por tal senda ignota \\O toque do últi-\nmo lábio,\nPossa lograr êxito, o sábio \\ Alcança sua\nderrota,\nCuja herdade ninguém nota. \\ Doando-se ao\ndescalabro.\n\nParticipação de Guilherme Amorim",
+        "ordem": 10,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-11",
+        "titulo": "Belchior",
+        "conteudo": "0h! Poeta louco\ndos lírios, das liras e letras extremas\nse tudo foste, nesta vida ainda é pouco\nDeus salve o som dos teus poemas\n\n0h! Poeta maldito\nde canto torto que corta a nossa carne\nque sagra o sacrifício de um povo proscrito\nAnte a hipocrisia, alvo do teu escarne\n\n0h! Poeta insone\ndesses oceanos por demônios vastos\nque a flor da bravura nunca te abandone\nE caminhes solene sobre verdes pastos\n\n0h! Magnífico poeta\nde olhar sombrio sob a bruma espessa...\nque a lancinante noite com sua treva abjeta\nCubra a minha solidão e eu desapareça.\n\nSe existir um Deus que seja do bem\nMas, (h)ouve um Be/chiorque eu amei\ne amem.",
+        "ordem": 11,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 120
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-12",
+        "titulo": "Black bird (A Mulher Deitada no Sofá e Outras Cenas)",
+        "conteudo": "Long ago,\nI overheard a tune of somber harmony:\n\"Black bird singing in the night\".\nMy heart then flew away on its wings.\n\nLong ago,\nI was then a man of hope,\nSame of a black bird in the dark corners of\nmy heart.\nMy dream then traveled away on its wings.\n\nIn years yet to come,\nI shall long for changes to happen,\nLike the ones the black bird whispered to\nthe poet's ears;\nAll wobbling, as they were, on the wings of\nmy dreams.\n\n\"Let the past be no more!\"\n\nAlguns anos atrás,\nEu ouvi a música de harmonia dolente,\n\"Pássaro preto cantando no meio da noite\".\nEntão meu coração flutuou nas suas asas.\n\nAlguns anos atrás,\nEu ainda era um homem com esperança,\nComo um pássaro preto na noite escura da\nminha vida.\nEntão meus sonhos viajaram nas minhas asas\ncurtas.\n\nNos próximos anos,\nQuero ver a nova mudança acontecer,\nComo o pássaro preto cantou para o poeta\nTão solto nas asas da minha alucinação.\n\n\"O passado nunca mais!\nParticipação de Flavio Meira Barros",
+        "ordem": 12,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 120
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 150
+          },
+          {
+            "estrofeIndex": 6,
+            "segundos": 180
+          },
+          {
+            "estrofeIndex": 7,
+            "segundos": 210
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-13",
+        "titulo": "Branca",
+        "conteudo": "Lua\nNuvem\nPapel\ne seda\nBranca\nAlma\nEstrela\nPétala\ne lírio\nBranco\nRaios de luz em clareza alva\nAlumbram as cidades grandes\nComo a neve em plenos Andes\nE os cristais da estrela d'alva\nAura transparente da inocência\nQue a pureza branca tudo encerra\nTodas as cores juntas à atmosfera\nSob a luz d'uma transcendência\nQue a paz dos animais vigore\nAcalme o coração no peito aflito\nE que novo e antigo sem conflito\nPartilhem o amor que nos colore.",
+        "ordem": 13,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-14",
+        "titulo": "Ciclo (Visões Sobre Todos os Cantos do Poeta)",
+        "conteudo": "Por que será que respondemos\nSempre da mesma forma?\n(Devemos ter algo em comum)\nNo que se refere ao uso da palavra\nComo meio ou como caminho\nUma trilha para algum des(a)tino\n\nAs vezes o caminho se torna labirinto\nE nos perdemos no meio\n(Entre reflexos de tantos espelhos)\nOu perdemos o fio da meada\nNum nó cego da linha cíclica do tempo\nQue não desata as amarras da mente\n\nPorque à vista não nos é dada\nA luz que está além do olho que vê\nCriar atalhos ilusórios para o nada\nE sofrer pela estrada a qualquer preço\nQuando o fim para nós, muitas vezes\nEstá na ideia da volta ao começo.",
+        "ordem": 14,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-15",
+        "titulo": "Companheira",
+        "conteudo": "Só para a minha companheira\nAssumo dar, mesmo não tendo\nPois, ainda que ela não queira\nAssim é o amor que e(Wn)tendo!\n\nPretendo saciar toda essa falta\nO vazio d'uma alma enamorada\nPois, só com o desejo se exalta\nA nossa integridade fraturada!\n\nPara a companheira que escolho\nEnquanto houver amor, acredito\nDe peito aberto e sem ferrolho!\n\nPara a companheira, soou bonito\nO brilho da paixão se vê no olho\nA profusão afetiva, no es(c/t)rito.",
+        "ordem": 15,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-16",
+        "titulo": "Crônica de um dia odiado",
+        "conteudo": "Nessa cidade\nA necessidade\nNós percebemos...\nNa sociedade\nE na ansiedade\nNós perecemos...\n\nCorre a correnteza\nUrgente dessa gente\nE o guarda à guarda\nAtento ao movimento\nDa horda que aborda\nNum dia tão odiado\n\nE o tédio sem remédio\nDe todo o ofício\nProfissional\nA vida a ser absorvida\nNo tolo sacrifício\nProva o final.",
+        "ordem": 16,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-17",
+        "titulo": "Declaração de Bens",
+        "conteudo": "Nada há para declarar\nSó tenho de valor a poesia\nO meu bem maior é utopia\nQue nunca irão delapidar\n\nTudo é sem valor venal\nSó artigo fora de mercado\nO meu tesouro foi marcado\nComo um poema visceral\n\nPara contemplar o belo\nCujo preço é inestimável\n\nNesse comércio paralelo\nEmbora nada formidável\nUm mero soneto singelo\nE patrimônio inalienável.",
+        "ordem": 17,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-18",
+        "titulo": "Déjà vu",
+        "conteudo": "Um amor verdadeiro\nE você disse primeiro\nSer a minha alma gêmea...\nUma dose de encanto\nQue me causa espanto\nE me faz flutuar...\n\nUm amor do proibido\nMarginal e escondido\nQue se delata em poema...\nUma ponte no abismo\nPara fugir do egoísmo\nOu asas para voar...\n\nUm amor já vivido\nA cada dia repetido\nEntre macho e fêmea\nQue vai de mim para tu\nComo aquele déjà vu\nAmor para se amar.",
+        "ordem": 18,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-19",
+        "titulo": "Espartilho (Promíscuos Livro de Poemas da Alcova)",
+        "conteudo": "Toda nudez será castigada\ncomo a estupidez da mulher ultrajada\nvê-se, em toda carência, a tola violência\ncomo uma antiga mágoa velada\necoar preconceitos de pais a filhos\nque seguem (e ceguem) os mesmos trilhos\nE tantas gerações na ânsia, em vão,\nvão perpetuar a ignorância\nresta como herança: essa horda insana\ne desumana que avança\na urrar, com o dedo no gatilho,\nante os fartos (e fatos) seios no espartilho",
+        "ordem": 19,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-20",
+        "titulo": "Essência (O Inverso de Mim)",
+        "conteudo": "Meu pensar nunca me engana\nPois, minha mente não se profana\nAnte as \"facilidades\" de consumo\nFaço um poema, de certo maldito\nQue comovente, embora mal escrito\nRevela a essência do que assumo\nPois, não adianta me fingir \"feliz\"\nFazer aquilo que nada me diz\nE no silêncio que apareço e sumo\n\nMeu cantar não se completa\nPois, a minha alma de poeta\nBusca o \"algo\" mais profundo\nPor isso, essa solidão constante\nQue me preserva bem distante\nDas cousas vãs que há no mundo\nSigo \"vida adentro, mundo afora\"\nCom a única certeza do agora\nViver é \"saber\" cada segundo.",
+        "ordem": 20,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-21",
+        "titulo": "Flor de cáctus",
+        "conteudo": "O meu coração cigano diz\nque na raiz de todo ser humano\ncorre a seiva da felicidade\nO meu sentimento é visceral\nao ser natural, e por assim dizer\na poesia d'uma flor de cáctus\n\nNão existem alegria ou tristeza\nque à natureza não reflita\nna sua rara e exuberante ária\nFlor primária que em si encerra\nsobre a terra e lama em que existe\ncada ser em seu ardor e habitus.",
+        "ordem": 21,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-22",
+        "titulo": "Guru dos mangues",
+        "conteudo": "Ainda que tu andes\nDos pampas ao Himalaia\nDa cordilheira dos andes\n\"O siglas por la playa...\"\n\nCarregas este ideal\nDa tal sociedade justa\nCada ser a ser igual\n\"A mi también me susta..\n\nA quem à natureza alude\nFauna, flora e atmosfera\nSe conceda a juventude\n\"Por la vida entera...\"\n\nArte sã, a alma da lenha\nO guru expõe sob medida\nE tudo seja, e nada tenha\n\"Gracias a la vida.",
+        "ordem": 22,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-23",
+        "titulo": "Havia Vinícius",
+        "conteudo": "Na ausência, só o que resta\né a nostalgia como remédio\nEssa agonia, agrura, aresta\ne a letargia de sono e tédio!\n\nDentro o escuro a se perder\npor suas rotas, ruas ignotas\nMão que tateia antes de ter\npoesia traduzida em notas\n\nDe vícios a versos musicais\nque \"O poetinha\" consagrou\nResta a Vinícius de Moraes\nser \"O Haver\" que o sagrou.",
+        "ordem": 23,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-24",
+        "titulo": "Holograma",
+        "conteudo": "Salve o amor possível\nde corpos palpáveis\nao alcance da mão...\nViva o amor tangível\npelos seres amáveis\nO lance abstrato, não!\n\nO olho só, vendo o virtual\nPelo anseio se vê de fora\nEm cada um remete o drama\nNeste programa que se repete\nE quase consegue penetrar.\n\nNa mão que toca o irreal\nE pelo desejo o incorpora\nComo a fratura do holograma\nE o melodrama da criatura\nQue a intenção faz perpetrar.",
+        "ordem": 24,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-25",
+        "titulo": "Iracema, a índia",
+        "conteudo": "Ao largo daquela floresta\nTanta vida se manifesta\nBem no coração da mata\nLocos do meu ser primata\nOnde a imaginação penetra\n\nAo pé da letra ela se perpetra..\nEu a percebo em mim ainda\nE a descrevo: a minha índia\nComo a Iracema de Alencar\nPoesia que emana do Ceará\n\nAlém da fronteira do literal\nDespida na praia do litoral\nBela expressão alternativa\nEsplendor da alma nativa\nPrincesa da tribo Tabajara\n\nAjoia mais rara do Ubirajara...\nEu a pressinto: tara infinda\nE a desejo assim tão linda\nComo um romance popular\nPoema que irmana o Ceará",
+        "ordem": 25,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-26",
+        "titulo": "Itapetim & Itaporanga",
+        "conteudo": "Esta ode é lapidada no latim\nSem fazer muita munganga\nCada verso escrito por mim\nEu guardo na minha capanga\n\nSaiba que de onde eu vim\nO jerimum não é moranga\nE que matuto junto é assim\nSe um zomba o outro zanga\n\nUm matuto é lá de Itapetim\nA outra vem de Itaporanga\nUma escreve um TCC ruim\nEnquanto o outro \"manga\"\n\nUm foi criado com \"alfenin\"\ndo corte da cana em camutanga\nA outra adora comer pudim\nSe toma leite, não chupa manga\n\nE a macaxeira nunca foi aipim\nPara quem já viu o boi de canga\nNem se veste com o trancelim\n\"Caboco\" que não quer miçanga\n\nSe nem do alto de um zepelim\nO tempo esfria em Itaporanga\nMelhor ser turista em Itapetim\nA pedra é chata e não tabanga\n\nComo dizia mestre Joaquim\nA vida é cheia de bugiganga\nMas, a verdade está no gim\nPra se vestir, basta uma tanga\n\nAgora a prosa já está no fim\nQue eu ainda vou pro Janga\nBeber da ceva cu de pinguim\nE dar o meu grito do Ipiranga.",
+        "ordem": 26,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 120
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 150
+          },
+          {
+            "estrofeIndex": 6,
+            "segundos": 180
+          },
+          {
+            "estrofeIndex": 7,
+            "segundos": 210
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-27",
+        "titulo": "Labirinto (Visões Sobre Todos os Cantos do Poeta)",
+        "conteudo": "Meus olhos\nna imensidão\nd outro oceano\nse perdem\ndistantes\nno arco (da) íris.\nMeu coração\nex- cravejado\nde saudade\nna pulsação\nbruta das dores\nse dilata.\nE as horas\npassam...\nsobre mim\nElas sempre\nvem e vão\ncomo marés.\nEis o mistério\nde todo ser\npreso em si mesmo\nnum labirinto\na abrir portas\ne buscar saídas.\nEis a sentença\na ser cumprida\nde vir ver a vida\ndo lado de fora\ne achar-se por dentro\nem algum sentido.",
+        "ordem": 27,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-28",
+        "titulo": "Letra expandida",
+        "conteudo": "Antes que fosse o que queria\nEu era o Inverso de mim\nE assim, bem mais eu seria\nAo estender essas Visões\nSobre todos os cantos do poeta\n\nA arte expandiu minha família\nCelebrando a Cartilha de Encantar\nMeu lugar sempre foi na poesia\nE as rimas adornaram tantos temas\nNos Poemas mínimos & Máximas\n\nA mulher deitada no sofá e outras cenas\nCrônicas poéticas contemporâneas\nQue a Cadena mostrou ao rebentar:\nAs mazelas humanas, que o amor resolva\nNo Promíscuos livro de poemas da alcova.",
+        "ordem": 28,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-29",
+        "titulo": "Ligações perigosas (O eco do juízeco)",
+        "conteudo": "(o eco do juizeco)\n\nE agora juiz-eco de meia tigela?\nNenhuma panela ouvi bater...\nAinda assim escuto o eco do juiz\nEm ligações (tão) vergonhosas!\n\nE a armação aos poucos se revela\nA elite teima em desentender...\nAinda assim escuto o eco do juiz\nParece que não importam provas\n\nA turba segue de camisa amarela\nPara tanto desaforo defender...\nAinda assim escuto o eco do juiz\nEm suas ligações nada honrosas!\n\nPara onde pende a balança dela?\nDa justiça corrompida por poder\nAinda assim escuto o eco do juiz\nO conteúdo não é o que importa?\n\nVejo o último capítulo da novela\nCom o supremo e tudo a feder..\nAinda assim escuto o eco do juiz\nSem decoro, o seu foro hipócrita!",
+        "ordem": 29,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 120
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 150
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-30",
+        "titulo": "Linguisteria de Lacan \\ Budismo Freudiano",
+        "conteudo": "Os termos da lógica\nTambém como tipo de linguagem\nNa sua profusão ideológica\nO inconsciente é uma miragem?!\n\nA transformação é significante\nNa aceitação dos vazios\nO poder da valência impactante\nDa política e seus desvarios\n\nO signo da epistemologia\nA filosofia subjetiva do \"falado\"\nNaquilo que tem simbologia\nEntre a semântica e o significado.\n\no\n\nSob os termos da lógica \\ Numa nova roupagem\nTambém como tipo de linguagem \\ A tradicional\nsemiótica\nNa sua profusão ideológica \\ De ancestral linhagem\nO inconsciente é uma miragem?! \\ Faz-se uma miríade\nde ópticas?!\n\nA transformação é significante \\ Do pensamento nos\ncios\nNa aceitação dos vazios \\ O sono ilimitante\nO poder da valência impactante \\ Desfaz os atavios\nDa política e seus desvarios \\ Embuste recalcitrante.\n\nO signo da epistemologia \\ No Eu ejaculado\nA filosofia subjetiva do falado \\ Das vísceras da hi-\npocrisia\nNaquilo que tem simbologia \\ Busca-se o caminho\nintocado\nEntre semântica e significado \\ Sem nunca alcançar a\nataraxia.\n\nParticipação de Guilherme Amorim",
+        "ordem": 30,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 120
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 150
+          },
+          {
+            "estrofeIndex": 6,
+            "segundos": 180
+          },
+          {
+            "estrofeIndex": 7,
+            "segundos": 210
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-31",
+        "titulo": "Livre de mim",
+        "conteudo": "Das ruínas das prisões\nQue malfadavam meus dias\nAinda avisto os grilhões\nCom que me aferravam as garantias\nSem fianças de quantias\nTal masmorra estúpida\nE a prisão mais vil e doentia\nA cerrar-me o ímpeto tão mórbida\nDa cela as chaves busquei\nPor anos, sem encontrar\nAté que, enfim, despertei:\nE a poesia que me salvará!\nAssim por certo saberá\nQuem só me via a paisano\nE das gambias penderá\nAo ver a fuga do parnasiano\nPara livrar-me de mim\nE do olhar que me comia\nO espírito, mente e rins,\nFlutuei com as penas da poesia\nNo poema que me anestesia\nDa dor e do silêncio brutais\nEntre adejo de versos, a cortesia\nQue vós mais providos perscrutais\nA grade nunca oprimiu,\nO medo me aprisionava\nA chave nunca existiu,\nAberta o tempo todo a porta estava.\n\nParticipação de Guilherme Amorim",
+        "ordem": 31,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-32",
+        "titulo": "Livres para amar",
+        "conteudo": "Com toda liberdade que Deus nos deu\nCada um com sua escolha e recusa\nVocê e eu, cristã e ateu, a luz e o breu\nSomos os catetos desta hipotenusa!\n\nBuscando atalhos para o que importe\nA vida inteira numa onírica procura\nSul e norte, azar e sorte, fraco e forte\nTodos opostos postos na literatura!\n\nQue um dia possa vir a acontecer\nE quem dera o real jamais profane\nO virtual sentido que enleva o ser\n\nAlgo em mim agora diz: que se dane!\nSe certo ou errado, deixa aparecer:\nTodo sentimento que de nós emane",
+        "ordem": 32,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-33",
+        "titulo": "Literatus (opus summary) (C@rtilh@ de Enc@nt@r)",
+        "conteudo": "Antes de todas as eras\nEramos estrelas errantes\nA espera do amanhã\nQual Erasmo de Roterdã\nElogiando a loucura\nDe sermos seres sãos...\n\nDali por diante, nem Dante\nSeus infernos, purgatórios, paraísos\nE outros territórios profanos\nFez de nós menos humanos\nMas, navegares são precisos\nPela divina comédia da vida...\n\nComo era verde o meu vale\nRepleto de ratos e homens\nPor quem os sinos dobram\nE as flores do mal nos brotam\nTudo em profusa mistura\nNa dileta arte da leitura.",
+        "ordem": 33,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-34",
+        "titulo": "Mediocridade (O Inverso de Mim)",
+        "conteudo": "Se Deus existir\nQue me proteja\nDaquilo que mais me aflige..\n\nSe Deus permitir\nQue nunca seja\nAquilo que não se corrige...\n\nDeus, tende piedade\nDos seres sem esperança\nDeus, afastai de mim a vaidade\nDas horas de ignorância\n\nLivrai-nos de nossas fraquezas\nVivendo para o amanhã\nSó não nos deixeis cair na desgraça\nDa vida medíocre e vã.",
+        "ordem": 34,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-35",
+        "titulo": "Mesto vovente",
+        "conteudo": "Fonte eterna de meu sentimento\nEs o universo a pulsar em meu peito!\nUm fascínio inexorável de luz...\nEu me basto em ti... vasto e perfeito!\nCaminho de estrelas que me conduz\nAlegro-me por ser novidade anunciada\nNuvem permitida...ser pássaro...revoada.\n\nNão sei definir o sentido da vida\nPois tu és a própria razão de meu respirar!\nPoema de esmeraldas em Minh' alma...\nLacrimejo ao te ouvir cantar!\nNo fascinante torpor que me acalma\nSejas sempre as manhãs... acordar lento\nCórrego criança... a vontade.. .pensamento.\n\nQue sejas ainda a esperança\nNos momentos em que cultivo um desistir!\nBálsamo que alivia as minhas dores...\nQuando uso a ousadia de sentir!\nMinha paixão que destila seus pavores\nAlém de tudo, rogo por seres o meu ja-\nmais...\nAcalento de existir...sejas sempre a minha\npaz.\n\nParticipação de Viviane Ribeiro dos Santos",
+        "ordem": 35,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-36",
+        "titulo": "O fim do mundo",
+        "conteudo": "O fim do mundo é a perda de motivo\nE estar vivo, mas ser raso e confuso\nSe acuso a noite por outro dia cativo\nO ser passivo diante de tanto abuso!\n\nO fim do mundo visto por esse drone\nComo o ciclone a varrer toda certeza\nNão há beleza que não te abandone...\nNem o poeta insone, livre da tristeza!\n\nO fim do mundo, aliás, é só o começo\nFeito a chama do fogo que nos anima\nE como um início, revisto pelo avesso\nO ciclo da vida, a qual jamais termina.",
+        "ordem": 36,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-37",
+        "titulo": "Olhos grandes",
+        "conteudo": "Os olhos grandes da morena\nem cena me causam atração\ne a minha mão já mais atrevida\na convida ao meu maior desejo\nse o beijo detona o meu tesao...\n\nOs olhos grandes da menina\nque me fascina de excitação\n0h! Doce ilusão em minha vida\nda sua in-vestida, não me protejo\nporque almejo a fatal sedução.\n\nOs olhos grandes da mulher\nque bem me quer e eu a quero\nsincero em minha compulsão!\nA imaginação não vê fronteiras\nnem há barreiras para a tentação.",
+        "ordem": 37,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-38",
+        "titulo": "O raro sabor do amar",
+        "conteudo": "O fim do mundo é a perda de motivo\nE estar vivo, mas ser raso e confuso\nSe acuso a noite por outro dia cativo\nO ser passivo diante de tanto abuso!\n\nO fim do mundo visto por esse drone\nComo o ciclone a varrer toda certeza\nNão há beleza que não te abandone...\nNem o poeta insone, livre da tristeza!\n\nO fim do mundo, aliás, é só o começo\nFeito a chama do fogo que nos anima\nE como um início, revisto pelo avesso\nO ciclo da vida, a qual jamais termina.\n\nParticipação de Jailma Fabiana",
+        "ordem": 38,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-39",
+        "titulo": "Nostradamus (Poemas Mínimos & Máximas)",
+        "conteudo": "A carne se degrada\nPoeira que some na estrada\nSob o tempo intacto.\n\n(Quem há de prever o nada?)\n\nA fama é transitória\nPura contemplação ilusória\nNos traz danos...\n\n(Quando a ambição é a gloria!)\n\nMas, a alma é infinita\nPara aquele que acredita\nEm fim, nisto!\n\n(Qual a sua certeza? Reflita.)",
+        "ordem": 39,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 120
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 150
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-40",
+        "titulo": "Perdidos na rede",
+        "conteudo": "Há quem do vídeo\nNunca duvide\nE assim viaja\nNum cache para as nuvens\n\nHá quem pela web\nNavegue no chat\nE siga as rotinas\nNum site de programas\n\nHá quem por binário\nNoutro ambiente\nE língua ambígua\nNum link, em si conecte.",
+        "ordem": 40,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-41",
+        "titulo": "Pintando o sete",
+        "conteudo": "Sete são as chagas de \"Cristo\"\nSão sete os pecados capitais\nSete léguas percorridas\nAtrás de sete desejos\nSete quedas alcancei\nEm sete meses, a luz\nSete sexênios letais\nNascido de 7 meses\nQuase não sobrevivi\nAprendi desde cedo\nA fatalidade da vida!\nEmbalado pelo medo\nMuita coisa eu escrevi\nA demônios e deuses\nEis que hoje em dia\nApós oito sexênios\nSimulo em minha obra\nA inquietude atrevida!\nDo que não se dobra\nA beócios e gênios\nPoesia pura, picardia\nO futuro me promete\nToda sorte e incerteza\nPara compartilhar fiel\nA palavra comovida!\nSangro letras no papel\nE arde na mente acesa\nQue poeta pinta o sete?",
+        "ordem": 41,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-42",
+        "titulo": "Poema alado",
+        "conteudo": "Abro as asas das palavras\nDitando o ritmo do adejo...\nComo o beijo tem seu alvo\nCravo na pele em que assino:\nA marca que demarca o meu!\nComo um ateu em sua sina\nQue assina a fé do poeta\nA seta, o tacape ou a pena\nQue o poema assim escreve\nLeve como a brisa leve..\n\nAbro a mente em pleno voo\nPercorro terras, continente...\nContente por saber de você\nPor ser o que a alma quer:\nMais do que a cabeça pensa!\nMulher e homem em união\nMilhão de desejos proibidos\nConcebidos a só e ausente\nNa ânsia ardente do que ama\nA chama que o verso descreve\nBreve como a vida breve.",
+        "ordem": 42,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-43",
+        "titulo": "Poema de sobra",
+        "conteudo": "Lá fora a noite é extrema\nO frio acalenta o acalanto\nCá dentro pairam em dilema\nO poema pronto e o pranto\n\nAs frases se entrelaçam\nPara dizer do que ficou ausente e mudo\nNa ânsia do que nunca chegou\nSobram os poemas...\n\nAs rimas se dispersam\nDe trás do diálogo entre raso e profundo\nA palavra, da esperança, cansou\nSobram os poemas...\n\nNo fim, é só mais um poema\nQue para este silêncio existe\nComo aquele filme de cinema\nQue exibe um final bem triste.",
+        "ordem": 43,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-44",
+        "titulo": "Poema non sense",
+        "conteudo": "Quero fazer um poema\nSem alerta nem doçura\nApenas uma aventura incerta\nSem violência nem carinho\nA caminho de minha essência\nAlém do que me seja óbvio\n\nQuero fazer um poema\nSem seta a apontar\nApenas pontuar na ode discreta\nSem dentro nem fora\nA metáfora da lida que enfrento\nAbster-me de qualquer foco\n\nSó quero fazer um poema\nSem objetivo nem preço\nAlheio a toda gramática\nE fazer um poema sem fim,\nCausa-efeito ou propósito\nSem lente de aumento\nEm câmara lenta..\n\nQuero fazer um poema\nSem rima ou métrica\nAssim como a prática ensina\nSem crivo ou divagação\nAlgo de abstração descritivo\nApesar de fluir no seu ritmo\n\nQuero fazer um poema\nSem título ou preleção\nAvesso a seção e capítulo\nSem motivo ou vaidade\nA bem da verdade que vivo\nAté que me torne memória\n\nSó quero fazer um poema\nSem declaração de amor\nAlheio à cena dramática\nE fazer um poema ruim\nNada que justifique o vazio\nDe coisa ou de valor\nO sem sentido da vida.\nParticipação de Viviane Ribeiro dos Santos",
+        "ordem": 44,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 120
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 150
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-45",
+        "titulo": "Poeta Margenial (Poemas Mínimos & Máximas)",
+        "conteudo": "O poeta vive à margem da moda\nPorque sua poesia genial incomoda\nO poeta vê sua imagem usurpada\nPois, seu verso é lâmina de espada!\n\nO poeta usa e abusa seu arsenal\nPermanece, além de sua morte\nO poeta é um bandido, marginal\nSeu a palo seco é vivo e forte!\n\nO poeta canta sua obra libertária\nQue a palavra propaga em poesia\nO poeta voa em sua asa imaginária\nSemeia \"Paz & Amor\" em demasia!\n\n\"Eu quero é que esse canto torto\nFeito faca corte a carne de vocês, \"\n\nCitação de A palo Seco (Belchior)",
+        "ordem": 45,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 120
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-46",
+        "titulo": "Portal do encanto (C@rtilh@ de Enc@nt@r)",
+        "conteudo": "Alegria! Alegria!\nA utopia entra em cena\nConcatenada ao poema\nQue move a quem comove\nE a vida! E a vida!\nO coração nos conclama\nIncandescendo na chama\nQue arde ainda que tarde!\n\nAberta a porta da frente\nVê-se em profusão a estética\nDo circo de cores vibrantes\nA capa cobre o presente\nSimula a propensão imagética\nDo corpo de autores errantes!\n\nViva! Para a ousadia\nQue vem celebrar o sorriso\nQuanto vale esse risco?\nViva! Para a anarquia\nDe não ter o compromisso\nQuerer ser mais arisco!\nViva! Para a alquimia\nSe o lúdico puder ser isto\nQuase um simples rabisco\nQue a alguém possa encantar!",
+        "ordem": 46,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-47",
+        "titulo": "Porfia",
+        "conteudo": "Atravesso as noites\nE atropelo os dias...\nPoeta insone, marginal\nMenestrel da solidão\nNo cadafalso da agonia\nCéu e chão compactuam\nDa sua ode, a utopia\n\nAtravesso as noites\nE atropelo os dias...\nA ponta cega do punhal\nO clarão na escuridão\nNo solapar da harmonia\nFogo e água perpetuam\nA sua ordem, a porfia.",
+        "ordem": 47,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-48",
+        "titulo": "Princesa dos canaviais",
+        "conteudo": "Ali na mata sul\nonde se fez princesa\nsob a imensidão azul\nna simples realeza\ndessa pessoa tua\n\nAlém do litoral\ndas praias de coqueiros\ndescrevo ao natural\no verso do engenheiro\nna branca pele nua\n\nAle é o apelido\npor onde você andava?\nenquanto distraído\nà toa eu procurava\npelo céu sem lua.",
+        "ordem": 48,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-49",
+        "titulo": "Senda do Aposentado",
+        "conteudo": "Chegando ao fim da jornada\nda minha labuta profissional\nPercebo um ponto de partida\nno suposto marco de chegada\nConfirmo que todo o começo\ndelata a sua origem no final.\n\nNa estrada tortuosa e comprida\nem que trilhei minha carreira\naprendemos e, às vezes, ensinamos.\nA missão que se dá por cumprida\ne, pela qual, tanto nos dedicamos\nainda não será a derradeira!\n\nAssim, passo a viver como pessoa\ne não valer o preço do meu trabalho\nSem roteiro que nos defina conduta\nfazer a própria escolha má ou boa\nAgora quero tudo, pois sei que valho\nter da vida o melhor que se desfruta.",
+        "ordem": 49,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-50",
+        "titulo": "Sensei (Promíscuos Livro de Poemas da Alcova)",
+        "conteudo": "Sinto que está na hora\nO hajime se aproxima\nMeu corpo se revigora\nEleva-me a autoestima\n\nSinto tudo que já sabia\nNo dojo do sonho shiai\nA minha sensei reinaria\nNo uchi sobre seu kôhai\n\nEu, sem obi, nem reajo\nSe na kata me imobiliza\nSua kukimata no shiajo\nNo mokusu me finaliza\n\nEu nem sei onde vou cair\nSob o seiken jhodan zuki\nQuero viver, provar, sentir\nSer o samurai no harakiri\n\nTua Graça de gueixa ninja\nExpõe todo o bem do mal\nO uti mawashi geuri atinja\nMeu peito no golpe fatal\n\nTua Marca que me tatua\nA plena posse de Uraken\nSeiza ante tua pele nua\nNo desejo, amor e além.",
+        "ordem": 50,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 120
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 150
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-51",
+        "titulo": "Signo do ar",
+        "conteudo": "Dizem que amores vêm e vão...\nMas, um amor não vem em vão\nQuando chega faz cama e mesa\nEntra, se aconchega, dá despesa\nE quase sempre sai sem pagar\n\nSei que não sou digno de elogiar\nO meu temperamento é peculiar\nCom o talento singular do chato\nAinda assim, o meu amor é fato\nE o signo é da delicadeza rude\nPeço a Deus que nos ajude\n\nE toda a paciência de amiúde\nPara amenizar tantos conflitos\nMas, nossos desejos infinitos\nNenhum Deus pode aplacar!",
+        "ordem": 51,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-52",
+        "titulo": "Soneto da perfídia",
+        "conteudo": "Por todos os séculos\nEm que a gesta se deflagra\nEm meio aos ósculos\nTanta perfídia se consagra\n\nQuanto corrupto segue ileso\nSob o pretexto da imunidade\nEnquanto a ralé sente o peso\nDa mão injusta da autoridade\n\nPor seu ardil, tão vil canalha\nEspalha o veneno da mentira\nTraz a ira de incautos à balha\n\nOmite fatos, ilude patos, atira\nSua mira é o ódio ao Petralha\nPoliticalha de uma elite traíra.",
+        "ordem": 52,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-53",
+        "titulo": "Sublime",
+        "conteudo": "Um sentimento ousado, arrojado\nComo pássaro pousado em meu dedo\nCiente de que algum dia irá voar\nAssumo enfrentar este meu medo\n\nVerdades são banalidades, meu bem\nDiante de uma paixão que arrebata\nNão há um sentimento mais humano\nEste carinho nos une e nada desata\n\nEntre nós, seres ambíguos em signo\nAmplificados por afinidades plenas\nVale a pena qualquer risco breve\nPra nos eternizar em meus poemas\n\nSeremos qual um eclipse de gente\nDiferente de tudo que houve antes\nAbençoados pelo acaso desta vida\nA mesma que consagra os amantes\n\nDesejo de carinhos e de carícias\nCoisas que somente o afeto redime\nO amor florescendo de um beijo\nNa ânsia de tocar tua boca, Sublime.",
+        "ordem": 53,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 120
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-54",
+        "titulo": "Totens do \"Mito\"",
+        "conteudo": "Um poderoso artefato\nMonumental escultura\nCultuado artesanato\nNa fabulosa estrutura\n\nDe cabeça e asas de águia\nSobre um corpo de leão\nGrifo Heráldico de Perugia\nLendário na imaginação\n\nOu com a cabeça de um galo\nNum longo corpo de dragão\nLagarto Basilisco de que falo\nSerpente de mortífera visão\n\nSão criaturas mitológicas\nQue habitam na literatura\nSuas origens iconológicas\nTraspassam nossa cultura\n\nMas, a simbologia precede\nQualquer limite do horror\nPois, o significado procede\nQuando o cenário é de dor.",
+        "ordem": 54,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 120
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-55",
+        "titulo": "Transcendental",
+        "conteudo": "Amo você...\nOntem, hoje e para todo o sempre\n(Estando bem alegre ou triste e mal)\nAinda que sejas apenas uma imagem\nUma mulher miragem virtual!\n\nAmo você...\nPor aquilo que despertou em mim\n.Com o torpor de arroubo passional)\nUma atração que nunca havia sentido\nUm homem perdido do real!\n\nAmo você...\nPelos poemas que escrevo\n(Da inspiração remota e ancestral)\nEm todos versos lapidados pela rima\nUm amor acima do normal!\n\nAmo você...\nMesmo que esteja ausente\n(Na nossa relação transcendental)\nPois, nos imagino ardendo de desejo\nE, por um beijo, selo o final.",
+        "ordem": 55,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-56",
+        "titulo": "Um soneto para servir gelado",
+        "conteudo": "Aqui no bar acerca da mesa\nEntre amigos, celebro efusivo\nComo milagre por estar vivo\nNa irreverência da incerteza\n\nE talvez eu morra em breve\nPode ser que nunca te veja\nNa dúvida, traz outra cerveja\nFaz com que a vida seja leve\n\nOs sonetos são apanágios\nQue ao poeta Deus concede\nBoêmio em seus naufrágios\n\nNesta procela em que acede\nVai apurando seus adágios\nAté que um dia se despede.",
+        "ordem": 56,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          }
+        ]
+      },
+      {
+        "id": "7-asas-para-a-liberdade-poema-57",
+        "titulo": "Viva LULA Livre!",
+        "conteudo": "\"O que transforma o velho no novo\nBendito fruto do povo será... \" Belchior\n\nDo que brota do povo não duvide\nA esperança que une não divide!\nToda luta, sangue e suor tem o ideal\nA diferença que não torna desigual\nUm brasileiro comum: \"um cidadão\"\nDe qualquer raça, crença ou opinião\nCom liberdade de sonhar e ser feliz\nNossa utopia de um possível país\nArrogância e ganância não nos prive\nNosso grito ecoa forte, sobrevive:\nLula livre! Lula livre! Lula livre!\n\nToda riqueza deve sugerir compartilhar\nNascer, crescer e doar (e brilhar...)\nPara amar, como estrelas que iluminam\nA fé nessa luta que \"eles\" discriminam\nNinguém é dono de nada sozinho\nE de muitos se faz o caminho\nJustiça Social, na alma de cada brasileiro\nComo modelo para o mundo inteiro\nAcreditando na missão, é que a gente\nCom ele (sempre) resiste\nLula Livre! Lula Livre! Lula Livre!\n\nA nação de fato, fraterna e plural\nEnseja em cada ser o anseio natural\nOnde o bem comum é o respeito\nSem discriminação ou preconceito\nNenhuma prisão haverá de conter\nA ideia de outra forma de poder\nQue o povo exerça e a ele sirva\n\nComo o fez Luiz Inácio da Silva\nDando voz aos pobres, inclusive\nNosso grito pelo ídolo que vive:\nLula livre! Lula livre! Lula livre!\n\nAos que gritam, sem leis e com ódio\nMilicianos algozes em triste episódio\nA cólera fascista assusta, mas assista\nLula é presidente, (do pobre ao artista)\nGente como a gente, (eternamente)\nEstá em nosso coração e em cada mente\nQue cultiva essa semente do solidário\nDos que lutam por um futuro libertário\nE portanto, meu coração latino\nAinda (e sempre) insiste\nLula Livre! Lula Livre! Lula Livre!\n\nParticipação de Daniel Victor",
+        "ordem": 57,
+        "publicadoEm": "2017-10-15",
+        "obraId": "obra-7-asas-para-a-liberdade",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 30
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 60
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 90
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 120
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 150
+          },
+          {
+            "estrofeIndex": 6,
+            "segundos": 180
+          }
+        ]
       }
-    ]
+    ],
+    "faixas": []
   },
   {
     "id": "obra-o-inverso-de-mim",
@@ -2350,7 +3684,7 @@
     "descricao": "A obra seminal de Heldemarcio Ferreira (2005). Uma travessia autobiográfica dividida nos quatro ciclos da existência: O Adolescente, O Profissional, O Poeta e O Amador.",
     "capaUrl": "/capas/o-inverso-de-mim/capaUrl.jpg",
     "ebookCapaUrl": "/capas/o-inverso-de-mim/capaUrl.jpg",
-    "audioCapaUrl": "/art/o-inverso-de-mim/audioCapaUrl.jpg",
+    "audioCapaUrl": null,
     "ebookUrl": "/ebooks/o-inverso-de-mim.pdf",
     "palavrasDoAutor": "Este livro retrata algumas das fases mais significativas de minha vida: A adolescência com todos os ideais, o profissional e a dedicação à carreira, a opção pela poesia e pelo sentimento, e o amor que é arte ou desastre para quem é \"amador\". Repleto de influências de pessoas e situações que, de uma forma ou de outra, marcaram a minha existência e das quais não poderei esquecer.\n\nÉ uma obra pessoal e intimista, na qual as minhas referências sentimentais são expostas de forma poética, sem qualquer restrição ou receio em relação às mais diversas e possíveis interpretações. E, por tratar de sentimentos e reflexões existenciais, a obra assume uma dimensão de caráter universal, a despeito de ser focada em uma pessoa em particular.\n\nAcredito que possa haver uma \"certa\" identificação do leitor com a forma de abordagem de temas bastante comuns alusivos à solidão, paixão, amor, tristeza e outros que compõem o universo de sensações e percepções do mundo. Não tenho a menor pretensão de que este livro alcance qualquer nível de projeção ou que venha a ser reconhecido como obra de valor literário.\n\nTrata-se apenas, e principalmente, de um registro da minha existência até o momento atual, através da sensibilidade e da paixão que dedico à poesia.\n\nDesse modo, o livro representa a realização de um sonho antigo que agora compartilho com os amigos e com o público em geral que aprecia a poesia. É um resgate daquilo que me dá grande prazer nessa vida: o ato de escrever sobre o que sinto.",
     "apresentacao": "A produção poética é um gesto de sensibilidade corajosa que exige do autor a decisão de se expor. Uma decisão que nem todos ousam.\n\nSão poucos aqueles que se abrem, mostrando, mesmo que eventualmente sob linguagem metafórica, o seu 'eu', o seu modo de ver e sentir o mundo, de viver pessoas e gozar sentimentos.\n\nMuitos, por timidez ou egoísmo, se fecham em copas, mantendo para si a arte que a alma guarda. Alguns mantêm os sonhos sob grilhões, impedindo mesmo que brotem as palavras e, com elas, a luz que embala o espírito e estimula a vida.\n\nEste, graças a Deus, não é o caso de Heldemarcio Ferreira, que faz seu debut na literatura artística com o magnífico 'O inverso de mim' – um livro que reúne poemas de rara beleza, descortinando sua 'opção pela poesia' num caminho que se iniciou n'O adolescente, passando pel'O profissional e se deliciou n'O poeta até chegar a'O apaixonado.\n\nO livro de estréia de Heldemarcio Ferreira revela a sensibilidade e o talento daqueles cujo mergulho no universo da poesia foi incontrolável. O poeta que sempre viveu na alma de Heldemarcio rasgou a roupa do engenheiro, ganhando vida para entregar ao mundo um grande artista da palavra. Com o 'O inverso de mim', Heldemarcio Ferreira carimbou o passaporte que, para deleite dos apaixonados pela poesia, vai levá-lo a viagens cada vez mais profundas no maravilhoso universo da literatura artística.\n\npor Alexandre Santos\nMembro da Academia de Letras e Artes do Nordeste Brasileiro e da Academia Brasileira de Autores Solidaristas.",
@@ -3820,25 +5154,6 @@
         ]
       }
     ],
-    "faixas": [
-      {
-        "id": "o-inverso-de-mim-faixa-1",
-        "titulo": "Tema de O Inverso de Mim",
-        "arquivoUrl": "/audio/demo.wav",
-        "duracao": 210,
-        "letra": "Era uma vez um estudante que acreditava em ideais...\nEra uma vez um engenheiro que construía poesias...",
-        "obraId": "obra-o-inverso-de-mim",
-        "capaUrl": "/art/o-inverso-de-mim/audioCapaUrl.jpg"
-      },
-      {
-        "id": "o-inverso-de-mim-faixa-2",
-        "titulo": "Canção Espacial Acústica",
-        "arquivoUrl": "/audio/demo.wav",
-        "duracao": 195,
-        "letra": "Lá no espaço sideral encontro a alegria...\nA luz da estrela é terna guia na utopia desse instante.",
-        "obraId": "obra-o-inverso-de-mim",
-        "capaUrl": "/art/o-inverso-de-mim/audioCapaUrl.jpg"
-      }
-    ]
+    "faixas": []
   }
 ]

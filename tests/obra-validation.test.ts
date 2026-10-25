@@ -204,12 +204,12 @@ describe("Fase 1: Rede de Segurança e Validação de Obras", () => {
   });
 
   describe("Organização da Discografia & Álbuns Musicais (Projeto Gerasom)", () => {
-    it("deve carregar todos os 7 álbuns com faixas e metadados estruturados", () => {
+    it("deve carregar os álbuns musicais que possuem faixas do Gerasom", () => {
       const albuns = getAlbunsMusicais();
-      expect(albuns.length).toBe(7);
+      expect(albuns.length).toBe(2);
 
       const totalFaixas = albuns.reduce((acc: number, a: { totalFaixas: number }) => acc + a.totalFaixas, 0);
-      expect(totalFaixas).toBe(74);
+      expect(totalFaixas).toBe(68);
 
       const andancas = albuns.find((a: { slug: string }) => a.slug === "andancas");
       const odes = albuns.find((a: { slug: string }) => a.slug === "odes-melodicas");

@@ -19,3 +19,5 @@ pnpm ebook:import import/meu-livro.pdf slug-da-obra
 3. Localiza os links do **Gerasom** e busca na CDN os links diretos dos arquivos `.mp3`.
 4. Copia o PDF oficial para `public/ebooks/<slug>.pdf` com botão de download no santuário.
 5. Gera ou atualiza o arquivo `content/obras/<slug>.json`.
+
+> **Regra Estrita de Áudio:** Se o livro não contiver links oficiais do Gerasom ou arquivos de música real, **NÃO se insere áudio** (faixas vazias e sem capa de áudio). A obra funcionará em modo leitura pura.
