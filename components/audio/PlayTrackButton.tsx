@@ -11,7 +11,7 @@ interface PlayTrackButtonProps {
   playlist?: Track[];
   numero?: number;
   label?: string;
-  variant?: "primary" | "secondary" | "subtle" | "album" | "icon" | "trackRow";
+  variant?: "primary" | "secondary" | "subtle" | "album" | "icon" | "trackRow" | "spotifyHero";
   className?: string;
 }
 
@@ -50,6 +50,23 @@ export function PlayTrackButton({
   const ariaLabel = isPlayingThis
     ? `Pausar reprodução de ${track.titulo}`
     : `Reproduzir ${track.titulo}`;
+
+  if (variant === "spotifyHero") {
+    return (
+      <button
+        type="button"
+        onClick={handleClick}
+        aria-label={ariaLabel}
+        className={`w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-destaque hover:bg-destaque-hover text-fundo flex items-center justify-center transition-all duration-300 shadow-xl shadow-destaque/30 hover:scale-105 active:scale-95 cursor-pointer shrink-0 ${className}`}
+      >
+        {isPlayingThis ? (
+          <Pause className="w-6 h-6 sm:w-7 sm:h-7 fill-current" aria-hidden="true" />
+        ) : (
+          <Play className="w-6 h-6 sm:w-7 sm:h-7 fill-current ml-1" aria-hidden="true" />
+        )}
+      </button>
+    );
+  }
 
   if (variant === "album") {
     return (

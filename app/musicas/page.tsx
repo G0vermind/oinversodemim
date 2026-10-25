@@ -42,13 +42,13 @@ export default function MusicasPage() {
   };
 
   return (
-    <div className="max-w-5xl mx-auto px-4 sm:px-6 py-12 md:py-16 space-y-10">
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-14 space-y-8">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      <header className="space-y-4 border-b border-linha/60 pb-8 text-center sm:text-left">
+      <header className="space-y-3 border-b border-linha/60 pb-6 text-center sm:text-left">
         <div className="inline-flex items-center gap-2 text-xs font-serif text-destaque uppercase tracking-[0.2em] font-medium">
           <Headphones className="w-4 h-4 text-destaque" aria-hidden="true" />
           <span>Projeto Gerasom • Discografia & Acervo Sonoro</span>
@@ -56,7 +56,7 @@ export default function MusicasPage() {
         <h1 className="font-serif text-3xl sm:text-5xl font-normal text-texto uppercase tracking-wider leading-tight">
           Discografia & Álbuns de Música
         </h1>
-        <p className="text-base text-texto-suave max-w-2xl leading-relaxed">
+        <p className="text-sm sm:text-base text-texto-suave max-w-3xl leading-relaxed">
           Paisagens acústicas e composições originais organizadas em álbuns temáticos para acompanhar a experiência lírica.
           O reprodutor global de áudio continua a tocar sem interrupções enquanto você navega pelas obras.
         </p>
