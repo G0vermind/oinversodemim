@@ -25,7 +25,7 @@ export default function Home() {
 
           <div
             aria-hidden="true"
-            className="pointer-events-none select-none -mt-5 sm:-mt-8 transform scale-y-[-1] opacity-20 filter blur-[1px] [mask-image:linear-gradient(to_bottom,rgba(0,0,0,0.85)_0%,transparent_65%)]"
+            className="pointer-events-none select-none -mt-5 sm:-mt-8 transform scale-y-[-1] opacity-20 filter blur-[1px] mask-[linear-gradient(to_bottom,rgba(0,0,0,0.85)_0%,transparent_65%)]"
           >
             <BrandLogo
               className="h-28 sm:h-40 md:h-48 lg:h-56 w-auto object-contain"
@@ -53,7 +53,7 @@ export default function Home() {
       <AcervoDinamico obras={obras} />
 
       {/* 4. Banner Editorial: Escuta & Pedido de Exemplares para Bibliotecas */}
-      <section className="p-8 sm:p-12 rounded-2xl plinth-surface flex flex-col md:flex-row items-center justify-between gap-8 border border-linha-destaque relative overflow-hidden bg-gradient-to-br from-[#181512] to-[#120F0D]">
+      <section className="p-8 sm:p-12 rounded-2xl plinth-surface flex flex-col md:flex-row items-center justify-between gap-8 border border-linha-destaque relative overflow-hidden bg-linear-to-br from-[#181512] to-[#120F0D]">
         <div className="space-y-3 text-center md:text-left max-w-xl">
           <div className="inline-flex items-center gap-2 text-xs font-serif text-destaque tracking-[0.2em] uppercase font-medium">
             <Headphones className="w-4 h-4 text-destaque" aria-hidden="true" />
