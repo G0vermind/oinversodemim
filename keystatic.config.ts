@@ -65,6 +65,12 @@ export default config({
           publicPath: '/capas/',
           validation: { isRequired: true },
         }),
+        ebookCapaUrl: fields.image({
+          label: 'Capa Alternativa / eBook (Opcional)',
+          description: 'Carregue a imagem da capa do eBook (salva em public/capas/) se diferir da capa do livro físico',
+          directory: 'public/capas',
+          publicPath: '/capas/',
+        }),
         audioCapaUrl: fields.image({
           label: 'Gravura Musical / Áudio (Exibida no Player e em Músicas)',
           description: 'Gravura artística associada às músicas desta obra (salva em public/art/)',
@@ -174,6 +180,10 @@ export default config({
             letra: fields.text({
               label: 'Letra Cantada / Poema Falado (Opcional)',
               multiline: true,
+            }),
+            capaUrl: fields.text({
+              label: 'Capa Específica da Faixa (Opcional)',
+              description: 'Caminho ou URL da arte da faixa (ex: /art/compass.jpg)',
             }),
           }),
           {
