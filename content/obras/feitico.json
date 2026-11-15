@@ -1,0 +1,702 @@
+{
+  "titulo": "Feitiço",
+  "sentimento": "Veredas",
+  "descricao": "Uma Jornada Mística pela Imagem do Verso (Editora Cadena, 2021). Obra em coautoria poético-visual com a artista plástica Adriana Brindeiro, entrelaçando 32 poemas e crônicas de travessia xamânica, natureza e feminino sagrado.",
+  "capaUrl": "/capas/feitico/capaUrl.jpeg",
+  "ebookCapaUrl": "/capas/feitico/capaUrl.jpeg",
+  "audioCapaUrl": null,
+  "ebookUrl": "/ebooks/feitico.pdf",
+  "preco": 0,
+  "estoqueFisico": 10,
+  "linkVendaFisica": "",
+  "createdAt": "2021-08-15",
+  "palavrasDoAutor": "\"Quando se fala ou quando se escreve, não é nunca para transmitir tal qual e intacta uma verdade já pronta. Fala-se e escreve-se para lançar sementes no espírito do outro que ouve, que lê. Pouco importa aquilo que o artista ou o autor 'quis' realmente dizer. O essencial está em outro lugar. Na fecundidade da obra, em sua capacidade de suscitar pensamentos novos, belos e verdadeiros.\" (Marc Halévy)\n\nNesse contexto, o livro apresenta uma jornada fictícia na qual a artista, autora das pinturas (Adriana Brindeiro), e o escritor, autor dos poemas (Heldemarcio Ferreira), com todo o esmero próprio do lirismo, se dedicaram a desvelar a magia do feitiço que enleva esta imagética obra, repleta de significados que podem ser aos poucos percebidos em seus insidiosos e surpreendentes encantos.\n\nNão sei se fora um delírio, um sonho ou, quem sabe, uma projeção de realidade alternativa. Poderia ter começado num rio ou manguezal, mas foi num flat próximo ao mar de Maracaípe, no litoral sul de Pernambuco. Havia um portal de madeira rústica cravado na parede do mezanino. Ao fixar o olhar para esse adorno, uma pergunta surgia insistentemente na minha mente: \"Estás disposto a atravessar o portal mágico?\".",
+  "prefacio": "No tear da vida, o fiandeiro tece suas redes de pesca com malhas miúdas ou graúdas, vislumbrando o tamanho do peixe que deseja pescar. Num lance preciso com sua tarrafa de trinta e cinco pontos, Heldemarcio Ferreira acerta em cheio o cardume de leitores amantes da poesia, brindando-nos com o seu FEITIÇO, obra primorosa com poemas escritos e pintados, numa viagem mágica que dialoga com a alma de quem se permite sair do lugar comum e navegar nas águas do imaginário poético do livro.\n\nA experiência imagética de cada cena revelada no portal aberto aos olhos de Heldemarcio remete-me imediatamente para o universo da ayahuasca, em que se consegue perceber a beleza dos mistérios de cada paisagem guardada em sua essência. É isto que nos oferecem os autores. No meu entendimento, a Adriana Brindeiro sai da esfera de simples ilustradora e se insere na condição de coautora com os traços poéticos da sua pintura enxuta.\n\nNa tentativa de escolher um verso ou uma estrofe para destacar a força e a beleza das imagens que cada poema apresenta, percebi que este livro é simplesmente indivisível. Cada palavra é uma malha integrada à pintura e cada verso sugere música com compassos divinos, permitindo-me reviver momentos especiais de imersão na minha floresta amazônica.\n\nA inserção da prosa elucidando contextos da viagem poética lembrou-me o momento em que a garapa de cana na fornalha do alambique transforma-se em aguardente e, posso afirmar, que esta safra é especial e nos incita a cada página fazer um brinde especial ao Feitiço.\n\nViva a poesia de Heldemarcio e a pintura de Adriana. Boa viagem!\n\n— Celdo Braga (Professor, poeta, músico e compositor)",
+  "poemas": [
+    {
+      "titulo": "Balé das Baronesas",
+      "ordem": 1,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Vitória régia, rainha-dos-lagos\nO Aguapé, jaçanã, cará-d'água\nOxibata dos plebeus e fidalgos\nFlor de lótus suspensa na água.\n\nTodos na dança das baronesas\nIapunaque-uaupê, folha sagrada\nQue ajuda a filtrar as impurezas\nNo espelho da alma degradada.\n\nUm olor abjeto de sua fragrância\nQue exala o fedor de seu aroma\nReflete o mortal em sua jactância\nSua soberba espraiada no rizoma.\n\nSobre a água da lagoa se estende\nUm tapete flutuante e raro abrigo\nPara os seres que a luz transcende\nComo o refúgio natural do perigo.\n\nA praga infestante, fluvial e lagunar\nSe prolifera e abastece dos esgotos\nA planta daninha que consome o ar\nAbarca rejeitos, dejetos de escrotos.\n\nAlgas sem almas sob inflorescência\nBailam nas águas fétidas e poluídas\nMas, as baronesas e sua resiliência\nSuprem alimento às vidas excluídas.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 100
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 125
+        }
+      ]
+    },
+    {
+      "titulo": "Borboletras",
+      "ordem": 2,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Bordo letras\nlíricas\nno tecido\ndessa tela\nvirtual\n\nBorboletas\nrítmicas\nno sonido\ndessa dança\nvisual\n\nVoo rasante\nar raso\nsufocando\no gemido\nA deus.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        }
+      ]
+    },
+    {
+      "titulo": "Flor de Cáctus",
+      "ordem": 3,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "O meu coração cigano diz\nque na raiz de todo ser humano\ncorre a seiva da felicidade\n\nO meu sentimento é visceral\nao ser natural, e por assim dizer\na poesia d'uma flor de cáctus\n\nNão existem alegria ou tristeza\nque à natureza não reflita\nna sua rara e exuberante ária\n\nFlor primária que em si encerra\nsobre a terra e lama em que existe\ncada ser em seu ardor e habitus.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        }
+      ]
+    },
+    {
+      "titulo": "Arborescência",
+      "ordem": 4,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Ser é mais do que existir\nNo passar do tempo até o ocaso\nEstar sobre a terra e seguir\nNa trilha traçada pelo acaso\n\nA cada um cabe o poder\nPara fecundar o chão\nEspraiar suas raízes, florescer\nSemente de vida em grão\n\nQue por milagre se replica\nNa seiva que corre no ser vivo\nPor onde a espécie personifica\nE retém o puro elo primitivo\n\nOs pares parecem quase iguais\nQuando se abstrai das diferenças\nEm toda relva há esses sinais\nÀ despeito das visões e crenças\n\nQuem sabe o que reserva o amanhã\nDa vasta flora em arborescência?\nDo broto à frondosa árvore anciã\nO que os une e separa em essência?",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 100
+        }
+      ]
+    },
+    {
+      "titulo": "Guardiã (Pantera Negra - O Feminino Sagrado)",
+      "ordem": 5,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Em um universo tão vasto e obscuro\nRepleto de segredos e de significados\nA aura mística, primitiva que procuro\nÉ isenta de quaisquer culpas e pecados\n\nD'uma simbólica criatura que se elege\nComo defesa ante o mal que se inflige\nEssa fera é a guardiã que me protege\nDa ameaça que por vezes me aflige\n\nPelo olhar sereno e atento na vigília\nDe um animal felino de postura nobre\nPantera negra, floresta noturna e idília\nÁgil ao perigo, quando ela descobre\n\nA força misteriosa da cura espiritual\nDissipa ilusões que as sombras trazem\nNo poder invisível de um totem sensual\nO feminino sagrado e sua energia zen\n\nSob a nudez da lua, o seu poder revela\nE ascende à escuridão que nos invade\nA pantera surge exuberante nessa tela\nEm imagéticos olhos verdes de verdade.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 100
+        }
+      ]
+    },
+    {
+      "titulo": "Diante do Mar",
+      "ordem": 6,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Diante do mar\nColhi as estrelas na areia\nO sol radionizante no ar\nDe eflúvios nos incendeia\n\nDiante do mar\nCaymmi se fez um rei\nNas cantigas a me embalar\nCaí e me inspirei\n\nDiante do mar\nMeu corpo se doura na praia\nMeus olhos a comparar\nEspuma e renda de cambraia\n\nDiante do mar\nDancei a ciranda de Lia\nOs pés descalços a preamar\nTocando a vida à revelia\n\nDiante do mar\nAntes que o mal aconteça\nSerei feliz para amar\nCom todo bem que eu mereça\n\nDiante do mar\nNo horizonte diviso o infinito\nNão há quem possa alcançar\nA amplidão do que eu acredito.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        },
+        {
+          "estrofeIndex": 4,
+          "segundos": 100
+        },
+        {
+          "estrofeIndex": 5,
+          "segundos": 125
+        }
+      ]
+    },
+    {
+      "titulo": "Maikekai",
+      "ordem": 7,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Maikekai, Maracaípe!\nO som do mar faz o convite.\nMaracaípe, Maikekai!\nE, sem demora, a gente vai...",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "A Miragem da Fada Azul",
+      "ordem": 8,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Estendia o azul de suas vestes\naos vastos oceanos celestes\nNuvens e ondas, singram olhares\nna vagueza de seus navegares...\n\nComo uma quilha corta os mares\ne uma estrela ascende aos ares\nQue desse azul se faça encantada,\nfeita a miragem da fada azulada!\n\nDe norte a sul todo azul se alastra:\no austo que a palavra não traduz!\nA fausta fada, cujo riso não aplastra,\nderrama feliz suas pétalas de luz...\n\nAqui (de meus olhos, bem diante)\nimpressões visuais do poeta blue\nAgora (ad aeternum, no instante)\ninduções virtuais d'uma fada azul.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        }
+      ]
+    },
+    {
+      "titulo": "Almíscar 1",
+      "ordem": 9,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Alma minha febril e libertária\nSó o torpor do perfume anestesia\nUma ilusão remota de saudade\nQue meu coração partido silencia\nOs sonhos da minha mocidade\nTolos arroubos de fé humanitária\n\nAlmíscar flagrante no olfato\nFragrância que me toma por inteiro\nUm sentimento distante e incerto\nDaquilo que seria o verdadeiro\nRevelando o meu ser a céu aberto\nTrago do aroma o encanto abstrato.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        }
+      ]
+    },
+    {
+      "titulo": "A Mulher Nascida para Ser Livre",
+      "ordem": 10,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Em seus pés como raízes\nFilha da terra e da natureza\nFrutos e flores brotam felizes\nA liberdade é a sua realeza\n\nCada parte de um todo vibra\nNessa energia que emana\nO ser que traduz em sua fibra\nA libertação para o nirvana\n\nNa plenitude da paz interior\nEgo a transcender na dialética\nQualquer argumento inferior\nSubmisso à sua ânima eclética\n\nAssim como o ocaso anuncia\nO rebentar da noite pelo dia\nNasce livre o ser que renuncia\nÉ da mulher a luz que irradia.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        }
+      ]
+    },
+    {
+      "titulo": "No Seio do Ser",
+      "ordem": 11,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Sempre sei o que toco\nNão troco sílabas à toa\nSe tal pessoa me atrai\nQuem vai atrás, sou eu.\n\nJamais moveu o anseio\nPasseio pelos desvarios\nEm calafrios de frenesi\nQuem de si enleva o ego.\n\nPrego o prazer pelo tato\nNo contato dentre seres\nPois, deles se pode afluir\nAo fruir d'um gozo íntimo.\n\nNo átimo que não expira\nÀ pira onde a flama arde\nSendo o alarde ao intuir\nUm porvir no seio do ser.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        }
+      ]
+    },
+    {
+      "titulo": "Avatar",
+      "ordem": 12,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Arde em cada ser\nO fogo a florescer\nÀ sombra do avatar\nQue habita temporário\nDurante a sua jornada\nPor sendas a desbravar\n\nA luz de ser e estar\nBrilha além do mirar\nPersona a transcender\nQue da alma se anima\nNessa trilha inusitada\nAté o seu eu degradar.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        }
+      ]
+    },
+    {
+      "titulo": "Brígida",
+      "ordem": 13,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Esta vida a tudo transforma\nSe não fosse ela a pura transformação\nAs cousas, os lugares e as pessoas\nTodas as criaturas que Deus houvera concebido\n\nCresce cada ser que compreende a sina\nComovido pela inspiração que arde\nFeito um fogo plácido e arrebatador\nDeixe a serpente ser oráculo para os homens\n\nQue seu veneno seja a cura ou a morte?\nO saber revelado, a medicina e a alquimia\nTudo o que transcende este mundo dual\nNuma dicotomia ambígua: Vida-morte-vida\n\nA chama trina arde no coração de todos os seres\nUma miríade de cores nos cabelos de Brígida.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        }
+      ]
+    },
+    {
+      "titulo": "Musa Iluminata",
+      "ordem": 14,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Os teus olhos gritam silentes\nToda força que trazes inepta\nNa ânsia do ranger de dentes\nQue a boca cala e intercepta\n\nComo a rara aura que fascina\nJorras o brilho da graça inata\nNuma sutil fagulha feminina\nQue a musa traduz iluminata\n\nSó a lembrança alivia tua falta\nMas, não me bastam notícias\nDa menina doce à mulher alta\nQue cobri de afagos e carícias\n\nTua chama arde: fogo da vida!\nÉs a magia dos deuses e orixás\nOyá que do amor se engravida\nQue traz à luz: pedras e cristais.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        }
+      ]
+    },
+    {
+      "titulo": "Feitiço (Rayssa)",
+      "ordem": 15,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Eu sempre parti da premissa:\nO amor não pode ser à toa\nAinda que esteja omissa\nHei de encontrar a pessoa...\n\nComo a rima da prosa aparece\nNuma poesia que trago remissa\nO sentimento que nos aquece\nPor desejo da paixão submissa\n\nNesses lábios me perco na ânsia\nE a minha nave carente aterrissa\nApesar de entender a distância\nSei bem do ser que me enfeitiça.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        }
+      ]
+    },
+    {
+      "titulo": "Indômita",
+      "ordem": 16,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Ela não reconhece nenhum limite\nPois, é tão linda quanto se sente infinda\nEla fascina como a deusa Afrodite\nAinda assim, com seu vinho ela me brinda\n\nEla costuma seduzir com seu convite\nNada me blinda quando eu a vejo avinda\nA excitação explode como a dinamite\nMaravilhinda, a musa me deixa na berlinda\n\nEntorpecido pelo que mais eu acredite\nCelebro tal momento que não finda\nNo meu coração, palpitando um palpite\n\nA aura feminina a todo resto prescinda\nE a indômita paixão nos ressuscite\nPara que a felicidade nos seja bem vinda.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        }
+      ]
+    },
+    {
+      "titulo": "Errante",
+      "ordem": 17,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "A minha deusa é mais além\nDe bem ou mal, transcende a tudo\nTem conteúdo em plena forma\nNão se conforma em ser bonita\nQuem acredita ser possível?\n\nA minha diva é mais que músculos\nPor séculos moldada à perfeição\nCom a afeição que ela me enseja\nQue eu seja dela sempre cativo\nO meu motivo é a minha musa.\n\nComo essas alegrias violentas\nSedentas a se consumir num beijo\nDesejo ardente de fogo e pólvora\nMetáfora de uma paixão tão forte\nO norte para minha vida errante.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        }
+      ]
+    },
+    {
+      "titulo": "Medusa",
+      "ordem": 18,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Quando ela me apareceu\nCom seu olhar de Medusa\nO meu corpo estremeceu\nAo ver que não há recusa!\n\nPerseu de lendas e mitos\nSeduzido pela fera reclusa\nDionísio sussurra os gritos\nNa caverna em Siracusa!\n\nPetrificado, aqui aconteceu\nE a mente sinaliza confusa\nO perigo que me acometeu\nBeleza se espraiou profusa\n\nQue fascinante essa musa\nImpregnada por mistérios\nDe sua imagem à luz difusa\nCaíram escudos e impérios.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        }
+      ]
+    },
+    {
+      "titulo": "Diamante",
+      "ordem": 19,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Minha mulher doce do povo\nDesde a origem do seu nome\nAgora e sempre, tudo de novo\nPara se saciar a sede e a fome\n\nTantas palavras podem ser ditas\nMas, nenhuma delas será bastante\nSe as lembranças fossem escritas\nNunca grafite se iguala a diamante\n\nAquilo que esse tempo não apaga\nPor mais remoto em nossa memória\nQue o coração anseia e a mão afaga\nA gente há que viver para ser história.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        }
+      ]
+    },
+    {
+      "titulo": "Tainara",
+      "ordem": 20,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "A Lua e a estrela - a joia rara\nE letras escorrem por meus lábios\nNo poema alusivo se tornara:\nA fé em deuses, o lume de sábios...\n\nFêmea fatal que fere e acaricia\nUm fogo que, em si, o ateu ateia\nLinda miragem que atrai e vicia\nInsinua a sedução, me incendeia\n\nO desejo vai mais além da luxúria\nPelo saber da volúpia passadiça\nAinda que cativo, eu acato a fúria\nSigo a servir a diva que enfeitiça.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        }
+      ]
+    },
+    {
+      "titulo": "Lua (Cântico Lunar)",
+      "ordem": 21,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Se do teu brilho me encanto\nE em ti me desmancho\nNum sonho vivo sem fim?!\nSerá que um dia dirás sim\n\nBusco em ti minha verdade\nDoce beldade\nPor que judias de mim?!\nAnjo, cupido e querubim\n\nSe meu nome é teu brilho\nE em ti não me vejo\nOnde me escondo?\nSenão em meus próprios desejos...",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        }
+      ]
+    },
+    {
+      "titulo": "Floresta Brasil",
+      "ordem": 22,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "A flora e a fauna em festa\nToda a floresta e sua exuberância\n\"O espírito dos pássaros e das\nFontes de águas límpidas...\"\nA tribo e a terra em comunhão!\n\nCada palmo do planeta\nTodo o gameta vibra a sua essência\n\"E eu já sonhava com a cor e\no tom de algum país...\"\nCada ser traz o dom da criação!\n\nAqui e por toda a parte\nÉ a arte que brota em abundância\n\"Por um mundo de paz\nCuidar das florestas e dos animais...\"\nUma nação unida pela comoção!",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        }
+      ]
+    },
+    {
+      "titulo": "A Magia da Dança e da Poesia",
+      "ordem": 23,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Abracadabra, as palavras têm magia\nAbraço e danço alegre com a poesia\n(o mágico e a dançarina trocam passos)\nA arte dá seu ritmo, exibe o conteúdo\nAssim, do aparente nada, aparece tudo.\n\nMorre aos poucos todo aquele,\nCuja alma já não mais se encanta\nPor toda emoção que transborda no corpo\nNas palavras e nos sentidos...\n\nAbracadabra, o truque é pura utopia\nAbro o coração no êxtase da alegria\n(o ilusionista e a bailarina num dueto)\nA ribalta ilumina cada estrofe erudita\nAo fim, a cena nos acena e ressuscita.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        }
+      ]
+    },
+    {
+      "titulo": "Oráculo",
+      "ordem": 24,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "O que me atrai é a emoção\nE a beleza irrestrita\nDa arte da palavra escrita\nO verbo e o vernáculo\nDo meu interno oráculo\nOnírico no cerne da questão.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Estesia",
+      "ordem": 25,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "O sentido do que quero dizer\nComovido pela minha poesia\nSegue sendo o menos importante...\n\nO motivo pelo qual alguém me lê\nEntretido em alvissareira estesia\nSempre será um mistério fascinante.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        }
+      ]
+    },
+    {
+      "titulo": "Peculium",
+      "ordem": 26,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Há riquezas\ne a que me seduz é a extrema\nsem avareza\ne o que me traduz é o poema.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Sem Razão",
+      "ordem": 27,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Então a arte chega e logo me contagia\nCom o seu ar de puro encanto e magia\nComo aroma que inebria e me aquece\nFeito a Roma antiga, jamais se esquece.\n\nAssim como alguém te acena comovido\nNuma cena sem que haja nada parecido\nÉ essa coisa abstrata que em nós aflora\nPoesia que trata do que a razão ignora.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        }
+      ]
+    },
+    {
+      "titulo": "Sartreano",
+      "ordem": 28,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Existem tantas formas de dizer as coisas que eclodem\nde meu peito sempre que a emoção me transborda\nDe tal sorte que talvez seja difícil resumir num poema\ntoda essa minha inquietude e a premência criativa!\n\nCultivo umas ideias que foram semeadas no solo fértil\nda mente por empatia ao propósito da existência\nDiante do contexto, escolho as razões que precedem\nmeus atos, enquanto um ser ainda em construção...\n\nPermaneço na condição humana, sem a natureza divina\nque determine as escolhas ou imponha o caminho\nLogo, a essência advém das ações e delas toda angústia\nda culpa ou pecado por ser condenado à liberdade.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        }
+      ]
+    },
+    {
+      "titulo": "Aliteração",
+      "ordem": 29,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "O dom do som\nAo ornamentar a ideia\nNo contexto literário\nPaira para além\nDas intenções subjacentes\n\nNa plena interação\nDe rima e métrica\nRitmo e estética\nEis que a pena apenas segue\nA mão voraz do poeta\n\nAssim, da assonância\nSua constância define\nTodo bailado fonético\nE a dança alcança a harmonia\nQue a obra exibe à vista\n\nFlagrante está na imagem\nO adorno da aliteração\nNos matizes da linguagem\nEm cada sacada da arte poética\nA pictórica miríade de cores.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        }
+      ]
+    },
+    {
+      "titulo": "Alma Nua",
+      "ordem": 30,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Que nada nos distraia\nNem o aplauso, nem a vaia\nQue nada nos iluda\nA fé insana que não ajuda\n\nQue tudo seja pleno\nUm ser audaz de tom ameno\nQue tudo seja claro\nDe alma nua, eu me declaro:\n\nQue nada vale tanto\nNem o poema e o seu encanto\nQue nada é divino\nLágrima e suor regam o destino\n\nQue tudo é passageiro\nAté a vida, no sopro derradeiro\nQue tudo também continua\nEmana a vibração da alma nua.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        }
+      ]
+    },
+    {
+      "titulo": "Guru dos Mangues",
+      "ordem": 31,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "Ainda que tu andes\nDos pampas ao Himalaia\nDa cordilheira dos Andes\n\"O sigas por la playa...\"\n\nCarregas este ideal\nDa tal sociedade justa\nCada ser a ser igual\n\"A mí también me gusta...\"\n\nA quem à natureza alude\nFauna, flora e atmosfera\nSe conceda a juventude\n\"Por la vida entera...\"\n\nArte sã, a alma da lenha\nO guru expõe sob medida\nE tudo seja, e nada tenha\n\"Gracias a la vida...\"",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        },
+        {
+          "estrofeIndex": 3,
+          "segundos": 75
+        }
+      ]
+    },
+    {
+      "titulo": "Instinctus",
+      "ordem": 32,
+      "publicadoEm": "2021-08-15",
+      "conteudo": "E todo aquele que age sem refletir\nSeguindo o impulso visceral\nÉ como um animal prestes a fugir\nDa cela que o tolhe brutal...\n\nInsanos arroubos da armadilha\nQuando a lua insinua e entorpece\nHumanos, os lobos da matilha,\nQue o instinto estimula e aparece\n\nEm cada ser grávido de angústia\nAs feras se consomem na disputa\nE sob o céu, eivados da moléstia\nNa magia do feitiço, arma arguta.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        }
+      ]
+    }
+  ],
+  "faixas": []
+}

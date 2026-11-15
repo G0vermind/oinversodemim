@@ -2,81 +2,106 @@
   "titulo": "Promíscuos",
   "sentimento": "Veredas",
   "descricao": "Livro de Poemas da Alcova (2019). O erotismo visceral e a luxúria dos amantes em quatro atos entre quatro paredes, guiados pela pena despojada e obscena do poeta.",
-  "capaUrl": "/capas/promiscuos/capaUrl.jpg",
+  "capaUrl": "/capas/promiscuos/capaUrl.jpeg",
+  "ebookCapaUrl": "/capas/promiscuos/ebookCapaUrl.jpg",
+  "audioCapaUrl": null,
+  "ebookUrl": "/ebooks/promiscuos.pdf",
   "preco": 0,
   "estoqueFisico": 15,
   "linkVendaFisica": "",
   "createdAt": "2019-03-20",
+  "palavrasDoAutor": "A obra versa sobre o erotismo que enseja toda a libido e a luxúria dos amantes viscerais nas alcovas reais e imaginárias de que se ocupam nossos corpos e mentes. São poemas devassos que expressam o desejo incontido por trás de cada verso. Um banquete sensorial para os paladares ávidos pelo prazer que a palavra poética é capaz de proporcionar. Em cada um de seus quatro atos, como entre quatro paredes, revela-se a mais íntima expressão do desejo humano conduzido pela pena obscena do poeta.\n\nDedico esta singela e despretensiosa coletânea de poemas devassos àqueles e àquelas que sempre estiveram comigo no curso dessa sinuosa e sedutora estrada da poesia, por isso ocupam um lugar definitivo em minha memória afetiva.",
+  "prefacio": "São Paulo, março de 2019.\n\nQuando, há alguns meses, colhi da chance de prefaciar a antologia independente de um festejado amigo poeta, fiquei especialmente agradecido e, ainda, extasiado de alegria pela ocasião – mais tarde, então, quando soube tratar-se de lavra de cunho erótico, franco interesse prendeu-me a atenção.\n\nEnquanto escritor e organizador literário, a oportunidade, para mim, representaria preciosa chance de travar contato com uma produção assaz original – afinal, é, na literatura, algo tênue a linha entre o vulgar e, notadamente, o erótico. Desdobra-se em sedutor e exigente desafio de criatividade, técnica e estesia – como o leitor deste trabalho poderá considerar.\n\nParalelamente, enquanto programador neurolinguista, pesquisando a influência dos recursos do amor, do romance e do sexo enquanto catalisadores de resultados positivos, refinamento derivado da chamada Lei do Efeito, encontrei, nesta coletânea, apreciáveis elementos de ponderação – e satisfação.\n\nEm matéria de estilística, são sensivelmente curiosos os paralelismos e os cavalgamentos empregados. Metalinguagem que se confirma em toda a tecedura insinuante e, amiúde, direta, das composições – realçadas, de mais a mais, também por seu enfeixe nos Atos em que o trabalho se apresenta.\n\nSob grandes reconhecimento e congratulações,\n— Ulisses Aguiar",
   "poemas": [
     {
       "titulo": "Ato",
       "ordem": 1,
       "publicadoEm": "2019-03-20",
-      "conteudo": "Acordar\npelas minhas mãos\nem puros acordes\nde tesão...\n\nComo tocar\num instrumento\ne afinar os sentidos\nem movimento...\n\nÊxtase\nao prazer da peleja\nsob a dor do desejo\no sexo lateja...\n\nGozar\nsem esconderijo\nexposto à tensão\ndo membro rijo.",
+      "conteudo": "Acordar\npelas minhas mãos\nem puros acordes\nde tesão...\nComo tocar\num instrumento\ne afinar os sentidos\nem movimento...\nÊxtase\nao prazer da peleja\nsob a dor do desejo\no sexo lateja...\nGozar\nsem esconderijo\nexposto à tensão\ndo membro rijo.",
       "timestamps": [
         {
           "estrofeIndex": 0,
           "segundos": 0
-        },
+        }
+      ]
+    },
+    {
+      "titulo": "Masturbação",
+      "ordem": 2,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Estou aqui tão absorto de prazer\nPor minhas mãos: oh! Culpadas\nNa labuta diária, bruta e solitária\nAi! Amor, que a poesia conquista\nLança sinais, orienta o caminho,\nPara seguir na lida mais leve\nPois, sinto a vida breve bem pesada\nSoo ambíguo e sou a pura dicotomia\nDado à tristeza que me dá alegria,\nNu voo de Ícaro com asa despedaçada\nCertas vezes parece escroto dizer\nAinda assim estou parindo o poema,\nE partindo corações de vidro.\nSó e orando com coisas sacanas\nEm nome do pai e da mãe,\nDe Vitória do Espirito Santo, amém.",
+      "timestamps": [
         {
-          "estrofeIndex": 1,
-          "segundos": 25
-        },
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Vem Dormir Comigo",
+      "ordem": 3,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Quer dormir comigo hoje?\npra sentir meu coração batendo\neu tremendo: a mão, o pé, o membro\na rogar por tanta tentação...\nQuer dormir comigo hoje?\nnós dois a destilar todo o desejo\ncom prazer: a boca, a língua e o beijo\na roubar a cena e o juízo...\nQuer dormir comigo hoje?\nfazer da noite uma armadilha\nna flor da pele: os seios e a virilha\na fim de ir às v(e)ias desses atos.",
+      "timestamps": [
         {
-          "estrofeIndex": 2,
-          "segundos": 50
-        },
-        {
-          "estrofeIndex": 3,
-          "segundos": 75
+          "estrofeIndex": 0,
+          "segundos": 0
         }
       ]
     },
     {
       "titulo": "Alcova",
-      "ordem": 2,
+      "ordem": 4,
       "publicadoEm": "2019-03-20",
-      "conteudo": "Falar de você me excita...\nNão só meu coração carente,\nMas, o cume do corpo palpita\nEm uma onda de energia obscena...\n\nAssim, sofregamente\nque a razão sai de cena!\n\nDispo-me das palavras fúteis...\nNo relevo do seu corpo tortuoso,\nE me arrisco em carícias úteis,\nSigo a esmo, sem perder o rumo...\n\nPrazer voluptuoso\npara o meu consumo!\n\nEssa sede de desejo me orienta...\nA beber do humor da pele embriagante\nComo um náufrago à deriva na tormenta,\nAté as plagas de águas mais profundas...\n\nNa batalha ofegante\nde armas fecundas!\n\nPensar em você me incita...\nA escrever poemas promíscuos\nSonetos de alcova por la dolce vita\nRecuerdos de una pásion que arrebata.\n\nVersos profícuos\nque a mão arremata!",
+      "conteudo": "Falar de você me excita...\nNão só meu coração carente,\nMas, o cume do corpo palpita\nEm uma onda de energia obscena...\nAssim, sofregamente\nque a razão sai de cena!\nDispo-me das palavras fúteis...\nNo relevo do seu corpo tortuoso,\nE me arrisco em carícias úteis,\nSigo a esmo, sem perder o rumo...\nPrazer voluptuoso\npara o meu consumo!\nEssa sede de desejo me orienta...\nA beber do humor da pele embriagante\nComo um náufrago à deriva na tormenta,\nAté as plagas de águas mais profundas...\nNa batalha ofegante\nde armas fecundas!\nPensar em você me incita...\nA escrever poemas promíscuos\nSonetos de alcova por la dolce vita\nRecuerdos de una pásion que arrebata.\nVersos profícuos\nque a mão arremata!",
       "timestamps": [
         {
           "estrofeIndex": 0,
           "segundos": 0
-        },
-        {
-          "estrofeIndex": 1,
-          "segundos": 15
-        },
-        {
-          "estrofeIndex": 2,
-          "segundos": 30
-        },
-        {
-          "estrofeIndex": 3,
-          "segundos": 45
-        },
-        {
-          "estrofeIndex": 4,
-          "segundos": 60
-        },
-        {
-          "estrofeIndex": 5,
-          "segundos": 75
-        },
-        {
-          "estrofeIndex": 6,
-          "segundos": 90
-        },
-        {
-          "estrofeIndex": 7,
-          "segundos": 105
         }
       ]
     },
     {
       "titulo": "Banquete da Libido",
-      "ordem": 3,
+      "ordem": 5,
       "publicadoEm": "2019-03-20",
-      "conteudo": "Do meu corpo exposto\nO que mais se expressa\nÉ o cume que atrai e atravessa\nToda brecha em que é posto!\n\nDo teu corpo sedutor\nO sexo exibes sem pressa\nÉ assim servida em travessa\nToda a iguaria sem pudor\n\nE neste império dos sentidos\nOnde o prazer é saboroso\nComo o banquete das libidos\nToda paixão resume em gozo.",
+      "conteudo": "Do meu corpo exposto\nO que mais se expressa\nÉ o cume que atrai e atravessa\nToda brecha em que é posto!\nDo teu corpo sedutor\nO sexo exibes sem pressa\nÉ assim servida em travessa\nToda a iguaria sem pudor\nE neste império dos sentidos\nOnde o prazer é saboroso\nComo o banquete das libidos\nToda paixão resume em gozo.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Se-cura",
+      "ordem": 6,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Eu quero muito acreditar\nQue aqui ou em algum lugar\nHaja um alento na loucura\nAlgum propósito pra procura\nQuando a solidão afasta\nA melancolia de ser só não basta\nTua presença é a minha cura\nArde desejo em nossa pele escura\nCada lembrança revigora\nE cedo ou tarde vai chegar a hora\nDo alívio dessa mente obscura\nSaciar a saudade em tanta secura.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "No Seio do Ser",
+      "ordem": 7,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Sempre sei o que toco\nNão troco sílabas à toa\nSe tal pessoa me atrai\nQuem vai atrás, sou eu\nJamais moveu o anseio\nPasseio pelos desvarios\nEm calafrios de frenesi\nQuem de si enleva o ego\nPrego o prazer pelo tato\nNo contato dentre seres\nPois, deles se pode afluir\nAo fruir d'um gozo íntimo\nNo átimo que não expira\nÀ pira onde a flama arde\nSendo o alarde ao intuir\nUm porvir no seio do ser.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Lee",
+      "ordem": 8,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Prefiro mostrar olhos em brilho\nCalado, estou sempre atento\nPrefiro a ideia que compartilho\nApreciar o mais raro momento\n\nPreciso Lee ver sempre Linda\nEm cada detalhe mais atraente\nPreciso estar mais perto ainda\nAdorar seu corpo intensamente\n\nPor isso somos inseparáveis\nColados um ao outro noite e dia\nPor isso sonhos inimagináveis:\nAmar sem limites para a fantasia.",
       "timestamps": [
         {
           "estrofeIndex": 0,
@@ -84,19 +109,207 @@
         },
         {
           "estrofeIndex": 1,
-          "segundos": 20
+          "segundos": 25
         },
         {
           "estrofeIndex": 2,
-          "segundos": 40
+          "segundos": 50
+        }
+      ]
+    },
+    {
+      "titulo": "Pontuação",
+      "ordem": 9,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Olhei pra você:\nPassando por páginas...\nTe lendo, querendo!\nE quase (nos) vendo\nNo que está entre as linhas\nEm franca expansão!\nPalavras escritas\nE muitas não ditas...\nPensadas pra conquista!\nNum viés menos niilista\nQue eu confesso que adoro\nUm jogo de sedução!\nMe tens num poema\nE não me faz esperar...\nSe me beija entre aspas\nÉ do juízo que escapas\nOnde não nos pertencemos\nOh! Glória da ilusão!\nMe laça na vírgula,\nUma pausa para ter...\nOutro pedaço de mim!\nNuma história sem fim\nPois, somos nas reticências\nO verso em construção!\n\nAinda ao te olhar\nEntre as interrogações...\nSigo a buscar um sinal!\nE alheio ao ponto final\nOnde se abolem os tremas\nEstarei pronto à ação!\n\nParticipação de Viviane Ribeiro",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        },
+        {
+          "estrofeIndex": 2,
+          "segundos": 50
+        }
+      ]
+    },
+    {
+      "titulo": "Entre Nós (o Falo)",
+      "ordem": 10,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Falo dessa barreira entre nós\nSobre o que nos une e separa\nSobre o que a vida tem de rara\nQuando provoca o encontro\nSobre o que encanta e fascina\nSobre a magia que aproxima\nNum “surreal” contraponto...\nFalo do que surpreende\nEntre os nós que nos enlaça\nEnquanto o resto se passa\nQuero estar junto a você\nE que sejam o tudo e o nada\nQue esteja a alma apaixonada\nNem que seja só desejo entre nós.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Vício Virtual",
+      "ordem": 11,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Vivia nessa espera\nQue o tempo consome\nPena não ser de pele\nO toque de tão distante\nVivia nessa angústia\nQue a imagem insinua\nPecar ao te imaginar\nSem poder ir adiante\nVivia nessa tortura\nQue a ausência impõe\nPensar e sentir pulsar\nNa cabeça d'um amante.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "No Ritmo dos Quadris",
+      "ordem": 12,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Sabe o que me faz feliz?\na bala imprecisa do acaso\nquando nos atinge em cheio\nsem deixar marca ou cicatriz\nsó o seu cheiro impregnado...\n\nSabe o que eu sempre quis?\na rara presença da pessoa\nque fosse a companhia plena\namar no ritmo desses quadris\ne adormecer acompanhado.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        }
+      ]
+    },
+    {
+      "titulo": "Prelúdio de Amor Casual",
+      "ordem": 13,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "À primeira vista\nÉ só a despretensiosa conquista\nNada de amor\nNada que possa trazer dor\nUm amor banal\nDe carne e gozo, de carnaval\nApenas adrenalina\nEssa preciosa arte que alucina\nPlena de loucura\nPlena no êxtase da aventura\nUm amor carnal\nDe canis e lobo, de canibal\nAlém da essência\nEm meio à “perigosa” indecência\nTudo que vale a pena\nTudo dessa paixão obscena\nUm amor casual\nDe caso e de jogo, de casal.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "À Francesa",
+      "ordem": 14,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Meu bem, sinta comigo\n\"sur le côté intérieur!\"\nO fogo ao pé do umbigo\nest passion mon amour\nPor favor, não se assuste\nCom o beijo que disparo\nApenas relaxe e deguste\nTodo o tesão que exaro.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
         }
       ]
     },
     {
       "titulo": "Retórica Sensual",
-      "ordem": 4,
+      "ordem": 15,
       "publicadoEm": "2019-03-20",
-      "conteudo": "Cláusula Primeira\nVou me vestir de você\nFazendo de ti a minha roupa\nCedo a sedução não me poupa\nE assim ficar abrigado!\n(Dar-me ao calor que me aquece)\n\nClausula Segunda\nVou me trajar de você\nComo se quisesse caber\nJusto antes de me embeber\nEm seu espaço apertado!\n(Seja, então, aquilo que me veste)\n\nClausula Terceira\nVou me envolver de você\nSendo assim seu conteúdo\nNada mais e além de tudo\nEm suor e pelo arrepiado!\n(Sorver o humor no tecido da pele)\n\nClausula Quarta\nVou me atar a você\nComo, em seu corpo, cativo\nAté gozar do sabor sedativo\nE assim dizer: Obrigado!\n(Que o bom do prazer esteja breve)",
+      "conteudo": "Cláusula Primeira\nVou me vestir de você\nFazendo de ti a minha roupa\nCedo a sedução não me poupa\nE assim ficar abrigado!\n(Dar-me ao calor que me aquece)\nClausula Segunda\nVou me trajar de você\nComo se quisesse caber\nJusto antes de me embeber\nEm seu espaço apertado!\n(Seja, então, aquilo que me veste)\nClausula Terceira\nVou me envolver de você\nSendo assim seu conteúdo\nNada mais e além de tudo\nEm suor e pelo arrepiado!\n(Sorver o humor no tecido da pele)\nClausula Quarta\nVou me atar a você\nComo, em seu corpo, cativo\nAté gozar do sabor sedativo\nE assim dizer: Obrigado!\n(Que o bom do prazer esteja breve)",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Metáfora Estranha",
+      "ordem": 16,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Nossa mistura faz sentido\nEm cada cor da flor da pele\nNoutro prazer a ser vivido\nÉ caos, amor que nos impele\nAinda que o ciúme e sua sanha\nConsuma em dor que maltrata\nRecorro à metáfora estranha:\nDos longos cabelos da mulata\nSaga profana de nossa libido\nQuando o tesão assume o comando\nSabor viciante de sexo atrevido\nQuanta sedução ao corpo clamando\nAinda que seja uma façanha\nConter essa ânsia imediata\nRecorro à metáfora estranha:\nDos longos cabelos da mulata.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Minha Dona",
+      "ordem": 17,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Nada em nosso amor pode ser triste\nMeu fetiche\nMinha tara\nMeu tesão...\nCom a boca no teu seio, o membro em riste\nLatejante\nPulsando\nEm expansão...\nComo ter juízo ao cometer o desvario?\nDe amante\nQue a mente\nAbandona\nTudo pela ânsia que provoca o calafrio\nDe prazer\nAo prezar\nMinha dona.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Poesia Sacana",
+      "ordem": 18,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Sou seu poeta, minha musa\nTodo dia em toda hora\nSina e sinal que o dom acusa\nE de minha alma aflora\nSou o seu pirata dos mares\nEnfrento onda ou tormenta\nPra minha estrela de antares\nBeijar-me a boca sedenta\nSou o seu anjo devasso\nNo paraíso do nosso prazer\nProfanando cada pedaço\nCom seu gozo me satisfazer.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "A Prostituta e o Poeta",
+      "ordem": 19,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "O verso traz, atrás do poeta, a intenção\nÀ sua porta, aporta a puta de hora marcada\nTramas de tentação da sórdida solidão\nNa erma mente, já por demais, obnubilada...\nPor tantos anseios e devaneios viciados\nQue ensejam o poeta sujo e a mulher vadia\nE, não por acaso, o prazer os faz insaciados\nSomente o poema se conforma àquela orgia:\nDe dois seres imundos que o mundo execra\nResta só o asco dessa abjeta lua de fel\nQue contracenam a prostituta e o poeta\nEntre manchas no lençol e marcas no papel.\nPoesia libidinosa e atrevida\nEivada de Intenções inevitáveis\nRastros das razões infames\nE da dicotomia anacrônica\nA prostituta e o poeta\nDestilam versos perversos\nCosturam pretensas paixões\nEntre sonetos abjetos e imorais\nQue ejaculam palavras...\nO poeta abnega a decência em ser consigo\nAbomina a hipocrisia pela sua coragem\nE a puta se entrega ao pé de seu umbigo\nNuma elegia obscena, encena sua origem\nAmbos celebram um pacto de verdade\nDiante do que a vida oferece de adverso\nAntes mesmo que fosse só a liberdade\n\nÉ a ausência do que se faz de controverso.\nDesde o desapego pelos absurdos:\nUma seita que aceita a dor e ceifa o gozo!\nTrazem (ausentes) aos entes cegos e surdos\nO que se faz de si assim tão perigoso.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        }
+      ]
+    },
+    {
+      "titulo": "Coito Onírico",
+      "ordem": 20,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Toda vez que eu a possuía\nSempre lambia os seus mamilos\nE isso a fazia estremecer...\nEm meio aos meus sussuros\nSeus urros e seus gemidos\nDenunciavam o seu prazer\nToda vez que me cavalgava\nEla me roubava o pouco juízo\nEm nosso onírico lazer...\nDurante toda a madrugada\nApós gozada à flor do ânus\nQue pena já amanhecer.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Dona do Meu Cabaré",
+      "ordem": 21,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Dama, deusa e diva\nQue seja por mim amada\nSuor, sexo e saliva\nPeleja na madrugada\nAmor em carne viva\nSem desejar mais nada\nAlém da alma lasciva\nPor toda vida apaixonada\nVamos botar pra torar!\n“Até voar o tampo...”\nTonto de tanto amar\nNo mar, no céu, no campo\nSem aguentar o trampo\nNinguém pode namorar\nCada cabeça um canto\nPra filosofia não morar\nO encanto nunca termina\nQuando o feitiço é mister\nAtiça a fera menina\nMoça, musa e mulher\nSe em si nua – feminina\nDona do meu cabaré\nAmante que me anima\nAté quando Deus quiser.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "A Minha Namorada",
+      "ordem": 22,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Minha bela patrícia\nGata de fé menina\nNo corpo, a malícia\nQue tem toda a felina\nExuberante a delícia\nAo salivar da retina\nMinha joia mais rara\nMeu tarô e talismã\nDei sorte, tão clara\nComo o sol da manhã\nNoite da Guanabara\nE tarde em Itapoã\nA minha namorada\nLinda mulher, musa\nA sereia encantada\nQue ao mar recusa\nE brilha na alvorada\nO corpo à luz difusa\nMinha obra prima\nLábio bom de beijar\nAo degustar da rima\nRiqueza de marajá\nQue a poesia exprima\nNo mais puro versejar\n\nMinha pedra preciosa\nUm imã que me atrai\nAo mover-se graciosa\nNo balanço vem e vai\nDa sedução deliciosa\nAssim, minha casa cai!",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        },
+        {
+          "estrofeIndex": 1,
+          "segundos": 25
+        }
+      ]
+    },
+    {
+      "titulo": "Bombástica",
+      "ordem": 23,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Assim que ela chega\nEssa negra de pele branca\nDestranca as portas de mim\nRuim seria tentar resistir\n\nDepois que ela entra\nNão enfrenta qualquer reação\nSem ação sou seu escravo\nUm cravo servil à rosa\n\nEnquanto está comigo\nO seu castigo vem sem crime\nE me redime como deleite\nPra que aceite o delito\n\nE quando ela se vai\nNunca sai da minha memória\nQuiçá a história não acabe\nEla sabe ser bombástica!",
       "timestamps": [
         {
           "estrofeIndex": 0,
@@ -117,10 +330,274 @@
       ]
     },
     {
-      "titulo": "O Côncavo e Convexo",
-      "ordem": 5,
+      "titulo": "Acesa",
+      "ordem": 24,
       "publicadoEm": "2019-03-20",
-      "conteudo": "Esse desejo que me conta (a) mina\nComo a paixão primal, a bem do sexo\nRevela a nudez da alma, a fé menina\nNu(m)a união do côncavo e o convexo\n\nToda sensual-idade fluida dos sentidos\nEivados de malícia profícua e obs-cena\nCorpo e mente se (con)fundem diluídos\nNo êxtase do prazer que nos condena\n\nEis o que de fato des-afia a sanidade\nNas entre-linhas das viagens proibidas\nEntre-tantos passos pela etern(a)idade\nNo compasso dessas órbitas perdidas.",
+      "conteudo": "\"Vixe\"\nque atre-vida\né essa\ndoida varrida\nque vira e mexe\ncom a língua\ntesa\nem meu ouvido\nFetiche\nde cinta-liga\ndessa\nlouca perdida\nme enlouquece\ntoda a noite\nacesa\nacaba...comigo!",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Coito",
+      "ordem": 25,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Quero te comer\nMuitas vezes ao dia\nSer o teu macho\nQue nunca te sacia...\nDama vagabunda\nA minha puta feliz\nMusa que desbunda\nEm mera meretriz...\nSer um casal insano\nNa transa mais sacana\nAo coito mais profano\nDe toda raça humana!",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "(Bel) Prazer",
+      "ordem": 26,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Vou te consumir como um viciado\nQue repete cada gozo até jaz(z)er\nSendo anjo pecador, mas saciado\nPor cada overdose do (bel) prazer\nDepois aceso, o meu cigarro tragas\nCom a boca ávida pelo meu sabor\nSem saber o que em mim deflagras\nNessa entrega (íntima) de torpor\nVou te possuir com afã noite e dia\nNo sexo que celebra céu e inferno\nSendo puta diva, da dádiva vadia\nPara sempre (infame) amor eterno\nEm teu relevo, me atrevo escalar\nPela encosta, de curvas perigosas\nE a tua pele exala ao me cavalgar\nO olor da amazona quando gozas\nVou te conduzir pelo meu desvario\nSem juízo ou medo, seguir adiante\nProvar do delírio que flui como rio\nNo corpo profano de cada amante\nSe a boca revoga pecados velados\nA língua se ocupa da oculta fresta\nEm rubro (descubro) todos os lados\nQuando o orgasmo ainda nos resta.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Sarro",
+      "ordem": 27,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Vamos nos consumir como cigarro\nna efêmera silhueta da fumaça...\nE nos degustar no clímax do sarro\ncomo predador a devorar a caça\nArder em tesão na chama lasciva\ncomo o pecado que ninguém resiste\nAbsorver pela boca a seiva da saliva\ne a viril pulsação do membro em riste\nVamos nos possuir como dois famintos\nsucumbir aos caprichos da loucura...\nTrocar as posições em todos os recintos\ncom fome de, benza deus, insana criatura\nComer comedido o fruto proibido\ntal como um amante que se satisfaz\ncom o prazer cometido em sua libido\ne, de tanto gozo, já cansado jaz.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Fruto Proibido",
+      "ordem": 28,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Beijo os teus grandes lábios\nAjo como um animal faminto\nNão guiado por preceitos sábios\nMas, absorto no próprio instinto\nSugo os teus fartos seios\nFeito a insana fera selvagem\nQue habita cerrada em anseios\nE se solta no ápice da voragem\nDegusto o teu fruto proibido\nPecador que cede a teus apelos\nSob o domínio implacável da libido\nQue acomete nossas peles e pelos.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Sinuosos",
+      "ordem": 29,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Sem culpas!\nO meu espírito ascende sob o ápice do gozo\nE a pele nua se debruça sobre o leito quente\nSem juízo!\nO meu corpo, no teu corpo, se insinua sinuoso\nE estremece profanado pela tara indecente\nSuor e seiva!\nEscorrem gota a gota numa luxúria prazerosa\nQue de nós emana como se fora a liberdade\nSaliva e beijo!\nNo relevo perigoso tateado pela mão trelosa\nQue te invade sorrateira sem pudor ou piedade\nBravura!\nNessa saga atrevida a que o amante se entrega\nAinda que seja tão breve o que da vida se clama\nDesejo!\nEm cada veia que pulsa o que o sangue carrega\nAteus de divindades e fieis àquilo a que se ama\nPaixão!\nAsilo para enlouquecer na fúria cega e insana\nDesse abismo sem fundo para quem se apaixona\nLuxúria!\nDo sexo que exalta a libido na emoção sacana\nPra negar todo o sentido da ilusão que aprisiona",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Poe-meto em Você",
+      "ordem": 30,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Ando com a língua solta\nCom a minha libido afoita\nPor causa dessa mulher\nAndo contando as horas\nPra sentir as tuas esporas\nMontada em teu pangaré\nTesão de mulher solteira\nQue me carrega pela coleira\nSabendo que é minha dona\nTeu nome em mim tatuado\nQuase me deixas alucinado\nCom a tua voz de mandona\nQuero saber do teu gosto\nQuando enfiar o meu rosto\nNo meio das tuas coxas\nPara ali lamber do teu mel\nE esta barba de papai Noel\nDeixando as virilhas roxas\nCheguei ao fim da viagem\nE muitos anos de bagagem\nMas, nada me protegeu\nAgora me \"aquieto\" feliz\nA mulher que sempre quis\nFoi quem veio e me \"fodeu\".",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "O Côncavo e Convexo",
+      "ordem": 31,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Esse desejo que me conta (a) mina\nComo a paixão primal, a bem do sexo\nRevela a nudez da alma, a fé menina\nNu(m)a união do côncavo e o convexo\nToda sensual-idade fluida dos sentidos\nEivados de malícia profícua e obs-cena\nCorpo e mente se (con)fundem diluídos\nNo êxtase do prazer que nos condena\nEis o que de fato des-afia a sanidade\nNas entre-linhas das viagens proibidas\nEntre-tantos passos pela etern(a)idade\nNo compasso dessas órbitas perdidas.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Leila Louzada",
+      "ordem": 32,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Ei-la linda e ousada\nInvadindo o meu juízo\nCorpo nu descomunal\nEis a musa desejada\nPaz e prazer do paraíso\nIra e incêndio infernal\nLeia a palavra e sinta\nTodo desejo que enseja\nPortando os paladares\nLeila da lousa à tinta\nQue a química nos seja\nAtômica ao me amares.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Lambaia",
+      "ordem": 33,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Transita entre o aplauso e a vaia\nEm qualquer lugar que esteja\nNADA OFUSCA SUA VOCAÇÃO SINCERA\nEntre vários goles de cerveja\nTransa lua de boate e sol da praia\nInveste tudo do decote à minissaia\nQue atiça cada virtual amante\nNEM O FUSCA BRANCO À SUA ESPERA\nQuebra o glamour da meliante\nInvés, desfila do salto da sandália\nSempre à noite escracha na gandaia\nComo da balada fosse a dama\nNUMA BUSCA DA BELA OCULTA À FERA\nComo caça que acaba na cama\nSem receio algum por ser Lambaia.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "O Beijo da Musa",
+      "ordem": 34,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Quero sentir o beijo da musa\nque me usa quando (bem) me quer\nA arma fatal no olhar da medusa\nsedutora alma carnal da mulher...\nSer(e)ia o ser de mares ancestrais\nque atrai os navegadores profanos\nA esfinge que evoca enigmas letais\ne devora quem finge sinais humanos\nQuero sentir o beijo dessa musa\nque lambuza o corpo (nua) de prazer\nTanta imagem provocante sob a blusa\nabusa da miragem diante do meu ser.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Pra Não Dizer que Não Falei de Amor",
+      "ordem": 35,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Quando o coração sorri\nCorre pela casa inteira\nA sua gargalhada faceira\nE cabe a Deus abençoar\nUm tesão sem fronteira\nDoido, sem eira nem beira\nQue de qualquer maneira\nSegue paixão derradeira\nE cumpre ao Diabo aviar\nMais fogo para a fogueira\nDe Adão e Erva cidreira\nPuta tentação! \"so sorry\"\nEra de amor que ia falar.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Promiscuous (Poesia Vulgar)",
+      "ordem": 36,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "“Eu não vou querer o amor somente\nÉ tão banal...” Belchior\nQuero profanar tua boca sem pena\nNum sopro de vício promíscuo e vulgar\nQuando proclamar, de forma obscena:\nSente o meu sexo quente a te subjugar\nQuero prosseguir no ritual que inebria\nPela primazia do prazer mais ancestral\nQuando perseguir teu corpo em euforia\nCom o instinto primitivo de todo animal\nEntorpeço de tesão ante a fêmea nua\nPrisioneiro do desejo que cativa a pessoa\nImagino os delitos que a alcova insinua\nNum acesso de luxúria que nos atordoa\nFundidos um no outro como cães de rua\nAmostra visceral da fome que não perdoa.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Lua de Fel",
+      "ordem": 37,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Que a beleza se reflita\nEm seu encanto sedutor\nAssim como foi escrita\nPelos versos sem pudor\nEntre bocas e palavrões\nA língua, o lábio e o ósculo\nA unha na pele, arranhões\nSuor fluindo do músculo\nAtrás do que atrai e ilude\nHá toda a agonia do amor\nQue Deus ampare e ajude\nAquele pobre ser amador\nSob toda a ânsia devassa\nImpera uma luxúria voraz\nE assim que o cio passa\nVê-se que a fúria é fugaz\nAté se a paixão nascer fiel\nBreve será em seu torpor\nEivado pela fé, será de fel\nA lua que emana o sabor.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Romance (Prólogo)",
+      "ordem": 38,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Num mero lance do acaso,\nCaso o olhar alcance o alvo,\nSalvo no clima do romance:\nA chance de viver em par\nAmar com fé obstinada...\nNada na vida é mais vital,\nCom tal medida e intensidade,\nSó a saudade atormenta\nAumenta em cada coração\nA sensação ardente e afável\nTão admirável e contingente:\nQue, diferente, faz amor igual\nAssim se sentem seduzidos\nAbduzidos inteiros pelo feitiço\nIsso é o que acende a chama\nDa dama à ama, e à amazona\nA zona franca das libidos\nGemidos de torpor extremo,\nSupremo prazer, louco tesão\nDe alazão em plena cavalgada\nSalgada brilha a flor da pele\nE expele o humor que dela brota.\nA rota obscena da paixão humana\nProfana a fé e desafia os deuses.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Afrodite",
+      "ordem": 39,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "D'uma antiga mitologia erótika\nSe evoca a pagã luxúria grega\nDa tez sensual, a mama áfrika\nEm sua exótica volúpia negra!\nAfro ditos pelos mitos da Grécia\nParda pele que expele o aroma\nSeduz Marco Polo, na peripécia\nCom tesão, incendeia até Roma\nDesde primal ancestral beduíno\nQuem permeia a areia tão árida\nMais visceral que amante latino\nCopulando numa transa trépida\nAfrodite e os erotes de sua prole\nNos algures, alcovas do paraíso\nEm verdade, no vinho se engole\nO sabor e o saber, qual Dioniso.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Agonia Sensual",
+      "ordem": 40,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Mãos ao alto!\nEu leio atento\nao ver as pontas\ndos seus seios\nE a minha boca\nsaliva ao vento\nperdida às tontas\npelos passeios\nA agonia viciosa\ndessa febre sensual\nConvulsão deliciosa\njazendo bem do mal\nPronto pro ato\nEu sigo em frente\no membro pulsa\nprestes ao jorro\nÉ que o falo fala\nlíngua diferente\npreso se expulsa\ne pede socorro!\nA agonia viciosa\ndessa febre sensual\nConvulsão deliciosa\njazendo bem do mal.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "U.F.C. - M.M.A.",
+      "ordem": 41,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Duas mãos aladas, adagas nas asas\nAplacam presságios, adágios e ardor\nSeu corpo afaga em brisas e brasas\nAs pesadas pegadas de um lutador\nCada golpe algoz, mais feroz de nós\nRevela desejos que o embate abriga\nEnquanto nos satisfaz, assaz e a sós\nO prazer da peleja no calor da briga\nUma luta travada na arena imaginária\nFaz acender a chama mais incendiária\nCom a paixão febril da \"tara\" primária\nManifesto visceral do fetiche à fantasia\nMista luta ancestral - ânima da primazia\nArte marcial, quase literal em demasia.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Sensei (Gueixa Samurai)",
+      "ordem": 42,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Sinto que está na hora\nO hajime se aproxima\nMeu corpo se revigora\nEleva-me a autoestima\nSinto tudo que já sabia\nNo dojo do sonho shiai\nA minha sensei reinaria\nNo uchi sobre seu kôhai\nEu, sem obi, nem reajo\nSe na kata me imobiliza\nSua kukimata no shiajo\nNo mokusu me finaliza\nEu nem sei onde vou cair\nSob o seiken jhodan zuki\nQuero viver, provar, sentir\nSer o samurai no harakiri\nTua Graça de gueixa ninja\nExpõe todo o bem do mal\nO uti mawashi geuri atinja\nMeu peito no golpe fatal\nTua Marca que me tatua\nÀ plena posse de Uraken\nSeiza ante tua pele nua\nNo desejo, amor e além.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Chama",
+      "ordem": 43,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Com meus braços\nEu te prendo!\nCom minhas pernas\nEu te rendo!\nCom a minha boca\nEu te ofendo!\nCom o meu sexo\nEu te acendo!\nE vai queimar comigo\nNa chama acesa ao pé do umbigo\nE vem morrer comigo\nNa trama perfeita: crime e castigo.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Espartilho",
+      "ordem": 44,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Toda nudez será castigada\ncomo a estupidez da mulher ultrajada\nvê-se, em toda carência, a tola violência\ncomo uma antiga mágoa velada\necoar preconceitos de pais a filhos\nque seguem (e ceguem) os mesmos trilhos\nE tantas gerações na ânsia, em vão,\nvão perpetuar a ignorância\nresta como herança: essa horda insana\ne desumana que avança\na urrar, com o dedo no gatilho,\nante os fartos (e fatos) seios no espartilho.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Sereia",
+      "ordem": 45,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Barra do sol\nRaios de luz\nsobre a espuma da praia\nMinha sereia\nflor de Ipanema\nSensualmente salgada\nSacode e balança\nseus seios da dança\nNa reviravolta\nda onda que avança\nCor do arrebol\nBrilho da aurora\nsob o tecido da saia\nMina da areia\ncorpo que excita\nSuavemente safada\nSacode e balança\nseu corpo na dança\nNa malemolência\ndo mar que me alcança.",
+      "timestamps": [
+        {
+          "estrofeIndex": 0,
+          "segundos": 0
+        }
+      ]
+    },
+    {
+      "titulo": "Mariza",
+      "ordem": 46,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "Mar e brisa\nsob a pele lisa\nque o desejo inspira\nNum poema infame...\nSopro litoral\nem sonho virtual\nque o prazer suspira\nA cada calafrio...\nBarco à deriva\npaixão em carne viva\nfogo arde em minha pira\nFeito brasa acesa...\nToda tentação atrai\nna fricção que vem e vai\nnem a alma aqui respira\nPossuída por quem ame...\nQuando me imobiliza\no falo que a língua alisa\ne a minha cabeça vira\nNo êxtase do desvario...\n\nArdes em mim Mariza\ncom tesão que paralisa\naté quando o gozo expira.\nA última certeza.",
       "timestamps": [
         {
           "estrofeIndex": 0,
@@ -128,41 +605,34 @@
         },
         {
           "estrofeIndex": 1,
-          "segundos": 20
-        },
+          "segundos": 25
+        }
+      ]
+    },
+    {
+      "titulo": "Alta Dama",
+      "ordem": 47,
+      "publicadoEm": "2019-03-20",
+      "conteudo": "A memória nunca esquece:\nLongilínea ao ver o espelho\nQuando o beijo ensandece\nÀ tua boca eu me emparelho\nArde em chama\nflor do desejo acender\ncorpos nus em pele e pelo\nos caminhos do prazer\na desbravar com paixão\nAlém da cama\nflutuar nesse ascender\nse o amor é seu e o selo\ndos fetiches do querer\na desvendar sem razão\nAlta dama\nfêmea a me (a)prender\nno seu colo, meu apelo\npelos seios pra sorver\no meu sexo em sua mão.",
+      "timestamps": [
         {
-          "estrofeIndex": 2,
-          "segundos": 40
+          "estrofeIndex": 0,
+          "segundos": 0
         }
       ]
     },
     {
       "titulo": "Soneto do Amor Infame",
-      "ordem": 6,
+      "ordem": 48,
       "publicadoEm": "2019-03-20",
-      "conteudo": "Então o amor perde o seu glamour\nQuando o tesão se une a lasciva\nNuma peleja tão obsessiva\nQue o corpo vibra cheio de calor\n\nEntão o sexo eclode da disputa\nAssume formas e poses sensuais\nÉ a comunhão humana de animais\nNuma promíscua alcova de luta\n\nNessa batalha de pele e saliva\nA arma dura do macho é letal\nNa sua investida invasiva\n\nAssim como se fora de metal\nSem escudo, a fêmea não se esquiva\nAcolhe o golpe no gozo final.",
+      "conteudo": "Então o amor perde o seu glamour\nQuando o tesão se une a lasciva\nNuma peleja tão obsessiva\nQue o corpo vibra cheio de calor\nEntão o sexo eclode da disputa\nAssume formas e poses sensuais\nÉ a comunhão humana de animais\nNuma promíscua alcova de luta\nNessa batalha de pele e saliva\nA arma dura do macho é letal\nNa sua investida invasiva\nAssim como se fora de metal\nSem escudo, a fêmea não se esquiva\nAcolhe o golpe no gozo final.",
       "timestamps": [
         {
           "estrofeIndex": 0,
           "segundos": 0
-        },
-        {
-          "estrofeIndex": 1,
-          "segundos": 20
-        },
-        {
-          "estrofeIndex": 2,
-          "segundos": 40
-        },
-        {
-          "estrofeIndex": 3,
-          "segundos": 60
         }
       ]
     }
   ],
-  "faixas": [],
-  "audioCapaUrl": null,
-  "ebookCapaUrl": "/capas/promiscuos/capaUrl.jpg",
-  "ebookUrl": "/ebooks/promiscuos.pdf"
+  "faixas": []
 }

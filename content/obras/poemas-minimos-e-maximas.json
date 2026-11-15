@@ -1,0 +1,422 @@
+{
+  "titulo": "Poemas Mínimos & Máximas",
+  "sentimento": "Tempo",
+  "descricao": "Pocket book poético (2016), com ilustrações de Samuca e Murilo, revisão de Adélia Coelho e diagramação de Felipe Cadena. Reúne 36 peças sucintas, telegráficas e minimalistas em 6 capítulos sobre o cotidiano, com ironia, humor e máximas filosóficas.",
+  "capaUrl": "/capas/poemas-minimos-e-maximas/capaUrl.jpeg",
+  "ebookCapaUrl": "/capas/poemas-minimos-e-maximas/capaUrl.jpeg",
+  "audioCapaUrl": null,
+  "ebookUrl": "/ebooks/poemas-minimos-e-maximas.pdf",
+  "preco": 0,
+  "estoqueFisico": 10,
+  "linkVendaFisica": "",
+  "createdAt": "2016-10-15",
+  "palavrasDoAutor": "O desafio de agora é apurar o conteúdo (com frases curtas), falar pouco e dizer tudo.\n\nDedico esta obra aos grandes mestres e pensadores da cultura popular que sempre exerceram influência decisiva sobre aquilo que escrevo.\n\nNão como um literato, mas um admirador contumaz de todos os estilos literários e da arte de expressar sentimentos e ideias, sobretudo pela palavra poética.",
+  "apresentacao": "Heldemarcio Leite Ferreira, cabra bom das bandas do Pajeú, transladado para o Recife, onde desabrochou no mundo acadêmico e nas estradas da poesia. Estive presente nos seus dois lançamentos mais recentes. Neste seu novo voo poético de \"poemas mínimos & máximas\" pediu que discorresse sobre a sua obra. São olhos e sentimento de leitor, também poeta, mas de uma vertente muito de raiz que é o cordel.\n\nLivro de peças sucintas, telegráficas, minimalistas, introspectivas e, acima de tudo, provocações para um olhar diferenciado sobre coisas aparentemente banais do cotidiano, permeado das eternas e presentes divagações-inquietações de nossa alma.\n\nDo seu jeito o poeta desenvolve sua poética em cima de ditos e máximas de outros pensadores, fazendo com suas palavras reinterpretações muito pessoais, metafóricas, provocando com seus subtextos e abrindo portais de percepção muito seus. Instigante, leve, nos cativa na expectativa de como será o próximo jogo de palavras do próximo poema, extensão do que antes já foi proposto e dito, na lavra de ourives da palavra que é nosso poeta do Pajeú, cosmopolita, intenso e amplo em tudo que se propõe expressar na palavra poetizada.\n\n— Allan Sales (Músico e cordelista)",
+  "posfacio": "Heldemarcio Ferreira, adorei o contato com seus poemas. Seu texto é de leitura fácil, divertida, descontraída e instigante. Um texto dotado de ironia e humor, na dosagem certa. Por vezes, lembrei de minhas leituras de Hilda Hilst, noutras até de Sousândrade. E notei influências maravilhosas de Fernando Pessoa e Belchior. \"Qualquer poema serve\", \"Mas, tudo vale, pois, a vida é curta\". Belas reflexões, sentenças, máximas do arquiteto acostumado a moldar as palavras. E cresci ao conhecer e manter contato com seus textos, porque aprendi que são forjados por quem, na emoção de escrever, tem o olho que \"enxerga a beleza por trás de cada palavra\", e a mira no sentimento do leitor. No poeta, \"a juventude é uma embriaguez contínua\", e um poeta amadurece todo dia no contato mágico com o vocábulo, com o termo, com a expressão...! Aguardo novos escritos...!\n\n— Jorge Mello (Advogado e músico)",
+  "poemas": [
+    {
+      "titulo": "Minimalista",
+      "ordem": 1,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Você cheia de si\nÉ toda prosa\nEu, raso de mim\nSou só poesia.\n\n\"Mergulhes na prosa\nque flutuo na poesia!\"\n\nAgradecimento a Elisabete C. Santos Brum",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Aforismo",
+      "ordem": 2,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Afora todos sofismas\nEufemismos insuspeitos\nAgora é só o carisma\nEgoísmo dos conceitos\n\n\"O que não me cabe vaza de mim.\"",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 }
+      ]
+    },
+    {
+      "titulo": "Normalidade",
+      "ordem": 3,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Embora pareça\ntudo \"Normal\"\nSempre haverá\num desvio padrão\nPra fugir da média.\n\n\"Antigamente eu não sabia de quase\nnada. Hoje eu esqueci quase tudo\"\n\nAgradecimento a Heldemar Carlos Leite Ferreira",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Hai Kai",
+      "ordem": 4,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Do meu hai kai\nnão tenho orgulho\nNão sei gritar\nsem fazer barulho.\n\n\"O grito só cala o templo\nvazio da fala.\"\n\nAgradecimento a André Luiz Nogueira",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Ironia",
+      "ordem": 5,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "\"Bendita a ironia que nos livra do\ncárcere e da chicotada mortal!\"\n\nArmado de palavras\naté os dentes...\nEle só sorriu com ironia\npara um mundo doente\nE essa foi a sua poesia.\n\nAgradecimento a Elvira Rosa Barbosa Camarinha",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Silêncio",
+      "ordem": 6,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Para um bom entendedor\nO silêncio resume tudo!\n\n\"Eis o portal para o vazio e a quietude\nA raiz de todos os seres.\"\n\nInspirado na filosofia Taoísta.",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Poeta Margenial",
+      "ordem": 7,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "O poeta vive à margem da moda\nporque sua poesia genial incomoda\nO poeta vê sua imagem usurpada\npois, seu verso é lâmina de espada.\n\n\"Eu quero é que esse canto torto feito\nfaca corte a carne de vocês\"\n\nCitação de: À Palo Seco — Belchior\nDedicado a Antônio Carlos Gomes Belchior Fontenelle Fernandes",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Trova de Poeta",
+      "ordem": 8,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Quando o poeta solta o verbo\nque sentencia a sua verve\nO sentimento vem à tona\ne a poesia emociona\nQualquer poema serve.\n\nQuando o poeta em seu delírio\nfaz da palavra o seu ofício\nA obra nasce com requinte\ne o negócio é o seguinte:\nViver de amor, morrer do vício.\n\nDedicado a Antônio Carlos Gomes Belchior Fontenelle Fernandes",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Retórica do Esquecimento",
+      "ordem": 9,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "O poeta cantava seus versos\nTão preciosos\nQuanto precisos\nEnquanto havia o espaço, o corpo\nE o sentimento...\n\nPoeta maldito e marginal\nO teu tempo já passou!\nNão há mais lugar pra sentir!\nE na parede da memória o que dói mais\nÉ o esquecimento.\n\nDedicado a Antônio Carlos Gomes Belchior Fontenelle Fernandes",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Sujeito Inusitado",
+      "ordem": 10,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "E a vida segue\nde acordo com as escolhas,\nsob o inusitado\na que cada um está sujeito.\n\n\"E eu, na vida que segue, cego e teimoso,\naté quando?\"\n\nAgradecimento a Leonardo Alves Heredia",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Do Meu Jeito",
+      "ordem": 11,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "À despeito de tudo\nque me diz respeito,\nSuspeito que sigo\nsendo o tal sujeito\nSatisfeito do meu jeito.\n\n\"Você pra mim é um problema seu\"\n\nDomínio público",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Pound",
+      "ordem": 12,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "\"...E o poeta é de lascar\nÀs vezes o seu riso corre solto\nNoutras vezes rola a lágrima.\"\n\nNo imenso e denso mar\nda desordem...\nNavego com os olhos\natentos aos sinais\nDesses seres sãos que são\n\"as antenas da raça\".\n\nAgradecimento a Laura Lucena",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "E a Vida (É) Dura",
+      "ordem": 13,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "A vida é um risco permanente\nenquanto dura.\nAlém disso, a vida é dura\npara quem mente.\nOu simplesmente quando a pessoa\nnão for madura.\n\n\"Nada da bota tacanha\ndesmancha a beleza da vida,\ntamanha...\nSobre o solo mais cinzento,\nhá tudo o que brota\nna arte e conhecimento.\"\n\nAgradecimento a José Ednardo Soares Costa Sousa",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "AbsoLUTO",
+      "ordem": 14,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "LUTO, LUTO, LUTO...\naté ser absoLUTO,\nmas não sou o imorTAL.\n\n\"E luto!? sem sequer ser o último\nMas, não serei o próximo.\"\n\nAgradecimento a Helder Marcos Leite Ferreira",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Inerte",
+      "ordem": 15,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Senti o gosto do som\nao ouvir o cheiro das horas\nenquanto vidiei o tocar no delírio\n\n\"Aquilo que é inerte me move para a vida\"\n\nPedras paridas no ventre da terra\nfecundas da fraqueza humana\npassado obscuro d'água.\n\n\"A pedra de meu corpo fogo adestrado\nrastro magnânimo desmanchando o\ntempo...\"\n\nAgradecimento a Adélia Coelho (Flô)",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 },
+        { "estrofeIndex": 3, "segundos": 75 },
+        { "estrofeIndex": 4, "segundos": 100 }
+      ]
+    },
+    {
+      "titulo": "Nostradamus",
+      "ordem": 16,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "A carne se degrada\nPoeira que some na estrada\nSob o tempo intacto.\n(Quem há de prever o nada?)\n\nA fama é transitória\nPura contemplação ilusória\nNos traz danos...\n(Quando a ambição é a glória!)\n\nMas, a alma é infinita\nPara aquele que acredita\nEm fim, nisto!\n(Qual a sua certeza? Reflita.)\n\n\"É de natureza transcendental essa fé em\nsimplesmente acreditar...\"\n\nAgradecimento a Roberto Fernando Veras de Paiva",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 },
+        { "estrofeIndex": 3, "segundos": 75 },
+        { "estrofeIndex": 4, "segundos": 100 }
+      ]
+    },
+    {
+      "titulo": "Perdas & Danos",
+      "ordem": 17,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "\"De tudo há nesse caminho,\npor todos os cantos que passamos\nUm pouco do nada deixamos,\nnesse tempo que não volta...\"\n\nEm nossa trajetória\nAo longo dos anos\nVivemos essa história\nTraçada em cotidianos\nArremedos de glória\nEntre perdas e danos.\n\nNo curso dessa vida\nÉ por esses percalços\nSeguimos nossa lida\nCom os pés descalços\nNessa estrada comprida\nOnde atalhos são falsos.\n\nAgradecimento a Daphne De La Torre",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 },
+        { "estrofeIndex": 3, "segundos": 75 }
+      ]
+    },
+    {
+      "titulo": "Armadura",
+      "ordem": 18,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "E o que seria\nda humanidade\nSe cada criatura\nvestisse a armadura\nda humildade?\n\n\"Uma armadura pode acolher uma alma\nmacia a se esconder.\"\n\nAgradecimento a Betânia Azevedo",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Abstração de Amor",
+      "ordem": 19,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "\"Segue o amor, silencioso,\nperseguindo o seu olhar...\nNo teu riso estrepitoso,\nbebe do mais doce néctar...\"\n\nSempre é o amor, auspicioso,\nComo o ímã a nos atrair...\nNo teu desejo sigiloso,\nsede de prazer, puro abstrair!\n\nAgradecimento a Ana Maria Gazzaneo",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Saberes II",
+      "ordem": 20,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "\"Disparos de rimas, sob os cabelos que\nagitam ao vento da prosa...\"\n\nE a silhueta sensual\nda inspiração\nconduz o poeta\nem meio às balas\nde palavras!\n\nAgradecimento a Raffaella SantAnna",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Lunática",
+      "ordem": 21,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "O olho da lua\nMe fita minguante\nE no quarto crescente\nEu durmo distante\nTão cheia de luz.\n\n\"Será miragem ou cortina de sonho por\nonde vejo a silhueta da menina\"\n\nAgradecimento a Alex Freire\nDedicado a Maria Cecília Silva Freire; Helena Coelho A. C. Magalhães (Bibi).",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Unhas",
+      "ordem": 22,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Una seus dedos\nsegredos guardados\nna palma de sua mão\n\nUnha de felina\nfeminina em tudo\nna alma e no coração\n\nUma rara beleza\nnatureza da mulher\nde calma e intuição.\n\n\"Uma por uma até a derradeira... aquela\nque arranha e arrepia...\"\n\nAgradecimento a Marcia Regina Ramos (Marcita)",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 },
+        { "estrofeIndex": 3, "segundos": 75 },
+        { "estrofeIndex": 4, "segundos": 100 }
+      ]
+    },
+    {
+      "titulo": "Ó(s)culos",
+      "ordem": 23,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Os meus óculos atentos\nalvejam o beijo à queima roupa\ne meus ósculos há tempos\nsolfejam desejo no olho da boca.\n\n\"O que os olhos não veem as bocas\ncomentam\"",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 }
+      ]
+    },
+    {
+      "titulo": "Alcance",
+      "ordem": 24,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Chegamos longe\nBem longe\nDo que nos toca\nE em nós se esconde.\n\n\"A todo poeta deve ser dada a chance\nde um amor possível!\"\n\nAgradecimento a Gleice Maria dos Santos",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Estranhos",
+      "ordem": 25,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Pois é que não conheço ninguém\ne ninguém se conhece; é tudo ilusão!\nE mesmo assim, todos somos\nestranhamente iguais...\n\n\"Primeiro estranha-se, depois entranha-se\"\n\nCitação de Fernando Pessoa",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Solitário",
+      "ordem": 26,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "\"E seguia sua vida solitária...\nPreferia a paz de sua casa\nao tumulto das multidões\"\n\nSolidão, sólida solução:\nSó o sol me aquece...\nSó eu sou a luz e a sombra\nSonho sem som ou sabor.\n\nAgradecimento a Adriana Brindeiro Kairava",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "S.O.S",
+      "ordem": 27,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Estamos só adormecidos pela mídia!\nEstamos só amortecidos pela igreja!\nEstamos só acometidos pela preguiça!\nEstamos sós...\n\n\"Não está tudo tão mal:\nAssistimos ao jornal,\nMas depois vem a novela\".\n\nAgradecimento a Guilherme Amorim",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Óculos Escuros",
+      "ordem": 28,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Quanto de sol é preciso\nPra clarear tuas ideias\nSe no meio do temporal\nAinda insistes em usar\nOs teus óculos escuros.\n\n\"...Sua única família é a evolução.\nSua única surpresa são seus sentimentos.\nSua única cegueira é o óbvio.\"\n\nAgradecimento a Flavio Cuervo",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Gravidade",
+      "ordem": 29,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Para subir,\nsão poucos a nos impulsionar.\nPor outro lado,\npara descer,\ntoda \"Gravidade\" ajuda.\n\n\"A tudo que nos puxa pro( )fundo, a\npoesia (r)existe\"\n\nAgradecimento a David Steven C. de Souza",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "LSD",
+      "ordem": 30,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Longe do lógico à loucura\nSigo a sede do simples\nDeus decide o destino.\n\n\"Havia uma pedra no meio do caminho.\nStop! A vida noiou...\"\n\nAgradecimento a Valmir Jordão",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Encantamiento",
+      "ordem": 31,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Y la magia de la poesía,\ncasi de golpe,\nEncantó la vida de él...\n\nY así en una noche,\ncomo otra cualquiera,\nCaminó para las estrellas...\n\nY dejó atrás de sí,\nsin apercibirse,\nUn rastro brillante de sueños.\n\n\"Mientras tanto, el mar me regala\npalabras no dichas que golpean en la\narena su silencio ruidoso.\"\n\nAgradecimento a Maria Soledad Gorrochategui Irigoy",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 },
+        { "estrofeIndex": 3, "segundos": 75 },
+        { "estrofeIndex": 4, "segundos": 100 }
+      ]
+    },
+    {
+      "titulo": "Imaginação",
+      "ordem": 32,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Pelo visto, isto é só imagem\nAté que se fechem os olhos\nAí vira imaginação!\n\n\"Para isso não há tempo ou lugar\nse meu único intento é vidiar...\"\n\nAgradecimento a Cybelle Souza",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Da Cor (ao) Som Di-verso",
+      "ordem": 33,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Acorde o verso\nPelo som do acorde\nE a cor do verso\nPra selar o acordo\nDe cor e de ação\nDo coração do ser.\n\n\"Svegliarsi per il colore che e l'ecco dei\nsuoni diversi\"\n\nDedicado a Eugênia Harten",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Canto",
+      "ordem": 34,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Enquanto o canto encanta,\nsigamos encantados\ncada um em seu canto...\n\n\"ouvindo vozes, ecos, do que ainda nem\nfalamos\"\n\nAgradecimento a Fernanda Guiterio Jacobina",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Chamas",
+      "ordem": 35,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Eu me chamo tempo\nNão tenho idade!\nEu me chamo fogo\nE tudo que arde... chama!\n\n\"Eu me chamo vida\nPor isso, acabo!\"\n\nAgradecimento a Elias Menezes Cavalcanti",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    },
+    {
+      "titulo": "Epílogo",
+      "ordem": 36,
+      "publicadoEm": "2016-10-15",
+      "conteudo": "Nem tudo acaba ao final\nAinda que escreva \"the end\"\nUm vício antigo é tão atual\nQue nem ao tempo se rende.\n\n\"Eu tenho o vício de me embriagar de\npoesia e vomitar palavras.\"\n\nDedicatória a Alberto Moriyama (In Memoriam)",
+      "timestamps": [
+        { "estrofeIndex": 0, "segundos": 0 },
+        { "estrofeIndex": 1, "segundos": 25 },
+        { "estrofeIndex": 2, "segundos": 50 }
+      ]
+    }
+  ],
+  "faixas": []
+}
