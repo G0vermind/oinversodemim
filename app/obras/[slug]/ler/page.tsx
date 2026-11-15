@@ -33,6 +33,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     };
   }
 
+  const ogImageUrl: string = obra.capaUrl || obra.ebookCapaUrl || "/art/compass.jpg";
+
   return {
     title: `${obra.titulo} — Leitura Digital`,
     description: `Leia os poemas da obra ${obra.titulo} de ${AUTHOR_NAME}`,
@@ -41,7 +43,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       description: obra.descricao,
       images: [
         {
-          url: obra.capaUrl || obra.ebookCapaUrl || "/art/compass.jpg",
+          url: ogImageUrl,
           alt: `Capa de ${obra.titulo}`,
         },
       ],
