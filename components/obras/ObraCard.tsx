@@ -53,10 +53,10 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
   };
 
   const capaEbook =
-    obra.ebookCapaUrl && obra.ebookCapaUrl.trim() !== ""
-      ? obra.ebookCapaUrl
-      : obra.capaUrl && obra.capaUrl.trim() !== ""
+    obra.capaUrl && obra.capaUrl.trim() !== ""
       ? obra.capaUrl
+      : obra.ebookCapaUrl && obra.ebookCapaUrl.trim() !== ""
+      ? obra.ebookCapaUrl
       : obra.audioCapaUrl && obra.audioCapaUrl.trim() !== ""
       ? obra.audioCapaUrl
       : "/art/compass.jpg";

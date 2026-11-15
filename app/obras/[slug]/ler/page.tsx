@@ -41,7 +41,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       description: obra.descricao,
       images: [
         {
-          url: obra.ebookCapaUrl || obra.capaUrl,
+          url: obra.capaUrl || obra.ebookCapaUrl || "/art/compass.jpg",
           alt: `Capa de ${obra.titulo}`,
         },
       ],
