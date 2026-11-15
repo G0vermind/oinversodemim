@@ -4755,6 +4755,1879 @@
     "faixas": []
   },
   {
+    "id": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+    "titulo": "A Mulher Deitada no Sofá e Outras Cenas",
+    "slug": "a-mulher-deitada-no-sofa-e-outras-cenas",
+    "descricao": "Crônicas poéticas contemporâneas (Editora Cadena Cartoneira, 2017), com ilustrações de Alex Freire e revisão de Teresa Coelho. Reúne 73 poemas em 8 capítulos sobre o cotidiano, a natureza, a boemia notívaga, a crítica política e as desventuras do amor.",
+    "capaUrl": "/capas/a-mulher-deitada-no-sofa-e-outras-cenas/capaUrl.jpeg",
+    "ebookCapaUrl": "/capas/a-mulher-deitada-no-sofa-e-outras-cenas/capaUrl.jpeg",
+    "audioCapaUrl": null,
+    "ebookUrl": "/ebooks/a-mulher-deitada-no-sofa-e-outras-cenas.pdf",
+    "palavrasDoAutor": "Dedico esta obra pseudoliterária à classe média brasileira, nobre senhora (deitada no sofá) com ares de elite, em sua resignada comédia diária, repleta de cenas que propiciam imediata inspiração aos poemas espúrios (crônicas poéticas contemporâneas) sobre o sectarismo midiático que encerra tão cruel viés da vertente humana.",
+    "apresentacao": "Alegria ímpar tomou-me de assalto quando fui convidada a fazer a apresentação deste livro, A MULHER DEITADA NO SOFÁ e outras cenas, do escritor e produtor cultural Heldemarcio Ferreira.\n\nNão é todo dia que a gente se depara com obras que desvelem em nós o gosto em se ater, num \"olhar mais profundo\", nas linhas repletas de metáforas e recheadas de emoções vivas, aflorando livre ao toque de magia e maestria em compô-las.\n\nDesde SOL E VENTO, poema que dá início ao livro, até SARCASMO, obra que o encerra com incrível toque de fina ironia, o leitor irá encontrar as mil facetas de mil joias, finas obras de ourivesaria.\n\nTrata-se de cenas do cotidiano, maravilhosamente coloridas à pena do autor, com sua forma peculiar e em estilo próprio, num jogo de emoções e imagens, com tudo aquilo que se pode captar, nas situações mais inusitadas, do muito que é feita a vida.\n\nEntre outros, A MULHER DEITADA NO SOFÁ é a obra central do livro, desvelando de antemão toda a perspicácia do autor em criar cenas de grande impacto conotativo: \"O dia a dia é o que nos alucina...\"\n\nFinalizando, comparo a obra de Heldemarcio Ferreira com uma caixa aberta de joias finas, colocada à disposição de leitores de refinado bom gosto, para adorável apreciação.\n\n— Ana Maria Gazzaneo (Escritora, Poeta e Produtora Cultural — Bragança Paulista, 03 de Outubro de 2017)",
+    "prefacio": "\"A minha alucinação / É suportar o dia a dia / E meu delírio / É a experiência / Com coisas reais.\" (Belchior)\n\nEra 1976, um garoto de 13 anos, introspectivo, que lia pouco, conversava menos ainda, mas ouvia muito, escutou pela primeira vez Alucinação e a música de Belchior, sua letra-cantada, fez surgir o poeta Heldemarcio, de versos sarcásticos, poemas ácidos de duplo sentido e pena afiada. Impossível falar de sua poesia e não citar a fundamental influência do ícone da MPB, sem a qual não haveria o poeta.\n\nNeste livro autobiográfico, sua história é descortinada sutilmente em versos recheados de (bom) humor satírico. Em Sol e Vento e Magnólia, a metafísica é explorada pela aproximação com a natureza: seus movimentos e nuances. No capítulo intermediário (Anjo Onírico), abusa da metalinguagem para revelar as emoções do ato de escrever. Em Lunática, o poeta segue se aprofundando na relação com os movimentos da natureza e, como as fases da lua, transmuta-se sob o véu da angústia e do sabor de cada momento. Em Bacurau, elementos da boemia notívaga e divagações que só são possíveis ao cair da noite estão presentes na sua lira. Já em Rebeldia e Carisma, sobrevém o poeta político, anunciando a luta cotidiana de cada um de nós para ser relevante e denunciando a apatia para vencer a inércia do conformismo. No último capítulo, mostra-se o poeta romântico, destrinchando as desventuras do amor e os meandros da platônica relação com um Objeto Não Identificado.\n\nInconstante, irônica, crítica, apaixonada, intensa: visceral! Assim é a pena de Heldemarcio Ferreira, desconstrói as ilusões d'A Mulher Deitada no Sofá, presa à imagem romântica de si. O leitor tem em mãos uma poética densa e cheia de vitalidade, cujo entendimento é reelaborado a cada visita aos seus poemas. Boa leitura.\n\n— Guilherme Amorim",
+    "posfacio": "Este colofão confessa que o livro foi composto em Bodoni e Minion Pro, impresso a laser em papel 75g, com capa em Chipboard serigrafado e guarda de Color Plus preto Telado de 180g. Sua artesania aconteceu às margens do mar na praia de Maracaípe em meados de novembro de 2017.",
+    "preco": 0,
+    "estoqueFisico": 10,
+    "linkVendaFisica": null,
+    "sentimento": "Tempo",
+    "createdAt": "2017-11-15",
+    "updatedAt": "2017-11-15",
+    "poemas": [
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-1",
+        "titulo": "Sol e Vento",
+        "conteudo": "A fonte primal de toda a energia\nVigor da natureza sobre o tempo\nNo símbolo \"fulcral\" desta elegia\nQue reúne em verso: sol e vento\n\nO homem segue o trajeto milenar\nPelas eras, desde o seu rebento\nMundo afora, semente a germinar\nE a vida se renova a sol e vento\n\nNesse descortino de surpresas\nQue se perpetua em movimento\nArdem vidas quais velas acesas\nSob inexorável fim, a sol e vento.",
+        "ordem": 1,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-2",
+        "titulo": "Conflito",
+        "conteudo": "Tudo o que tinha a dizer já foi dito\nAinda assim, como teimoso, repito\nFrases de mero efeito e nada mais!\nQuanto mais da vida eu acumulo\nMenos prazer sinto quando simulo\nO bem-estar dolente dos normais.\n\nQuis encontrar a lógica no absurdo\nPermanecer alheio, cego ou surdo\nNa letargia de ser inerte aos sinais!\nViver para esse fim seria o cúmulo\nDe percorrer a rota até meu túmulo\nEm meio à horda dos convencionais.\n\nSob a égide do implacável conflito\nQue acompanha o meu ego aflito\nDe tal sorte, pude ousar algo mais!\nComo poeta, a meu ver, dissimulo\nNas palavras que em versos emulo\n\"Lugar comum de anjos e animais.\"",
+        "ordem": 2,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-3",
+        "titulo": "Resumo",
+        "conteudo": "Que a vida me venha!\nNão como me convenha\nMas, que seja plena\nAquela que vale a pena\nLembrar que foi vivida.\n\nQue a morte me leve!\nE sobretudo nada eu releve\nComo ao vento vai a folha\nPartirei sem ter escolha\nNa incerteza do depois.\n\nDesse modo, vivo e sumo\nNo poema que resumo\nSem qualquer pretensão\nAlém da minha emoção\nSendo expressa na palavra.",
+        "ordem": 3,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-4",
+        "titulo": "Escrito",
+        "conteudo": "Em que rabisco\nEu me ar(r)isco\nQuando o atrito\nNos for escrito?\n\nE fica o dito\nPelo não dito\nE tudo o mais\nÉ puro mito\n\nVãs ilusões...\nEm que acredito.",
+        "ordem": 4,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-5",
+        "titulo": "A Paixão Apache",
+        "conteudo": "Algo acontece\ncom cada cara-pálida\nQue me aparece\ncom sua fala estranha\n\nMesmo que eu ache\nque tudo sempre termina\nQuero a paixão apache\na saga visceral e sua sina\n\nAlvo da flecha\ncomo uma mira válida\nQue me avexa\ncom sua dor tamanha\n\nMaior que minha taba\nesse verso eclode:\nQuando o amor acaba\no ódio é quem acode!",
+        "ordem": 5,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-6",
+        "titulo": "Astrolábio",
+        "conteudo": "Estrelas em constelação\nRiscam o céu da incerteza\n\"Deus te guie (Oh!) zelação...\"\nEm branda luz, viva la dolcezza!\n\nNo ápice da humana alçada\nÀ mesa dos jogos de azares\n\"A (pura) sorte está lançada!\"\nQuase a asar só pelos ares...\n\nExarado naquele alfarrábio\nDo indelével acaso, a rota\nA navegar sem astrolábio\n\nQue por tal senda ignota\nPossa lograr êxito, o sábio\nCuja herdade ninguém nota.",
+        "ordem": 6,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-7",
+        "titulo": "A Mulher Nascida pra Ser Livre",
+        "conteudo": "Em seus pés como raízes\nFilha da terra e da natureza\nFrutos e flores brotam felizes\nA liberdade é a sua realeza\n\nCada parte de um todo vibra\nNessa energia que emana\nO ser que traduz em sua fibra\nA libertação para o nirvana\n\nNa plenitude da paz interior\nEgo a transcender na dialética\nQualquer argumento inferior\nSubmisso à sua ânima eclética\n\nAssim como o ocaso anuncia\nO rebentar da noite pelo dia\nNasce livre o ser que renuncia\nÉ da mulher a luz que irradia.",
+        "ordem": 7,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-8",
+        "titulo": "Razão e Sensibilidade",
+        "conteudo": "Por trás de cada palavra\nA emoção ao escrever\nE tudo que é subjacente\nNa tessitura do poema\n\nÀ frente de cada pessoa\nO desafio de viver\nE tudo que for eloquente\nQuase sempre vale a pena\n\nA arte do possível:\nEntre a razão e a sensibilidade.",
+        "ordem": 8,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-9",
+        "titulo": "A Aurora da Minha Vida",
+        "conteudo": "Ah! quanta saudade\neu tenho agora\nda aurora da minha vida\nÉpoca de sonho\ntesouros, arcas perdidas!\n\nAh! o vigor da idade\ne o dom da alegria\na alegoria da urgência\nNos puros ideais\nsímbolos da adolescência!\n\nAh! minha mocidade\ntempo de meu orgulho\nmergulho na nostalgia\nE hoje, diante do mar\nsempre me afogo na poesia!",
+        "ordem": 9,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-10",
+        "titulo": "Anjo Onírico",
+        "conteudo": "Hoje enquanto andei\nPela areia da praia\nDesde o cair da tarde\nQue anunciava o lírico\nSilenciar das estrelas\n\nSenti a tua presença\nComo algo inusitado\nA proferir a sentença:\nO amor é instigado!\n\nHoje eu me imaginei\nSer o que te atraia\nFeliz sem fazer alarde\nComo um anjo onírico\nE as asas estendê-las\n\nPara abarcar a vida\nDe coração aberto\nCurar a alma ferida\nEnfim, seguir liberto.",
+        "ordem": 10,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-11",
+        "titulo": "Densidade",
+        "conteudo": "Brava e breve,\na minha vida se espraia\npelo curto tempo\nque o acaso concede...\n\nBrasa e brisa,\nque a alma imortaliza\nnos versos ígneos\nque o poema concebe.\n\nE que siga denso e leve\nComo a fumaça é parida\nE eu consiga ser: alegre\nUm fogo de aura colorida.",
+        "ordem": 11,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-12",
+        "titulo": "Semente do Amanhã",
+        "conteudo": "Daqui a algum tempo\nEstarás maduro\nDaqui a alguns anos\nJá será futuro?!\n\nJuntarás as duas mãos\nEm gesto de oração\nPelo que a vida te deu\nTua gratidão de ateu!\n\nDaqui a algum tempo\nChegará dois mil e vinte\nDaqui a alguns anos\nEnfim, será dia seguinte!\n\nTua mão a tocar na dela\nComo ao final da novela\nSerá somente utopia vã?\nA semente do amanhã.",
+        "ordem": 12,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-13",
+        "titulo": "A Razão da Fé",
+        "conteudo": "Como fogueira a bailar ao vento\nOlhai! são só líricos cânticos\nEm versos brancos de rimas rasas\nDelírios da mente no seu delito.\n\nA fé que livra do mal e do pecado\nPrecede a vida e vai além da morte\nO que equilibra o leve e o pesado\nNão tem em si razão que a suporte.\n\nPlacebo contra todo sofrimento\nOrai! sob oníricos cântaros\nEm preces aos céus de suas casas\nPercebo que a fé segue seu rito.\n\nA fé que move mar ou montanha\nPrescinde de qualquer ciência\nO que enseja comoção tamanha\nÉ o que habita cada consciência.",
+        "ordem": 13,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-14",
+        "titulo": "Catarse",
+        "conteudo": "Um frio de solidão conduz o artista\npela estrada sinuosa da imaginação\nEssa falsa ilusão reduz a conquista\nde ser a obra acabada, sua criação\n\nPercebo na inspiração o dom divino\nque a cada momento se faz presente\nConcebo a composição no descortino\neivada de sentimento tão comovente\n\nAssim, do suposto acaso vem a arte\nna sua catarse, escorre sem barreira\nEnfim, exposto, ao ocaso comparte\ndo que nasce e morre a vida inteira.",
+        "ordem": 14,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-15",
+        "titulo": "Réquiem para um Menestrel",
+        "conteudo": "Jor-ra a tua luz em forma de canto\ne faz a melodia se espraiar no ar...\nJor-ra a tua voz que tece o acalanto\nnessa harmonia, nos fazer lembrar...\n\nAgora és todo brilho a revelar a \"estrela\"\nque em vida foi só arte, arte e arte!\nAgora és tão eterno como a tua essência\nque se traduz no amor, amor e amor!\n\nJor, a figura humana, além da vaidade\nComo todo grande artista, uma joia rara\nJor (da paz) Santana, talento e saudade\nPor enquanto, só o tempo nos separa.",
+        "ordem": 15,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-16",
+        "titulo": "Réquiem para Wagner",
+        "conteudo": "Vá, meu amigo, em paz\ncom a sua energia boa\nA aura serena do rapaz\nreluz em grande pessoa\n\nAquele que passou breve\ne nos marcou no coração\nProva que não prescreve\na nossa plena admiração\n\nVá, meu amigo, em luz\nalém dos limites da vida\nSeja o que nos conduz\nmesmo em sua partida\n\nAquele jovem e discreto\ntão simples ao ser genial\nComo o legado concreto\na sua memória é imortal\n\nVá, meu irmão, até mais\npois, este tempo nos une\nAgora é adeus, você jaz\ndepois a gente se reúne.",
+        "ordem": 16,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-17",
+        "titulo": "Esforço",
+        "conteudo": "De que vale sentir saudade\nde cada lembrança emotiva\nPorque tudo, cedo ou tarde\nhá de ser só \"retrospectiva\"\n\nAssim essa vida se oferece\npara quem nela se aventura\nE o esforço nunca arrefece\npor ser da ânima da criatura\n\nE de que vale a maturidade\ndos anos pelos calendários\nNuma medida sem unidade\ntempo e espaço imaginários\n\nAssim se oferece para a vida\nimpetuosamente obstinado\nÉ o esforço n'alma atrevida\npelo sentimento encarnado.",
+        "ordem": 17,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-18",
+        "titulo": "Ode ao Silêncio",
+        "conteudo": "Vivemos o tempo que nos é concedido.\nE, nos raros momentos em que somos livres,\nFaçamos com que a nossa exígua existência\nSeja lembrada com alegria!\n\nNada está consumado\nAté que a morte venha!\nAté que a dor nos contenha!\n\nOs olhos permanecem abertos\nAtentos ao que está por vir...\nAtentos para refletir:\nO amor, o trabalho e a vida\n\nNão existem certezas absolutas\nPor isso, deixemos nossas pegadas\nComo sinais da nossa existência\nPara que sejamos sempre lembrados\nPara que alcancemos a eternidade\nEm nosso silêncio eloquente.",
+        "ordem": 18,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-19",
+        "titulo": "Magnólia",
+        "conteudo": "Olha a flor se abrindo\nTanto inspira o respirar\nQuando inebria todo ar\nMagnífica sensação...\n\nOlha a flor e seu aroma\nQue ao redor incensa\nEntra sem pedir licença\nMagnífica expansão...\n\nOlha a flor, razão do ser\nDespetala-se no clima\nDo poema em sua rima\nMagnífica emoção...\n\nOlha a flor como pessoa\nSua aura ambivalente\nDo artista em sua lente\nMagnífica expressão...\n\nOlha a flor em sua tez\nMagnólia que nos traz\nAlva como fosse a paz\nMagnífica solução!",
+        "ordem": 19,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-20",
+        "titulo": "Desconhecido",
+        "conteudo": "Não conheço amor mais puro\ndo que aquele que se abnega\nenfrenta qualquer tormenta\namor que nega temer o futuro\n\nNão conheço amor tão grande\nquanto o de quem se entrega\nque se alimenta e aumenta\né regra que o amor se expande\n\nNão conheço amor mais raro\ndo que a mais preciosa gema\ninventa a luz que arrebenta\nno poema de amor que disparo.",
+        "ordem": 20,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-21",
+        "titulo": "Orquídea",
+        "conteudo": "Esteja em qualquer dimensão\ntempo ou espaço a flutuar\nnuvens ao vento da leveza\ninsustentável de cada ser.\n\nPara além de nós habita\na flor querida e colorida\norquídea rara em sua essência\naflora a vida onde estiver.\n\nA fé que cuida na ausência\neternamente está presente\nsem duvidar a gente sente\no bem e o mal que a todos quer.",
+        "ordem": 21,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-22",
+        "titulo": "Gotas de Ouro",
+        "conteudo": "Entre no universo\nOnde a luz emana\nOndas de desejo e\nOdes de alegria\n\nSe a expansão da ideia\nVai do pincel à pena\nA expressão permeia\nO dom da arte plena\n\nEntre a cor e o verso\nOutra vez encanta\nOuro em gotejo nos\nOdres de sangria\n\nSe a palavra traz o dom\nNa verve da poética\nA pintura exara o tom\nQue verte a estética.",
+        "ordem": 22,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-23",
+        "titulo": "A Gosto",
+        "conteudo": "Da onírica explosão de cores\nNasce a tua obra com arte\nGosto de vinho em leito de flores\nPor cada matiz a tinta arde\n\nQuando a imagem fala\nNa linguagem que a revela\nA pintura então exala\nOs versos que saltam da tela\n\nDa mais lírica das artistas\nA emoção brota intensa\nBem a gosto de nossas vistas\nMais além do que se pensa.",
+        "ordem": 23,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-24",
+        "titulo": "Além do Horizonte",
+        "conteudo": "Uso a minha lira\nComo a ira do mortal\nNo portal nefasto...\nVasto céu que inspira\nPoemas arte-nativos\nVivos nos seus pulsares\nQuasares tão famintos\nDos instintos do artista\n\nOuso a minha vida\nComo a ida adiante\nE radiante me afasto...\nGasto em luz colorida\nEstrelas arte-ficcionais\nSinais de íons solares\nBlazares de luz intensa\nPropensa a brilhar além.",
+        "ordem": 24,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-25",
+        "titulo": "Nem Tudo é Cinza",
+        "conteudo": "Nem tudo que se imagina\nPor fim, em nós termina\nRealidade fictícia\nEm mera hipótese se apoia\nTodo desejo ensina\nQue a felicidade é transitória\nAté o gozo final.\n\nNem tudo que se domina\nDá forças à alma, anima\nO fetiche leal da malícia\nNo mar do desejo à deriva, boia\nDa mente aberta ao que fascina\nForma-se a imagem pictória\nDesenhada nas telas do a-normal.\n\nNem tudo em cinza se finda\nSe a mesma, da brasa é advinda\nO vento se encarrega com perícia\nA espraiar no véu da claraboia\nComo o sangue da raça cambinda\nDo cinza ao vermelho ardor da glória\nQuando reluz na centelha primal.\n\nNem tudo é cinza, ainda\nSe a cor do mar é tão linda\nA existência propícia\nDivagações que a paranoia\nEncerra a vida infinda\nNo pleno prazer da trajetória\nPosto que é tudo plural.\n\nParticipação de Cybelle Souza",
+        "ordem": 25,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-26",
+        "titulo": "Landscape",
+        "conteudo": "Ela é louca, é mulher e linda\nDe um jeito que não vi ainda\nEla ignora que eu seja humano\nDe fato, me torna um ser insano.\n\nEla se prostra sentada na areia\nDiante do oceano como sereia\nEla seduz mais que a paisagem\nDepois, a imagem a fez miragem.",
+        "ordem": 26,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-27",
+        "titulo": "Lúdica",
+        "conteudo": "Toda uma existência\npautada pela vibração\ndo eco das palavras\npor tudo que traduzem\nda métrica até a rima\nquando me atravessa.\n\nToda uma essência\npontuada pela emoção\nda verve mais poética\nque procria cada verso\nnuma lúdica sinfonia\nque agora me escapa.\n\nToda uma eloquência\nprimada pela erudição\nque permeia a estética\ndesse pretenso literato\nem cuja lírica sombria\nquase me atrevo luzir.",
+        "ordem": 27,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-28",
+        "titulo": "Lunática",
+        "conteudo": "O olho da lua\nMe fita minguante\nE no quarto crescente\nEu durmo distante\nTão cheia de luz.\n\n\"Será miragem ou cortina de sonho\npor onde vejo a silhueta da menina\"\n(Alex Freire)",
+        "ordem": 28,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-29",
+        "titulo": "20",
+        "conteudo": "Vinde viver os vícios da vida\nVerde tez do vigor da idade\nVítima só da vitória e do vinho!\nVertigem de virgem pós-puberdade\nViagens ao vivo e aos vinte\nVersos de ventre e liberdade!\n\nTudo que a vida possa oferecer\nSeja o presente mais precioso\nQuando o futuro tão impreciso\nSe passa a cada amanhe(S)er.",
+        "ordem": 29,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-30",
+        "titulo": "Minha Menina",
+        "conteudo": "Minha menina\nTraz suas madeixas para dar-me\nQue flutuam soltas ao vento\nE a sua beleza é tanta\nQue atravessa essa cidade...\n\nMinha menina\nChega a mim com todo charme\nQue há em seu movimento\nE a sua imagem encanta\nQuem vê a flor da mocidade!\n\nMinha menina\nFaz meu coração soar o alarme\nQue anuncia o sentimento\nE a sua poesia canta:\nQuando em mim é só felicidade.",
+        "ordem": 30,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-31",
+        "titulo": "Mensagem de Amor",
+        "conteudo": "Deixa eu te dizer\nFrases bem bonitas\nCoisas nunca ditas\nDeixa eu ser teu bem\n\nQuando for também\nTeu amor sincero\nTudo que mais quero\nNesta vida breve\n\nComo um sonho leve\nQue ousa ser feliz\nApesar da cicatriz\nMeu coração em festa\n\nEmbora tão modesta\nA mensagem se propaga\nE o tempo não apaga\nO que o amor escreve.",
+        "ordem": 31,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-32",
+        "titulo": "À Mãe",
+        "conteudo": "A mãe\na mão que afaga\namor que apaga\ntoda e qualquer agrura\n\nA mãe\na manhã que acende\na mulher que ascende\nplena e linda criatura\n\nA mãe\na máxima ternura\na musa da candura\npaira e sempre perdura.",
+        "ordem": 32,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-33",
+        "titulo": "O Presente de Pai",
+        "conteudo": "Do meu pai\nTrago o legado:\nOrgulho e austeridade\nO exemplo assimilado\nDe coragem transparente\n\nEm meu pai\nPrezo o obstinado\nFoco na adversidade\nO limite ultrapassado\nPela força em sua mente\n\nAo meu pai\nMuito obrigado\nPela sua autoridade\nTer me proporcionado\nUma oportunidade diferente\n\nPor meu pai\nMesmo que afastado\nAssumo essa afinidade\nQue tem me acompanhado\nDesse passado ao meu presente.",
+        "ordem": 33,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-34",
+        "titulo": "O Tempo e o Vento",
+        "conteudo": "Eu acho que acredito\nnas coisas que tenho visto\nalém dos limites do tato\nEu acho que até aceito\nmesmo sem estar por perto\namar a quem me e(n)leva\n\nAssim, em tempo, me atreva\na cada hora aflita\nque a linha do vento escreva\nEnquanto se acredita\npersigo a sombra na treva...\n\nEu sinto que é bonito\nna estética em que invisto\ncom meu poema barato\nEu sinto aqui no peito\nainda por ser tão incerto\no amor como vento que leva\n\nAssim como a têmpera do aço\nforjado em fogo e gelo\nno ardor do beijo e do abraço\nNosso amor necessita sê-lo\napesar da dor e do cansaço...",
+        "ordem": 34,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-35",
+        "titulo": "Uma Simples História de Amor",
+        "conteudo": "Eu sempre sonhei em fazer\nUm poema simples e bonito\nMas, hoje que estou com você\nQuase nem acredito...\n\nQue o sonho real possa ser\nVivido entre eu e você\nE tudo que importa é querer\nQue o amor possa acontecer\n\nAlém do prazer que embriaga\nDe toda a paixão ilusória\nEu sei que o tempo não apaga\nO que a gente viver dessa história.",
+        "ordem": 35,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-36",
+        "titulo": "A Mulher Deitada no Sofá",
+        "conteudo": "Da sua íntima saga ferina\nFez-se a comédia e o drama\nSete vidas atrás da cortina\nMil anseios nesse sofá-cama\n\nNoutra tarde que termina\nPela ribalta dos sonhos da dama\nAo bel-prazer da astúcia felina\nQue observa o apagar da chama\n\nA cena permanece presa à retina\nE se repete como num programa\nO dia a dia é o que nos alucina...\n\nE a mulher deitada não reclama\nResignada em ser o que imagina\nA vida segue e o gato ri da trama.",
+        "ordem": 36,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-37",
+        "titulo": "Bacurau",
+        "conteudo": "Para toda fome há\nO alimento...\nSaciar é só o trivial\nMas, quando o sabor\nÉ o intento\nSaber apreciar é crucial\n\nPara quem vive a noite\nDa cidade...\nToda iguaria pode ser igual\nMas, quando o paladar\nÉ prioridade\nA diferença está no Bacurau!",
+        "ordem": 37,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-38",
+        "titulo": "Retórica do Novo Ano",
+        "conteudo": "Cada um com a sua fé\nE a vida segue em frente\nO futuro, dizem, sempre é\nResultado do teu presente\n\nDeixa pra trás todo rancor\n\"Águas passadas não movem moinho\"\nAbre o coração para o amor\n\"É impossível ser feliz sozinho\"\n\nAgora receba o ano novo\nDespido de qualquer preconceito\n\"Intrigante e inteiro como o ovo\"\nE sem ilusão de mundo perfeito.",
+        "ordem": 38,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-39",
+        "titulo": "A Musa Jazz em Blues",
+        "conteudo": "Morre em mim resignada\nA fé que nunca fora viva\nEnquanto a aura obstinada\nDa desventura se mantém altiva\n\nE assim se esvai, dias a fio\nQualquer torpor que não resgata\nResta o escárnio em que confio\nPara escapar da dor que me acata\n\nAmar-te à morte há que ser\nCom o lamento triste do abandono\nPor toda trilha sem te esquecer\n\nA musa, de quem nunca fui dono\nSó na utopia virtual quis parecer\nNeste soneto jaz em blues teu sono.\n\n(Poema musicado por Allan Sales)",
+        "ordem": 39,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-40",
+        "titulo": "Improviso",
+        "conteudo": "Nunca me atrevi no improviso\nEu preciso ter o verso refletido\nMas, amigo, cuidado, eu lhe aviso\nComigo nada é preestabelecido...\n\nDeixo a arte conduzir o meu caminho\nSe emoção é o motor que me impele\nSinto Deus sempre que estou sozinho\nE a poesia há de brotar de minha pele\n\nCom a força da palavra comovente\nEmbriago de torpor a minha alma\nNão encontro razão mais coerente\nE reúno as minhas mãos, em palma\n\nNasce o poema sem pedir licença\nDe pernambucana-mentes geniais:\nSiba, Queiroga, Lenine e Valença\nEu, de repente, digo algo mais...?",
+        "ordem": 40,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-41",
+        "titulo": "Estrela Cadente",
+        "conteudo": "Eu sou uma estrela cadente\nvagando pela vida\nA iluminar, a iluminar...\n\nMistérios, magias\nVerdades, vontades\nUm pouco de céu\nno azul dessa terra conquistar!\n\nVontade de ser o sol e a lua\nO povo na rua a cantar\nEu sou uma estrela cadente\nvagando pela vida\nA iluminar, a iluminar...\n\nMetade de mim incendeia\nE a outra metade, serei-a\nCom brilho incandescente\nsou a estrela do mar!\nVontade de ser o sol e a lua\nO povo na rua a sonhar.\n\n(Poema musicado por Everson G. de Oliveira)",
+        "ordem": 41,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-42",
+        "titulo": "Pedaços de Vida",
+        "conteudo": "A lama dos lugares\npor onde andei\nO beijo nas bocas das mulheres\nque eu amei\nMe deram a entender que a vida é feita\nao viver\n\nEstrada comprida,\nPedaços de vida...\nPelos anos algo a desejar!\n\nOs pés descalços\npelo caminho\nE os passos errantes na deriva\nsempre sozinho\nMe fazem perceber que a vida é feita\nao viver...\n\nEstrada comprida,\nPedaços de vida\nPelos anos algo a desejar!\n\n(Poema musicado por Everson G. de Oliveira)",
+        "ordem": 42,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-43",
+        "titulo": "Estação",
+        "conteudo": "Que tal um gole de café\nÀ noite na estação\nQue tal um drink e coisa e tal\nNada mal...\n\nQue tal um gole de café\nÀ noite na estação\nQue tal sentar e conversar\nSem preocupação\n\nO ontem vai passando\nE o trem já vem chegando\nPra me levar pra longe\nDistante dos meus sonhos\n\n(Poema musicado por Everson G. de Oliveira)",
+        "ordem": 43,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-44",
+        "titulo": "Maikekai",
+        "conteudo": "Salve o guerreiro dos mares\nAltivo Maikekai, ouro de mina\nSob os coqueirais seculares\nQue à brisa da praia declina.\n\nSalve o ancestral do Hawaii\nEm cada onda que avança\nA aventura de surfar por aí\nNa emoção que se alcança.\n\nSalve o herdeiro da praia\nQue sobre a procela equilibra\nA prancha a singrar na raia\nE os pés a bailar em fibra.",
+        "ordem": 44,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-45",
+        "titulo": "Nosso Poema",
+        "conteudo": "Quando nosso poema sai\nEm trova, na voz se solta\nComo um pássaro que vai\nE prova de nós sem volta!\n\nEm versos ecoa e amplifica\nUm voraz desejo de escapar\nMas, se é da alma, nela fica\nAquilo que teima em estar!\n\nEmbora sujeito ao seu algoz\nDe cada dia em seu cadafalso\nQue ousa ceifar a nossa voz\nPelo prazer em \"pra ser\" falso\n\nNosso poema é tão impreciso\nSe assim é que se pode dizer\nA sua essência de que preciso\nNão fosse muito mais pra ser.",
+        "ordem": 45,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-46",
+        "titulo": "Blackbird",
+        "conteudo": "A couple years ago,\nI heard the song of mournful harmony\n\"Blackbird singing in the dead of night\"\nThen my heart floated on its wings\n\nA couple years ago,\nI was still a man with hope,\nLike a Blackbird in the dark night of my life\nThen my dreams traveled on my short wings\n\nIn the coming years,\nI want to see the new change happen,\nLike the blackbird sang to the poet\nSo loose on the wings of my hallucination.\n\nParticipação de Betânia Azevedo",
+        "ordem": 46,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-47",
+        "titulo": "Rebeldia",
+        "conteudo": "São de mim todas as dores\nMas, vou viver o que me resta!\nSendo assim, sem os pudores:\nPodres conceitos do que presta.\n\nSe sob os ardis da hipocrisia\nArde a velha chama sem calor,\nSobre armas sutis da Rebeldia\nSurge a nova trama a se opor.\n\nSão de mim poucas ideias\nMas, nada é novo ou diferente.\nSempre ruim, ante as \"plateias\"\nPode ser um surto, de repente.",
+        "ordem": 47,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-48",
+        "titulo": "Retórica do Golpe",
+        "conteudo": "Quisera ver a treva\nDa farsa instituída\nQue pela mídia é omitida\nÀ luz se dar!\n\nQuem dera a trama\nSórdida e bandida\nÀ classe média iludida\nVenha elucidar!\n\nCasta pútrida\nTão iníqua em seu bojo\nRaça fétida\nTão promíscua que dá nojo!\n\nEsses senhores, \"Vossas Excelências\"\nPorcos venais e arrivistas\nDeputados, senadores, excrescências\nNada mais que ratos golpistas!",
+        "ordem": 48,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-49",
+        "titulo": "Cabeças de Vento",
+        "conteudo": "Quanto de azul\npode se ver melhor?\nQuando o azul\npode ser vermelho...\n\nNesse tempo sombrio\nde mentalidade tacanha,\nCarece de honra e brio\ntoda intenção \"estranha\".\n\nNessa onda de fúria\ndecifre o sinal do evento\nPara abolir ideia espúria\ne arejar cabeça de vento!\n\nNesse cenário fascista\nde farsa e de fantasia,\nO ardil mais oportunista\npautado na hipocrisia.\n\n\"Quanto de sol é preciso\npara clarear suas ideias?\nSe no meio do temporal\nInsiste em óculos escuros.\"",
+        "ordem": 49,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-50",
+        "titulo": "Panelaço",
+        "conteudo": "(marchinha de carnaval)\n\nVamos fazer zoada\nCaçarola e frigideira\nQue a elite brasileira\nAcordou indignada\nPanelas de puro inox!\nPeruas finas de botox! (Bis)\n\nPanelaço! aço! aço!\nFaz barulho infernal\nE a cara de palhaço\nPra valer o carnaval\n\nVamos bater panela\nGritar, xingar e vaiar\nTudo pra desabafar\nNossa fúria amarela\nCadeia pro barbudo!\nPra gente pode tudo! (Bis)",
+        "ordem": 50,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-51",
+        "titulo": "O Soneto Americano",
+        "conteudo": "Eis os ianques com seus tanques na praça\nA impor na mídia a sua doutrina servil\nDeus salve a América da homérica farsa\nContaminando a mente da sociedade civil\n\nA propaganda tão própria gana do domínio\nQue se alastra e usurpa a frágil identidade\nDos que consomem e somem sob o fascínio\nOh! Pátria amada e idolatrada Salve! Salve!\n\nLatinoamérica livre é o \"calibre\" da tua fé\nDeitado estranhamente em leito atlântico\nDespertai desse sono aos goles de café!\n\nO sonho sul-americano justo e romântico\nDe romper grilhões que aprisionam o pé\nLibertar a voz do povo a entoar o cântico.",
+        "ordem": 51,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-52",
+        "titulo": "Máquina",
+        "conteudo": "Máquina que machuca\nMáquina que mastiga\nMáquina que é maluca\nMáquina que mal diga\n\nA máquina mais bruta\nQue interfere abrupta\nA máquina é corrupta\nEssa filha de uma puta!\n\nMáquina que é fera\nQue impõe e vocifera\nA máquina é severa!\n\nMáquina do mal\nMovida ao vil metal\nA máquina é letal!\n\nA máquina midiática\nQue por lucro assina\nE segue pragmática...\n\nA máquina perversa\nPor natureza e sina\nE o resto é conversa...\n\nA máquina sinistra\nSem respeito ao artista\nFaz tudo pela audiência.\n\nA máquina em cena\nCom sua arte obscena\nFindou a minha paciência.",
+        "ordem": 52,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 125
+          },
+          {
+            "estrofeIndex": 6,
+            "segundos": 150
+          },
+          {
+            "estrofeIndex": 7,
+            "segundos": 175
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-53",
+        "titulo": "Mar de Gente",
+        "conteudo": "Porque nenhuma\nForça bruta\nE nenhum golpista\nFilho da puta\nVai calar a voz do povo!\n\nQuando se tenta\nImpor a censura\nE a antiga mordaça\nDa ditadura,\nÉ hora de lutar de novo!\n\nVermelha como sangue,\na mancha rubra se expande\npelo coração da avenida!\nQue pulsa nesse mar de gente atrevida.\n\nE do torpor da adrenalina\nbrota uma arte genuína\nde poesia em rima e métrica,\nPor \"las venas abiertas de Latinoamérica\".",
+        "ordem": 53,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-54",
+        "titulo": "Suprema Corte",
+        "conteudo": "E cada qual com a sua crença\nSegue em seu pressuposto rumo\nAlguns infectados pela doença\nQue faz de nós itens de consumo\n\nSe a arrogância rege a decisão\nPor se julgar ser alguém superior\nExecra-se todo o dogma cristão\nPrevalecendo a ambição interior\n\nEntão, qual valor tem peso justo?\nSe a balança pende sob a venda\nCobra-se justiça a qualquer custo\nE a suprema corte está à venda\n\nMas, a vida sempre nos ensina\nQuando a injustiça quase abate\nNão existe mal que não termina\nNem justo que fuja ao combate.",
+        "ordem": 54,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-55",
+        "titulo": "Panfletário",
+        "conteudo": "Passional ou platônico,\nsempre esteve comigo,\nno coração que é a razão\ndo SER de um poeta...\n\nEm contradição,\neste sentimento incendiário\nvaza em profusão\ncada argumento panfletário...\n\nRacional ou irônico,\nquase como um castigo,\npela emoção que habita\no SER deste poeta...\n\nEm consternação,\npelo sofrimento solitário,\ncomo sua propensão\npara o movimento libertário.\n\nMarginal ou lacônico,\ndo que revela o perigo,\nquando a paixão traduz\no SER do seu poeta...\n\nEm compensação,\nsou do segmento proletário\nfoz da propagação\ndeste testamento ideário.",
+        "ordem": 55,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 125
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-56",
+        "titulo": "Soneto do Carisma",
+        "conteudo": "E hoje eu só vos ofereço\no meu trocadilho infame:\nPelo fim, meio ou começo\nque o soneto se declame\n\nAlheio a qualquer sofisma\nnum prisma da ideia vaga\nDivaga, sob meu carisma\ne abisma onde naufraga!\n\nDa palavra provém a rima\nacima da razão epistêmica\nassim a ser matéria-prima.\n\nSua etimologia é polêmica\nendêmica paixão aproxima\ne ultima a inércia sistêmica.",
+        "ordem": 56,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-57",
+        "titulo": "Para (o) Bem!",
+        "conteudo": "Mas, que graça tem?\nolhar o mar que é tão gigante\nQuando a onda vem\nbrava a brigar e ser espuma!\n\nEu aqui sem ninguém\nolhar preso no tempo distante\nFingindo ser alguém\nsem ter identidade alguma.\n\nPara mim, todo o bem!\nque mal cabe no peito errante\nMeu coração bate além\naté que a morte o consuma.",
+        "ordem": 57,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-58",
+        "titulo": "Hipótese Nula",
+        "conteudo": "Sobre o imponderável\nQue assim se intitula\nAinda que improvável\nQuando alguém simula\n\nPaira o fato admirável\nO desafio que estimula\nCom propensão notável\n\nMas, sempre se postula\nPor se acreditar viável\nComo uma hipótese nula.",
+        "ordem": 58,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-59",
+        "titulo": "Matéria Prima",
+        "conteudo": "Tudo que me escorre dos dedos\nE que vem à tona quando escrevo\nRompe a barreira de todos medos\nE mostra a poesia a que me atrevo\n\nComo matéria que pela alma prima\nOu qualquer motivo que emociona\nAo tecer novo poema que exprima\nO prazer que o verso proporciona\n\nSó sem pressa a arte se expressa\nE o poeta sabe bem o que lhe cabe\nPra parir palavras do que interessa\nSer eterno até que o tempo acabe.",
+        "ordem": 59,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-60",
+        "titulo": "Maresia",
+        "conteudo": "É do mar a calmaria\nQue ali via da varanda\nSob a brisa que acaricia\nQuando a vida nos demanda\n\nA ciranda do vento assovia\nSua solene ária natural\nQue ecoa pelos cantos da via\nPor onde anda o ser plural?!\n\nÉ do mar a maresia\nQue corrói a armadura\nDa ferrugem surge poesia\nComo antídoto para amargura\n\nA aventura de saber o dia\nSua natureza inusitada\nQue me ensina a rebeldia\nDe viver com alma embriagada.",
+        "ordem": 60,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-61",
+        "titulo": "Dúvidas Recíprocas",
+        "conteudo": "Se qualquer alguém\nDesconfiar de tanta afinidade\nAlma, entranha e superação\nSaiba que há reciprocidade\nAté mesmo em solidão.\n\nDúvida mútua vai e vem\nQuando o espelho fica mudo!\nDúvida paira para quem\nQuer achar razão pra tudo!\n\nSe quiser também\nDesvendar toda serenidade\nApós estranha separação\nSinta o prazer da liberdade\nAntes de ver a solução.\n\nDúvida paira para quem\nQuer achar razão pra tudo!\nDúvida mútua vai e vem\nQuando o espelho fica mudo!",
+        "ordem": 61,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-62",
+        "titulo": "Ednardo",
+        "conteudo": "É danado, é divino, é sagrado...\nO poema encarnado na canção!\nO azul ensolarado da emoção!\nÉ florado, é delírio encantado...\n\nUm poeta além da mídia...\nNata do lixo, luxo maravilhoso!\nUm cantor além da média!\nAve! pássaro, pavão misterioso!\n\nO ímã da manhã que nos clareia\nNo labirinto, como um sol imaginado...\nA luz do vagalume que incendeia\nOnde a ponta da faca tem se afiado...\n\nE eu tenho a mão que aperreia\nPois, o meu mote não muda:\nA moda não muda nada!\n\nÉ a beleza da fala brasileira\nTão linda, tão mista e tão pura\nVarando cancelas na estrada!\nÉ ouro e pó — é ouro em pó que reluz\nPelo coração do Brasil!\n\nÉ claro que a canção tá com a razão\n(se é fogo ou vereda escura...)\nFluindo, o sonho, a sina e o som\nTonto de espanto, amor e cauim\nPelas terras de acordar!\n\nEssa legião, faminta de amor e pão\n(o pão na boca é o que te cura...)\nPelo radar do mote e do tom\nNossa persona, selva e capim\nInfinitamente cantar!\nAmem, Amém \"Ednardo\".",
+        "ordem": 62,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 125
+          },
+          {
+            "estrofeIndex": 6,
+            "segundos": 150
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-63",
+        "titulo": "Confraternização",
+        "conteudo": "O tudo com nada se completa\nNa dialética noção epistêmica\nQuando o suposto \"poeta\"\nDilacera a razão acadêmica!\n\nNenhuma engenharia nos basta\nNem a elétrica de estética vulgar\nQuem sabe de si, não se afasta...\nTanto suor e tão pouco pra gozar.\n\nSó o tempo, senhor dos destinos\nFaz entender pelos seus sinais\nQue antigos sonhos de meninos\nHoje são os nossos amigos reais.\n\n\"O homem é a semente\nDe onde brota o invento\nEngenho e arte da mente\nCriando a cada momento\nO projeto futuro\"",
+        "ordem": 63,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-64",
+        "titulo": "Seria Online?",
+        "conteudo": "O milagre era liberdade\nque requer sair da aldeia\npor estar presa às raízes\nque interligam toda a teia\ndas \"creaturas\" infelizes\n\nMensagem criptografada\nnaquele \"bit\" que trafega\npela espúria via em viés\ncada sinal que escorrega\ntão digital como seus pés\n\nPor tal mania, acostuma\ne se embriaga pelo vício\nda identidade nada resta\nsujeito ao jugo e artifício\ndo que ninguém contesta\n\nEm tão escasso intelecto\npode semente germinar?\nSeria online a nova era,\nou quando tudo terminar\nque sopre vida onde era.",
+        "ordem": 64,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-65",
+        "titulo": "Objeto Não Identificado",
+        "conteudo": "\"Como de um objeto não identificado\ndescia sobre mim aquele feixe de luz,\noutra via-láctea, escada de prata\ne eu, o rei da emoção barata, subia...\" (Belchior)\n\nVocê é o objeto não identificado\nQue pairou na minha frente\nE deu rumo diferente\nÀs minhas aspirações\n\nComo um cometa fulgurante\nQue ilumina minha vida\nVocê é a mulher e a luz\nA flor do jardim e a estrela\nA poesia verdadeira\nQue emana de dentro de mim\n\nVocê é a bandeira\nDe todos meus ideais\nVocê é a alegria\nDe todos meus carnavais\nVocê é tudo o que eu quero\nO resto ficou para trás\n\nVocê é a plena ciência\nDo que eu espero da vida\nMeu axioma de certeza resoluta\nMeu postulado de verdade absoluta\nMinha luta e minha conquista\nMinha criatura bonita\n\nVocê é meu enigma\nMeu sigma, meu alfa, meu beta\nE a sentença completa: \"Eu amo você\".",
+        "ordem": 65,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          },
+          {
+            "estrofeIndex": 5,
+            "segundos": 125
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-66",
+        "titulo": "Coração em Festa",
+        "conteudo": "Dela vem o charme\nAntes do falar...\nNa suave idade\nFaz trazer à tona\nO bom do sertanejo\n\nDela vem a chama\nAnte o meu olhar\nNa sensualidade\nBrasa que detona\nA bomba do desejo!\n\nAssim o universo\nConspira em segredo\nE quando não se espera\nAbre-se um largo riso\nNo coração onde festejo\n\nDela vem a chave\nO ser que me decifra\nCom toda sinceridade\nPrazer que me aprisiona\nEm todo canto que a vejo!\n\nDela vem a chance\nO sim que me desarma\nSaber da felicidade\nDe quem se apaixona\nE me entregar num beijo.",
+        "ordem": 66,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-67",
+        "titulo": "Saudade Virtual",
+        "conteudo": "Eu lamento essa distância\nQue nos impede o contato\nCada palavra trocada aqui\nAumenta o desejo de estar\ncontigo.\n\nEu entendo essa ânsia\nQue nos revela um fato\nA saudade do que não vivi\nConfirma a força do afeto\nantigo.\n\nÉ a virtual substância\nQue exala de teu retrato\nNoutra dimensão \"Déjà vu\"\nEncerra a visão de você\ncomigo.",
+        "ordem": 67,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-68",
+        "titulo": "La Ilusión del Amor",
+        "conteudo": "Es del amor que nace la locura\nDe querer otra persona\nTanto, tanto, tanto\nTanto que no tiene cura.\n\nArde la pasión como llama\nSe niega todo que es cierto\nCuando se quiere estar cerca\nDel afecto de quien se ama.\n\nTodo amor es eterno\nMientras dura la ilusión\nDespués, la visión del infierno\nEs lo que resta de la relación.\n\nAmor vive en meras palabras\nEfímeras hojas al viento\nAl fin sólo tristeza y sufrimiento\nNos cortan como navajas.\n\nEs de ese dolor que muere la ilusión\nDe creer en un final feliz\nY así es que se aprende la lección\nTodo el amor deja su cicatriz.",
+        "ordem": 68,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-69",
+        "titulo": "Colombiana",
+        "conteudo": "¿Quiere que su vuelta,\nponer mi cabeza\nFeliz se duermen en ella...\nQuiero que sus largos\nmechones\npero nunca me dejes\nsentir su fragancia...\n\nY tan vivo en su afán\npara superar esta distancia\ny así llegar a este Colombia!\nSalga del sueño virtual\nllegar a mi último punto:\npor lo que el mar estaba\ndentro de mí.\n\nQuero o teu colo,\ncolocar minha cabeça\nque nele adormeça feliz...\nQuero tuas longas madeixas\nmas, nunca me deixas\nsentir tua fragrância...\n\nE assim vivo na ânsia\nde vencer essa distância\npra chegar nessa Colômbia!\nSair do sonho virtual,\nchegar ao meu ponto final:\naté onde o Mar-ia dentro de mim.\n\nParticipação de Maria Janeth Perez Montaño",
+        "ordem": 69,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-70",
+        "titulo": "Marca Dúbia",
+        "conteudo": "Marca dúbia de mulher-linda-fêmea\nA Vênus luminosa que à distância avisto\nEm flashes de beleza — alma gêmea\nO sonho em que agora confiante invisto\n\nEssa paixão primal, além da realidade\nÉ o virtual desejo de felicidade\nQue não reconhece a distância\nPois, nasce, cresce e reproduz a ânsia\nDe amar com toda a intensidade!\n\nEssa ilusão real de pura ambiguidade\nÉ o misto de amor e de amizade\nAlgo em você namora comigo\nE algo em mim quer ser mais que amigo\nAlmas gêmeas em signo e vontade!\n\nEssa versão traduzida em intimidade\nÉ o bálsamo que alivia a saudade\nPois palavras tocam além da pele\nPara extrair a luz que a alma expele\nNum poema simples e eivado de verdade!",
+        "ordem": 70,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-71",
+        "titulo": "Ilusão",
+        "conteudo": "Você é que desperta\nLivres versos\nDispersos\nEm mim...\n\nCom a sua alegria\nQuase em festa\nManifesta\nCarpe diem!\n\nNão troque eu\nPalavras sem nexo\nNem seja complexo\nPara se decifrar.\n\nNão toque eu\nnum corpo elegante\nCom a alma distante\nPara o adorar.\n\nQue fique em si\nNa sua lembrança\nComo uma herança\nDe tal ilusão.",
+        "ordem": 71,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          },
+          {
+            "estrofeIndex": 4,
+            "segundos": 100
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-72",
+        "titulo": "A Musa que Invento",
+        "conteudo": "Todas as canções\ne os inumeráveis poemas\nservem para quem os usa,\ncom afeto e carinho.\n\nNos dias de sol\nou nas noites de chuva,\nem qualquer estação,\nna aventura do momento.\n\nTodas as paixões\ndesde as leves às extremas\nseguem em volta da musa,\nno trajeto do caminho.\n\nA sua luz no arrebol,\né imagem que cai como luva,\nao descrever a atração,\npela criatura que invento.",
+        "ordem": 72,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          },
+          {
+            "estrofeIndex": 3,
+            "segundos": 75
+          }
+        ]
+      },
+      {
+        "id": "a-mulher-deitada-no-sofa-e-outras-cenas-poema-73",
+        "titulo": "Sarcasmo",
+        "conteudo": "A gente se ama, se declara,\ne mais nada...\nE o tempo passa nessa roda\nque emperra!\n\nComo se o amor fosse só\numa frase rimada...\nUma intenção ou desejo\nque em si encerra!\n\nA fiel solidão que traduz\no final da jornada.",
+        "ordem": 73,
+        "publicadoEm": "2017-11-15",
+        "obraId": "obra-a-mulher-deitada-no-sofa-e-outras-cenas",
+        "timestamps": [
+          {
+            "estrofeIndex": 0,
+            "segundos": 0
+          },
+          {
+            "estrofeIndex": 1,
+            "segundos": 25
+          },
+          {
+            "estrofeIndex": 2,
+            "segundos": 50
+          }
+        ]
+      }
+    ],
+    "faixas": []
+  },
+  {
     "id": "obra-7-asas-para-a-liberdade",
     "titulo": "7 Asas para a Liberdade",
     "slug": "7-asas-para-a-liberdade",
