@@ -2,10 +2,11 @@
   "titulo": "Promíscuos",
   "sentimento": "Veredas",
   "descricao": "Livro de Poemas da Alcova (2019). O erotismo visceral e a luxúria dos amantes em quatro atos entre quatro paredes, guiados pela pena despojada e obscena do poeta.",
-  "capaUrl": "/capas/promiscuos/capaUrl.jpg",
+  "capaUrl": "/capas/promiscuos/capaUrl.jpeg",
+  "ebookCapaUrl": "/capas/promiscuos/ebookCapaUrl.jpg",
   "preco": 0,
   "estoqueFisico": 15,
-  "linkVendaFisica": "",
+  "ebookUrl": "/ebooks/promiscuos.pdf",
   "createdAt": "2019-03-20",
   "poemas": [
     {
@@ -161,8 +162,5 @@
       ]
     }
   ],
-  "faixas": [],
-  "audioCapaUrl": null,
-  "ebookCapaUrl": "/capas/promiscuos/capaUrl.jpg",
-  "ebookUrl": "/ebooks/promiscuos.pdf"
+  "faixas": []
 }
