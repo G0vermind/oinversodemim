@@ -31,6 +31,9 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
   );
 
   const isCurrentPlaying = isCurrentTrack && isPlaying;
+  const anoLancamento = obra.createdAt
+    ? new Date(obra.createdAt).getUTCFullYear()
+    : null;
 
   const handleTogglePlay = (e: React.MouseEvent) => {
     e.preventDefault();
@@ -121,12 +124,20 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
           </div>
         </div>
 
-        {/* Título, Sentimento e Breve Descrição */}
+        {/* Título, Sentimento, Ano de Lançamento e Breve Descrição */}
         <div className="space-y-1.5 mb-5 flex-1 flex flex-col justify-center">
-          {obra.sentimento && (
-            <span className="text-[10px] font-serif uppercase tracking-[0.25em] text-destaque font-medium">
-              {obra.sentimento}
-            </span>
+          {(obra.sentimento || anoLancamento) && (
+            <div className="flex items-center justify-center gap-1.5 text-[10px] font-serif uppercase tracking-[0.22em] text-destaque font-medium">
+              {obra.sentimento && <span>{obra.sentimento}</span>}
+              {obra.sentimento && anoLancamento && (
+                <span className="text-destaque/50" aria-hidden="true">
+                  •
+                </span>
+              )}
+              {anoLancamento && (
+                <span className="text-destaque-texto">{anoLancamento}</span>
+              )}
+            </div>
           )}
           <h3 className="font-serif text-lg sm:text-xl font-medium tracking-[0.08em] text-texto uppercase group-hover:text-destaque transition-colors">
             {obra.titulo}
@@ -243,10 +254,20 @@ export function ObraCard({ obra, variant = "grid" }: ObraCardProps) {
 
       <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between gap-6">
         <div className="space-y-3">
-          {obra.sentimento && (
-            <span className="font-serif text-xs text-destaque uppercase tracking-[0.2em]">
-              Sentimento: {obra.sentimento}
-            </span>
+          {(obra.sentimento || anoLancamento) && (
+            <div className="flex flex-wrap items-center gap-2 font-serif text-xs text-destaque uppercase tracking-[0.2em]">
+              {obra.sentimento && <span>Sentimento: {obra.sentimento}</span>}
+              {obra.sentimento && anoLancamento && (
+                <span className="text-destaque/50" aria-hidden="true">
+                  •
+                </span>
+              )}
+              {anoLancamento && (
+                <span className="text-destaque-texto">
+                  Ano de Lançamento: {anoLancamento}
+                </span>
+              )}
+            </div>
           )}
 
           <h3 className="font-serif text-2xl sm:text-3xl font-medium text-texto group-hover:text-destaque transition-colors">

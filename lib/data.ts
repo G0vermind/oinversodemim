@@ -160,7 +160,7 @@ export function getAlbunsMusicais(obrasParam?: Obra[]): AlbumMusical[] {
       capaUrl: obra.capaUrl || "/art/compass.jpg",
       audioCapaUrl: obra.audioCapaUrl || obra.capaUrl || "/art/compass.jpg",
       sentimento: obra.sentimento || "Existência",
-      ano: new Date(obra.createdAt).getFullYear() || 2026,
+      ano: new Date(obra.createdAt).getUTCFullYear() || 2026,
       totalFaixas: faixasAlbum.length,
       duracaoTotal,
       faixas: faixasAlbum,
